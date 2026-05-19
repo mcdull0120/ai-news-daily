@@ -231,11 +231,13 @@ python3 -m http.server 3000 --bind 0.0.0.0 --directory public
 ```
 手机访问：`http://<电脑局域网IP>:3000/daily-brief.html` 或 `/deep-dive-news.html`
 
-### 8.3 公网预览（Vercel）
-- 轻度版：https://public-gcdfdoxjj-mcdull0120s-projects.vercel.app/daily-brief.html
-- 深度版：https://public-gcdfdoxjj-mcdull0120s-projects.vercel.app/deep-dive-news.html
-- 测评页：https://public-gcdfdoxjj-mcdull0120s-projects.vercel.app/assessment.html
-- 更新命令：`cd public && vercel --prod`
+### 8.3 公网预览（GitHub Pages）
+- 轻度版：https://mcdull0120.github.io/ai-news-daily/public/daily-brief.html
+- 深度版：https://mcdull0120.github.io/ai-news-daily/public/deep-dive-news.html
+- 测评页：https://mcdull0120.github.io/ai-news-daily/public/assessment.html
+- 更新方式：本地修改后 `git push origin main`，GitHub Pages 自动更新
+
+> 注：Vercel 部署已废弃（国内访问不稳定）
 
 ---
 

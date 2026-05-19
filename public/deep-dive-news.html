@@ -117,7 +117,6 @@
     .pc-close-btn { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; color: #B8A99A; font-weight: 500; cursor: pointer; padding: 6px 14px; border-radius: 20px; background: #F5F0E8; transition: all .2s; }
     .pc-close-btn:hover { color: #7A7168; background: #EDE8E0; }
 
-    /* ===== 底部 ===== */
     /* ===== 知识深潜 ===== */
     .knowledge-content { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 2px 12px rgba(61,53,48,0.06); border: 1px solid rgba(0,0,0,0.04); }
     .knowledge-intro { font-size: 14px; color: #4A423A; line-height: 1.8; margin-bottom: 20px; }
@@ -183,11 +182,11 @@
       <div class="hero-meta">
         <span class="hero-badge">深度版</span>
       </div>
-      <h1 class="hero-title">Claude 的企业时代</h1>
-      <p class="hero-theme">第 4 期 · 预计阅读 15 分钟</p>
+      <h1 class="hero-title">把需求说清楚<br>AI 才能一次做对</h1>
+      <p class="hero-theme">第 1 期 · 预计阅读 15 分钟</p>
     </header>
 
-    <!-- 01 AI 大事件 -->
+    <!-- 01 AI 观潮 -->
     <section class="collage-section">
       <div class="collage-header" style="border-left-color: #A8B5A0; color: #A8B5A0;">
         <div class="collage-title-line">
@@ -201,57 +200,55 @@
         <!-- 卡片 1：重磅 -->
         <div class="pc-item" onclick="toggleItem(this)">
           <div class="pc-bar">
-            <div class="pc-bar-meta"><span class="pc-bar-tag major">重磅</span><span class="pc-bar-source">🇺🇸 行业综述</span></div>
-            <div class="pc-bar-title">Claude 企业落地一周年：从普华永道到摩根士丹利，谁在真正规模化？</div>
+            <div class="pc-bar-meta"><span class="pc-bar-tag major">重磅</span><span class="pc-bar-source">海外站点</span></div>
+            <div class="pc-bar-title">我真的要吹爆HTML！2分钟生成可交付的项目计划页，效率提升近20倍</div>
             <div class="pc-bar-action">点击展开</div>
           </div>
           <div class="pc-content">
             <div class="pc-inner">
-              <div class="pc-source"><span>2026.05.15</span><span>·</span><span>综合整理</span></div>
-              <div class="pc-abstract"><p>普华永道全球部署 Claude 引发广泛关注，但这只是 Claude 企业化浪潮的冰山一角。过去 12 个月里，从金融服务到法律咨询，从医疗机构到制造企业，Claude 正在以不同的深度嵌入各个行业的核心工作流。本文梳理了 Claude 企业落地的真实进展，以及不同行业的采纳差异。</p></div>
-              <div class="pc-bg"><h4>🔍 背景补充</h4><p><strong>金融行业怎么用的？</strong>摩根士丹利把 Claude 嵌进了财富管理顾问的工作台，不是替代顾问，而是帮顾问在 30 秒内生成客户画像和市场分析。巴克莱银行则用 Claude 处理合规报告，把原本需要 3 天的初稿压缩到 2 小时。</p><p><strong>法律行业跟进了吗？</strong>跟进了，但节奏慢很多。美迈斯律师事务所（O'Melveny & Myers）试点用 Claude 做合同审查，发现 AI 能找出 90% 的常规风险点，但复杂条款还是需要资深律师把关。法律行业的特点是：容错率极低，所以采纳最谨慎。</p><p><strong>制造业有案例吗？</strong>有，但不像金融那么" glamorous "。西门子工厂用 Claude 处理设备维护日志，把故障预测准确率提升了 15%。这类应用很少上新闻，但 ROI（投资回报）往往最实在。</p></div>
-              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>"落地"不等于"好用"。</strong>很多公司买了 Claude 的账号，但只是让员工"试试看"。真正产生 70% 效率提升的，是那些把 AI 嵌进工作流、重新设计流程的企业。对咱们个人用户来说，这也是一个信号：会用 AI 工具，和能把 AI 工具融入日常工作，是两回事。</li><li><strong>不同行业的采纳曲线差异巨大。</strong>金融最快（数据多、回报可量化），法律最慢（容错率低、责任重大），制造业最稳（场景明确、ROI 清晰）。如果你在某个特定行业工作，了解本行业的 AI 采纳节奏，能帮你判断"现在学是不是太早/太晚"。</li></ul></div>
-              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读（需翻墙）</span><br><a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank" rel="noopener">Anthropic 官方：普华永道扩大战略合作 →</a></div>
+              <div class="pc-source"><span>2026.05.19</span><span>·</span><span>X：阿易 AI Notes</span></div>
+              <div class="pc-abstract"><p>作者向 Claude Code 丢了一段精确提示词，<strong>2 分钟</strong>就生成了一个功能完整的交互式 HTML 项目计划页面。单文件、无外部依赖，自带暗色主题、时间线、可折叠表格，做完直接发给领导。过去在 Notion 里做这种模板得花 <strong>30-40 分钟</strong>，现在效率直接翻了近 20 倍。</p></div>
+              <div class="pc-bg"><h4>🔍 为什么能做到 2 分钟？</h4><p>核心在于<strong>结构化提示词</strong>。作者不是跟 Claude 说"帮我写个页面"，而是明确指定了视觉风格（暗色主题、圆角、阴影）、内容结构（标题 → 时间线 → 表格 → 备注）、交互细节（表格可折叠、时间线节点悬停显示详情）。提示词越具体，AI 一次交付的质量越高。</p><p><strong>这个页面有什么特别？</strong>它是一个单文件 HTML，不需要服务器、不需要部署，双击就能在浏览器打开，发给任何人都能直接看。对非程序员来说，这是"零门槛交付"的理想形态。</p><p><strong>谁都能复现吗？</strong>坦率的讲，只要你有 Claude Code 或者 Claude 网页版，复制作者的提示词框架、替换里面的业务内容，你也能产出类似的东西。不需要会写代码，但需要会把需求说清楚。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>这展示了"自然语言编程"的真实威力。</strong>不是未来科技，是今天就能用。对非程序员来说，这意味着你可以直接产出可交互、可交付的数字产品，而不只是文字稿或 PPT。你做年度规划、项目复盘、活动方案，都可以用这种方式快速出一份"像样"的页面。</li><li><strong>效率提升 20 倍的背后，是"表达清晰"的价值被 AI 放大了。</strong>以前你表达不清楚，有设计师和程序员帮你"翻译"。现在 AI 成了翻译器，但翻译质量完全取决于你的原文。这会说话、能把需求拆清楚的人，会越来越值钱。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读（海外站点 / 需翻墙）</span><br><a href="https://x.com/AYi_AInotes/status/2056685348156055980" target="_blank" rel="noopener">原文：阿易 AI Notes 的完整案例分享 →</a></div>
               <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
             </div>
           </div>
         </div>
 
-        <!-- 卡片 2：智能体 -->
+        <!-- 卡片 2：突破 -->
         <div class="pc-item" onclick="toggleItem(this)">
           <div class="pc-bar">
-            <div class="pc-bar-meta"><span class="pc-bar-tag agent">智能体</span><span class="pc-bar-source">🇺🇸 技术实践</span></div>
-            <div class="pc-bar-title">MCP 生态实战：3 个插件让 Claude Code 自动查资料、写文档、发邮件</div>
+            <div class="pc-bar-meta"><span class="pc-bar-tag agent">突破</span><span class="pc-bar-source">海外站点</span></div>
+            <div class="pc-bar-title">QoderWork 推出 Design Desk：说句话就能生成可运行的设计项目</div>
             <div class="pc-bar-action">点击展开</div>
           </div>
           <div class="pc-content">
             <div class="pc-inner">
-              <div class="pc-source"><span>2026.05.14</span><span>·</span><span>Claude Code 社区</span></div>
-              <div class="pc-abstract"><p>MCP（Model Context Protocol）最近因为 Claude Code v2.1.142 的更新而被更多人关注。但"协议更新"是一回事，"实际能让 AI 帮你干什么"是另一回事。本文选了 3 个目前最实用的 MCP 插件，手把手演示配置过程和实际效果。</p></div>
-              <div class="pc-bg"><h4>🔍 三个实用插件</h4><p><strong>1. Fetch MCP（自动查资料）</strong><br>作用：让 Claude Code 自动访问网页、抓取内容。比如你对 Claude 说"查一下今天 OpenAI 有什么新闻"，它会自动打开网页、提取关键信息、总结给你。配置只需要在 Claude Code 设置里添加一个 URL。</p><p><strong>2. FileSystem MCP（自动写文档）</strong><br>作用：让 Claude Code 直接读写你电脑上的文件。比如你说"帮我把这个项目的 README 更新一下，加上最新的安装步骤"，Claude 会直接打开文件、修改内容、保存。不需要你复制粘贴。</p><p><strong>3. Slack MCP（自动发消息）</strong><br>作用：让 Claude Code 帮你在 Slack 里发消息、查频道、总结讨论。比如"帮我在 #技术频道 问一下大家对新架构的看法"，Claude 会自动发帖、收集回复、给你一份摘要。</p></div>
-              <div class="pc-bg"><h4>🔧 配置步骤（进阶小白版）</h4><p>1. 确保你的 Claude Code 升级到 v2.1.142 或更高版本。</p><p>2. 在项目根目录创建 <code>.mcp.json</code> 文件，填入插件配置（每个插件的 GitHub 页面都有示例）。</p><p>3. 重启 Claude Code，输入 <code>/mcp</code> 查看已加载的插件列表。</p><p>4. 直接对 Claude 说任务，观察它是否自动调用了插件。</p><p>⚠️ <strong>注意：</strong>MCP 插件会让 Claude Code 有权限访问外部系统，建议先在测试环境尝试，确认安全后再用于工作场景。</p></div>
-              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>MCP 是 Claude Code 的"外挂接口"。</strong>如果说 Claude Code 本身是一个聪明的员工，MCP 就是给这个员工配了电话、电脑、门禁卡——它能触达外部世界了。对进阶小白来说，这是从"用 AI 聊天"到"用 AI 干活"的关键一跃。</li><li><strong>插件生态会滚雪球。</strong>SKILL.md 被识别为技能，意味着开发者写插件的门槛越来越低。未来 6 个月，MCP 插件数量可能会翻几倍。越早了解怎么配置，越早享受到自动化的红利。</li></ul></div>
-              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读</span><br><a href="https://github.com/anthropics/claude-code/releases" target="_blank" rel="noopener">Claude Code GitHub Releases（海外站点） →</a><br><a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener">MCP 官方文档（需翻墙） →</a></div>
+              <div class="pc-source"><span>2026.05.19</span><span>·</span><span>X：阿里云 / Alibaba Cloud</span></div>
+              <div class="pc-abstract"><p>QoderWork 发布 Design Desk，一个<strong>无限画布 AI 工作区</strong>。你用自然语言描述需求，AI 就在画布上直接生成可运行的 React + Vite 项目。设计师可以在上面实时迭代视觉，开发者基于同一套文件交付，双方不用再互相"还原"了。</p></div>
+              <div class="pc-bg"><h4>🔍 无限画布是什么？</h4><p>不是传统的线性文档，而是一个可以无限放大的白板。你把想法丢上去，AI 在对应位置生成对应的组件。你想调整布局？直接拖拽。想改颜色？说句话就行。整个工作区既是设计稿，也是可运行的代码。</p><p><strong>React + Vite 是什么？</strong>简单说就是现代网页开发的主流技术栈。以前需要专业程序员才能搭起来的东西，现在你说句话，AI 直接帮你生成。</p><p><strong>设计师和开发者怎么协作？</strong>过去的流程是：设计师在 Figma 里画图 → 开发者"还原"成代码 → 中间总有偏差 → 来回改。现在 AI 直接生成代码，设计师调视觉就等于在调代码，两边看的是同一个东西。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>这是"设计即开发"的新形态。</strong>对做图、做设计的你来说，这意味着你的视觉能力可以直接转化为可用的产品，不需要懂代码也能做出能跑的东西。你的审美和判断力，突然有了工程层面的落地能力。</li><li><strong>阿里云转发了这个产品，信号很强。</strong>国内大厂正在密集布局"AI + 设计/开发"工具链，未来半年这类产品会井喷。早一步了解这种工作流，你就能在新工具爆发时抢先用起来，而不是等别人都玩熟了才跟上。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读（海外站点）</span><br><a href="https://www.qoderwork.ai" target="_blank" rel="noopener">QoderWork 官网 →</a><br><a href="https://x.com/alibaba_cloud/status/2056581373301788747" target="_blank" rel="noopener">阿里云转发推文 →</a></div>
               <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
             </div>
           </div>
         </div>
 
-        <!-- 卡片 3：职业 -->
+        <!-- 卡片 3：趣味 -->
         <div class="pc-item" onclick="toggleItem(this)">
           <div class="pc-bar">
-            <div class="pc-bar-meta"><span class="pc-bar-tag career">职业</span><span class="pc-bar-source">💬 行业观察</span></div>
-            <div class="pc-bar-title">AI 时代的新职业图谱：提示词工程师、AI 训练师、智能体架构师都在干什么？</div>
+            <div class="pc-bar-meta"><span class="pc-bar-tag career">趣味</span><span class="pc-bar-source">海外站点</span></div>
+            <div class="pc-bar-title">微软 AI CEO 放话：18 个月内，AI 自动化所有白领工作</div>
             <div class="pc-bar-action">点击展开</div>
           </div>
           <div class="pc-content">
             <div class="pc-inner">
-              <div class="pc-source"><span>2026.05.15</span><span>·</span><span>综合整理</span></div>
-              <div class="pc-abstract"><p>"如果 AI 能写代码，还要开发者干什么？"这个问题背后，其实隐藏着一个更大的趋势：AI 不是在消灭职业，而是在重塑职业。本文梳理了 2026 年已经出现或正在萌芽的 AI 相关新职业，以及它们和传统岗位的区别。</p></div>
-              <div class="pc-bg"><h4>🔍 三个新兴职业</h4><p><strong>1. 提示词工程师（Prompt Engineer）</strong><br>不是"会打字就行"。专业的提示词工程师需要理解模型的行为边界，知道怎么拆解复杂任务、怎么设计 few-shot 示例、怎么控制输出格式。年薪范围：15-40 万（国内）。</p><p><strong>2. AI 训练师（AI Trainer / Fine-tuning Specialist）</strong><br>负责给模型"喂"高质量数据，让模型在特定领域表现更好。比如法律 AI 公司需要训练师把判例、法条整理成模型能理解的格式。这个岗位的核心能力是：懂业务 + 懂数据 + 有耐心。</p><p><strong>3. 智能体架构师（Agent Architect）</strong><br>设计 AI 智能体的工作流，决定"什么时候让 AI 自己做，什么时候让人介入"。这个岗位需要同时懂业务逻辑和 AI 能力边界，有点像"AI 时代的项目经理"。</p></div>
-              <div class="pc-bg"><h4>🔍 传统岗位怎么变？</h4><p><strong>程序员：</strong>从"写代码"变成"审代码 + 设计架构 + 和 AI 协作"。代码量可能减少 50%，但对系统设计的理解要求更高了。</p><p><strong>设计师：</strong>从"执行"变成"创意方向 + AI 调优 + 最终把关"。Midjourney 能出 100 张图，但选哪张、怎么改、符不符合品牌调性，还是靠人。</p><p><strong>运营/市场：</strong>从"写文案"变成"策略制定 + 数据验证 + AI 生产规模化"。一个人用 AI 工具能干原来 3 个人的活，但策略失误的代价也更大。</p></div>
-              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>AI 消灭的是"任务"，不是"职业"。</strong>打字员这个职业消失了，但"文字处理"的需求还在，只是转移到了每个人自己身上。同理，AI 会消灭一些具体的执行任务，但会创造出"和 AI 协作"的新岗位。</li><li><strong>对进阶小白的启示。</strong>你不需要现在就转行去做提示词工程师。你要做的是：在本职工作里找到"可以用 AI 提效"的环节，先成为团队里"最会用 AI 的那个人"。这是成本最低、回报最高的切入点。</li></ul></div>
-              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 综合整理，无单一原文</span></div>
+              <div class="pc-source"><span>2026.05.17</span><span>·</span><span>Fortune / X</span></div>
+              <div class="pc-abstract"><p>微软 AI CEO Mustafa Suleyman 在 Fortune 采访中扔了个炸弹：<strong>AI 将在 18 个月内实现人类水平的性能</strong>，自动化所有"坐在电脑前"的白领工作，包括会计、法律、营销和项目管理。他还说，未来创建新 AI 模型将像制作播客一样简单。</p></div>
+              <div class="pc-bg"><h4>🔍 Mustafa 是谁？他说的话靠谱吗？</h4><p>他之前是 DeepMind 的联合创始人（就是那个做出 AlphaGo 的团队），后来创办了 Inflection AI，现在掌舵微软的 AI 战略。他不是自媒体营销号，是行业里最有话语权的人之一。</p><p><strong>18 个月是认真的吗？</strong>这种预测通常带点儿"宣传成分"，但即使打对折（也就是 3 年），节奏也足够快了。关键是他的判断：<strong>通用人工智能的门槛比大家想象的低。</strong></p><p><strong>"像制作播客一样简单"是什么意思？</strong>指的是 AI 模型的开发门槛会急剧下降。以后不需要几百个博士、几千万美金，几个人几周就能做出一个垂直领域的专用模型。这会彻底改变 AI 应用的格局。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>不管 18 个月准不准，信号是明确的：</strong>AI 从"玩具"变成"基础设施"的速度在加快。对你我来说，与其争论时间表，不如现在就开始想：我的日常工作中，哪些环节是可以被 AI 自动化的？先从一个小环节试起来。</li><li><strong>另一个角度：如果做 AI 模型变得像做播客一样简单，谁最吃香？</strong>不是纯技术专家，而是<strong>懂业务 + 会用 AI 工具</strong>的人。业务理解力会变成最稀缺的资源。你对自己行业的理解，加上 AI 的执行能力，组合起来就是别人抢不走的竞争力。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读（海外站点 / 需翻墙）</span><br><a href="https://fortune.com/2026/05/17/microsoft-ai-ceo-mustafa-suleyman-artificial-general-intelligence/" target="_blank" rel="noopener">Fortune 原文采访 →</a><br><a href="https://x.com/kimmonismus/status/2055952702908355012" target="_blank" rel="noopener">X 上的采访摘要 →</a></div>
               <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
             </div>
           </div>
@@ -259,7 +256,7 @@
       </div>
     </section>
 
-    <!-- 02 知识深潜 & 工具对比 -->
+    <!-- 02 学识 -->
     <section class="collage-section">
       <div class="collage-header" style="border-left-color: #B8A99A; color: #B8A99A;">
         <div class="collage-title-line">
@@ -271,47 +268,70 @@
 
       <div class="knowledge-content">
         <p class="knowledge-intro">
-          Claude Code 这次更新的 MCP 插件，很多人看完新闻就划过去了。但坦率的讲，<strong>这可能是今年最值得小白关注的 AI 进展之一。</strong>因为它解决了一个核心问题：AI 终于能从"陪你聊天"变成"帮你干活"了。
+          看了第一条新闻，很多人第一反应是"Claude Code 好强"。但说真的，<strong>强的不是工具，是用工具的人把需求说清楚了。</strong>今天咱们就挖一挖：怎么把需求说清楚，让 AI 一次做对。
         </p>
 
         <div class="analogy-box">
-          <h4>💡 一个类比：给 AI 配手脚</h4>
+          <h4>💡 一个类比：去餐厅点菜</h4>
           <div class="analogy-item">
-            <span class="analogy-icon">🧠</span>
-            <p class="analogy-text"><strong>模型是大脑</strong>—— Claude、GPT-4 负责思考、理解、生成内容。</p>
+            <span class="analogy-icon">🤷</span>
+            <p class="analogy-text"><strong>模糊点菜：</strong>"随便做点好吃的"——厨师可能给你做个蛋炒饭，但你其实想吃的是水煮鱼。</p>
           </div>
           <div class="analogy-item">
-            <span class="analogy-icon">🖐️</span>
-            <p class="analogy-text"><strong>MCP 是手脚</strong>—— 让大脑能查网页、读文件、发消息、调数据库。</p>
+            <span class="analogy-icon">📝</span>
+            <p class="analogy-text"><strong>精确点菜：</strong>"要一份川菜，麻辣口味，主料用草鱼，配菜加豆芽和宽粉，不要太油"——出来的东西就八九不离十了。</p>
           </div>
           <div class="analogy-item">
-            <span class="analogy-icon">🔌</span>
-            <p class="analogy-text"><strong>插件是工具</strong>—— 手脚拿的不是自己的工具，是外界现成的（Slack、GitHub、浏览器）。</p>
+            <span class="analogy-icon">🤖</span>
+            <p class="analogy-text"><strong>AI 提示词就是这个道理：</strong>模糊指令出模糊结果，精确指令出精确结果。区别就在于，你有没有把"水煮鱼"拆解成"菜系+口味+主料+配菜+禁忌"。</p>
+          </div>
+        </div>
+
+        <div class="component-mini">
+          <div class="component-mini-item">
+            <span class="component-mini-num">1</span>
+            <p class="component-mini-text"><strong>角色设定：</strong>你现在是前端开发专家，擅长用单文件 HTML 实现交互页面</p>
+          </div>
+          <div class="component-mini-item">
+            <span class="component-mini-num">2</span>
+            <p class="component-mini-text"><strong>输出格式：</strong>最终产物是一个完整的 HTML 文件，无外部依赖，双击就能打开</p>
+          </div>
+          <div class="component-mini-item">
+            <span class="component-mini-num">3</span>
+            <p class="component-mini-text"><strong>视觉规范：</strong>暗色主题，主色调 #1a1a2e，圆角 12px，卡片带阴影</p>
+          </div>
+          <div class="component-mini-item">
+            <span class="component-mini-num">4</span>
+            <p class="component-mini-text"><strong>内容结构：</strong>顶部标题 → 时间线 → 可折叠表格 → 底部备注</p>
+          </div>
+          <div class="component-mini-item">
+            <span class="component-mini-num">5</span>
+            <p class="component-mini-text"><strong>交互细节：</strong>表格行点击展开/收起，时间线节点悬停显示详情</p>
           </div>
         </div>
 
         <div class="compare-cards">
           <div class="compare-card bad">
-            <span class="compare-badge">不用 MCP</span>
-            <p class="compare-text">你复制问题 → 打开浏览器 → 查完资料 → 复制答案 → 粘贴回对话框。<strong>AI 每次都要你手动喂信息。</strong></p>
+            <span class="compare-badge">❌ 模糊指令</span>
+            <p class="compare-text">"帮我写个项目计划页面" → AI 给你出个大纲或者一张简陋的表格，颜色默认白底黑字，没有交互。你得一句一句改：<strong>"换个颜色""加个时间线""表格要能折叠"</strong>——改 10 轮都未必满意。</p>
           </div>
           <div class="compare-card mid">
-            <span class="compare-badge">手动配置 API</span>
-            <p class="compare-text">你自己写代码连 Slack、连数据库。能跑通，但换个项目要重写一遍，<strong>门槛高、维护累。</strong></p>
+            <span class="compare-badge">⚠️ 半结构化</span>
+            <p class="compare-text">"用 HTML 写一个项目计划页面，要有时间线和表格" → 样子有了，但颜色不对、交互没有、内容格式跟你想要的不符。还得手动调样式、补交互，<strong>省了一半时间，但剩下的一半还是累。</strong></p>
           </div>
           <div class="compare-card good">
-            <span class="compare-badge">MCP 插件</span>
-            <p class="compare-text">你对 Claude 说"查一下今天 OpenAI 的新闻，发到 Slack"，它<strong>自己查、自己写、自己发。</strong>你只需要说话。</p>
+            <span class="compare-badge">✅ 全结构化</span>
+            <p class="compare-text">角色 + 格式 + 视觉 + 结构 + 交互全部明确 → <strong>2 分钟直接交付</strong>，打开就能用，发给领导直接能看。你只需要把里面的文字替换成你的项目内容。</p>
           </div>
         </div>
 
         <div class="knowledge-summary">
-          <strong>说到底，MCP 不是在增加复杂度，而是在降低门槛。</strong>以前你要会写代码才能让 AI 干活，现在你只需要会描述需求。
+          <strong>说到底，提示词不是在"命令"AI，而是在"翻译"你的需求。</strong>你越会翻译，AI 越懂你。而这个翻译能力，是可以练出来的。
         </div>
       </div>
     </section>
 
-    <!-- 03 灵魂洞察 -->
+    <!-- 03 悟心 -->
     <section class="collage-section">
       <div class="collage-header" style="border-left-color: #C4A882; color: #C4A882;">
         <div class="collage-title-line">
@@ -323,23 +343,29 @@
 
       <div class="insight-content">
         <div class="insight-quote">
-          模型是电钻，你才是握钻的人。<br>AI 不会取代木匠，但会用 AI 的木匠会取代不会用的。
+          相机没有取代画家<br>但创造了摄影师和电影导演
         </div>
         <div class="insight-body">
           <p>
-            很多人看到"普华永道部署 Claude，效率提升 70%"这类新闻，第一反应是焦虑：<strong>我是不是也要被取代了？</strong>
+            很多人看到"18 个月取代所有白领"这种标题，第一反应是慌。但你想想看，<strong>相机发明的时候，肖像画家也慌过。</strong>
           </p>
           <p>
-            但你看细节就会发现，<span class="insight-highlight">Claude 在保险承保领域替代的不是"核保员"这个岗位，而是"收集资料、填表格、比对条款"这些具体任务。</span>核保员还在，但ta的工作变成了：判断 AI 给出的结论对不对、处理 AI 搞不定的例外情况、跟客户解释最终决策。
+            结果呢？写实肖像确实少了，但摄影师、电影导演、视觉艺术家、图片编辑——这些职业被创造出来了。而且整个视觉文化的体量，比画家时代大了不止一万倍。
           </p>
           <p>
-            这跟当年 Excel 普及的时候一模一样。会计没有被取代，但"打算盘"的会计消失了。未来的职场，分水岭不在"你会不会用 AI"，而在<strong>"你能不能判断 AI 的输出值不值得信任，以及在它出错时能不能兜底"。</strong>
+            <span class="insight-highlight">AI 就是相机的当代版本。</span>它让"执行"变得廉价，但"审美、判断、意图"变得更值钱。
+          </p>
+          <p>
+            以前你做设计，得先学 PS、学排版、学配色，门槛很高。现在你说句话 AI 就能出图，但问题是：出 100 张图，哪张好？怎么改？符不符合品牌调性？这些判断还得靠人。
+          </p>
+          <p>
+            所以关键不是"AI 会不会取代我"，而是<strong>"我能不能成为那个指挥 AI 的人"</strong>。会按快门的不叫摄影师，有审美和表达欲的才叫。会用 AI 工具的也不叫高手，知道要做什么、怎么做才对的人才叫。
           </p>
         </div>
       </div>
     </section>
 
-    <!-- 04 今日一问 -->
+    <!-- 04 相询 -->
     <section class="collage-section">
       <div class="collage-header" style="border-left-color: #A8B5A0; color: #A8B5A0;">
         <div class="collage-title-line">
@@ -354,19 +380,19 @@
 
         <div class="quiz-options">
           <label class="quiz-option" onclick="toggleOption(this)">
-            <input type="checkbox" name="quiz" value="mcp-dev" />
+            <input type="checkbox" name="quiz" value="prompt-engineering" />
             <span class="quiz-marker"></span>
-            <span class="quiz-option-text"><strong>从"用插件"到"写插件"：</strong>怎么开发自己的第一个 MCP 插件 🔌<br><span style="font-size:12px;color:#9A9188;">本期只讲了怎么用，下期可以手把手教你怎么给 Claude Code 写一个专属插件</span></span>
+            <span class="quiz-option-text"><strong>提示词怎么写才能让 AI 一次做对 🎯</strong><br><span style="font-size:12px;color:#9A9188;">从本期 HTML 案例延伸，系统拆解提示词的框架和模板，让你拿到任何工具都能快速上手</span></span>
           </label>
           <label class="quiz-option" onclick="toggleOption(this)">
-            <input type="checkbox" name="quiz" value="claude-tips" />
+            <input type="checkbox" name="quiz" value="no-code-agent" />
             <span class="quiz-marker"></span>
-            <span class="quiz-option-text"><strong>Claude Code 的隐藏玩法：</strong>SKILL.md + Fast 模式 + 根目录技能 ⚡<br><span style="font-size:12px;color:#9A9188;">本期新闻提到了但没展开，这些功能能让 Claude Code 从"好用"变"顺手"</span></span>
+            <span class="quiz-option-text"><strong>不用写代码，怎么搭一个能用的 AI 小程序 🔧</strong><br><span style="font-size:12px;color:#9A9188;">聚焦 Coze、Dify 等零代码平台，手把手教你把想法变成能跑的小工具</span></span>
           </label>
           <label class="quiz-option" onclick="toggleOption(this)">
-            <input type="checkbox" name="quiz" value="agent-career" />
+            <input type="checkbox" name="quiz" value="ai-design" />
             <span class="quiz-marker"></span>
-            <span class="quiz-option-text"><strong>智能体架构师到底是干嘛的？</strong>工作日常、入门路径、薪资水平 💼<br><span style="font-size:12px;color:#9A9188;">本期只列了这个新职业的名字，下期可以深度拆解这个岗位的真实图景</span></span>
+            <span class="quiz-option-text"><strong>AI 做图做视频，怎么从"能用"变成"好看" 🎨</strong><br><span style="font-size:12px;color:#9A9188;">聚焦 Midjourney、可灵、即梦等工具的进阶技巧，让你的产出直接惊艳朋友圈</span></span>
           </label>
           <label class="quiz-option" onclick="toggleOption(this)">
             <input type="checkbox" name="quiz" value="none" />

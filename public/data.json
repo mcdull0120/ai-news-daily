@@ -1,405 +1,399 @@
 {
-  "generatedAt": "2026-05-15T08:34:25.583862+00:00",
-  "totalSource": 180,
-  "totalFiltered": 172,
+  "generatedAt": "2026-05-19T12:14:33.417900+00:00",
+  "totalSource": 160,
+  "totalFiltered": 149,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
-    "rss": 80,
+    "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "cmp68q4280kmwsljx5vvpdg5v",
-        "title": "普华永道全球部署Claude，助力客户构建技术、执行交易并重塑企业职能",
-        "title_en": "PwC is deploying Claude to build technology， execute deals， and reinvent enterprise functions for clients",
-        "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-05-15T01:30:09.354Z",
-        "summary": "普华永道与Anthropic宣布扩大战略联盟，将在全球数十万员工中部署Claude AI工具。双方将联合建立卓越中心，并培训认证3万名专业人员。合作聚焦三大高杠杆领域：智能体技术构建、AI原生交易执行以及企业职能重塑。普华永道已率先成立基于Claude的财务业务组。实际应用显示，Claude在保险承保、网络安全等多个领域能将交付时间缩短最高达70%，例如将保险承保周期从十周压缩至十天。",
-        "category": "industry",
-        "interestTags": [
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmp4ebkd5055esljxo201vbm1",
-        "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
-        "title_en": "Building a safe， effective sandbox to enable Codex on Windows",
-        "url": "https://openai.com/index/building-codex-windows-sandbox",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-05-15T00:00:00.000Z",
-        "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmp637phz0jbmsljxj94mjfjv",
-        "title": "Claude 代理工具 v2.1.142 版本更新",
-        "title_en": "v2.1.142",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-05-14T22:55:10.000Z",
-        "summary": "Claude 代理工具发布 v2.1.142 版本。本次更新新增了 `--add-dir`、`--settings`、`--model` 等 8 个用于配置后台会话的命令行标志，并将 Fast 模式的默认模型升级为 Opus 4.7。插件功能得到增强，拥有根目录 `SKILL.md` 的插件现可被识别为技能，插件详情面板会显示其提供的 LSP 服务器。此外，版本修复了超过 15 项问题，包括 MCP 工具超时设置失效、后台会话在系统休眠后异常断开、守护进程升级后无法正常退出、Windows 网络驱动器工作目录下死锁等关键错误，并改进了响应式压缩和钩子配置错误提示。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
-      }
-    ],
     "productivity": [
       {
-        "id": "cmp693o610kqosljxn35kaesm",
-        "title": "为什么资深开发者讲不清自己的专业能力",
-        "title_en": "http：//x.com/i/article/2054823397448712192",
-        "url": "https://x.com/dotey/status/2055097242755706984",
-        "source": "X：宝玉 (@dotey)",
-        "publishedAt": "2026-05-15T01:25:39.000Z",
-        "summary": "资深开发者与业务团队存在根本认知差异。业务团队生活在\"消除不确定性\"的循环中，追求快速试错验证，核心是速度。而资深开发者身处\"管理复杂性\"的循环，核心职责是保障付费服务的长期稳定，因此对增加系统复杂性的行为极为警惕。沟通失败在于，开发者用\"控制复杂性\"的理由拒绝需求，却未回应业务端\"消除不确定性\"的迫切诉求。解决方案是，开发者应将其精简需求、复用代码等专业能力，包装成能帮助业务\"更快获得答案\"的方案，例如使用\"我们能不能试个更快的办法？\"这样的话术。尽管AI能快速生成代码，但资深开发者不可替代的价值在于为系统长期稳定\"承担责任\"。",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "rss_127914493",
-        "title": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+        "id": "cmpckp777033vslaeq0owzke0",
+        "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Fri, 15 MaT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://www.ithome.com/0/952/463.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-19T11:35:50.000Z",
+        "summary": "微软前高管马特·韦洛索批评称，尽管微软与OpenAI合作在2023至2025年间获得约300亿美元营收，但相关成本高达1000亿美元，盈利前景不明。他指出，微软在AI布局上存在多项失误，包括押注必应搜索AI转型未增市场份额、Copilot付费用户实际使用率不足3%、人才任用不当等。虽然微软称Copilot企业付费用户已超2000万家，但市场对其AI巨额投入的盈利路径存在担忧。微软仍计划2026年在AI基础设施投入最高1460亿美元。",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Fri, 15 Ma"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "rss_2586777870",
-        "title": "鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Fri, 15 MaT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Fri, 15 Ma"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmp69hjip009hslz8uc7tastq",
-        "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
-        "title_en": "兄弟们，这个可以啊！赶紧装起来！ Kevin Lin，牛津大学博士后，前Meta和Microsoft研究员，刚刚把Violin这个开源视频翻译Skill放了出来。 视频已经是互联网绝对主流的内容形…",
-        "url": "https://x.com/berryxia/status/2055093068085547507",
-        "source": "X：Berry Xia (@berryxia)",
-        "publishedAt": "2026-05-15T01:09:03.000Z",
-        "summary": "牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Agent Skill三种使用方式，所有功能基于MIT协议开源，由Together Compute提供技术支持，适用于内容创作、教育及多模态智能体开发等领域。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmp65vnvr0jztsljxms0pwdh0",
-        "title": "Runway正式进军日本市场，在东京设立总部并投入4000万美元",
-        "title_en": "Runway is Coming to Japan",
-        "url": "https://runwayml.com/news/runway-is-coming-to-japan",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-05-15T00:10:08.451Z",
-        "summary": "生成式AI公司Runway宣布在日本东京设立总部，正式进军日本市场，并计划投入4000万美元初始资金拓展业务。日本已成为Runway增长最快的市场之一，是其全球企业及自助客户的第三大市场。过去一年，日本企业客户数量增长300%，贡献了Runway亚洲总销售额的三分之一。软银、雅马哈等企业已在营销与创意流程中使用其服务。公司此次扩张旨在贴近日本领先的创意、机器人及制造行业客户，并已开始招募日本市场负责人以组建本地团队。",
-        "category": "industry",
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmp5pnlwr0g8esljxgm4ojw16",
-        "title": "Recraft AI V4.1上线OpenRouter平台",
-        "title_en": "Live on OpenRouter： @recraftai V4.1！ Six new image generation models： V4.1 and V4.1 Pro for high ae…",
-        "url": "https://x.com/OpenRouter/status/2054957185982177504",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-05-14T16:09:07.000Z",
-        "summary": "现已在 OpenRouter 上线：@recraftai V4.1！\n\n包含六款新图像生成模型：追求高美学的 V4.1 和 V4.1 Pro，用于 SVG 插画的 V4.1 Vector 和 V4.1 Pro Vector，以及优先考虑克制风格的产品图像的 V4.1 Utility 和 V4.1 Utility Pro。\n\n照片级真实感更自然，渐变更平滑，简短提示词能更准确地命中目标，无需过多手动调整。",
+        "id": "cmp8oygzv0kc6slnz56g1hza2",
+        "title": "按需定制快捷键，优化工作流效率",
+        "title_en": "We're having way too much fun working through your feedback. （Please， keep it coming.） Keyboard sh…",
+        "url": "https://x.com/OpenAIDevs/status/2055717793841221796",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-05-16T18:31:30.000Z",
+        "summary": "处理大家的反馈让我们感到太有趣了。\n（请继续反馈。）\n键盘快捷键现已支持自定义。\n围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。",
         "category": "ai-products",
         "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmp4eqy8u059osljxs6c4bk0v",
-        "title": "Anthropic 首次在 B2B 采用率上超越 OpenAI，Ramp 支出数据显示",
-        "title_en": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
-        "url": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-05-13T18:23:15.000Z",
-        "summary": "根据 Ramp AI 指数数据，Anthropic 在美国企业客户中的采用率达到 34.4%，首次超越 OpenAI 的 32.3%。其业务覆盖范围在一年内增长了四倍。但文章指出，三个因素可能使其领先优势迅速减弱。",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_1083215959",
-        "title": "投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/364177",
-        "source": "极客公园",
-        "publishedAt": "2026-05-14T06:10:16+00:00",
-        "summary": "<p>时代确实变了，在科技圈和风投圈一直被认为是金字招牌的「非共识」，可能并不流行了。</p>\n<p>在明势创投的会议室内，身穿帽衫的创始人黄明明一脸不解的跟极客公园说：「大家一直给我们贴上「叛逆型投资人」，说好听点是『非共识』的标签。我觉得还挺奇怪的&mdash;&mdash;世界大部分时候，是奖励『共识』的：光鲜的背景、快速的融资、简单能听得明白的故事，不是吗？而事实上，世界<strong>只有在很少的时间节点在奖励非共识</strong>。」</p>\n<p>作为互联网时代的创业者、有着十二年科技投资经历的明势创投创始人，黄明明带领团队在新能源时代押中了理想汽车，在 AI",
-        "category": "industry",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmp4fzumy05kbsljxlqrddfex",
-        "title": "The 6 Messages That Actually Matter",
-        "title_en": null,
-        "url": "https://www.tomtunguz.com/the-disappearance-of-email",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "publishedAt": "2026-05-13T00:00:00.000Z",
-        "summary": "知识工作者平均每天收到121封邮件，传统收件箱处理模式难以为继。未来邮件处理将转向高度个性化与自动化：用户能用自然语言定义处理规则，实现收据自动转发、销售线索自动录入CRM等流程。所有历史邮件将构成个人上下文层，为AI处理新邮件提供背景信息，敏感信息则由设备端模型进行私密处理。最终，收件箱本身将消失，真正重要的信息可能浓缩至仅6条。",
-        "category": "tip",
-        "interestTags": [
-          "education",
           "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_283389204",
+        "title": "泰国内阁决定取消60天免签政策",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3816153636691717?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-05-19T00:00:00+00:00",
+        "summary": "据泰国媒体19日报道，泰国内阁当天批准取消对90多个国家公民的60天免签入境政策，恢复为之前的入境标准。泰国旅游与体育部长素拉沙·攀差伦沃拉恭19日表示，内阁会议已决定对90多个国家恢复原有免签政策，通常为免签入境30天左右。签证政策委员会此后将针对各国进行单独审查，并考虑安全和经济因素来制定新的免签政策。（新华社）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpcijn6h02ldslae0l9xasp9",
+        "title": "我真的要吹爆HTML！",
+        "title_en": "我真的要吹爆HTML！ 喵个咪终于可以把Notion给扔了， 现在做项目计划2分钟搞定， 做完直接发给领导！ 昨天做2026年度组织与人才盘点， 我给Claude code发了一个提示词， xhig…",
+        "url": "https://x.com/AYi_AInotes/status/2056685348156055980",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "publishedAt": "2026-05-19T10:36:13.000Z",
+        "summary": "作者通过向Claude Code提供精确的提示词，仅用2分钟就生成了一个功能完整的交互式HTML项目计划页面。该页面为单文件、无外部依赖，包含暗色主题、时间线、可折叠表格等丰富交互，可直接交付。相比过去在Notion中耗费30-40分钟制作模板，效率提升了近20倍。其核心在于使用明确的提示词来规范视觉、内容结构与交互细节，确保AI一次性交付完整产物。这充分展示了在AI时代，HTML作为轻量、高保真生产力工具的巨大潜力。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmpc4aons006xslvfuyn1l7ke",
+        "title": "QoderWork推出Design Desk无限画布AI工作区",
+        "title_en": "🎨 Introducing Design Desk by QoderWork. An infinite-canvas AI workspace that turns language into ru…",
+        "url": "https://x.com/alibaba_cloud/status/2056581373301788747",
+        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+        "publishedAt": "2026-05-19T03:43:03.000Z",
+        "summary": "🎨 介绍QoderWork的Design Desk。一个将语言转化为可运行代码的无限画布AI工作区。\n💡 用自然语言描述你的需求--即可在无限画布上获得可运行的React + Vite项目。设计师迭代，开发者交付相同文件。无缝交接。\n⏬立即下载QoderWork\nhttps：//www.qoderwork.ai\n#AI #Qoder #QoderWork #DesignDesk",
+        "category": "ai-products",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmpbx9x5v1b1yslnzc24m4139",
+        "title": "「开发日志」提示词：让AI编码决策可审计",
+        "title_en": "Claude Code 核心开发者 Thariq 带来自己高频使用的「开发日志」提示词 @trq212 这段提示词解决了 AI 协作编码中最棘手的结构性问题：规格永远写不完整，但人又无法实时跟踪 A…",
+        "url": "https://x.com/shao__meng/status/2056535561540948056",
+        "source": "X：邵猛 (@shao__meng)",
+        "publishedAt": "2026-05-19T00:41:01.000Z",
+        "summary": "针对AI协作编码中\"规格永难完整\"与\"决策无法追踪\"的核心矛盾，此提示词提出了第三条路径。它要求AI在实现需求时同步维护一份结构化文档，明确记录设计决策、对规格的偏离、考虑过的权衡以及待确认的开放性问题。这种方法的关键在于将AI执行过程中的隐性判断显式化、文档化，从而让Code Review可直接对照决策笔记，而非逆向工程代码。它不仅降低了模型的过度澄清倾向，更通过提供结构化产物，建立了一种可审计、可协作的人机开发新范式。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmpccjtl2017qslaeequgv5v9",
+        "title": "Claude推出自托管沙箱与MCP隧道功能",
+        "title_en": "Live from Code with Claude London： we're launching self-hosted sandboxes （public beta） and MCP tunne…",
+        "url": "https://x.com/claudeai/status/2056645485696315581",
+        "source": "X：Claude (@claudeai)",
+        "publishedAt": "2026-05-19T07:57:49.000Z",
+        "summary": "来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。\n在您自己的安全边界内运行代理，默认应用您的安全控制。",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpcc46av011oslaeonk3qlxc",
+        "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
+        "title_en": "月之暗面 Kimi 融资获国资加持，国智投、中国移动等央企巨头入场",
+        "url": "https://www.ithome.com/0/952/336.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-19T07:39:15.000Z",
+        "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
+        "category": "industry",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpc9xrvn00icslaezxqmcxuo",
+        "title": "Cursor 推出 Composer 2.5",
+        "title_en": null,
+        "url": "https://cursor.com/blog/composer-2-5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-19T06:28:07.551Z",
+        "summary": "Cursor 发布 Composer 2.5，这是其开发工具 Cursor 的更新版本，版本号从2.0迭代至2.5。此次更新提升了代码补全效率并引入协作功能，以优化开发体验。该发布在 Hacker News 上获得 100 个投票点，显示开发者社区对此次升级的关注。",
+        "category": "ai-products",
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmp9n1c040s55slnzuroftb4b",
+        "title": "微软AI CEO预测18个月内AI自动化所有白领工作",
+        "title_en": "Mustafa Suleyman says 18 months until AI automates all white-collar work. Microsoft AI CEO Mustafa …",
+        "url": "https://x.com/kimmonismus/status/2055952702908355012",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-05-17T10:04:56.000Z",
+        "summary": "微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及\"坐在电脑前\"的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建\"超级智能\"，并展望未来创建新AI模型将像制作播客或写博客一样便捷。",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmp75qfv107p0slnza9wzcnmd",
+        "title": "Eric Jang - 从零开始构建 AlphaGo",
+        "title_en": "Eric Jang - Building AlphaGo from scratch",
+        "url": "https://www.dwarkesh.com/p/eric-jang",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-05-15T16:04:58.000Z",
+        "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_2187281189",
+        "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意",
+        "title_en": null,
+        "url": "https://sspai.com/post/109928",
+        "source": "少数派",
+        "publishedAt": "2026-05-19T09:03:04+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/109928\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmp68q4280kmwsljx5vvpdg5v",
-      "title": "普华永道全球部署Claude，助力客户构建技术、执行交易并重塑企业职能",
-      "title_en": "PwC is deploying Claude to build technology， execute deals， and reinvent enterprise functions for clients",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-05-15T01:30:09.354Z",
-      "summary": "普华永道与Anthropic宣布扩大战略联盟，将在全球数十万员工中部署Claude AI工具。双方将联合建立卓越中心，并培训认证3万名专业人员。合作聚焦三大高杠杆领域：智能体技术构建、AI原生交易执行以及企业职能重塑。普华永道已率先成立基于Claude的财务业务组。实际应用显示，Claude在保险承保、网络安全等多个领域能将交付时间缩短最高达70%，例如将保险承保周期从十周压缩至十天。",
-      "category": "industry",
-      "interestTags": [
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmp693o610kqosljxn35kaesm",
-      "title": "为什么资深开发者讲不清自己的专业能力",
-      "title_en": "http：//x.com/i/article/2054823397448712192",
-      "url": "https://x.com/dotey/status/2055097242755706984",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-05-15T01:25:39.000Z",
-      "summary": "资深开发者与业务团队存在根本认知差异。业务团队生活在\"消除不确定性\"的循环中，追求快速试错验证，核心是速度。而资深开发者身处\"管理复杂性\"的循环，核心职责是保障付费服务的长期稳定，因此对增加系统复杂性的行为极为警惕。沟通失败在于，开发者用\"控制复杂性\"的理由拒绝需求，却未回应业务端\"消除不确定性\"的迫切诉求。解决方案是，开发者应将其精简需求、复用代码等专业能力，包装成能帮助业务\"更快获得答案\"的方案，例如使用\"我们能不能试个更快的办法？\"这样的话术。尽管AI能快速生成代码，但资深开发者不可替代的价值在于为系统长期稳定\"承担责任\"。",
+      "id": "cmpckp777033vslaeq0owzke0",
+      "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/952/463.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-19T11:35:50.000Z",
+      "summary": "微软前高管马特·韦洛索批评称，尽管微软与OpenAI合作在2023至2025年间获得约300亿美元营收，但相关成本高达1000亿美元，盈利前景不明。他指出，微软在AI布局上存在多项失误，包括押注必应搜索AI转型未增市场份额、Copilot付费用户实际使用率不足3%、人才任用不当等。虽然微软称Copilot企业付费用户已超2000万家，但市场对其AI巨额投入的盈利路径存在担忧。微软仍计划2026年在AI基础设施投入最高1460亿美元。",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmp69hjip009hslz8uc7tastq",
-      "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
-      "title_en": "兄弟们，这个可以啊！赶紧装起来！ Kevin Lin，牛津大学博士后，前Meta和Microsoft研究员，刚刚把Violin这个开源视频翻译Skill放了出来。 视频已经是互联网绝对主流的内容形…",
-      "url": "https://x.com/berryxia/status/2055093068085547507",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-05-15T01:09:03.000Z",
-      "summary": "牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Agent Skill三种使用方式，所有功能基于MIT协议开源，由Together Compute提供技术支持，适用于内容创作、教育及多模态智能体开发等领域。",
+      "id": "cmpcijn6h02ldslae0l9xasp9",
+      "title": "我真的要吹爆HTML！",
+      "title_en": "我真的要吹爆HTML！ 喵个咪终于可以把Notion给扔了， 现在做项目计划2分钟搞定， 做完直接发给领导！ 昨天做2026年度组织与人才盘点， 我给Claude code发了一个提示词， xhig…",
+      "url": "https://x.com/AYi_AInotes/status/2056685348156055980",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-05-19T10:36:13.000Z",
+      "summary": "作者通过向Claude Code提供精确的提示词，仅用2分钟就生成了一个功能完整的交互式HTML项目计划页面。该页面为单文件、无外部依赖，包含暗色主题、时间线、可折叠表格等丰富交互，可直接交付。相比过去在Notion中耗费30-40分钟制作模板，效率提升了近20倍。其核心在于使用明确的提示词来规范视觉、内容结构与交互细节，确保AI一次性交付完整产物。这充分展示了在AI时代，HTML作为轻量、高保真生产力工具的巨大潜力。",
       "category": "tip",
       "interestTags": [
         "creative",
         "app",
         "writing",
-        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "1小时前"
     },
     {
-      "id": "cmp65vnvr0jztsljxms0pwdh0",
-      "title": "Runway正式进军日本市场，在东京设立总部并投入4000万美元",
-      "title_en": "Runway is Coming to Japan",
-      "url": "https://runwayml.com/news/runway-is-coming-to-japan",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-05-15T00:10:08.451Z",
-      "summary": "生成式AI公司Runway宣布在日本东京设立总部，正式进军日本市场，并计划投入4000万美元初始资金拓展业务。日本已成为Runway增长最快的市场之一，是其全球企业及自助客户的第三大市场。过去一年，日本企业客户数量增长300%，贡献了Runway亚洲总销售额的三分之一。软银、雅马哈等企业已在营销与创意流程中使用其服务。公司此次扩张旨在贴近日本领先的创意、机器人及制造行业客户，并已开始招募日本市场负责人以组建本地团队。",
-      "category": "industry",
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmp4ebkd5055esljxo201vbm1",
-      "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
-      "title_en": "Building a safe， effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-05-15T00:00:00.000Z",
-      "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmp637phz0jbmsljxj94mjfjv",
-      "title": "Claude 代理工具 v2.1.142 版本更新",
-      "title_en": "v2.1.142",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-05-14T22:55:10.000Z",
-      "summary": "Claude 代理工具发布 v2.1.142 版本。本次更新新增了 `--add-dir`、`--settings`、`--model` 等 8 个用于配置后台会话的命令行标志，并将 Fast 模式的默认模型升级为 Opus 4.7。插件功能得到增强，拥有根目录 `SKILL.md` 的插件现可被识别为技能，插件详情面板会显示其提供的 LSP 服务器。此外，版本修复了超过 15 项问题，包括 MCP 工具超时设置失效、后台会话在系统休眠后异常断开、守护进程升级后无法正常退出、Windows 网络驱动器工作目录下死锁等关键错误，并改进了响应式压缩和钩子配置错误提示。",
+      "id": "cmpccjtl2017qslaeequgv5v9",
+      "title": "Claude推出自托管沙箱与MCP隧道功能",
+      "title_en": "Live from Code with Claude London： we're launching self-hosted sandboxes （public beta） and MCP tunne…",
+      "url": "https://x.com/claudeai/status/2056645485696315581",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-05-19T07:57:49.000Z",
+      "summary": "来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。\n在您自己的安全边界内运行代理，默认应用您的安全控制。",
       "category": "ai-products",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmp5pnlwr0g8esljxgm4ojw16",
-      "title": "Recraft AI V4.1上线OpenRouter平台",
-      "title_en": "Live on OpenRouter： @recraftai V4.1！ Six new image generation models： V4.1 and V4.1 Pro for high ae…",
-      "url": "https://x.com/OpenRouter/status/2054957185982177504",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-05-14T16:09:07.000Z",
-      "summary": "现已在 OpenRouter 上线：@recraftai V4.1！\n\n包含六款新图像生成模型：追求高美学的 V4.1 和 V4.1 Pro，用于 SVG 插画的 V4.1 Vector 和 V4.1 Pro Vector，以及优先考虑克制风格的产品图像的 V4.1 Utility 和 V4.1 Utility Pro。\n\n照片级真实感更自然，渐变更平滑，简短提示词能更准确地命中目标，无需过多手动调整。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "cmp4eqy8u059osljxs6c4bk0v",
-      "title": "Anthropic 首次在 B2B 采用率上超越 OpenAI，Ramp 支出数据显示",
-      "title_en": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
-      "url": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-05-13T18:23:15.000Z",
-      "summary": "根据 Ramp AI 指数数据，Anthropic 在美国企业客户中的采用率达到 34.4%，首次超越 OpenAI 的 32.3%。其业务覆盖范围在一年内增长了四倍。但文章指出，三个因素可能使其领先优势迅速减弱。",
+      "id": "cmpcc46av011oslaeonk3qlxc",
+      "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
+      "title_en": "月之暗面 Kimi 融资获国资加持，国智投、中国移动等央企巨头入场",
+      "url": "https://www.ithome.com/0/952/336.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-19T07:39:15.000Z",
+      "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
       "category": "industry",
       "interestTags": [
-        "writing"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmp4fzumy05kbsljxlqrddfex",
-      "title": "The 6 Messages That Actually Matter",
+      "id": "cmpc9xrvn00icslaezxqmcxuo",
+      "title": "Cursor 推出 Composer 2.5",
       "title_en": null,
-      "url": "https://www.tomtunguz.com/the-disappearance-of-email",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-05-13T00:00:00.000Z",
-      "summary": "知识工作者平均每天收到121封邮件，传统收件箱处理模式难以为继。未来邮件处理将转向高度个性化与自动化：用户能用自然语言定义处理规则，实现收据自动转发、销售线索自动录入CRM等流程。所有历史邮件将构成个人上下文层，为AI处理新邮件提供背景信息，敏感信息则由设备端模型进行私密处理。最终，收件箱本身将消失，真正重要的信息可能浓缩至仅6条。",
+      "url": "https://cursor.com/blog/composer-2-5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-19T06:28:07.551Z",
+      "summary": "Cursor 发布 Composer 2.5，这是其开发工具 Cursor 的更新版本，版本号从2.0迭代至2.5。此次更新提升了代码补全效率并引入协作功能，以优化开发体验。该发布在 Hacker News 上获得 100 个投票点，显示开发者社区对此次升级的关注。",
+      "category": "ai-products",
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpc4aons006xslvfuyn1l7ke",
+      "title": "QoderWork推出Design Desk无限画布AI工作区",
+      "title_en": "🎨 Introducing Design Desk by QoderWork. An infinite-canvas AI workspace that turns language into ru…",
+      "url": "https://x.com/alibaba_cloud/status/2056581373301788747",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-05-19T03:43:03.000Z",
+      "summary": "🎨 介绍QoderWork的Design Desk。一个将语言转化为可运行代码的无限画布AI工作区。\n💡 用自然语言描述你的需求--即可在无限画布上获得可运行的React + Vite项目。设计师迭代，开发者交付相同文件。无缝交接。\n⏬立即下载QoderWork\nhttps：//www.qoderwork.ai\n#AI #Qoder #QoderWork #DesignDesk",
+      "category": "ai-products",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmpbx9x5v1b1yslnzc24m4139",
+      "title": "「开发日志」提示词：让AI编码决策可审计",
+      "title_en": "Claude Code 核心开发者 Thariq 带来自己高频使用的「开发日志」提示词 @trq212 这段提示词解决了 AI 协作编码中最棘手的结构性问题：规格永远写不完整，但人又无法实时跟踪 A…",
+      "url": "https://x.com/shao__meng/status/2056535561540948056",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-05-19T00:41:01.000Z",
+      "summary": "针对AI协作编码中\"规格永难完整\"与\"决策无法追踪\"的核心矛盾，此提示词提出了第三条路径。它要求AI在实现需求时同步维护一份结构化文档，明确记录设计决策、对规格的偏离、考虑过的权衡以及待确认的开放性问题。这种方法的关键在于将AI执行过程中的隐性判断显式化、文档化，从而让Code Review可直接对照决策笔记，而非逆向工程代码。它不仅降低了模型的过度澄清倾向，更通过提供结构化产物，建立了一种可审计、可协作的人机开发新范式。",
       "category": "tip",
       "interestTags": [
-        "education",
+        "creative",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmp9n1c040s55slnzuroftb4b",
+      "title": "微软AI CEO预测18个月内AI自动化所有白领工作",
+      "title_en": "Mustafa Suleyman says 18 months until AI automates all white-collar work. Microsoft AI CEO Mustafa …",
+      "url": "https://x.com/kimmonismus/status/2055952702908355012",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-05-17T10:04:56.000Z",
+      "summary": "微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及\"坐在电脑前\"的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建\"超级智能\"，并展望未来创建新AI模型将像制作播客或写博客一样便捷。",
+      "category": "tip",
+      "interestTags": [
+        "writing",
         "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "rss_1083215959",
-      "title": "投中了理想、MiniMax 后，他说，AI 时代仍然要找「让人汗毛直竖」的创业者",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/364177",
-      "source": "极客公园",
-      "publishedAt": "2026-05-14T06:10:16+00:00",
-      "summary": "<p>时代确实变了，在科技圈和风投圈一直被认为是金字招牌的「非共识」，可能并不流行了。</p>\n<p>在明势创投的会议室内，身穿帽衫的创始人黄明明一脸不解的跟极客公园说：「大家一直给我们贴上「叛逆型投资人」，说好听点是『非共识』的标签。我觉得还挺奇怪的&mdash;&mdash;世界大部分时候，是奖励『共识』的：光鲜的背景、快速的融资、简单能听得明白的故事，不是吗？而事实上，世界<strong>只有在很少的时间节点在奖励非共识</strong>。」</p>\n<p>作为互联网时代的创业者、有着十二年科技投资经历的明势创投创始人，黄明明带领团队在新能源时代押中了理想汽车，在 AI",
-      "category": "industry",
+      "id": "cmp8oygzv0kc6slnz56g1hza2",
+      "title": "按需定制快捷键，优化工作流效率",
+      "title_en": "We're having way too much fun working through your feedback. （Please， keep it coming.） Keyboard sh…",
+      "url": "https://x.com/OpenAIDevs/status/2055717793841221796",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-05-16T18:31:30.000Z",
+      "summary": "处理大家的反馈让我们感到太有趣了。\n（请继续反馈。）\n键盘快捷键现已支持自定义。\n围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。",
+      "category": "ai-products",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "cmp75qfv107p0slnza9wzcnmd",
+      "title": "Eric Jang - 从零开始构建 AlphaGo",
+      "title_en": "Eric Jang - Building AlphaGo from scratch",
+      "url": "https://www.dwarkesh.com/p/eric-jang",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-05-15T16:04:58.000Z",
+      "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
+      "category": "tip",
       "interestTags": [
         "writing",
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_127914493",
-      "title": "兼顾效率、成本与能力，百灵开源旗舰推理模型 Ring-2.6-1T",
+      "id": "rss_2187281189",
+      "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Fri, 15 MaT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/rtbXo0YG1cQ0kFwd2ueK?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "url": "https://sspai.com/post/109928",
+      "source": "少数派",
+      "publishedAt": "2026-05-19T09:03:04+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/109928\" target=\"_blank\">查看全文</a>",
       "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "rss_283389204",
+      "title": "泰国内阁决定取消60天免签政策",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3816153636691717?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-05-19T00:00:00+00:00",
+      "summary": "据泰国媒体19日报道，泰国内阁当天批准取消对90多个国家公民的60天免签入境政策，恢复为之前的入境标准。泰国旅游与体育部长素拉沙·攀差伦沃拉恭19日表示，内阁会议已决定对90多个国家恢复原有免签政策，通常为免签入境30天左右。签证政策委员会此后将针对各国进行单独审查，并考虑安全和经济因素来制定新的免签政策。（新华社）",
+      "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Fri, 15 Ma"
-    },
-    {
-      "id": "rss_2586777870",
-      "title": "鼠标每动一下都在训练AI，Meta员工“造反”了：厕所、会议室都贴满抗议传单",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Fri, 15 MaT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/QU5sZKgumE0oGvoHrULa?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Fri, 15 Ma"
+      "formattedTime": "12小时前"
     }
   ]
 }
