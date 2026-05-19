@@ -1,0 +1,10 @@
+{
+  "createdAt": "2026-05-19",
+  "description": "用户反馈内容生成库，按优先级和时间排序",
+  "rules": {
+    "customPriority": "自定义输入永远优先级最高，直接插队",
+    "optionQueue": "选项按时间排序排队，每期取一个执行",
+    "singleFocus": "每期只围绕1个核心话题展开"
+  },
+  "items": []
+}

@@ -218,6 +218,7 @@ ai-news-daily/
 │   ├── issue-v3-style.css      # 公共样式（两版共用）
 │   └── data.json               # fetch_data.py 输出
 ├── fetch_data.py               # 数据抓取脚本
+├── content-queue.json          # 用户反馈内容生成库（按优先级排序）
 ├── writing-guide.md            # 写作风格指南
 ├── generation-prompt.md        # AI 内容生成 Prompt（H5 + 公众号双版本输出）
 ├── v1.0-summary.md             # v1.0 完整总结（存档）
