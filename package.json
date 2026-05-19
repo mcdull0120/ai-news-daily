@@ -1,0 +1,10 @@
+{
+  "name": "ai-news-daily",
+  "version": "1.0.0",
+  "description": "AI每日精选 - 小白友好的AI资讯面板",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "fetch": "node fetch-data.js"
+  }
+}

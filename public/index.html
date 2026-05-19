@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 每日精选</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header-top">
+        <h1>AI 每日精选</h1>
+        <span class="badge">小白友好</span>
+      </div>
+      <p class="header-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
+      <div class="header-meta">
+        <span id="updateTime">加载中...</span>
+        <button class="refresh-btn" id="refreshBtn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="23 4 23 10 17 10"></polyline>
+            <polyline points="1 20 1 14 7 14"></polyline>
+            <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"></path>
+          </svg>
+          刷新
+        </button>
+      </div>
+    </header>
+
+    <nav class="filter-bar" id="filterBar">
+      <button class="filter-btn active" data-filter="all">全部</button>
+      <button class="filter-btn" data-filter="creative">🎨 创意</button>
+      <button class="filter-btn" data-filter="app">💻 应用</button>
+      <button class="filter-btn" data-filter="writing">✍️ 文案</button>
+      <button class="filter-btn" data-filter="education">🎓 教育</button>
+      <button class="filter-btn" data-filter="productivity">🏢 提效</button>
+    </nav>
+
+    <main class="content" id="content">
+      <div class="loading">
+        <div class="spinner"></div>
+        <p>正在为你精选今日资讯...</p>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>数据来源：AI HOT · 内容由 AI 智能筛选</p>
+      <p class="footer-tip">💡 提示：每天早上 10 点更新，点击标签可筛选分类</p>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

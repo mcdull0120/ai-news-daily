@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 第 2 期</title>
+  <link rel="stylesheet" href="issue-style.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 顶部封面 -->
+    <header class="hero">
+      <div class="hero-badge">测试版 · 第 2 期</div>
+      <h1 class="hero-title">AI 小白<br/>进阶日报</h1>
+      <p class="hero-date">2026.05.14</p>
+      <div class="hero-tags">
+        <span class="tag tag-primary">Harness</span>
+        <span class="tag tag-secondary">模型差距</span>
+      </div>
+      <div class="hero-scroll">下滑阅读 ↓</div>
+    </header>
+
+    <!-- 本期导言 -->
+    <section class="section intro">
+      <div class="intro-icon">💡</div>
+      <h2 class="section-title">本期核心问题</h2>
+      <p class="intro-text">
+        Claude Code 为什么体验好？<br/>
+        国内模型和国外模型到底差在哪？<br/>
+        值得"换发动机"吗？
+      </p>
+      <div class="intro-divider"></div>
+    </section>
+
+    <!-- 今日大事 -->
+    <section class="section news">
+      <div class="section-header">
+        <div class="section-icon">🔥</div>
+        <h2 class="section-title">今日大事</h2>
+      </div>
+
+      <div class="card card-highlight">
+        <div class="card-accent"></div>
+        <div class="card-body">
+          <h3 class="card-title">Anthropic 首次在 B2B 采用率上超越 OpenAI</h3>
+          <p class="card-summary">
+            美国企业 AI 支出数据：Claude 占比 <strong>34.4%</strong>，首次超过 ChatGPT 的 <strong>32.3%</strong>。企业客户一年翻 4 倍。
+          </p>
+          <div class="insight-box">
+            <div class="insight-icon">💡</div>
+            <div class="insight-text">
+              <strong>核心信号</strong>：企业更看重"能干活的 AI"，不只是"能聊天的 AI"。工具好不好用，比模型名气更重要。
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 概念一：Harness -->
+    <section class="section concept">
+      <div class="section-header">
+        <div class="section-icon">📚</div>
+        <h2 class="section-title">Harness 驾驭能力</h2>
+      </div>
+
+      <!-- 比喻对比 -->
+      <div class="compare-cards">
+        <div class="compare-card compare-left">
+          <div class="compare-avatar">🧑‍🎓</div>
+          <h4>助理 A</h4>
+          <p class="compare-iq">智商 140 · 哈佛毕业</p>
+          <div class="compare-quote">
+            "这是 PPT 的结构大纲和内容。"
+          </div>
+          <div class="compare-result compare-bad">
+            ❌ 不给动手<br/>❌ 你自己做
+          </div>
+        </div>
+        <div class="compare-vs">VS</div>
+        <div class="compare-card compare-right">
+          <div class="compare-avatar">👨‍💼</div>
+          <h4>助理 B</h4>
+          <p class="compare-iq">智商 120 · 普通大学</p>
+          <div class="compare-quote">
+            "好的。"
+          </div>
+          <div class="compare-result compare-good">
+            ✅ 直接做 PPT<br/>✅ 调格式发你<br/>✅ 你说丑他改
+          </div>
+        </div>
+      </div>
+
+      <p class="section-lead">
+        <strong>Harness</strong> 就是"身体"的好坏——让大脑从"会"变成"能干"。
+      </p>
+
+      <!-- 5 个核心组件 -->
+      <h3 class="subsection-title">Harness 的 5 个核心组件</h3>
+      <div class="components-grid">
+        <div class="component-card">
+          <div class="component-icon">👁️</div>
+          <div class="component-name">环境感知</div>
+          <div class="component-desc">读取周围文件和信息</div>
+        </div>
+        <div class="component-card">
+          <div class="component-icon">📝</div>
+          <div class="component-name">文件操作</div>
+          <div class="component-desc">读写创建删除文件</div>
+        </div>
+        <div class="component-card">
+          <div class="component-icon">⚡</div>
+          <div class="component-name">终端执行</div>
+          <div class="component-desc">运行命令和测试</div>
+        </div>
+        <div class="component-card">
+          <div class="component-icon">🧩</div>
+          <div class="component-name">多步规划</div>
+          <div class="component-desc">拆任务逐步执行</div>
+        </div>
+        <div class="component-card component-wide">
+          <div class="component-icon">🔌</div>
+          <div class="component-name">工具调用</div>
+          <div class="component-desc">接入外部 API、数据库、服务（MCP / Skill）</div>
+        </div>
+      </div>
+
+      <!-- 自主执行循环 -->
+      <h3 class="subsection-title">Claude Code 为什么特别强？</h3>
+      <div class="loop-diagram">
+        <div class="loop-title">🔄 自主执行循环</div>
+        <div class="loop-flow">
+          <div class="loop-step">理解需求</div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step">拆解步骤</div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step">执行第1步</div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step">看结果</div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step">发现错误</div>
+          <div class="loop-arrow">→</div>
+          <div class="loop-step">自我修正</div>
+          <div class="loop-arrow">↺</div>
+        </div>
+        <p class="loop-caption">普通 AI：你问一句答一句<br/>Claude Code：你给目标，自己搞定</p>
+      </div>
+    </section>
+
+    <!-- 概念二：模型差距 -->
+    <section class="section model-gap">
+      <div class="section-header">
+        <div class="section-icon">⚖️</div>
+        <h2 class="section-title">国内 vs 国外模型</h2>
+      </div>
+
+      <p class="section-lead">差距到底在哪？值不值得"换发动机"？</p>
+
+      <!-- 雷达图式对比（用 CSS 模拟） -->
+      <div class="gap-visual">
+        <div class="gap-side gap-overseas">
+          <div class="gap-flag">🌐</div>
+          <h4>国外顶尖</h4>
+          <p class="gap-model">GPT-4 / Claude 3.5</p>
+          <div class="gap-bars">
+            <div class="gap-bar-item">
+              <span>代码能力</span>
+              <div class="gap-bar"><div class="gap-fill" style="width:90%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>长文本</span>
+              <div class="gap-bar"><div class="gap-fill" style="width:95%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>创造力</span>
+              <div class="gap-bar"><div class="gap-fill" style="width:85%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>逻辑推理</span>
+              <div class="gap-bar"><div class="gap-fill" style="width:88%"></div></div>
+            </div>
+          </div>
+        </div>
+        <div class="gap-vs">VS</div>
+        <div class="gap-side gap-domestic">
+          <div class="gap-flag">🇨🇳</div>
+          <h4>国内主流</h4>
+          <p class="gap-model">文心 / 通义 / 讯飞</p>
+          <div class="gap-bars">
+            <div class="gap-bar-item">
+              <span>代码能力</span>
+              <div class="gap-bar"><div class="gap-fill gap-fill-d" style="width:60%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>长文本</span>
+              <div class="gap-bar"><div class="gap-fill gap-fill-d" style="width:50%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>创造力</span>
+              <div class="gap-bar"><div class="gap-fill gap-fill-d" style="width:55%"></div></div>
+            </div>
+            <div class="gap-bar-item">
+              <span>逻辑推理</span>
+              <div class="gap-bar"><div class="gap-fill gap-fill-d" style="width:65%"></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 三层深度 -->
+      <div class="depth-layers">
+        <div class="depth-card depth-1">
+          <div class="depth-num">①</div>
+          <div class="depth-content">
+            <h4>直观感受</h4>
+            <p>国外：逻辑严密、举例贴切<br/>国内：日常 OK，复杂问题易"胡说"</p>
+          </div>
+        </div>
+        <div class="depth-card depth-2">
+          <div class="depth-num">②</div>
+          <div class="depth-content">
+            <h4>技术原因</h4>
+            <p>训练数据多样性、对齐技术、推理能力</p>
+          </div>
+        </div>
+        <div class="depth-card depth-3">
+          <div class="depth-num">③</div>
+          <div class="depth-content">
+            <h4>实际场景</h4>
+            <p>写代码、读长文档、创意写作的真实差距</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 建议卡片 -->
+      <div class="advice-cards">
+        <div class="advice-card advice-domestic">
+          <div class="advice-icon">✅</div>
+          <h4>国内模型够用</h4>
+          <ul>
+            <li>日常聊天、查资料</li>
+            <li>写简单文案</li>
+            <li>处理中文内容</li>
+            <li>数据隐私要求高</li>
+          </ul>
+        </div>
+        <div class="advice-card advice-overseas">
+          <div class="advice-icon">🚀</div>
+          <h4>建议用国外模型</h4>
+          <ul>
+            <li>编程开发</li>
+            <li>复杂推理/数据分析</li>
+            <li>长文档处理</li>
+            <li>创意工作</li>
+            <li>Claude Code / Cursor</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="tip-box">
+        <div class="tip-icon">💡</div>
+        <p><strong>性价比方案</strong>：日常用国内（快+便宜），重要工作用国外（准+强），编程用 Claude Code。</p>
+      </div>
+    </section>
+
+    <!-- 技巧对比 -->
+    <section class="section demo">
+      <div class="section-header">
+        <div class="section-icon">🛠️</div>
+        <h2 class="section-title">Harness 差距实测</h2>
+      </div>
+
+      <div class="scenario-box">
+        <div class="scenario-label">场景</div>
+        <p class="scenario-text">"帮我分析这份销售数据，找出问题并给出建议"</p>
+      </div>
+
+      <div class="demo-timeline">
+        <div class="demo-item demo-bad">
+          <div class="demo-avatar">🇨🇳</div>
+          <div class="demo-bubble">
+            <h4>国内模型</h4>
+            <p>[通用销售分析框架]<br/>建议：加强客户关系管理、优化产品线...</p>
+            <div class="demo-tags">
+              <span class="demo-tag demo-tag-bad">❌ 没读文件</span>
+              <span class="demo-tag demo-tag-bad">❌ 套话</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="demo-item demo-mid">
+          <div class="demo-avatar">🌐</div>
+          <div class="demo-bubble">
+            <h4>GPT-4 网页版</h4>
+            <p>[你手动粘贴数据后]<br/>能指出几个数字异常</p>
+            <div class="demo-tags">
+              <span class="demo-tag demo-tag-warn">⚠️ 粘贴麻烦</span>
+              <span class="demo-tag demo-tag-warn">⚠️ 不能画图</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="demo-item demo-good">
+          <div class="demo-avatar">🔧</div>
+          <div class="demo-bubble">
+            <h4>Claude Code</h4>
+            <div class="demo-steps">
+              <div class="demo-step">📂 读取 sales_2025.csv</div>
+              <div class="demo-step">📊 50万行自动采样分析</div>
+              <div class="demo-step">⚠️ 发现3个异常</div>
+              <div class="demo-step">📈 生成可视化图表</div>
+              <div class="demo-step">📄 输出 report.html</div>
+            </div>
+            <div class="demo-tags">
+              <span class="demo-tag demo-tag-good">✅ 自动读文件</span>
+              <span class="demo-tag demo-tag-good">✅ 针对性建议</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="demo-conclusion">
+        <strong>差距不在"懂不懂"，在"能不能干"。</strong><br/>
+        Harness 决定了一个 AI 是"顾问"还是"员工"。
+      </div>
+    </section>
+
+    <!-- 互动区 -->
+    <section class="section feedback">
+      <div class="section-header">
+        <div class="section-icon">🗣️</div>
+        <h2 class="section-title">今日一问</h2>
+      </div>
+
+      <div class="quiz-card">
+        <div class="quiz-num">Q1</div>
+        <p class="quiz-text">看完 Harness 讲解，能理解为什么 Claude Code 体验好了吗？</p>
+      </div>
+      <div class="quiz-card">
+        <div class="quiz-num">Q2</div>
+        <p class="quiz-text">国内外模型差距，哪一点最触动你？</p>
+      </div>
+      <div class="quiz-card">
+        <div class="quiz-num">Q3</div>
+        <p class="quiz-text">想"换发动机"了吗？还是国内够用？</p>
+      </div>
+
+      <div class="feedback-hint">
+        回复你的答案，明天内容据此调整 ↑
+      </div>
+    </section>
+
+    <!-- 底部 -->
+    <footer class="footer">
+      <div class="footer-logo">AI 小白进阶日报</div>
+      <p class="footer-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
+      <div class="footer-meta">
+        <span>测试版 · 第 2 期</span>
+        <span>·</span>
+        <span>内容来自 AI HOT + 人工整理</span>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

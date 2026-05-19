@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 第 2 期</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+</head>
+<body>
+  <div class="app">
+
+    <!-- 顶部封面 -->
+    <header class="hero">
+      <div class="hero-meta">
+        <span class="hero-badge">测试版</span>
+        <span class="hero-date">2026.05.14</span>
+      </div>
+      <h1 class="hero-title">Claude 反超 OpenAI：<br>智商重要还是执行力重要？</h1>
+      <p class="hero-theme">第 2 期 · 预计阅读 12 分钟</p>
+    </header>
+
+    <!-- 第一部分：AI 大事件（3 条滑动卡片） -->
+    <section class="section section-event">
+      <div class="section-header">
+        <span class="section-num">01</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🔥 AI 大事件</h2>
+          <p class="section-subtitle">精选 3 条值得关注的 AI 行业动态，左右滑动查看</p>
+        </div>
+      </div>
+
+      <div class="news-carousel">
+        <!-- 卡片 1：重磅级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-major">重磅</span>
+          <h3 class="news-title">Anthropic 首次在 B2B 采用率上超越 OpenAI</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.13</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">Ramp AI 支出数据</span>
+          </div>
+          <div class="news-abstract">
+            <p>美国企业 AI 支出数据出炉了。用 Claude（Anthropic）的企业占到 <strong>34.4%</strong>，第一次超过用 ChatGPT（OpenAI）的 <strong>32.3%</strong>。更夸张的是，Claude 的企业客户数量在一年内翻了 4 倍。</p>
+          </div>
+          <div class="news-link">
+            <a href="https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data" target="_blank" rel="noopener">阅读原文 →</a>
+            <span class="paywall-tip">（英文，需翻墙）</span>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>企业买单的逻辑变了。</strong>以前谁名气大谁赢，现在谁能真正"干活"谁赢。Claude 的 Harness（驾驭能力）更强，所以企业愿意掏钱。</li>
+              <li><strong>但领先优势可能不稳。</strong>OpenAI 正在追赶，Google Gemini 也在发力。企业换工具很慢，领先能不能保持住，还得看下半年。</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- 卡片 2：突破级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-break">突破</span>
+          <h3 class="news-title">OpenAI 发布 Codex CLI，编程进入"命令行时代"</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.12</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">OpenAI 官方博客</span>
+          </div>
+          <div class="news-abstract">
+            <p>OpenAI 推出了 Codex CLI，一款直接集成在终端里的 AI 编程助手。和网页版 ChatGPT 不同，它能直接读取你的代码文件、运行测试、甚至自动提交 Git 修改。开发者不用离开命令行就能完成从写代码到部署的全流程。</p>
+          </div>
+          <div class="news-link">
+            <a href="https://openai.com/codex" target="_blank" rel="noopener">阅读原文 →</a>
+            <span class="paywall-tip">（英文）</span>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>Claude Code 迎来正面竞争对手。</strong>Codex CLI 和 Claude Code 几乎一模一样的定位——都是终端原生、都能读写文件、都能自动执行。OpenAI 终于意识到：比聪明更重要的是"能干活"。</li>
+              <li><strong>对小白用户的意义。</strong>如果你刚开始学编程，这类工具能让你少踩 80% 的环境配置坑。但它也可能让你跳过"理解代码"的过程，这点后面洞察部分再聊。</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- 卡片 3：趣味级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-fun">趣味</span>
+          <h3 class="news-title">9.9 元的 AI 教程，一个月卖了 10 万份</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.11</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">淘宝/社交媒体</span>
+          </div>
+          <div class="news-abstract">
+            <p>有人在淘宝上卖"DeepSeek 本地部署教程"，定价 9.9 元，一个月销量破 10 万。买家大多是三四线城市的上班族和大学生。教程内容其实不复杂——就是怎么把 DeepSeek 装到自己电脑上，但很多人"就是搜不到、或者搜到了也看不懂"。</p>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>信息差仍然是最大的生意。</strong>AI 圈的人觉得"本地部署"是基础操作，但对普通用户来说，这可能就是一道过不去的坎。</li>
+              <li><strong>对日报的启示。</strong>我们做"AI 小白进阶日报"，本质上也是在"磨平信息差"。这个案例让我挺感慨的——市场需求远比我们想象的大。</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+
+      <div class="carousel-dots">
+        <span class="dot active"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+      </div>
+
+      <div class="event-summary">
+        <p><strong>三条新闻的共同点：</strong>无论 Claude 反超、Codex CLI 发布，还是 9.9 元教程卖爆，都在说同一件事——<strong>AI 的"执行力"（Harness）正在比"智商"更值钱。</strong> 企业愿意为好用的工具付费，用户愿意为消除信息差付费。名气大不等于能干活，能干活才是硬道理。</p>
+      </div>
+    </section>
+
+    <!-- 第二部分：概念 & 案例 -->
+    <section class="section section-concept">
+      <div class="section-header">
+        <span class="section-num">02</span>
+        <div class="section-header-text">
+          <h2 class="section-title">📚 概念 & 案例</h2>
+          <p class="section-subtitle">先搞懂原理，再看真实对比</p>
+        </div>
+      </div>
+
+      <!-- 概念引入 -->
+      <div class="concept-intro-box">
+        <p class="concept-intro-text">上一期我们聊了"大脑"和"身体"的区别。但说实话，很多朋友看完还是懵——为什么同样的"大脑"（比如 GPT-4），装在 Claude Code 这个"身体"里体验这么好，放在别的地方就一般？</p>
+        <p class="concept-intro-text">我跟你说，核心差异就在一个东西上：<strong>Harness（驾驭能力）。它为什么比"智商"更重要？</strong>今天聊清楚。</p>
+      </div>
+
+      <div class="concept-content">
+        <h3>一、从"聊天"到"干活"的进化</h3>
+        <p>想象两个助理：</p>
+        <p><strong>助理 A（普通对话 AI）：</strong>智商 140，哈佛毕业。你让他写个 PPT，他说："好的，这是大纲和内容。"然后... 没了。你自己打开 PowerPoint，复制粘贴，调格式，找配图。累不累？</p>
+        <p><strong>助理 B（Claude Code）：</strong>智商 120，普通大学毕业。你让他写个 PPT，他说："好的。"然后自己打开 Gamma/Canva，生成 PPT，调好格式，插好图，发你链接。你说"字体太丑"，他自己改，改完再发你。</p>
+        <p><strong>你选谁？</strong>反正我选 B。因为 B 的 Harness（驾驭系统）好——他不只是"会"，他是"能干"。</p>
+
+        <h3>二、Harness 的 5 个核心组件</h3>
+        <p>Harness 不是单一功能，它其实是一套"让大脑能干活"的系统。我把它拆成 5 个部分，你会发现生活里处处都是这套逻辑：</p>
+
+        <div class="component-list">
+          <div class="component-item">
+            <span class="component-num">1</span>
+            <div class="component-text">
+              <strong>环境感知</strong>——读取周围的信息和文件。Claude Code 能自动扫描你整个代码库，理解项目结构；普通对话 AI 只能你手动复制粘贴代码给他。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">2</span>
+            <div class="component-text">
+              <strong>文件操作</strong>——读写、创建、删除文件。Claude Code 直接创建 index.html、style.css；普通对话 AI 给你代码文本，你自己保存。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">3</span>
+            <div class="component-text">
+              <strong>终端执行</strong>——运行命令、测试、部署。Claude Code 能运行 npm install、启动服务器、跑测试；普通对话 AI 无法执行任何命令。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">4</span>
+            <div class="component-text">
+              <strong>多步规划</strong>——把大任务拆成小步骤。"做网站"→建文件→写代码→调样式→测试→修复。普通对话 AI 只能单轮回答，没有长期记忆和规划。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">5</span>
+            <div class="component-text">
+              <strong>工具调用</strong>——调用外部 API、数据库、服务。Claude Code 通过 MCP/Skill 查新闻、操作数据库、发邮件。这就像 iPhone 的 App Store，装了 App 就无所不能。
+            </div>
+          </div>
+        </div>
+
+        <div class="concept-summary">
+          <p><strong>一句话总结：</strong>组件 1-3 是"基础体力"（让 AI 从动嘴变动手）；组件 4 是"脑力升级"（从回答问题变完成任务）；组件 5 是"无限扩展"（从单机变联网）。</p>
+        </div>
+
+        <h3>三、为什么 Claude Code 的 Harness 特别强</h3>
+        <p>同样是"身体"，Claude Code 的身体为什么比别的工具强？我跟你说，就三个原因：</p>
+
+        <p><strong>1. 自主执行循环（Agentic Loop）</strong></p>
+        <p>普通工具的流程：你说 → 它答 → 结束。</p>
+        <p>Claude Code 的流程：你说 → 它理解 → 拆步骤 → 执行第 1 步 → 看结果 → 发现错误 → 自我修正 → 执行第 2 步 → ... → 完成 → 汇报。</p>
+        <p>这种感觉就像：普通 AI 是"你问一句，我答一句"的客服；Claude Code 是"你给我目标，我自己搞定"的项目经理。你品品这个差别。</p>
+
+        <p><strong>2. 上下文窗口管理</strong></p>
+        <p>大模型都有个限制，叫"上下文窗口"——一次能看多少字。Claude Code 的 Harness 会自动判断：这个任务要看哪些文件？文件太长哪部分最重要？多轮对话后哪些信息不能丢？普通工具你得手动管这些，复制粘贴、反复提醒，累得要死。Claude Code 自己搞定。</p>
+
+        <p><strong>3. 工具生态（MCP + Skill）</strong></p>
+        <p>Claude Code 不靠自己学会所有技能，而是通过标准化接口接入外部工具：需要查新闻？装 AI HOT Skill。需要操作数据库？装数据库 MCP。这就像给厨师长配了个"甜点师"助手，他原来不会做蛋糕，现在能做了。</p>
+      </div>
+
+      <!-- 过渡转场 -->
+      <div class="transition-box">
+        <p>光说不练假把式。上面讲的都是理论，现在我们来看一个真实对比——同一个需求，三种工具分别怎么回应。</p>
+      </div>
+
+      <!-- 案例对比 -->
+      <div class="case-section">
+        <div class="demo-scenario">
+          <span class="scenario-label">实验场景</span>
+          <p class="scenario-text">"帮我分析一下这份销售数据，找出问题并给出建议"</p>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-bad">国内模型（网页版）</span>
+          </div>
+          <div class="demo-response demo-bad">
+            <p>[给你一段通用的销售分析框架]</p>
+            <p>建议：加强客户关系管理、优化产品线...</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">❌</span>
+            <p>没有读你的数据文件。建议是"套话"，不针对你的具体情况。它"懂"销售分析，但"干不了"分析你这份数据的事。</p>
+          </div>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-warn">GPT-4（网页版）</span>
+          </div>
+          <div class="demo-response demo-mid">
+            <p>[你手动复制粘贴数据后]</p>
+            <p>能指出几个数字异常。</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">⚠️</span>
+            <p>模型智商够，能分析。但它"身体"受限：数据量大时复制粘贴很麻烦；想生成图表只能给你代码，你自己运行。</p>
+          </div>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-good">Claude Code + Claude 模型</span>
+          </div>
+          <div class="demo-response demo-good">
+            <p>→ 读取 sales_2025.csv ... 完成（自动扫描文件）</p>
+            <p>→ 发现数据量 50 万行，自动采样分析 ... 完成</p>
+            <p>→ 发现 3 个异常：Q3 华南区下滑 40%、新品 A 退货率 25%、老客户复购率下降</p>
+            <p>→ 生成可视化图表 ... 完成</p>
+            <p>→ 给出针对性建议：华南区建议调研竞品 X、新品 A 建议暂停推广</p>
+            <p>→ 生成完整分析报告 report.html ... 完成</p>
+            <p>→ 打开浏览器展示报告</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">✅</span>
+            <p>自动读文件、处理大数据、生成图表、输出报告。不是"模型懂不懂分析"的问题，而是"工具能不能干"的问题。</p>
+          </div>
+        </div>
+
+        <div class="demo-conclusion">
+          <p><strong>差距不在"懂不懂"，在"能不能干"。</strong></p>
+          <p>Harness 决定了一个 AI 是"顾问"还是"员工"。</p>
+        </div>
+      </div>
+
+      <div class="concept-outro-box">
+        <h4>本节小结</h4>
+        <p>Harness 的本质就是一套<strong>"执行力系统"</strong>。它不改变模型的"智商"，但决定了这个智商能不能真正落地。</p>
+      </div>
+    </section>
+
+    <!-- 第三部分：灵魂洞察 -->
+    <section class="section section-insight">
+      <div class="section-header">
+        <span class="section-num">03</span>
+        <div class="section-header-text">
+          <h2 class="section-title">💡 灵魂洞察</h2>
+          <p class="section-subtitle">不只关于技术，关于人与工具</p>
+        </div>
+      </div>
+
+      <div class="insight-content">
+        <div class="insight-quote-main">
+          <p>我们总在追求更聪明的 AI，</p>
+          <p>却忽略了更重要的问题：</p>
+          <p class="insight-highlight">"它愿不愿意、能不能帮你把事办完？"</p>
+        </div>
+
+        <div class="insight-body">
+          <p>两个木匠比赛做椅子。一个懂力学原理、人体工学，但只动嘴不拿锯。另一个理论一般，但拿起木头就锯、钉、打磨，错了就改。最后，第二把椅子摆在面前。</p>
+          <p><strong>你坐哪一把？</strong></p>
+
+          <p>今天的 AI 行业正经历同样的分化：OpenAI 们在拼"智商"（参数、考试分数），Anthropic 在拼"执行力"（能不能把活干完）。</p>
+
+          <p>说真的，很多人用 AI 时有个隐秘的焦虑：用多了，我会不会变笨？</p>
+          <p>我自己的感受是，关键不在"用不用"，而在<strong>你怎么用</strong>。把 AI 当"代笔者"，你确实会退化——从"做"变成了"审"，从"创造"变成了"验收"。但如果你把 AI 当<strong>"杠杆"</strong>，你做判断和创意，它做执行，你的能力会放大十倍。</p>
+
+          <p>Harness 的本质就是杠杆。它不改变你的智商，但把你的动手能力放大百倍。当然，杠杆也能放大错误。方向错了，它会更快、更完美地帮你走错路。</p>
+
+          <p>所以真正重要的，不是"会不会用 AI"，而是<strong>"知不知道要做什么"和"知道对不对"</strong>。模型是智商，Harness 是执行力，<strong>你才是决定方向的人</strong>。</p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 第四部分：今日一问 -->
+    <section class="section section-quiz">
+      <div class="section-header">
+        <span class="section-num">04</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🗣️ 今日一问</h2>
+          <p class="section-subtitle">你的反馈决定下期的内容</p>
+        </div>
+      </div>
+
+      <div class="quiz-single">
+        <div class="quiz-question">
+          <span class="quiz-icon">🤔</span>
+          <p>关于 AI 的 Harness（驾驭能力），你还有哪些想了解的？或者下期想看什么？</p>
+        </div>
+        <div class="quiz-options">
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="none" />
+            <span class="option-marker"></span>
+            <span class="option-text">暂无，等下期看看 👀</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="claude-code" />
+            <span class="option-marker"></span>
+            <span class="option-text">想看 Claude Code 的具体实操教程</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="tools-compare" />
+            <span class="option-marker"></span>
+            <span class="option-text">想了解 Cursor、Coze、Claude 等工具的 Harness 对比</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="concepts" />
+            <span class="option-marker"></span>
+            <span class="option-text">想深入 Agent、MCP、RAG 这些技术概念</span>
+          </label>
+        </div>
+        <div class="quiz-input-wrap">
+          <input type="text" class="quiz-input" placeholder="输入其他你想了解的内容" />
+        </div>
+        <button type="button" class="quiz-submit" onclick="this.textContent='✅ 反馈已收到，谢谢！'; this.disabled=true;">提交反馈</button>
+        <p class="quiz-hint">点击选项或输入想法后提交，你的反馈将决定下期内容方向。</p>
+      </div>
+    </section>
+
+    <!-- 底部 -->
+    <footer class="footer">
+      <p class="footer-title">AI 小白进阶日报</p>
+      <p class="footer-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
+      <p class="footer-meta">测试版 · 第 2 期 · 内容来自 AI HOT + 人工整理</p>
+    </footer>
+  </div>
+</body>
+</html>

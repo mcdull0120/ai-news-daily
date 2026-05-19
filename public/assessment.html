@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 认知测评</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+  <style>
+    .assessment-hero {
+      background: linear-gradient(165deg, #A8B5A0 0%, #9AAFB7 100%);
+      padding: 44px 24px 36px;
+      color: #fff;
+      text-align: center;
+    }
+    .assessment-hero h1 {
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.4;
+      margin-bottom: 10px;
+    }
+    .assessment-hero p {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+    .assessment-body {
+      padding: 32px 24px;
+    }
+    .q-block {
+      margin-bottom: 32px;
+    }
+    .q-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #3D3530;
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+    .q-title .q-num {
+      display: inline-block;
+      width: 28px;
+      height: 28px;
+      background: linear-gradient(135deg, #A8B5A0, #9AAFB7);
+      color: #fff;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 28px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+    .q-hint {
+      font-size: 12px;
+      color: #9A9188;
+      margin-bottom: 12px;
+    }
+    .option-card {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      background: #fff;
+      border-radius: 12px;
+      padding: 14px;
+      margin-bottom: 10px;
+      border: 1px solid #ECE8E0;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .option-card:active {
+      background: #F5F0E8;
+    }
+    .option-card input {
+      display: none;
+    }
+    .option-marker {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 2px solid #D0C8C0;
+      flex-shrink: 0;
+      margin-top: 2px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .option-card input:checked + .option-marker {
+      border-color: #A8B5A0;
+      background: #A8B5A0;
+    }
+    .option-card input:checked + .option-marker::after {
+      content: '✓';
+      color: #fff;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .option-text {
+      font-size: 14px;
+      color: #4A423A;
+      line-height: 1.6;
+      flex: 1;
+    }
+    .custom-input-wrap {
+      background: #fff;
+      border-radius: 10px;
+      padding: 12px 14px;
+      border: 1px solid #ECE8E0;
+      margin-top: 10px;
+    }
+    .custom-input-wrap input {
+      width: 100%;
+      border: none;
+      outline: none;
+      font-size: 14px;
+      color: #3D3530;
+      background: transparent;
+      font-family: inherit;
+    }
+    .custom-input-wrap input::placeholder {
+      color: #B8A99A;
+    }
+    .submit-btn {
+      width: 100%;
+      background: linear-gradient(135deg, #AED581, #7CB342);
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      padding: 16px;
+      font-size: 16px;
+      font-weight: 700;
+      margin-top: 8px;
+      cursor: pointer;
+      font-family: inherit;
+      box-shadow: 0 6px 18px rgba(124,179,66,0.35);
+      transition: all 0.15s;
+      letter-spacing: 0.5px;
+    }
+    .submit-btn:active {
+      transform: translateY(2px);
+      box-shadow: 0 3px 8px rgba(124,179,66,0.3);
+    }
+    .result-box {
+      display: none;
+      background: #fff;
+      border-radius: 16px;
+      padding: 28px 24px;
+      margin-top: 24px;
+      text-align: center;
+      border: 1px solid #ECE8E0;
+    }
+    .result-box.show {
+      display: block;
+    }
+    .result-tag {
+      display: inline-block;
+      background: linear-gradient(135deg, #A8B5A0, #9AAFB7);
+      color: #fff;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 14px;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .result-title {
+      font-size: 20px;
+      font-weight: 700;
+      color: #3D3530;
+      margin-bottom: 12px;
+    }
+    .result-desc {
+      font-size: 14px;
+      color: #5A5048;
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+    .result-btn {
+      display: inline-block;
+      background: #A8B5A0;
+      color: #fff;
+      padding: 12px 28px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <div class="assessment-hero">
+      <h1>先花 30 秒，<br>让我了解你</h1>
+      <p>3 道题，帮你定制专属内容</p>
+    </div>
+
+    <div class="assessment-body">
+      <form id="quiz-form">
+        <!-- Q1 -->
+        <div class="q-block">
+          <div class="q-title"><span class="q-num">1</span>你目前使用 AI 的状态是？</div>
+          <label class="option-card">
+            <input type="radio" name="q1" value="A" required />
+            <span class="option-marker"></span>
+            <span class="option-text">听说过，但是基本没用过</span>
+          </label>
+          <label class="option-card">
+            <input type="radio" name="q1" value="B" />
+            <span class="option-marker"></span>
+            <span class="option-text">用过豆包、DeepSeek、ChatGPT 等对话工具，有进行过对话</span>
+          </label>
+          <label class="option-card">
+            <input type="radio" name="q1" value="C" />
+            <span class="option-marker"></span>
+            <span class="option-text">用过一些工具来做一些产出，比如生图、生视频、做应用、做报告等，可以写简单的提示词</span>
+          </label>
+          <label class="option-card">
+            <input type="radio" name="q1" value="D" />
+            <span class="option-marker"></span>
+            <span class="option-text">高频&amp;用过多个工具进行深度创作，可以写比较复杂的提示词</span>
+          </label>
+          <label class="option-card">
+            <input type="radio" name="q1" value="E" />
+            <span class="option-marker"></span>
+            <span class="option-text">能自己搭建工作流，用 API，配置 MCP 等进阶操作</span>
+          </label>
+        </div>
+
+        <!-- Q2 -->
+        <div class="q-block">
+          <div class="q-title"><span class="q-num">2</span>你目前在用哪些 AI 工具？</div>
+          <p class="q-hint">多选，不限数量</p>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="A" />
+            <span class="option-marker"></span>
+            <span class="option-text">ChatGPT / Claude / Gemini（国外对话）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="B" />
+            <span class="option-marker"></span>
+            <span class="option-text">豆包 / Kimi / DeepSeek（国内对话）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="C" />
+            <span class="option-marker"></span>
+            <span class="option-text">Cursor / Claude Code / Codex（编程辅助）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="D" />
+            <span class="option-marker"></span>
+            <span class="option-text">Midjourney / Stable Diffusion / 可灵 / 即梦（图像视频）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="E" />
+            <span class="option-marker"></span>
+            <span class="option-text">Coze / Dify / 扣子（智能体搭建）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="F" />
+            <span class="option-marker"></span>
+            <span class="option-text">Notion AI / 飞书妙记 / Office Copilot（办公提效）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q2" value="G" />
+            <span class="option-marker"></span>
+            <span class="option-text">暂时没用过什么工具</span>
+          </label>
+          <div class="custom-input-wrap">
+            <input type="text" name="q2_other" placeholder="其他工具，请填写" />
+          </div>
+        </div>
+
+        <!-- Q3 -->
+        <div class="q-block">
+          <div class="q-title"><span class="q-num">3</span>你对哪些 AI 方向最感兴趣？</div>
+          <p class="q-hint">多选，最多 3 项</p>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="A" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 编程 / 代码辅助</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="B" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 写作 / 内容创作</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="C" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 图像 / 视频 / 设计</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="D" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 办公提效（PPT / Excel / 文档自动化）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="E" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 学习 / 教育辅导</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="F" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">AI 智能体 / 自动化工作流</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="G" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">大模型底层技术（想懂原理）</span>
+          </label>
+          <label class="option-card">
+            <input type="checkbox" name="q3" value="H" class="q3-opt" />
+            <span class="option-marker"></span>
+            <span class="option-text">不确定，都想了解看看</span>
+          </label>
+        </div>
+
+        <button type="submit" class="submit-btn">生成我的专属日报</button>
+      </form>
+
+      <div class="result-box" id="result-box">
+        <div class="result-tag" id="result-tag">进阶小白</div>
+        <div class="result-title" id="result-title">已为你定制内容</div>
+        <div class="result-desc" id="result-desc">
+          根据你的选择，我们会优先推送编程辅助方向的内容，<br>
+          并深度解析 Claude Code 等工具的进阶技巧。
+        </div>
+        <a href="issue-03-v3.html" class="result-btn">开始阅读</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Q3 最多选 3 项
+    document.querySelectorAll('.q3-opt').forEach(cb => {
+      cb.addEventListener('change', function() {
+        const checked = document.querySelectorAll('.q3-opt:checked');
+        if (checked.length > 3) {
+          this.checked = false;
+          alert('最多选择 3 项哦');
+        }
+      });
+    });
+
+    // 表单提交
+    document.getElementById('quiz-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const formData = new FormData(this);
+      const data = {
+        q1: formData.get('q1'),
+        q2: formData.getAll('q2'),
+        q2_other: formData.get('q2_other'),
+        q3: formData.getAll('q3'),
+      };
+
+      // 存到 localStorage
+      localStorage.setItem('ai-daily-assessment', JSON.stringify(data));
+
+      // 生成结果文案
+      const levelMap = {
+        'A': '纯小白',
+        'B': '入门新手',
+        'C': '进阶小白',
+        'D': '熟练玩家',
+        'E': '进阶玩家'
+      };
+      const tag = levelMap[data.q1] || '进阶小白';
+      const interests = data.q3.map(v => {
+        const map = {'A':'编程辅助','B':'内容创作','C':'图像视频','D':'办公提效','E':'学习教育','F':'智能体','G':'底层技术','H':'综合了解'};
+        return map[v];
+      }).filter(Boolean);
+
+      document.getElementById('result-tag').textContent = tag;
+      document.getElementById('result-desc').innerHTML =
+        '根据你的选择，我们会优先推送 <strong>' + interests.join('、') +
+        '</strong> 方向的内容。<br>并针对你使用的工具进行深度解析和技巧分享。';
+
+      document.getElementById('result-box').classList.add('show');
+      document.getElementById('quiz-form').style.display = 'none';
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

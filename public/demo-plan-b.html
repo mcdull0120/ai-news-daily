@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>方案 B · Tab 切换</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+  <style>
+    .pb-app { max-width:540px; margin:0 auto; min-height:100vh; background:#F0EBE4; }
+    .pb-hero { background:linear-gradient(165deg,#A8B5A0,#9AAFB7); padding:32px 16px 28px; color:#fff; text-align:center; }
+    .pb-hero h1 { font-size:22px; font-weight:700; line-height:1.4; margin-bottom:6px; }
+    .pb-hero p { font-size:13px; opacity:.9; }
+    .pb-tabs { display:flex; gap:8px; padding:16px; background:#fff; margin:0 16px 16px; border-radius:14px; box-shadow:0 2px 12px rgba(61,53,48,.08); }
+    .pb-tab { flex:1; text-align:center; padding:10px; border-radius:10px; font-size:14px; font-weight:600; color:#7A7168; background:#F5F0E8; border:none; cursor:pointer; font-family:inherit; }
+    .pb-tab.active { background:linear-gradient(135deg,#A8B5A0,#9AAFB7); color:#fff; }
+    .pb-content { padding:0 16px 24px; }
+    .pb-panel { display:none; opacity:0; transition:opacity .25s ease; }
+    .pb-panel.active { display:block; opacity:1; }
+    .pb-card { background:#fff; border-radius:16px; padding:20px; box-shadow:0 4px 24px rgba(74,64,56,.06); border:1px solid rgba(0,0,0,.04); }
+    .pb-header { display:flex; align-items:center; gap:8px; margin-bottom:10px; flex-wrap:wrap; }
+    .pb-tag { display:inline-block; padding:3px 10px; border-radius:8px; font-size:11px; font-weight:600; }
+    .pb-tag-major { background:#E8F0E0; color:#5A6B52; }
+    .pb-tag-break { background:#E8ECF0; color:#5A6B6E; }
+    .pb-tag-fun { background:#F5F0E8; color:#8A7568; }
+    .pb-source { font-size:12px; color:#9A9188; }
+    .pb-title { font-size:20px; font-weight:700; color:#3D3530; line-height:1.5; margin-bottom:10px; }
+    .pb-meta { font-size:12px; color:#9A9188; margin-bottom:14px; display:flex; gap:8px; align-items:center; }
+    .pb-abstract { background:#FAF8F5; border-radius:10px; padding:16px; margin-bottom:14px; }
+    .pb-abstract p { font-size:15px; color:#4A423A; line-height:1.8; }
+    .pb-abstract strong { color:#3D3530; }
+    .pb-bg { background:#F8FAF5; border-radius:10px; padding:14px 16px; margin-bottom:14px; border:1px solid #E0EBD8; }
+    .pb-bg h4 { font-size:13px; font-weight:700; color:#5A6B52; margin-bottom:10px; padding-left:8px; border-left:3px solid #A8B5A0; }
+    .pb-bg p { font-size:14px; color:#5A5048; line-height:1.8; margin-bottom:8px; }
+    .pb-bg p:last-child { margin-bottom:0; }
+    .pb-link { font-size:13px; margin-bottom:16px; }
+    .pb-link a { color:#9AAFB7; text-decoration:none; font-weight:500; }
+    .pb-analysis h4 { font-size:14px; font-weight:700; color:#3D3530; margin-bottom:10px; padding-left:10px; border-left:3px solid #B8A99A; }
+    .pb-analysis ul { list-style:none; padding:0; margin:0; }
+    .pb-analysis li { font-size:14px; color:#4A423A; line-height:1.9; padding-left:16px; position:relative; margin-bottom:10px; }
+    .pb-analysis li::before { content:'·'; position:absolute; left:0; color:#A8B5A0; font-weight:700; font-size:20px; line-height:1.3; }
+    .pb-analysis li strong { color:#3D3530; }
+    .pb-hint { text-align:center; padding:16px; font-size:12px; color:#B8A99A; }
+  </style>
+</head>
+<body>
+  <div class="pb-app">
+    <div class="pb-hero">
+      <h1>方案 B · Tab 切换</h1>
+      <p>点击 Tab 切换，内容区 100% 宽度</p>
+    </div>
+    <section class="section section-event" style="padding:0; background:transparent;">
+      <div class="section-header" style="margin:16px;">
+        <span class="section-num">01</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🔥 AI 大事件</h2>
+          <p class="section-subtitle">点击下方 Tab 自主切换想看的新闻</p>
+        </div>
+      </div>
+      <div class="pb-tabs">
+        <button class="pb-tab active" onclick="switchTab(0)">重磅</button>
+        <button class="pb-tab" onclick="switchTab(1)">突破</button>
+        <button class="pb-tab" onclick="switchTab(2)">趣味</button>
+      </div>
+      <div class="pb-content">
+        <div class="pb-panel active">
+          <div class="pb-card">
+            <div class="pb-header"><span class="pb-tag pb-tag-major">重磅</span><span class="pb-source">🇺🇸 Anthropic 官方</span></div>
+            <div class="pb-title">普华永道全球部署 Claude，交付时间缩短最高 70%</div>
+            <div class="pb-meta"><span>2026.05.15</span><span>·</span><span>Anthropic Newsroom</span></div>
+            <div class="pb-abstract"><p>普华永道与 Anthropic 宣布扩大战略联盟，将在全球数十万员工里部署 Claude AI 工具，培训认证 <strong>3 万名</strong>专业人员。实际数据显示交付时间缩短 <strong>70%</strong>——比如把保险承保周期从十周压到十天。</p></div>
+            <div class="pb-bg"><h4>🔍 背景补充</h4><p><strong>普华永道是谁？</strong>全球四大会计师事务所之一，员工超过 30 万。它不是一家"喜欢尝鲜"的公司——能让它全球部署的 AI 工具，意味着通过了极其严格的合规和安全审查。</p><p><strong>什么是"卓越中心"？</strong>简单说就是企业内部专门研究"怎么用 AI 干活"的部门。建这个中心意味着普华永道不是买几个账号试试，而是要把 Claude 嵌进核心业务流程。</p></div>
+            <div class="pb-link"><a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank" rel="noopener">阅读原文 →</a><span class="paywall-tip">（英文）</span></div>
+            <div class="pb-analysis"><h4>为什么值得关注？</h4><ul><li><strong>Claude 正在从"顾问"变成"员工"。</strong>普华永道不是让员工"试试看"Claude，而是直接把它嵌进业务流程里。这和 Claude Code 的逻辑一模一样——AI 不光要会聊，还要会干。</li><li><strong>70% 的压缩率意味着什么？</strong>不是说人变快了，是"人+AI"这个组合变快了。对咱们个人用户来说，这就是个信号：会用 AI 的人，和不会用的人，差距正在指数级拉大。</li></ul></div>
+          </div>
+        </div>
+        <div class="pb-panel">
+          <div class="pb-card">
+            <div class="pb-header"><span class="pb-tag pb-tag-break">突破</span><span class="pb-source">🇺🇸 Claude Code GitHub</span></div>
+            <div class="pb-title">Claude Code v2.1.142：MCP 增强 + Fast 模式升级</div>
+            <div class="pb-meta"><span>2026.05.14</span><span>·</span><span>GitHub Releases</span></div>
+            <div class="pb-abstract"><p>Claude Code 最新版本新增了 <strong>8 个命令行配置标志</strong>，包括 <code>--add-dir</code>、<code>--settings</code>、<code>--model</code> 等，方便配置后台会话。Fast 模式的默认模型升级为 Opus 4.7。插件功能也增强了——拥有根目录 <code>SKILL.md</code> 的插件现可被识别为技能。</p></div>
+            <div class="pb-bg"><h4>🔍 背景补充</h4><p><strong>MCP 是什么？</strong>Model Context Protocol（模型上下文协议），是 Claude 的"插件接口"。通过 MCP，Claude Code 可以连接外部工具（比如查新闻、操作数据库、发邮件）。这次更新让 MCP 工具的超时设置更稳定，意味着复杂操作不容易中途断了。</p><p><strong>SKILL.md 被识别为技能意味着什么？</strong>开发者以后给 Claude Code 写扩展更容易了——只要在项目根目录放一个 SKILL.md 文件，Claude Code 就能自动识别并加载其中的功能。门槛大幅降低。</p></div>
+            <div class="pb-link"><a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.142" target="_blank" rel="noopener">查看 Release →</a><span class="paywall-tip">（英文）</span></div>
+            <div class="pb-analysis"><h4>为什么值得关注？</h4><ul><li><strong>插件生态在加速。</strong>SKILL.md 被识别为技能，意味着 Claude Code 的扩展门槛降低了——开发者更容易给 Claude Code"装功能"，未来会有越来越多第三方插件出现。</li><li><strong>Fast 模式用 Opus 4.7。</strong>如果你经常用 Claude Code 处理复杂任务，升级后响应质量和速度都会有提升。对于进阶用户来说，这是一项实打实的体验升级。</li></ul></div>
+          </div>
+        </div>
+        <div class="pb-panel">
+          <div class="pb-card">
+            <div class="pb-header"><span class="pb-tag pb-tag-fun">趣味</span><span class="pb-source">💬 X：宝玉</span></div>
+            <div class="pb-title">为什么资深开发者讲不清自己的专业能力？</div>
+            <div class="pb-meta"><span>2026.05.15</span><span>·</span><span>X：宝玉 (@dotey)</span></div>
+            <div class="pb-abstract"><p>一篇很有意思的长文。作者说，业务团队活在"消除不确定性"的循环里——要的是快、是验证。而资深开发者活在"管理复杂性"的循环里——要的是稳、是不崩。两边语言不通，所以开发者说"这个需求会增加系统复杂度"，业务听成了"他不想干"。文章最后指出：AI 能写代码，但没法"承担责任"。</p></div>
+            <div class="pb-bg"><h4>🔍 背景补充</h4><p><strong>作者是谁？</strong>宝玉（@dotey），前阿里技术专家，现在在 AI 领域做独立观察。他的文章特点是：不讲技术细节，讲"技术人怎么看世界"。</p><p><strong>为什么这个话题突然火了？</strong>因为 AI 编程工具（Claude Code、Cursor）越来越强了，很多人开始问："如果 AI 能写代码，还要开发者干什么？"这篇文章的回答是：开发者的核心价值不是"写代码"，而是"为系统长期稳定承担责任"。</p></div>
+            <div class="pb-analysis"><h4>为什么值得关注？</h4><ul><li><strong>AI 能写代码，但没法"承担责任"。</strong>资深开发者不可替代的价值在于：系统塌了的时候，有人能兜底。AI 没有背锅能力，这是它和人之间最本质的差距。</li><li><strong>对小白用户的启示。</strong>你不需要成为"资深开发者"才能用 Claude Code。你要学的是怎么把任务拆清楚、怎么验收结果——这些能力，业务思维和工程思维都需要。</li></ul></div>
+          </div>
+        </div>
+      </div>
+      <div class="pb-hint">点击上方 Tab 切换不同新闻</div>
+    </section>
+  </div>
+  <script>
+    let currentIdx = 0;
+    const totalTabs = 3;
+    function switchTab(idx) {
+      if (idx < 0 || idx >= totalTabs) return;
+      currentIdx = idx;
+      document.querySelectorAll('.pb-tab').forEach((t,i)=>t.classList.toggle('active',i===idx));
+      document.querySelectorAll('.pb-panel').forEach((p,i)=>p.classList.toggle('active',i===idx));
+    }
+
+    // 左右滑动切换
+    (function(){
+      const container = document.querySelector('.pb-content');
+      let startX = 0, startY = 0, endX = 0, endY = 0;
+      container.addEventListener('touchstart', function(e){
+        startX = e.changedTouches[0].screenX;
+        startY = e.changedTouches[0].screenY;
+      }, {passive:true});
+      container.addEventListener('touchend', function(e){
+        endX = e.changedTouches[0].screenX;
+        endY = e.changedTouches[0].screenY;
+        const diffX = startX - endX;
+        const diffY = startY - endY;
+        // 水平位移超过 50px 且水平位移大于垂直位移（避免上下滑动误触）
+        if (Math.abs(diffX) > 50 && Math.abs(diffX) > Math.abs(diffY)) {
+          if (diffX > 0) {
+            switchTab(currentIdx + 1); // 左滑 → 下一个
+          } else {
+            switchTab(currentIdx - 1); // 右滑 → 上一个
+          }
+        }
+      }, {passive:true});
+    })();
+  </script>
+</body>
+</html>

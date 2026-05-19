@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 第 2 期</title>
+  <link rel="stylesheet" href="issue-v2-style.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 顶部封面 -->
+    <header class="hero">
+      <div class="hero-meta">
+        <span class="hero-badge">测试版 · 第 2 期</span>
+        <span class="hero-date">2026.05.14</span>
+      </div>
+      <h1 class="hero-title">AI 小白进阶日报</h1>
+      <p class="hero-theme">本期主题：Harness 驾驭能力 + 国内外模型差距</p>
+    </header>
+
+    <!-- 第一部分：今日事件 -->
+    <section class="section section-event">
+      <div class="section-tag">🔥 今日事件</div>
+
+      <h2 class="event-title">Anthropic 首次在 B2B 采用率上超越 OpenAI</h2>
+
+      <div class="event-source">
+        来源：Ramp AI 支出数据 ·
+        <a href="https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data" target="_blank" rel="noopener">阅读原文 →</a>
+        <span class="paywall-tip">（英文，需翻墙）</span>
+      </div>
+
+      <div class="event-what">
+        <h3>这是什么？</h3>
+        <p>美国企业 AI 支出数据出炉了：用 Claude（Anthropic）的企业占 <strong>34.4%</strong>，首次超过用 ChatGPT（OpenAI）的 <strong>32.3%</strong>。而且 Claude 的企业客户数量在一年内翻了 4 倍。</p>
+      </div>
+
+      <div class="event-why">
+        <h3>为什么值得关注？</h3>
+        <ul>
+          <li><strong>企业买单的逻辑变了。</strong>以前谁名气大谁赢，现在谁能真正"干活"谁赢。Claude 在编程、文档处理、复杂推理上的 Harness（驾驭能力）更强，所以企业愿意付费。</li>
+          <li><strong>B2B 市场看性价比和可控性。</strong>Claude 的 API 价格策略更激进，对企业数据安全、合规性的支持更好。</li>
+          <li><strong>但领先优势可能不稳。</strong>OpenAI 正在追赶，Google Gemini 在 B2B 也在发力，企业采购决策有滞后性。</li>
+        </ul>
+      </div>
+
+      <div class="event-learn">
+        <h3>可以学到什么？</h3>
+        <p>这条数据证明了一件事：<strong>"工具好不好用"（Harness）正在比"模型名不名气"（品牌）更重要。</strong> Claude 能反超，不是因为 Claude 模型比 GPT-4 聪明很多，而是因为 Claude 的"身体"（Claude Code、API 稳定性、企业功能）更适合干活。</p>
+      </div>
+
+      <div class="event-extend">
+        <h3>延伸启发</h3>
+        <p>对个人用户来说，选 AI 工具时不要只看"这个模型厉不厉害"，要看"这个工具能不能帮我真正解决问题"。一个智商 120 但会动手的助理，比智商 140 但只会动嘴的顾问更有价值。</p>
+      </div>
+    </section>
+
+    <!-- 第二部分：概念学习 -->
+    <section class="section section-concept">
+      <div class="section-tag">📚 概念学习</div>
+
+      <h2 class="concept-main-title">Harness（驾驭能力）到底是什么？</h2>
+
+      <p class="concept-intro">上一期我们讲了"大脑"和"身体"的区别。这期讲一个更深层的问题：<strong>为什么"身体"的好坏，往往比"大脑"更能决定你的体验？</strong></p>
+
+      <div class="concept-block">
+        <h3>一、从"聊天"到"干活"的进化</h3>
+        <p>想象两个助理：</p>
+        <p><strong>助理 A（普通对话 AI）：</strong>智商 140，哈佛毕业。你让他写个 PPT，他说："好的，这是 PPT 的结构大纲和内容。"然后... 没了。你自己打开 PowerPoint，复制粘贴，调格式，找配图。</p>
+        <p><strong>助理 B（Claude Code）：</strong>智商 120，普通大学毕业。你让他写个 PPT，他说："好的。"然后他自己打开 Gamma/Canva，生成 PPT，调好格式，插好图，发你链接。如果你说"字体太丑"，他自己改，改完再发你。</p>
+        <p><strong>你选谁？</strong>大多数人选 B。因为 B 的 Harness（驾驭系统）好——他不只是"会"，他是"能干"。</p>
+      </div>
+
+      <div class="concept-block">
+        <h3>二、Harness 的 5 个核心组件</h3>
+        <p>Harness 不是单一功能，而是一套"让大脑能干活"的系统：</p>
+
+        <div class="component-list">
+          <div class="component-item">
+            <span class="component-num">1</span>
+            <div class="component-text">
+              <strong>环境感知</strong>——读取周围的信息和文件。Claude Code 能自动扫描你整个代码库，理解项目结构；普通对话 AI 只能你手动复制粘贴代码给他。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">2</span>
+            <div class="component-text">
+              <strong>文件操作</strong>——读写、创建、删除文件。Claude Code 直接创建 index.html、style.css；普通对话 AI 给你代码文本，你自己保存。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">3</span>
+            <div class="component-text">
+              <strong>终端执行</strong>——运行命令、测试、部署。Claude Code 能运行 npm install、启动服务器、跑测试；普通对话 AI 无法执行任何命令。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">4</span>
+            <div class="component-text">
+              <strong>多步规划</strong>——把大任务拆成小步骤。"做网站"→建文件→写代码→调样式→测试→修复。普通对话 AI 只能单轮回答，没有长期记忆和规划。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">5</span>
+            <div class="component-text">
+              <strong>工具调用</strong>——调用外部 API、数据库、服务。Claude Code 通过 MCP/Skill 查新闻、操作数据库、发邮件。这就像 iPhone 的 App Store，装了 App 就无所不能。
+            </div>
+          </div>
+        </div>
+
+        <p class="component-summary"><strong>关键洞察：</strong>组件 1-3 是"基础体力"（让 AI 从动嘴变动手）；组件 4 是"脑力升级"（从回答问题变完成任务）；组件 5 是"无限扩展"（从单机变联网）。</p>
+      </div>
+
+      <div class="concept-block">
+        <h3>三、为什么 Claude Code 的 Harness 特别强</h3>
+        <p>同样是"身体"，Claude Code 的身体为什么比别的工具强？三个原因：</p>
+
+        <p><strong>1. 自主执行循环（Agentic Loop）</strong></p>
+        <p>普通工具的流程：你说 → 它答 → 结束。</p>
+        <p>Claude Code 的流程：你说 → 它理解 → 拆步骤 → 执行第 1 步 → 看结果 → 发现错误 → 自我修正 → 执行第 2 步 → ... → 完成 → 汇报。</p>
+        <p>这就像：普通 AI 是"你问一句，我答一句"的客服；Claude Code 是"你给我目标，我自己搞定"的项目经理。</p>
+
+        <p><strong>2. 上下文窗口管理</strong></p>
+        <p>大模型都有"上下文窗口"（一次能看多少字的限制）。Claude Code 的 Harness 会自动判断：这个任务需要看哪些文件？文件太长哪部分最重要？多轮对话后哪些信息不能丢？普通工具需要你手动管理这些（复制粘贴、反复提醒），Claude Code 自己搞定。</p>
+
+        <p><strong>3. 工具生态（MCP + Skill）</strong></p>
+        <p>Claude Code 不靠自己学会所有技能，而是通过标准化接口接入无限的外部工具：需要查新闻？装 AI HOT Skill。需要操作数据库？装数据库 MCP。这就像给厨师长配了一个"甜点师"助手，他原来不会做蛋糕，现在能做了。</p>
+      </div>
+
+      <div class="concept-block concept-highlight">
+        <h3>四、国内模型 vs 国外模型的真实差距</h3>
+        <p>上一期你说"我用的模型还是国内的模型"。这期回答你：差距到底在哪？值不值得"换发动机"？</p>
+
+        <p><strong>直观感受的差距：</strong></p>
+        <div class="gap-table">
+          <div class="gap-row gap-header">
+            <span>维度</span>
+            <span>国外顶尖</span>
+            <span>国内主流</span>
+          </div>
+          <div class="gap-row">
+            <span>回答质量</span>
+            <span>逻辑严密、举例贴切</span>
+            <span>日常 OK，复杂问题易"胡说"</span>
+          </div>
+          <div class="gap-row">
+            <span>创造力</span>
+            <span>写故事、想点子很强</span>
+            <span>偏保守，容易"标准答案化"</span>
+          </div>
+          <div class="gap-row">
+            <span>代码能力</span>
+            <span>能写复杂项目、调试、优化</span>
+            <span>能写简单代码，复杂项目易出错</span>
+          </div>
+          <div class="gap-row">
+            <span>长文本</span>
+            <span>能一次处理几十万字</span>
+            <span>通常 4K-16K，长文档易"遗忘"</span>
+          </div>
+          <div class="gap-row">
+            <span>诚实度</span>
+            <span>不知道就承认</span>
+            <span>有时会"幻觉"（自信地胡说）</span>
+          </div>
+        </div>
+        <p class="gap-note">注意：这个对比是"顶尖国外模型" vs "国内平均水平"。国内也有很强的模型（DeepSeek、Kimi、通义千问最新版），差距在缩小。</p>
+
+        <p><strong>技术差距的根源：</strong></p>
+        <ul>
+          <li><strong>训练数据：</strong>国外模型覆盖全球互联网，代码、论文、多语言内容极其丰富；国内模型中文数据强，但英文技术文档、开源代码覆盖相对弱。</li>
+          <li><strong>对齐技术：</strong>国外模型在"指令跟随"和"安全对齐"上投入更多；国内模型有时"对齐过度"——为了安全拒绝回答正常问题，或回答很模板化。</li>
+          <li><strong>推理能力：</strong>国外模型在复杂数学、逻辑推理、多步规划上更稳定；国内模型"一步推理"还行，"多步推理"容易在中间某步出错。</li>
+        </ul>
+
+        <p><strong>给你的实用建议：</strong></p>
+        <div class="advice-box">
+          <p><strong>国内模型够用：</strong>日常聊天、查资料、写简单文案、处理中文内容（古文、诗词、国内政策）、对数据隐私要求极高。</p>
+          <p><strong>建议用国外模型：</strong>编程开发、复杂推理/数据分析、长文档处理、创意工作、用 Claude Code / Cursor 等工具时。</p>
+          <p><strong>性价比方案：</strong>日常用国内（快+便宜），重要工作用国外（准+强），编程用 Claude Code。</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第三部分：技巧/案例 -->
+    <section class="section section-demo">
+      <div class="section-tag">🛠️ 技巧与案例</div>
+
+      <h2 class="demo-title">Harness 差距的直观对比</h2>
+
+      <p class="demo-scenario"><strong>场景：</strong>"帮我分析一下这份销售数据，找出问题并给出建议"</p>
+
+      <div class="demo-case">
+        <h4>国内模型（网页版）</h4>
+        <div class="demo-response demo-bad">
+          <p>[给你一段通用的销售分析框架]</p>
+          <p>建议：加强客户关系管理、优化产品线...</p>
+        </div>
+        <p class="demo-analysis">❌ 没有读你的数据文件。建议是"套话"，不针对你的具体情况。</p>
+      </div>
+
+      <div class="demo-case">
+        <h4>GPT-4（网页版）</h4>
+        <div class="demo-response demo-mid">
+          <p>[你手动复制粘贴数据后]</p>
+          <p>能指出几个数字异常。</p>
+        </div>
+        <p class="demo-analysis">⚠️ 但如果你数据量太大，复制粘贴很麻烦。如果你想让它画图，它只能给你代码，你自己运行。</p>
+      </div>
+
+      <div class="demo-case">
+        <h4>Claude Code + Claude 模型</h4>
+        <div class="demo-response demo-good">
+          <p>→ 读取 sales_2025.csv ... 完成（自动扫描文件）</p>
+          <p>→ 发现数据量 50 万行，自动采样分析 ... 完成</p>
+          <p>→ 发现 3 个异常：Q3 华南区下滑 40%、新品 A 退货率 25%、老客户复购率下降</p>
+          <p>→ 生成可视化图表 ... 完成</p>
+          <p>→ 给出针对性建议：华南区建议调研竞品 X、新品 A 建议暂停推广</p>
+          <p>→ 生成完整分析报告 report.html ... 完成</p>
+          <p>→ 打开浏览器展示报告</p>
+        </div>
+        <p class="demo-analysis">✅ 自动读文件、处理大数据、生成图表、输出报告。不是"模型懂不懂分析"的问题，而是"工具能不能干"的问题。</p>
+      </div>
+
+      <div class="demo-conclusion">
+        <p><strong>差距不在"懂不懂"，在"能不能干"。</strong> Harness 决定了一个 AI 是"顾问"还是"员工"。</p>
+      </div>
+    </section>
+
+    <!-- 第四部分：灵魂洞察 + 提问 -->
+    <section class="section section-insight">
+      <div class="section-tag">💡 灵魂洞察</div>
+
+      <div class="insight-quote">
+        <p>模型是"智商"，Harness 是"执行力"。</p>
+        <p>智商高的顾问很多，但能把事办成的员工稀缺。</p>
+        <p>选 AI 工具，先看它能不能干活，再看它聪不聪明。</p>
+      </div>
+
+      <div class="section-tag" style="margin-top: 32px;">🗣️ 今日一问</div>
+
+      <div class="quiz-list">
+        <div class="quiz-item">
+          <span class="quiz-q">Q1</span>
+          <p>看完 Harness 的讲解，你现在能理解"为什么 Claude Code 体验好"了吗？如果还有模糊的地方，告诉我具体哪部分。</p>
+        </div>
+        <div class="quiz-item">
+          <span class="quiz-q">Q2</span>
+          <p>关于国内模型 vs 国外模型的差距，哪一点最触动你？是代码能力？长文本？还是创造力？</p>
+        </div>
+        <div class="quiz-item">
+          <span class="quiz-q">Q3</span>
+          <p>你现在想"换发动机"（用国外模型）了吗？还是国内够用？或者想试试"双模型"方案（日常国内、重要工作国外）？</p>
+        </div>
+        <div class="quiz-item">
+          <span class="quiz-q">Q4</span>
+          <p>第三期你想看什么？A. 具体工具实操（Cursor/Coze 入门） B. AI 工作流设计 C. 继续深入概念（Agent/RAG/多模态）</p>
+        </div>
+      </div>
+
+      <p class="feedback-hint">直接回复你的答案，明天内容据此调整 ↑</p>
+    </section>
+
+    <!-- 底部 -->
+    <footer class="footer">
+      <p class="footer-title">AI 小白进阶日报</p>
+      <p class="footer-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
+      <p class="footer-meta">测试版 · 第 2 期 · 内容来自 AI HOT + 人工整理</p>
+    </footer>
+  </div>
+</body>
+</html>

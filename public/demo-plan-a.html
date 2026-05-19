@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>方案 A · 接近满屏滑动</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+  <style>
+    .pa-app { max-width:540px; margin:0 auto; min-height:100vh; background:#F0EBE4; }
+    .pa-hero { background:linear-gradient(165deg,#A8B5A0,#9AAFB7); padding:32px 16px 28px; color:#fff; text-align:center; }
+    .pa-hero h1 { font-size:22px; font-weight:700; line-height:1.4; margin-bottom:6px; }
+    .pa-hero p { font-size:13px; opacity:.9; }
+    .pa-carousel { display:flex; overflow-x:auto; scroll-snap-type:x mandatory; gap:0; padding:0 6px; -webkit-overflow-scrolling:touch; scrollbar-width:none; }
+    .pa-carousel::-webkit-scrollbar { display:none; }
+    .pa-card { flex:0 0 calc(100% - 12px); scroll-snap-align:center; background:#fff; border-radius:16px; padding:20px 16px; margin-right:6px; box-shadow:0 4px 24px rgba(74,64,56,.06); border:1px solid rgba(0,0,0,.04); }
+    .pa-header { display:flex; align-items:center; gap:8px; margin-bottom:10px; flex-wrap:wrap; }
+    .pa-tag { display:inline-block; padding:3px 10px; border-radius:8px; font-size:11px; font-weight:600; }
+    .pa-tag-major { background:#E8F0E0; color:#5A6B52; }
+    .pa-tag-break { background:#E8ECF0; color:#5A6B6E; }
+    .pa-tag-fun { background:#F5F0E8; color:#8A7568; }
+    .pa-source { font-size:12px; color:#9A9188; }
+    .pa-title { font-size:18px; font-weight:700; color:#3D3530; line-height:1.5; margin-bottom:10px; }
+    .pa-meta { font-size:12px; color:#9A9188; margin-bottom:12px; display:flex; gap:8px; align-items:center; }
+    .pa-abstract { background:#FAF8F5; border-radius:10px; padding:14px; margin-bottom:12px; }
+    .pa-abstract p { font-size:14px; color:#4A423A; line-height:1.8; }
+    .pa-abstract strong { color:#3D3530; }
+    .pa-bg { background:#F8FAF5; border-radius:10px; padding:12px 14px; margin-bottom:12px; border:1px solid #E0EBD8; }
+    .pa-bg h4 { font-size:12px; font-weight:700; color:#5A6B52; margin-bottom:8px; padding-left:8px; border-left:3px solid #A8B5A0; }
+    .pa-bg p { font-size:13px; color:#5A5048; line-height:1.7; margin-bottom:6px; }
+    .pa-bg p:last-child { margin-bottom:0; }
+    .pa-link { font-size:13px; margin-bottom:12px; }
+    .pa-link a { color:#9AAFB7; text-decoration:none; font-weight:500; }
+    .pa-analysis h4 { font-size:13px; font-weight:700; color:#3D3530; margin-bottom:8px; padding-left:10px; border-left:3px solid #B8A99A; }
+    .pa-analysis ul { list-style:none; padding:0; margin:0; }
+    .pa-analysis li { font-size:13px; color:#4A423A; line-height:1.8; padding-left:14px; position:relative; margin-bottom:8px; }
+    .pa-analysis li::before { content:'·'; position:absolute; left:0; color:#A8B5A0; font-weight:700; font-size:20px; line-height:1.2; }
+    .pa-hint { display:flex; align-items:center; justify-content:flex-end; gap:6px; margin-top:10px; font-size:12px; color:#B8A99A; }
+    .pa-hint .arrow { font-size:14px; animation:bounceR 1.5s infinite; }
+    @keyframes bounceR { 0%,100%{transform:translateX(0);} 50%{transform:translateX(4px);} }
+    .pa-dots { display:flex; justify-content:center; gap:8px; padding:16px 0; }
+    .pa-dot { width:8px; height:8px; border-radius:50%; background:#D0C8C0; transition:all .3s; }
+    .pa-dot.active { width:20px; border-radius:4px; background:#A8B5A0; }
+  </style>
+</head>
+<body>
+  <div class="pa-app">
+    <div class="pa-hero">
+      <h1>方案 A · 接近满屏滑动</h1>
+      <p>卡片占 98% 宽度，两侧只留 3% 缝隙</p>
+    </div>
+    <section class="section section-event" style="padding-bottom:0;">
+      <div class="section-header" style="margin:16px;">
+        <span class="section-num">01</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🔥 AI 大事件</h2>
+          <p class="section-subtitle">左右滑动，缝隙里能看到下一张</p>
+        </div>
+      </div>
+      <div class="pa-carousel">
+        <article class="pa-card">
+          <div class="pa-header"><span class="pa-tag pa-tag-major">重磅</span><span class="pa-source">🇺🇸 Anthropic 官方</span></div>
+          <div class="pa-title">普华永道全球部署 Claude，交付时间缩短最高 70%</div>
+          <div class="pa-meta"><span>2026.05.15</span><span>·</span><span>Anthropic Newsroom</span></div>
+          <div class="pa-abstract"><p>普华永道与 Anthropic 宣布扩大战略联盟，将在全球数十万员工里部署 Claude AI 工具，培训认证 <strong>3 万名</strong>专业人员。实际数据显示交付时间缩短 <strong>70%</strong>。</p></div>
+          <div class="pa-bg"><h4>🔍 背景补充</h4><p><strong>普华永道是谁？</strong>全球四大会计师事务所之一，员工超过 30 万。能让它全球部署的 AI 工具，意味着通过了极其严格的合规和安全审查。</p></div>
+          <div class="pa-analysis"><h4>为什么值得关注？</h4><ul><li><strong>Claude 正在从"顾问"变成"员工"。</strong>这和 Claude Code 的逻辑一模一样——AI 不光要会聊，还要会干。</li><li><strong>70% 的压缩率意味着：</strong>"人+AI"这个组合变快了。会用 AI 的人，和不会用的人，差距正在指数级拉大。</li></ul></div>
+          <div class="pa-hint"><span>右滑查看下一条</span><span class="arrow">→</span></div>
+        </article>
+        <article class="pa-card">
+          <div class="pa-header"><span class="pa-tag pa-tag-break">突破</span><span class="pa-source">🇺🇸 Claude Code GitHub</span></div>
+          <div class="pa-title">Claude Code v2.1.142：MCP 增强 + Fast 模式升级</div>
+          <div class="pa-meta"><span>2026.05.14</span><span>·</span><span>GitHub Releases</span></div>
+          <div class="pa-abstract"><p>Claude Code 最新版本新增了 <strong>8 个命令行配置标志</strong>，Fast 模式的默认模型升级为 Opus 4.7。插件功能也增强了——拥有根目录 <code>SKILL.md</code> 的插件现可被识别为技能。</p></div>
+          <div class="pa-bg"><h4>🔍 背景补充</h4><p><strong>MCP 是什么？</strong>Model Context Protocol（模型上下文协议），是 Claude 的"插件接口"。通过 MCP，Claude Code 可以连接外部工具。</p></div>
+          <div class="pa-analysis"><h4>为什么值得关注？</h4><ul><li><strong>插件生态在加速。</strong>SKILL.md 被识别为技能，意味着 Claude Code 的扩展门槛降低了。</li><li><strong>Fast 模式用 Opus 4.7。</strong>如果你经常用 Claude Code 处理复杂任务，升级后响应质量和速度都会有提升。</li></ul></div>
+          <div class="pa-hint"><span>右滑查看下一条</span><span class="arrow">→</span></div>
+        </article>
+        <article class="pa-card">
+          <div class="pa-header"><span class="pa-tag pa-tag-fun">趣味</span><span class="pa-source">💬 X：宝玉</span></div>
+          <div class="pa-title">为什么资深开发者讲不清自己的专业能力？</div>
+          <div class="pa-meta"><span>2026.05.15</span><span>·</span><span>X：宝玉 (@dotey)</span></div>
+          <div class="pa-abstract"><p>业务团队活在"消除不确定性"的循环里——要的是快、是验证。而资深开发者活在"管理复杂性"的循环里——要的是稳、是不崩。两边语言不通。</p></div>
+          <div class="pa-bg"><h4>🔍 背景补充</h4><p><strong>作者是谁？</strong>宝玉（@dotey），前阿里技术专家。不讲技术细节，讲"技术人怎么看世界"。</p></div>
+          <div class="pa-analysis"><h4>为什么值得关注？</h4><ul><li><strong>AI 能写代码，但没法"承担责任"。</strong>资深开发者不可替代的价值在于：系统塌了的时候，有人能兜底。</li><li><strong>对小白用户的启示。</strong>你不需要成为"资深开发者"才能用 Claude Code。</li></ul></div>
+          <div class="pa-hint" style="opacity:.5;"><span>到底啦</span></div>
+        </article>
+      </div>
+      <div class="pa-dots"><span class="pa-dot active"></span><span class="pa-dot"></span><span class="pa-dot"></span></div>
+    </section>
+  </div>
+</body>
+</html>

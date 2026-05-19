@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 第 3 期</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+</head>
+<body>
+  <div class="app">
+
+    <!-- 顶部封面 -->
+    <header class="hero">
+      <div class="hero-meta">
+        <span class="hero-badge">测试版</span>
+        <span class="hero-date">2026.05.15</span>
+      </div>
+      <h1 class="hero-title">从知道到会用：<br>Claude Code<br>到底能帮你干什么？</h1>
+      <p class="hero-theme">第 3 期 · 预计阅读 12 分钟</p>
+    </header>
+
+    <!-- 第一部分：AI 大事件（3 条滑动卡片） -->
+    <section class="section section-event">
+      <div class="section-header">
+        <span class="section-num">01</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🔥 AI 大事件</h2>
+          <p class="section-subtitle">精选 3 条值得关注的 AI 行业动态，左右滑动查看</p>
+        </div>
+      </div>
+
+      <div class="news-carousel">
+        <!-- 卡片 1：重磅级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-major">重磅</span>
+          <h3 class="news-title">普华永道全球部署 Claude，交付时间缩短最高 70%</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.15</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">Anthropic 官方新闻</span>
+          </div>
+          <div class="news-abstract">
+            <p>普华永道宣布扩大与 Anthropic 的战略合作，要在全球数十万员工里部署 Claude。双方还准备建一个卓越中心，培训认证 3 万名专业人员。实际数据显示，Claude 在保险承保、网络安全等领域能把交付时间缩短 <strong>70%</strong>——比如把保险承保周期从十周压到十天。</p>
+          </div>
+          <div class="news-link">
+            <a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank" rel="noopener">阅读原文 →</a>
+            <span class="paywall-tip">（英文）</span>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>Claude 正在从"顾问"变成"员工"。</strong>普华永道不是让员工"试试看"Claude，而是直接把它嵌进业务流程里。这和 Claude Code 的逻辑一模一样——AI 不光要会聊，还要会干。</li>
+              <li><strong>70% 的压缩率意味着什么？</strong>不是说人变快了，是"人+AI"这个组合变快了。对咱们个人用户来说，这就是个信号：会用 AI 的人，和不会用的人，差距正在指数级拉大。</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- 卡片 2：突破级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-break">突破</span>
+          <h3 class="news-title">OpenAI 给 Codex 建了一个 Windows 安全沙箱</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.15</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">OpenAI 官网动态</span>
+          </div>
+          <div class="news-abstract">
+            <p>OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。这个"沙箱"说白了就是给 AI 造了一个带围栏的游乐场——它能在这范围内随便跑代码、读写文件，但 <strong>跨出围栏的操作一律禁止</strong>。这样既让 AI 能干活，又保证它不会把你电脑搞坏。</p>
+          </div>
+          <div class="news-link">
+            <a href="https://openai.com/index/building-codex-windows-sandbox" target="_blank" rel="noopener">阅读原文 →</a>
+            <span class="paywall-tip">（英文）</span>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>上期讲的 Harness，缺了安全就不是 Harness。</strong>让 AI 在电脑上自由操作，风险是真实存在的。Codex 用沙箱解决，Claude Code 用的是"每次执行前问你"的方式。两种思路，但目标一致：让 AI 能干，但不能乱干。</li>
+              <li><strong>对小白用户的意义。</strong>很多人不敢用 Claude Code，怕它删错文件。其实它的安全机制比你想的完善——所有敏感操作都要你点确认，你不允许的事它一件不会做。</li>
+            </ul>
+          </div>
+        </article>
+
+        <!-- 卡片 3：趣味级 -->
+        <article class="news-card">
+          <span class="news-tag news-tag-fun">趣味</span>
+          <h3 class="news-title">为什么资深开发者讲不清自己的专业能力？</h3>
+          <div class="news-meta">
+            <span class="news-time">2026.05.15</span>
+            <span class="news-divider">·</span>
+            <span class="news-source">X：宝玉</span>
+          </div>
+          <div class="news-abstract">
+            <p>一篇很有意思的长文。作者说，业务团队活在"消除不确定性"的循环里——他们要的是快、是验证。而资深开发者活在"管理复杂性"的循环里——他们要的是稳、是不崩。两边语言不通，所以开发者说"这个需求会增加系统复杂度"，业务听成了"他不想干"。</p>
+          </div>
+          <div class="news-analysis">
+            <h4>为什么值得关注？</h4>
+            <ul>
+              <li><strong>AI 能写代码，但没法"承担责任"。</strong>文章最后说了，资深开发者不可替代的价值在于：系统塌了的时候，有人能兜底。AI 没有背锅能力，这是它和人之间最本质的差距。</li>
+              <li><strong>对小白用户的启示。</strong>你不需要成为"资深开发者"才能用 Claude Code。你要学的是怎么把任务拆清楚、怎么验收结果——这些能力，业务思维和工程思维都需要。</li>
+            </ul>
+          </div>
+        </article>
+      </div>
+
+      <div class="carousel-dots">
+        <span class="dot active"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+      </div>
+
+      <div class="event-summary">
+        <p><strong>三条新闻的共同点：</strong>都在说同一件事——AI 正在从"能说"变成"能干"。但"能干"的前提是安全、可控、有边界。普华永道用 Claude 干专业的事，Codex 用沙箱保安全，开发者用经验兜底。<strong>对咱们来说，学会用 Claude Code，就是学会给 AI 设边界、下指令、验结果。</strong></p>
+      </div>
+    </section>
+
+    <!-- 第二部分：概念 & 案例 -->
+    <section class="section section-concept">
+      <div class="section-header">
+        <span class="section-num">02</span>
+        <div class="section-header-text">
+          <h2 class="section-title">📚 概念 & 案例</h2>
+          <p class="section-subtitle">Claude Code 是怎么把 Harness"落地"的</p>
+        </div>
+      </div>
+
+      <!-- 概念引入 -->
+      <div class="concept-intro-box">
+        <p class="concept-intro-text">上期我们聊了 Harness 的 5 个组件——环境感知、文件操作、终端执行、多步规划、工具调用。很多朋友看完还是懵：这些组件在 Claude Code 里到底长什么样？</p>
+        <p class="concept-intro-text">我跟你说，Claude Code 就是把这 5 块拼图串起来的一个具体产品。<strong>它不是 Claude 的网页版，它是 Claude 的"动手版"。</strong>今天一个一个拆开给你看。</p>
+      </div>
+
+      <div class="concept-content">
+        <h3>一、Claude Code 到底是什么？</h3>
+        <p>先做个类比：</p>
+        <p><strong>普通对话 AI</strong> 就像一个电话客服。你问他怎么修水管，他说："先关水阀，再拧螺丝..." 你挂了电话，自己翻工具箱、找扳手、拧到一半发现尺寸不对。</p>
+        <p><strong>Claude Code</strong> 就像一个带着全套工具的维修师傅上门。你说"水管漏了"，他自己找水阀、拧螺丝、测压力，修完还拍照给你确认。</p>
+        <p><strong>差别就在 Harness——有没有手。</strong></p>
+
+        <h3>二、5 个组件在 Claude Code 里的样子</h3>
+        <p>上期讲了概念，这次我直接给你看"实物"：</p>
+
+        <div class="component-list">
+          <div class="component-item">
+            <span class="component-num">1</span>
+            <div class="component-text">
+              <strong>环境感知</strong>——你打开 Claude Code，它自动扫描当前文件夹里的所有代码，理解项目结构。你不需要手动复制粘贴代码给它，它自己看。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">2</span>
+            <div class="component-text">
+              <strong>文件操作</strong>——你说"新建一个 about.html"，它直接创建文件、写入内容、保存。不需要你来回切换窗口复制粘贴。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">3</span>
+            <div class="component-text">
+              <strong>终端执行</strong>——它能运行 npm install 装依赖、启动本地服务器、跑测试脚本。你之前要在终端里一行行敲的命令，它帮你执行。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">4</span>
+            <div class="component-text">
+              <strong>多步规划</strong>——你说"帮我做个个人博客"，它自动拆成：建文件夹 → 写首页 → 写样式 → 启动服务器 → 打开浏览器。一步接一步，不用你催。
+            </div>
+          </div>
+          <div class="component-item">
+            <span class="component-num">5</span>
+            <div class="component-text">
+              <strong>工具调用</strong>——通过 MCP 接口，它能查新闻、操作数据库、发邮件。就像给 Claude Code 装 App，装了就能干更多事。
+            </div>
+          </div>
+        </div>
+
+        <div class="concept-summary">
+          <p><strong>一句话总结：</strong>1-3 是"手"（能动手干），4 是"脑"（知道先干啥后干啥），5 是"外挂"（能干的事无限扩展）。</p>
+        </div>
+
+        <h3>三、安全问题：它会不会把我电脑搞坏？</h3>
+        <p>这是我最常被问到的问题。坦率的讲，完全不管让 AI 在电脑上随便跑，确实有风险。但 Claude Code 有三道保险：</p>
+        <p><strong>第一道：执行前确认。</strong>所有涉及文件修改、命令执行的敏感操作，Claude Code 都会先问你"我要执行这个，可以吗？" 你不点头，它不动。</p>
+        <p><strong>第二道：黑白名单。</strong>你可以设置"允许操作的范围"，比如只允许修改某个文件夹，其他地方的文件一律不动。</p>
+        <p><strong>第三道：完整日志。</strong>它干了什么、改了哪个文件、跑了什么命令，全部有记录。出了问题你可以回溯。</p>
+        <p>你想想看，这比很多真人助理还靠谱——至少它不会背着你偷偷干。</p>
+
+        <h3>四、和 Codex CLI 的区别</h3>
+        <p>上期我们提到 Codex CLI 是 Claude Code 的竞品，这期它出了 Windows 沙箱。两款工具核心差别在哪？</p>
+        <p><strong>Codex CLI</strong> 更像一个"超级自动补全"——你在写代码的时候它帮你补、帮你改、帮你跑测试。它的沙箱是"隔离式安全"：AI 被关在一个小房间里，随便折腾，但出不了门。</p>
+        <p><strong>Claude Code</strong> 更像一个"项目经理"——你给它目标，它自己规划步骤、协调工具、推动执行。它的安全是"许可式安全"：每一步都先问你，你才是最终拍板的人。</p>
+        <p><strong>你选哪个？</strong>如果你主要是写代码，Codex 更顺手；如果你经常需要"从零搭一个东西"，Claude Code 更省心。</p>
+      </div>
+
+      <!-- 过渡转场 -->
+      <div class="transition-box">
+        <p>上面讲的都是理论，可能你还是没感觉。现在咱们来一个真实对比——同一个需求，三种工具分别怎么回应。</p>
+      </div>
+
+      <!-- 案例对比 -->
+      <div class="case-section">
+        <div class="demo-scenario">
+          <span class="scenario-label">实验场景</span>
+          <p class="scenario-text">"帮我搭建一个个人博客网站"</p>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-bad">国内模型（网页版）</span>
+          </div>
+          <div class="demo-response demo-bad">
+            <p>[给你一段"如何搭建个人博客"的通用教程]</p>
+            <p>步骤一：购买域名和服务器</p>
+            <p>步骤二：安装 WordPress 或 Hexo</p>
+            <p>步骤三：选择主题并配置...</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">❌</span>
+            <p>它"懂"做博客，但没动手。剩下的所有步骤——买域名、装环境、调配置——全是你自己的事。它给的是地图，不是司机。</p>
+          </div>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-warn">GPT-4（网页版）</span>
+          </div>
+          <div class="demo-response demo-mid">
+            <p>[你手动复制粘贴需求后]</p>
+            <p>生成 index.html 和 style.css 的代码</p>
+            <p>代码如下：[一大段 HTML/CSS]</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">⚠️</span>
+            <p>模型够聪明，能写出完整的博客代码。但你得自己新建文件、复制粘贴、保存、用浏览器打开。如果代码有错，你还得把报错信息复制回来再问他。</p>
+          </div>
+        </div>
+
+        <div class="demo-case">
+          <div class="demo-case-header">
+            <span class="demo-badge demo-badge-good">Claude Code + Claude 模型</span>
+          </div>
+          <div class="demo-response demo-good">
+            <p>→ 创建文件夹 my-blog ... 完成</p>
+            <p>→ 生成 index.html ... 完成</p>
+            <p>→ 生成 style.css ... 完成</p>
+            <p>→ 启动本地服务器 http://localhost:3000 ... 完成</p>
+            <p>→ 自动打开浏览器 ... 完成</p>
+            <p>→ 你说"字体太丑"</p>
+            <p>→ 修改 style.css 中字体配置 ... 完成</p>
+            <p>→ 刷新浏览器确认效果 ... 完成</p>
+          </div>
+          <div class="demo-analysis">
+            <span class="analysis-icon">✅</span>
+            <p>从建文件到跑起来到修改，一条龙干完。你不是在"学怎么做博客"，你是在"直接拥有一个博客"。差距不在懂不懂，在能不能干。</p>
+          </div>
+        </div>
+
+        <div class="demo-conclusion">
+          <p><strong>差距不在"懂不懂"，在"能不能干"。</strong></p>
+          <p>Claude Code 不是让你变成程序员，它是让"做一个网站"这件事从"学三个月"变成"聊十分钟"。</p>
+        </div>
+      </div>
+
+      <div class="concept-outro-box">
+        <h4>本节小结</h4>
+        <p>Claude Code 的本质就是 Harness 的一个<strong>具体落地产品</strong>。它不改变 Claude 模型的"智商"，但把这个智商变成了一双能干活的手。</p>
+      </div>
+    </section>
+
+    <!-- 第三部分：灵魂洞察 -->
+    <section class="section section-insight">
+      <div class="section-header">
+        <span class="section-num">03</span>
+        <div class="section-header-text">
+          <h2 class="section-title">💡 灵魂洞察</h2>
+          <p class="section-subtitle">不只关于技术，关于人与工具</p>
+        </div>
+      </div>
+
+      <div class="insight-content">
+        <div class="insight-quote-main">
+          <p>普华永道不是被 Claude 替代了 30 万员工，</p>
+          <p>而是这 30 万人每人多了个能干活的助理。</p>
+          <p class="insight-highlight">问题从来不是"AI 会不会让我失业"，<br>而是"我会不会让 AI 替我思考"。</p>
+        </div>
+
+        <div class="insight-body">
+          <p>我跟你说个 analogy（类比）。Claude Code 就像一把电钻。</p>
+          <p>你不会因为有了电钻就变成木匠。但你如果会用电钻，你打孔的速度就是手摇钻的十倍。关键是——<strong>你知道要在哪里打孔</strong>。</p>
+
+          <p>今天那篇"资深开发者讲不清专业能力"的文章，其实讲的就是这个。业务团队问的是"能不能快点"，开发者答的是"系统会不会崩"。两边都没错，但两边说的不是一件事。</p>
+          <p>AI 的出现，其实给了第三种可能：<strong>你不需要成为资深开发者，也能做出不错的东西。</strong> Claude Code 把"写代码"这件事的门槛，从"学三年"降到了"说清楚需求"。</p>
+
+          <p>但这里有个坑，我得提醒你。</p>
+          <p>很多人用 Claude Code 的时候，会犯一个错误：把思考也外包给 AI。"帮我做个网站"——然后 AI 怎么做你完全不管，最后出来的东西不满意，你又怪 AI 不行。</p>
+          <p>说真的，<strong>AI 是杠杆，不是替身。</strong>杠杆放大的是你的方向感。方向对了，十倍速；方向错了，十倍错。</p>
+
+          <p>普华永道的员工为什么能把交付时间压 70%？不是因为他们把脑子丢了全交给 AI，而是他们知道"这个任务的目标是什么、验收标准是什么、哪里可能出问题"。AI 负责执行，人负责判断。</p>
+
+          <p>所以回到那个问题：用 AI 多了会不会变笨？</p>
+          <p>我的感受是，<strong>关键不在"用不用"，而在"怎么用"。</strong> 你把 AI 当"代笔者"，脑子确实会退化。你把 AI 当"电钻"，手会越来越稳。</p>
+
+          <p>模型是电钻，Harness 是电源，<strong>你才是那个握钻的人</strong>。握钻不需要博士学历，需要的是知道"我要做个什么东西"。</p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- 第四部分：今日一问 -->
+    <section class="section section-quiz">
+      <div class="section-header">
+        <span class="section-num">04</span>
+        <div class="section-header-text">
+          <h2 class="section-title">🗣️ 今日一问</h2>
+          <p class="section-subtitle">你的反馈决定下期的内容</p>
+        </div>
+      </div>
+
+      <div class="quiz-single">
+        <div class="quiz-question">
+          <span class="quiz-icon">🤔</span>
+          <p>关于 Claude Code 或 AI 编程工具，你最想了解什么？</p>
+        </div>
+        <div class="quiz-options">
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="none" />
+            <span class="option-marker"></span>
+            <span class="option-text">暂无，等下期看看 👀</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="project" />
+            <span class="option-marker"></span>
+            <span class="option-text">想看从零开始：用 Claude Code 做一个完整项目</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="compare" />
+            <span class="option-marker"></span>
+            <span class="option-text">想了解 Cursor、Windsurf、Claude Code 三款工具怎么选</span>
+          </label>
+          <label class="quiz-option">
+            <input type="checkbox" name="quiz" value="mcp" />
+            <span class="option-marker"></span>
+            <span class="option-text">想深入 MCP / Skill：怎么给 Claude Code"装插件"</span>
+          </label>
+        </div>
+        <div class="quiz-input-wrap">
+          <input type="text" class="quiz-input" placeholder="输入其他你想了解的内容" />
+        </div>
+        <button type="button" class="quiz-submit" onclick="this.textContent='✅ 反馈已收到，谢谢！'; this.disabled=true;">提交反馈</button>
+        <p class="quiz-hint">点击选项或输入想法后提交，你的反馈将决定下期内容方向。</p>
+      </div>
+    </section>
+
+    <!-- 底部 -->
+    <footer class="footer">
+      <p class="footer-title">AI 小白进阶日报</p>
+      <p class="footer-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
+      <p class="footer-meta">测试版 · 第 3 期 · 内容来自 AI HOT + 人工整理</p>
+    </footer>
+  </div>
+</body>
+</html>

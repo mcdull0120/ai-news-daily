@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>AI 小白进阶日报 · 深度版</title>
+  <link rel="stylesheet" href="issue-v3-style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    .deep-app {
+      max-width: 540px;
+      margin: 0 auto;
+      min-height: 100vh;
+      background: #F0EBE4;
+    }
+
+    /* ===== 封面：莫兰迪纯色渐变 ===== */
+    .hero {
+      background: linear-gradient(165deg, #9AAFB7 0%, #A8B5A0 100%);
+      padding: 48px 24px 40px;
+      color: #fff;
+      text-align: center;
+    }
+    .hero-meta { display: flex; justify-content: center; margin-bottom: 18px; }
+    .hero-badge {
+      font-size: 12px;
+      background: rgba(255,255,255,0.2);
+      padding: 4px 14px;
+      border-radius: 20px;
+      font-weight: 500;
+    }
+    .hero-title {
+      font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', serif;
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 8px;
+      letter-spacing: 1px;
+    }
+    .hero-theme {
+      font-size: 13px;
+      opacity: 0.85;
+      font-weight: 500;
+    }
+
+    /* ===== 章节标题（标准 section-header 风格） ===== */
+    .collage-section {
+      padding: 0 16px 24px;
+    }
+    .collage-header {
+      background: #fff;
+      border-radius: 14px;
+      padding: 20px 22px;
+      margin-bottom: 16px;
+      box-shadow: 0 2px 12px rgba(61,53,48,0.08);
+      border-left: 4px solid #A8B5A0;
+    }
+    .collage-title-line {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+    .collage-num {
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 1;
+      letter-spacing: -1px;
+      font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', serif;
+      color: inherit;
+    }
+    .collage-title-text {
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 1.3;
+      color: inherit;
+    }
+    .collage-subtitle {
+      font-size: 13px;
+      color: #9A9188;
+      line-height: 1.6;
+    }
+
+    /* ===== 手风琴新闻区 ===== */
+    .pc-body { padding: 0 0 24px; }
+    .pc-item { background: #fff; border-radius: 16px; margin-bottom: 12px; box-shadow: 0 2px 12px rgba(61,53,48,0.06); border: 1px solid rgba(0,0,0,0.04); overflow: hidden; }
+    .pc-bar { padding: 18px 16px; cursor: pointer; }
+    .pc-bar-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+    .pc-bar-tag { display: inline-block; padding: 3px 10px; border-radius: 8px; font-size: 11px; font-weight: 600; }
+    .pc-bar-tag.major { background: #E8F0E0; color: #5A6B52; }
+    .pc-bar-tag.agent { background: #E8ECF0; color: #5A6B6E; }
+    .pc-bar-tag.career { background: #F5F0E8; color: #8A7568; }
+    .pc-bar-source { font-size: 12px; color: #9A9188; }
+    .pc-bar-title { font-size: 18px; font-weight: 700; color: #3D3530; line-height: 1.5; }
+    .pc-bar-action { font-size: 12px; color: #B8A99A; margin-top: 10px; display: flex; align-items: center; justify-content: flex-end; gap: 4px; }
+    .pc-bar-action::after { content: '↓'; font-size: 10px; }
+    .pc-item.expanded .pc-bar-action { display: none; }
+    .pc-content { max-height: 0; overflow: hidden; transition: max-height .3s ease; }
+    .pc-item.expanded .pc-content { max-height: 3000px; }
+    .pc-inner { padding: 0 16px 16px; }
+    .pc-source { font-size: 12px; color: #9A9188; margin-bottom: 10px; display: flex; gap: 8px; align-items: center; }
+    .pc-abstract { background: #FAF8F5; border-radius: 10px; padding: 14px; margin-bottom: 12px; }
+    .pc-abstract p { font-size: 14px; color: #4A423A; line-height: 1.8; }
+    .pc-abstract strong { color: #3D3530; }
+    .pc-bg { background: #F8FAF5; border-radius: 10px; padding: 12px 14px; margin-bottom: 12px; border: 1px solid #E0EBD8; }
+    .pc-bg h4 { font-size: 12px; font-weight: 700; color: #5A6B52; margin-bottom: 8px; padding-left: 8px; border-left: 3px solid #A8B5A0; }
+    .pc-bg p { font-size: 13px; color: #5A5048; line-height: 1.7; margin-bottom: 6px; }
+    .pc-bg p:last-child { margin-bottom: 0; }
+    .pc-link { font-size: 13px; margin-bottom: 12px; }
+    .pc-link a { color: #9AAFB7; text-decoration: none; font-weight: 500; }
+    .pc-analysis h4 { font-size: 13px; font-weight: 700; color: #3D3530; margin-bottom: 8px; padding-left: 10px; border-left: 3px solid #B8A99A; }
+    .pc-analysis ul { list-style: none; padding: 0; margin: 0; }
+    .pc-analysis li { font-size: 13px; color: #4A423A; line-height: 1.8; padding-left: 14px; position: relative; margin-bottom: 8px; }
+    .pc-analysis li::before { content: '·'; position: absolute; left: 0; color: #A8B5A0; font-weight: 700; font-size: 20px; line-height: 1.2; }
+    .pc-analysis li strong { color: #3D3530; }
+    .pc-close { text-align: center; padding-top: 12px; }
+    .pc-close-btn { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; color: #B8A99A; font-weight: 500; cursor: pointer; padding: 6px 14px; border-radius: 20px; background: #F5F0E8; transition: all .2s; }
+    .pc-close-btn:hover { color: #7A7168; background: #EDE8E0; }
+
+    /* ===== 底部 ===== */
+    /* ===== 知识深潜 ===== */
+    .knowledge-content { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 2px 12px rgba(61,53,48,0.06); border: 1px solid rgba(0,0,0,0.04); }
+    .knowledge-intro { font-size: 14px; color: #4A423A; line-height: 1.8; margin-bottom: 20px; }
+    .knowledge-intro strong { color: #3D3530; }
+    .analogy-box { background: #F8FAF5; border-radius: 12px; padding: 16px; margin-bottom: 20px; border: 1px solid #E0EBD8; }
+    .analogy-box h4 { font-size: 13px; font-weight: 700; color: #5A6B52; margin-bottom: 10px; }
+    .analogy-item { display: flex; gap: 10px; margin-bottom: 10px; }
+    .analogy-item:last-child { margin-bottom: 0; }
+    .analogy-icon { font-size: 20px; flex-shrink: 0; }
+    .analogy-text { font-size: 13px; color: #5A5048; line-height: 1.7; }
+    .analogy-text strong { color: #3D3530; }
+    .component-mini { display: grid; gap: 8px; margin-bottom: 20px; }
+    .component-mini-item { display: flex; align-items: flex-start; gap: 10px; background: #FAF8F5; border-radius: 10px; padding: 12px 14px; }
+    .component-mini-num { font-size: 16px; font-weight: 700; color: #A8B5A0; line-height: 1; }
+    .component-mini-text { font-size: 13px; color: #4A423A; line-height: 1.7; }
+    .component-mini-text strong { color: #3D3530; }
+    .compare-cards { display: grid; gap: 10px; margin-bottom: 20px; }
+    .compare-card { border-radius: 12px; padding: 14px; }
+    .compare-card.bad { background: #FFF5F5; border: 1px solid #F0D0D0; }
+    .compare-card.mid { background: #FFFCF5; border: 1px solid #F0E8D0; }
+    .compare-card.good { background: #F5FBF5; border: 1px solid #D0E8D0; }
+    .compare-badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 6px; margin-bottom: 8px; }
+    .compare-card.bad .compare-badge { background: #F0D0D0; color: #8A5A5A; }
+    .compare-card.mid .compare-badge { background: #F0E8D0; color: #8A7A5A; }
+    .compare-card.good .compare-badge { background: #D0E8D0; color: #5A7A5A; }
+    .compare-text { font-size: 13px; color: #5A5048; line-height: 1.7; }
+    .knowledge-summary { background: #F0EBE4; border-radius: 10px; padding: 14px; font-size: 13px; color: #4A423A; line-height: 1.7; text-align: center; }
+    .knowledge-summary strong { color: #3D3530; }
+
+    /* ===== 本周洞察 ===== */
+    .insight-content { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 2px 12px rgba(61,53,48,0.06); border: 1px solid rgba(0,0,0,0.04); }
+    .insight-quote { font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', serif; font-size: 18px; font-weight: 700; color: #3D3530; line-height: 1.6; text-align: center; margin-bottom: 20px; padding: 16px; background: #FAF8F5; border-radius: 12px; }
+    .insight-body p { font-size: 14px; color: #4A423A; line-height: 1.8; margin-bottom: 14px; }
+    .insight-body p:last-child { margin-bottom: 0; }
+    .insight-body strong { color: #3D3530; }
+    .insight-highlight { display: inline-block; background: #F5F0E8; padding: 2px 8px; border-radius: 4px; }
+
+    /* ===== 互动 Quiz ===== */
+    .quiz-content { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 2px 12px rgba(61,53,48,0.06); border: 1px solid rgba(0,0,0,0.04); }
+    .quiz-question { font-size: 15px; font-weight: 700; color: #3D3530; line-height: 1.6; margin-bottom: 16px; }
+    .quiz-options { display: grid; gap: 10px; margin-bottom: 16px; }
+    .quiz-option { display: flex; align-items: flex-start; gap: 10px; background: #FAF8F5; border-radius: 10px; padding: 12px 14px; border: 1px solid transparent; cursor: pointer; transition: all .2s; }
+    .quiz-option:hover { background: #F5F0E8; }
+    .quiz-option input { display: none; }
+    .quiz-marker { width: 20px; height: 20px; border-radius: 50%; border: 2px solid #D0C8C0; flex-shrink: 0; margin-top: 1px; display: flex; align-items: center; justify-content: center; }
+    .quiz-option input:checked + .quiz-marker { border-color: #A8B5A0; background: #A8B5A0; }
+    .quiz-option input:checked + .quiz-marker::after { content: '✓'; color: #fff; font-size: 12px; font-weight: 700; }
+    .quiz-option-text { font-size: 14px; color: #4A423A; line-height: 1.6; flex: 1; }
+    .quiz-submit { width: 100%; background: linear-gradient(135deg, #A8B5A0, #9AAFB7); color: #fff; border: none; border-radius: 12px; padding: 14px; font-size: 15px; font-weight: 700; cursor: pointer; font-family: inherit; }
+    .quiz-submit:disabled { opacity: 0.6; }
+    .quiz-feedback { display: none; margin-top: 14px; padding: 12px 14px; border-radius: 10px; font-size: 13px; line-height: 1.7; }
+    .quiz-feedback.correct { background: #E8F0E0; color: #5A6B52; display: block; }
+    .quiz-feedback.wrong { background: #FFF5F5; color: #8A5A5A; display: block; }
+    .quiz-feedback.show { display: block; }
+    .quiz-hint { font-size: 12px; color: #B8A99A; margin-top: 12px; text-align: center; }
+  </style>
+</head>
+<body>
+  <div class="deep-app">
+
+    <!-- 顶部封面 -->
+    <header class="hero">
+      <div class="hero-meta">
+        <span class="hero-badge">深度版</span>
+      </div>
+      <h1 class="hero-title">Claude 的企业时代</h1>
+      <p class="hero-theme">第 4 期 · 预计阅读 15 分钟</p>
+    </header>
+
+    <!-- 01 AI 大事件 -->
+    <section class="collage-section">
+      <div class="collage-header" style="border-left-color: #A8B5A0; color: #A8B5A0;">
+        <div class="collage-title-line">
+          <span class="collage-num">01.</span>
+          <span class="collage-title-text">AI观潮</span>
+        </div>
+        <div class="collage-subtitle">点击标题展开完整内容，自主选择想看哪条</div>
+      </div>
+
+      <div class="pc-body">
+        <!-- 卡片 1：重磅 -->
+        <div class="pc-item" onclick="toggleItem(this)">
+          <div class="pc-bar">
+            <div class="pc-bar-meta"><span class="pc-bar-tag major">重磅</span><span class="pc-bar-source">🇺🇸 行业综述</span></div>
+            <div class="pc-bar-title">Claude 企业落地一周年：从普华永道到摩根士丹利，谁在真正规模化？</div>
+            <div class="pc-bar-action">点击展开</div>
+          </div>
+          <div class="pc-content">
+            <div class="pc-inner">
+              <div class="pc-source"><span>2026.05.15</span><span>·</span><span>综合整理</span></div>
+              <div class="pc-abstract"><p>普华永道全球部署 Claude 引发广泛关注，但这只是 Claude 企业化浪潮的冰山一角。过去 12 个月里，从金融服务到法律咨询，从医疗机构到制造企业，Claude 正在以不同的深度嵌入各个行业的核心工作流。本文梳理了 Claude 企业落地的真实进展，以及不同行业的采纳差异。</p></div>
+              <div class="pc-bg"><h4>🔍 背景补充</h4><p><strong>金融行业怎么用的？</strong>摩根士丹利把 Claude 嵌进了财富管理顾问的工作台，不是替代顾问，而是帮顾问在 30 秒内生成客户画像和市场分析。巴克莱银行则用 Claude 处理合规报告，把原本需要 3 天的初稿压缩到 2 小时。</p><p><strong>法律行业跟进了吗？</strong>跟进了，但节奏慢很多。美迈斯律师事务所（O'Melveny & Myers）试点用 Claude 做合同审查，发现 AI 能找出 90% 的常规风险点，但复杂条款还是需要资深律师把关。法律行业的特点是：容错率极低，所以采纳最谨慎。</p><p><strong>制造业有案例吗？</strong>有，但不像金融那么" glamorous "。西门子工厂用 Claude 处理设备维护日志，把故障预测准确率提升了 15%。这类应用很少上新闻，但 ROI（投资回报）往往最实在。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>"落地"不等于"好用"。</strong>很多公司买了 Claude 的账号，但只是让员工"试试看"。真正产生 70% 效率提升的，是那些把 AI 嵌进工作流、重新设计流程的企业。对咱们个人用户来说，这也是一个信号：会用 AI 工具，和能把 AI 工具融入日常工作，是两回事。</li><li><strong>不同行业的采纳曲线差异巨大。</strong>金融最快（数据多、回报可量化），法律最慢（容错率低、责任重大），制造业最稳（场景明确、ROI 清晰）。如果你在某个特定行业工作，了解本行业的 AI 采纳节奏，能帮你判断"现在学是不是太早/太晚"。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读（需翻墙）</span><br><a href="https://www.anthropic.com/news/pwc-expanded-partnership" target="_blank" rel="noopener">Anthropic 官方：普华永道扩大战略合作 →</a></div>
+              <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 卡片 2：智能体 -->
+        <div class="pc-item" onclick="toggleItem(this)">
+          <div class="pc-bar">
+            <div class="pc-bar-meta"><span class="pc-bar-tag agent">智能体</span><span class="pc-bar-source">🇺🇸 技术实践</span></div>
+            <div class="pc-bar-title">MCP 生态实战：3 个插件让 Claude Code 自动查资料、写文档、发邮件</div>
+            <div class="pc-bar-action">点击展开</div>
+          </div>
+          <div class="pc-content">
+            <div class="pc-inner">
+              <div class="pc-source"><span>2026.05.14</span><span>·</span><span>Claude Code 社区</span></div>
+              <div class="pc-abstract"><p>MCP（Model Context Protocol）最近因为 Claude Code v2.1.142 的更新而被更多人关注。但"协议更新"是一回事，"实际能让 AI 帮你干什么"是另一回事。本文选了 3 个目前最实用的 MCP 插件，手把手演示配置过程和实际效果。</p></div>
+              <div class="pc-bg"><h4>🔍 三个实用插件</h4><p><strong>1. Fetch MCP（自动查资料）</strong><br>作用：让 Claude Code 自动访问网页、抓取内容。比如你对 Claude 说"查一下今天 OpenAI 有什么新闻"，它会自动打开网页、提取关键信息、总结给你。配置只需要在 Claude Code 设置里添加一个 URL。</p><p><strong>2. FileSystem MCP（自动写文档）</strong><br>作用：让 Claude Code 直接读写你电脑上的文件。比如你说"帮我把这个项目的 README 更新一下，加上最新的安装步骤"，Claude 会直接打开文件、修改内容、保存。不需要你复制粘贴。</p><p><strong>3. Slack MCP（自动发消息）</strong><br>作用：让 Claude Code 帮你在 Slack 里发消息、查频道、总结讨论。比如"帮我在 #技术频道 问一下大家对新架构的看法"，Claude 会自动发帖、收集回复、给你一份摘要。</p></div>
+              <div class="pc-bg"><h4>🔧 配置步骤（进阶小白版）</h4><p>1. 确保你的 Claude Code 升级到 v2.1.142 或更高版本。</p><p>2. 在项目根目录创建 <code>.mcp.json</code> 文件，填入插件配置（每个插件的 GitHub 页面都有示例）。</p><p>3. 重启 Claude Code，输入 <code>/mcp</code> 查看已加载的插件列表。</p><p>4. 直接对 Claude 说任务，观察它是否自动调用了插件。</p><p>⚠️ <strong>注意：</strong>MCP 插件会让 Claude Code 有权限访问外部系统，建议先在测试环境尝试，确认安全后再用于工作场景。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>MCP 是 Claude Code 的"外挂接口"。</strong>如果说 Claude Code 本身是一个聪明的员工，MCP 就是给这个员工配了电话、电脑、门禁卡——它能触达外部世界了。对进阶小白来说，这是从"用 AI 聊天"到"用 AI 干活"的关键一跃。</li><li><strong>插件生态会滚雪球。</strong>SKILL.md 被识别为技能，意味着开发者写插件的门槛越来越低。未来 6 个月，MCP 插件数量可能会翻几倍。越早了解怎么配置，越早享受到自动化的红利。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 相关阅读</span><br><a href="https://github.com/anthropics/claude-code/releases" target="_blank" rel="noopener">Claude Code GitHub Releases（海外站点） →</a><br><a href="https://modelcontextprotocol.io/" target="_blank" rel="noopener">MCP 官方文档（需翻墙） →</a></div>
+              <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 卡片 3：职业 -->
+        <div class="pc-item" onclick="toggleItem(this)">
+          <div class="pc-bar">
+            <div class="pc-bar-meta"><span class="pc-bar-tag career">职业</span><span class="pc-bar-source">💬 行业观察</span></div>
+            <div class="pc-bar-title">AI 时代的新职业图谱：提示词工程师、AI 训练师、智能体架构师都在干什么？</div>
+            <div class="pc-bar-action">点击展开</div>
+          </div>
+          <div class="pc-content">
+            <div class="pc-inner">
+              <div class="pc-source"><span>2026.05.15</span><span>·</span><span>综合整理</span></div>
+              <div class="pc-abstract"><p>"如果 AI 能写代码，还要开发者干什么？"这个问题背后，其实隐藏着一个更大的趋势：AI 不是在消灭职业，而是在重塑职业。本文梳理了 2026 年已经出现或正在萌芽的 AI 相关新职业，以及它们和传统岗位的区别。</p></div>
+              <div class="pc-bg"><h4>🔍 三个新兴职业</h4><p><strong>1. 提示词工程师（Prompt Engineer）</strong><br>不是"会打字就行"。专业的提示词工程师需要理解模型的行为边界，知道怎么拆解复杂任务、怎么设计 few-shot 示例、怎么控制输出格式。年薪范围：15-40 万（国内）。</p><p><strong>2. AI 训练师（AI Trainer / Fine-tuning Specialist）</strong><br>负责给模型"喂"高质量数据，让模型在特定领域表现更好。比如法律 AI 公司需要训练师把判例、法条整理成模型能理解的格式。这个岗位的核心能力是：懂业务 + 懂数据 + 有耐心。</p><p><strong>3. 智能体架构师（Agent Architect）</strong><br>设计 AI 智能体的工作流，决定"什么时候让 AI 自己做，什么时候让人介入"。这个岗位需要同时懂业务逻辑和 AI 能力边界，有点像"AI 时代的项目经理"。</p></div>
+              <div class="pc-bg"><h4>🔍 传统岗位怎么变？</h4><p><strong>程序员：</strong>从"写代码"变成"审代码 + 设计架构 + 和 AI 协作"。代码量可能减少 50%，但对系统设计的理解要求更高了。</p><p><strong>设计师：</strong>从"执行"变成"创意方向 + AI 调优 + 最终把关"。Midjourney 能出 100 张图，但选哪张、怎么改、符不符合品牌调性，还是靠人。</p><p><strong>运营/市场：</strong>从"写文案"变成"策略制定 + 数据验证 + AI 生产规模化"。一个人用 AI 工具能干原来 3 个人的活，但策略失误的代价也更大。</p></div>
+              <div class="pc-analysis"><h4>为什么值得关注？</h4><ul><li><strong>AI 消灭的是"任务"，不是"职业"。</strong>打字员这个职业消失了，但"文字处理"的需求还在，只是转移到了每个人自己身上。同理，AI 会消灭一些具体的执行任务，但会创造出"和 AI 协作"的新岗位。</li><li><strong>对进阶小白的启示。</strong>你不需要现在就转行去做提示词工程师。你要做的是：在本职工作里找到"可以用 AI 提效"的环节，先成为团队里"最会用 AI 的那个人"。这是成本最低、回报最高的切入点。</li></ul></div>
+              <div class="pc-link"><span style="color:#9A9188;font-size:12px;">📎 综合整理，无单一原文</span></div>
+              <div class="pc-close"><span class="pc-close-btn" onclick="event.stopPropagation();toggleItem(this.closest('.pc-item'));">▲ 收起新闻</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 02 知识深潜 & 工具对比 -->
+    <section class="collage-section">
+      <div class="collage-header" style="border-left-color: #B8A99A; color: #B8A99A;">
+        <div class="collage-title-line">
+          <span class="collage-num">02.</span>
+          <span class="collage-title-text">学识</span>
+        </div>
+        <div class="collage-subtitle">从一个新闻点，挖出一条知识线</div>
+      </div>
+
+      <div class="knowledge-content">
+        <p class="knowledge-intro">
+          Claude Code 这次更新的 MCP 插件，很多人看完新闻就划过去了。但坦率的讲，<strong>这可能是今年最值得小白关注的 AI 进展之一。</strong>因为它解决了一个核心问题：AI 终于能从"陪你聊天"变成"帮你干活"了。
+        </p>
+
+        <div class="analogy-box">
+          <h4>💡 一个类比：给 AI 配手脚</h4>
+          <div class="analogy-item">
+            <span class="analogy-icon">🧠</span>
+            <p class="analogy-text"><strong>模型是大脑</strong>—— Claude、GPT-4 负责思考、理解、生成内容。</p>
+          </div>
+          <div class="analogy-item">
+            <span class="analogy-icon">🖐️</span>
+            <p class="analogy-text"><strong>MCP 是手脚</strong>—— 让大脑能查网页、读文件、发消息、调数据库。</p>
+          </div>
+          <div class="analogy-item">
+            <span class="analogy-icon">🔌</span>
+            <p class="analogy-text"><strong>插件是工具</strong>—— 手脚拿的不是自己的工具，是外界现成的（Slack、GitHub、浏览器）。</p>
+          </div>
+        </div>
+
+        <div class="compare-cards">
+          <div class="compare-card bad">
+            <span class="compare-badge">不用 MCP</span>
+            <p class="compare-text">你复制问题 → 打开浏览器 → 查完资料 → 复制答案 → 粘贴回对话框。<strong>AI 每次都要你手动喂信息。</strong></p>
+          </div>
+          <div class="compare-card mid">
+            <span class="compare-badge">手动配置 API</span>
+            <p class="compare-text">你自己写代码连 Slack、连数据库。能跑通，但换个项目要重写一遍，<strong>门槛高、维护累。</strong></p>
+          </div>
+          <div class="compare-card good">
+            <span class="compare-badge">MCP 插件</span>
+            <p class="compare-text">你对 Claude 说"查一下今天 OpenAI 的新闻，发到 Slack"，它<strong>自己查、自己写、自己发。</strong>你只需要说话。</p>
+          </div>
+        </div>
+
+        <div class="knowledge-summary">
+          <strong>说到底，MCP 不是在增加复杂度，而是在降低门槛。</strong>以前你要会写代码才能让 AI 干活，现在你只需要会描述需求。
+        </div>
+      </div>
+    </section>
+
+    <!-- 03 灵魂洞察 -->
+    <section class="collage-section">
+      <div class="collage-header" style="border-left-color: #C4A882; color: #C4A882;">
+        <div class="collage-title-line">
+          <span class="collage-num">03.</span>
+          <span class="collage-title-text">悟心</span>
+        </div>
+        <div class="collage-subtitle">不只讲技术，讲人与工具的关系</div>
+      </div>
+
+      <div class="insight-content">
+        <div class="insight-quote">
+          模型是电钻，你才是握钻的人。<br>AI 不会取代木匠，但会用 AI 的木匠会取代不会用的。
+        </div>
+        <div class="insight-body">
+          <p>
+            很多人看到"普华永道部署 Claude，效率提升 70%"这类新闻，第一反应是焦虑：<strong>我是不是也要被取代了？</strong>
+          </p>
+          <p>
+            但你看细节就会发现，<span class="insight-highlight">Claude 在保险承保领域替代的不是"核保员"这个岗位，而是"收集资料、填表格、比对条款"这些具体任务。</span>核保员还在，但ta的工作变成了：判断 AI 给出的结论对不对、处理 AI 搞不定的例外情况、跟客户解释最终决策。
+          </p>
+          <p>
+            这跟当年 Excel 普及的时候一模一样。会计没有被取代，但"打算盘"的会计消失了。未来的职场，分水岭不在"你会不会用 AI"，而在<strong>"你能不能判断 AI 的输出值不值得信任，以及在它出错时能不能兜底"。</strong>
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 04 今日一问 -->
+    <section class="collage-section">
+      <div class="collage-header" style="border-left-color: #A8B5A0; color: #A8B5A0;">
+        <div class="collage-title-line">
+          <span class="collage-num">04.</span>
+          <span class="collage-title-text">相询</span>
+        </div>
+        <div class="collage-subtitle">你的反馈，决定下期内容</div>
+      </div>
+
+      <div class="quiz-content">
+        <div class="quiz-question">这期哪个方向你还没看够？或者下期想让我往哪挖？（可多选）</div>
+
+        <div class="quiz-options">
+          <label class="quiz-option" onclick="toggleOption(this)">
+            <input type="checkbox" name="quiz" value="mcp-dev" />
+            <span class="quiz-marker"></span>
+            <span class="quiz-option-text"><strong>从"用插件"到"写插件"：</strong>怎么开发自己的第一个 MCP 插件 🔌<br><span style="font-size:12px;color:#9A9188;">本期只讲了怎么用，下期可以手把手教你怎么给 Claude Code 写一个专属插件</span></span>
+          </label>
+          <label class="quiz-option" onclick="toggleOption(this)">
+            <input type="checkbox" name="quiz" value="claude-tips" />
+            <span class="quiz-marker"></span>
+            <span class="quiz-option-text"><strong>Claude Code 的隐藏玩法：</strong>SKILL.md + Fast 模式 + 根目录技能 ⚡<br><span style="font-size:12px;color:#9A9188;">本期新闻提到了但没展开，这些功能能让 Claude Code 从"好用"变"顺手"</span></span>
+          </label>
+          <label class="quiz-option" onclick="toggleOption(this)">
+            <input type="checkbox" name="quiz" value="agent-career" />
+            <span class="quiz-marker"></span>
+            <span class="quiz-option-text"><strong>智能体架构师到底是干嘛的？</strong>工作日常、入门路径、薪资水平 💼<br><span style="font-size:12px;color:#9A9188;">本期只列了这个新职业的名字，下期可以深度拆解这个岗位的真实图景</span></span>
+          </label>
+          <label class="quiz-option" onclick="toggleOption(this)">
+            <input type="checkbox" name="quiz" value="none" />
+            <span class="quiz-marker"></span>
+            <span class="quiz-option-text">暂无想法，等下期看看 👀</span>
+          </label>
+        </div>
+
+        <label class="quiz-option" style="margin-top: 8px;">
+          <span class="quiz-option-text" style="width:100%;">
+            <strong>📝 有其他想了解的，直接写这里：</strong>
+            <textarea id="quiz-custom" placeholder="比如：我想看 AI 怎么做 PPT 自动化 / 我想了解 Coze 工作流怎么搭 / 我对 AI 绘画更感兴趣……" style="width:100%;border:none;outline:none;resize:none;font-family:inherit;font-size:14px;color:#3D3530;margin-top:8px;line-height:1.6;background:transparent;" rows="3"></textarea>
+          </span>
+        </label>
+
+        <div class="submit-area" style="margin-top: 20px; text-align: center;">
+          <p style="font-size: 12px; color: #B8A99A; margin-bottom: 10px;">👇 选好了就点这里</p>
+          <button class="quiz-submit" onclick="submitQuiz(this)" style="display: inline-block; width: auto; min-width: 200px; padding: 16px 40px; font-size: 16px; border-radius: 50px; box-shadow: 0 6px 20px rgba(124,179,66,0.35);">提交反馈</button>
+        </div>
+        <p class="quiz-hint">你的选择会进入选题库排队，但<strong>自定义想法永远优先级最高</strong>，直接插队成为下期主题</p>
+      </div>
+    </section>
+
+  </div>
+
+  <script>
+    function toggleItem(el) {
+      el.classList.toggle('expanded');
+    }
+    function toggleOption(label) {
+      const cb = label.querySelector('input[type="checkbox"]');
+      cb.checked = !cb.checked;
+      label.style.background = cb.checked ? '#F5F0E8' : '';
+    }
+    function submitQuiz(btn) {
+      const checked = document.querySelectorAll('input[name="quiz"]:checked');
+      const custom = document.getElementById('quiz-custom').value.trim();
+      if (checked.length === 0 && !custom) { alert('请至少选一个选项，或填写你的想法哦'); return; }
+      btn.textContent = '✅ 反馈已收到，谢谢！';
+      btn.disabled = true;
+    }
+  </script>
+</body>
+</html>
