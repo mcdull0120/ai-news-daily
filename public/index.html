@@ -3,52 +3,172 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>AI 每日精选</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>AI 小白进阶日报</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: #F0EBE4;
+      color: #3D3530;
+      min-height: 100vh;
+    }
+    .container {
+      max-width: 540px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .header {
+      margin-bottom: 32px;
+    }
+    .date-badge {
+      display: inline-block;
+      background: rgba(168,181,160,0.2);
+      color: #5A6B52;
+      padding: 6px 16px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 500;
+      margin-bottom: 16px;
+    }
+    .title {
+      font-family: 'Noto Serif SC', 'Source Han Serif SC', 'SimSun', serif;
+      font-size: 28px;
+      font-weight: 700;
+      line-height: 1.3;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      font-size: 14px;
+      color: #9A9188;
+    }
+
+    .cards {
+      display: grid;
+      gap: 16px;
+      margin-top: 32px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 24px 20px;
+      text-align: left;
+      box-shadow: 0 2px 12px rgba(61,53,48,0.06);
+      border: 2px solid transparent;
+      transition: all .2s;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 20px rgba(61,53,48,0.1);
+    }
+    .card.active {
+      border-color: #A8B5A0;
+      background: #FAFCF9;
+    }
+    .card-badge {
+      display: inline-block;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+    }
+    .card.active .card-badge {
+      background: #E8F0E0;
+      color: #5A6B52;
+    }
+    .card.inactive .card-badge {
+      background: #F5F0E8;
+      color: #9A9188;
+    }
+    .card-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .card-desc {
+      font-size: 13px;
+      color: #7A7168;
+      line-height: 1.6;
+    }
+    .card-arrow {
+      float: right;
+      font-size: 20px;
+      color: #B8A99A;
+      margin-top: -4px;
+    }
+    .card.active .card-arrow {
+      color: #A8B5A0;
+    }
+
+    .footer {
+      margin-top: 40px;
+      font-size: 12px;
+      color: #B8A99A;
+    }
+  </style>
 </head>
 <body>
-  <div class="app">
-    <header class="header">
-      <div class="header-top">
-        <h1>AI 每日精选</h1>
-        <span class="badge">小白友好</span>
-      </div>
-      <p class="header-desc">每天 10 点，为你筛选最值得看的 AI 资讯</p>
-      <div class="header-meta">
-        <span id="updateTime">加载中...</span>
-        <button class="refresh-btn" id="refreshBtn">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <polyline points="23 4 23 10 17 10"></polyline>
-            <polyline points="1 20 1 14 7 14"></polyline>
-            <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"></path>
-          </svg>
-          刷新
-        </button>
-      </div>
-    </header>
+  <div class="container">
+    <div class="header">
+      <div class="date-badge" id="today-date">--</div>
+      <h1 class="title">AI 小白进阶日报</h1>
+      <p class="subtitle">每天精选 3 条 AI 新闻，帮你读懂、学会、用上</p>
+    </div>
 
-    <nav class="filter-bar" id="filterBar">
-      <button class="filter-btn active" data-filter="all">全部</button>
-      <button class="filter-btn" data-filter="creative">🎨 创意</button>
-      <button class="filter-btn" data-filter="app">💻 应用</button>
-      <button class="filter-btn" data-filter="writing">✍️ 文案</button>
-      <button class="filter-btn" data-filter="education">🎓 教育</button>
-      <button class="filter-btn" data-filter="productivity">🏢 提效</button>
-    </nav>
+    <div class="cards">
+      <a href="daily-brief.html" class="card" id="brief-card">
+        <span class="card-arrow">→</span>
+        <div class="card-badge" id="brief-badge">今日更新</div>
+        <div class="card-title">轻度版 · 早报</div>
+        <div class="card-desc">AI 新闻 + 简单分析，3 分钟快速浏览。周一、周三、周四、周六、周日更新。</div>
+      </a>
 
-    <main class="content" id="content">
-      <div class="loading">
-        <div class="spinner"></div>
-        <p>正在为你精选今日资讯...</p>
-      </div>
-    </main>
+      <a href="deep-dive-news.html" class="card" id="deep-card">
+        <span class="card-arrow">→</span>
+        <div class="card-badge" id="deep-badge">今日更新</div>
+        <div class="card-title">深度版 · 进阶</div>
+        <div class="card-desc">新闻 + 知识深潜 + 工具对比 + 洞察，15 分钟完整学习。周二、周五更新。</div>
+      </a>
+    </div>
 
-    <footer class="footer">
-      <p>数据来源：AI HOT · 内容由 AI 智能筛选</p>
-      <p class="footer-tip">💡 提示：每天早上 10 点更新，点击标签可筛选分类</p>
-    </footer>
+    <div class="footer">
+      点击带「今日更新」标签的卡片查看最新内容
+    </div>
   </div>
 
-  <script src="app.js"></script>
+  <script>
+    const now = new Date();
+    const day = now.getDay(); // 0=周日, 1=周一, ..., 6=周六
+    const dateStr = now.getFullYear() + '.' + String(now.getMonth() + 1).padStart(2, '0') + '.' + String(now.getDate()).padStart(2, '0');
+    document.getElementById('today-date').textContent = dateStr + ' ' + ['周日','周一','周二','周三','周四','周五','周六'][day];
+
+    // 轻度版日：周一(1)、周三(3)、周四(4)、周六(6)、周日(0)
+    const briefDays = [0, 1, 3, 4, 6];
+    // 深度版日：周二(2)、周五(5)
+    const deepDays = [2, 5];
+
+    const briefCard = document.getElementById('brief-card');
+    const deepCard = document.getElementById('deep-card');
+    const briefBadge = document.getElementById('brief-badge');
+    const deepBadge = document.getElementById('deep-badge');
+
+    if (briefDays.includes(day)) {
+      briefCard.classList.add('active');
+      briefBadge.textContent = '今日更新';
+      deepCard.classList.add('inactive');
+      deepBadge.textContent = '今日休刊';
+    } else if (deepDays.includes(day)) {
+      deepCard.classList.add('active');
+      deepBadge.textContent = '今日更新';
+      briefCard.classList.add('inactive');
+      briefBadge.textContent = '今日休刊';
+    }
+  </script>
 </body>
 </html>
