@@ -61,6 +61,7 @@
       text-decoration: none;
       color: inherit;
       display: block;
+      position: relative;
     }
     .card:hover {
       transform: translateY(-2px);
@@ -69,6 +70,9 @@
     .card.active {
       border-color: #A8B5A0;
       background: #FAFCF9;
+    }
+    .card.inactive {
+      opacity: 0.75;
     }
     .card-badge {
       display: inline-block;
@@ -105,6 +109,20 @@
     .card.active .card-arrow {
       color: #A8B5A0;
     }
+    .closed-sign {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      margin-top: 14px;
+      padding-top: 14px;
+      border-top: 1px dashed #E0D8D0;
+      font-size: 13px;
+      color: #B8A99A;
+    }
+    .closed-sign .emoji {
+      font-size: 18px;
+    }
 
     .footer {
       margin-top: 40px;
@@ -121,7 +139,7 @@
       <p class="subtitle">每天精选 3 条 AI 新闻，帮你读懂、学会、用上</p>
     </div>
 
-    <div class="cards">
+    <div class="cards" id="cards">
       <a href="daily-brief.html" class="card" id="brief-card">
         <span class="card-arrow">→</span>
         <div class="card-badge" id="brief-badge">今日更新</div>
@@ -138,7 +156,7 @@
     </div>
 
     <div class="footer">
-      点击带「今日更新」标签的卡片查看最新内容
+      今日更新的卡片在上方，点击即可阅读
     </div>
   </div>
 
@@ -153,21 +171,41 @@
     // 深度版日：周二(2)、周五(5)
     const deepDays = [2, 5];
 
+    const cardsContainer = document.getElementById('cards');
     const briefCard = document.getElementById('brief-card');
     const deepCard = document.getElementById('deep-card');
     const briefBadge = document.getElementById('brief-badge');
     const deepBadge = document.getElementById('deep-badge');
 
+    let activeCard, inactiveCard;
+
     if (briefDays.includes(day)) {
+      activeCard = briefCard;
+      inactiveCard = deepCard;
       briefCard.classList.add('active');
       briefBadge.textContent = '今日更新';
       deepCard.classList.add('inactive');
       deepBadge.textContent = '今日休刊';
     } else if (deepDays.includes(day)) {
+      activeCard = deepCard;
+      inactiveCard = briefCard;
       deepCard.classList.add('active');
       deepBadge.textContent = '今日更新';
       briefCard.classList.add('inactive');
       briefBadge.textContent = '今日休刊';
+    }
+
+    // 把今日更新的卡片放到上面
+    if (activeCard && inactiveCard && activeCard !== cardsContainer.firstElementChild) {
+      cardsContainer.insertBefore(activeCard, inactiveCard);
+    }
+
+    // 给休刊卡片加"打烊了"标识
+    if (inactiveCard) {
+      const closedSign = document.createElement('div');
+      closedSign.className = 'closed-sign';
+      closedSign.innerHTML = '<span class="emoji">🏚️</span> 打烊了，明日再来';
+      inactiveCard.appendChild(closedSign);
     }
   </script>
 </body>
