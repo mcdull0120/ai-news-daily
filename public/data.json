@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-19T12:14:33.417900+00:00",
+  "generatedAt": "2026-05-20T03:37:16.046159+00:00",
   "totalSource": 160,
-  "totalFiltered": 149,
+  "totalFiltered": 151,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,7 +9,170 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmpd3ms9200o4slk1fra40xlv",
+        "title": "在OpenClaw中使用Grok",
+        "title_en": "Use Grok in OpenClaw",
+        "url": "https://x.ai/news/grok-openclaw",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-05-22T00:00:00.000Z",
+        "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmpd9r8mi022fslk1qbsjsb9i",
+        "title": "拓宽关于前沿AI的对话",
+        "title_en": "Widening the conversation on frontier AI",
+        "url": "https://www.anthropic.com/news/widening-conversation-ai",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-05-19T23:33:23.139Z",
+        "summary": "Anthropic为构建负责任的先进AI，正与全球多元群体展开对话。首轮讨论汇集了超过15个宗教、哲学及跨文化传统的学者与伦理学者，旨在为Claude等模型的道德形成与价值观对齐提供多元视角。受\"外部良知\"概念启发，团队开发并测试了伦理承诺提醒工具，初步实验显示其能有效降低模型不对齐行为。公司计划未来将对话拓展至法律、心理学及公民社会等领域，以共同应对AI对社会结构的重塑。",
+        "category": "tip",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpd3cb2800kuslk1tbv8fe48",
+        "title": "Claude实现真实界面操作的生产实践指南",
+        "title_en": "Computer use turns Claude into an agent that can operate real UIs. New blog post on making it reli…",
+        "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-05-19T20:32:13.000Z",
+        "summary": "计算机使用功能使Claude成为能够操作真实用户界面的智能体。\n\n新博客文章探讨如何在生产环境中确保其可靠性：包括提高点击准确性、选择思考努力级别、在长会话中保持上下文，以及记录Claude可重放的演示操作：\n\nhttps：//claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpd5x0qo0179slk1f2ze49et",
+        "title": "Claude Code的HTML输出：非凡的有效性",
+        "title_en": "Using Claude Code： The unreasonable effectiveness of HTML",
+        "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-05-19T21:45:38.448Z",
+        "summary": "Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpd5un01016gslk14jmz9h5z",
+        "title": "ChatGPT图像生成周使用量突破15亿次",
+        "title_en": "People are generating over 1.5 billion images a week in ChatGPT. Researcher @kenjihata joins Produc…",
+        "url": "https://x.com/OpenAI/status/2056849157860831239",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-05-19T21:27:08.000Z",
+        "summary": "人们每周在ChatGPT中生成超过15亿张图像。\n\n研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpd5qa3j014wslk1csm8g3lb",
+        "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
+        "title_en": "Today， we launched a brand-new intelligent Search box. Here's what that means： An upgrade to the S…",
+        "url": "https://x.com/GoogleAI/status/2056845506601718271",
+        "source": "X：Google AI (@GoogleAI)",
+        "publishedAt": "2026-05-19T21:12:37.000Z",
+        "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmpd57aiz00zqslk11q0lp88m",
+        "title": "创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员",
+        "title_en": "One Year of Innovation： Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
+        "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-05-19T21:25:58.418Z",
+        "summary": "Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。",
+        "category": "industry",
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpczbj4s01k6sljl6alywqgy",
+        "title": "Gemini Omni助力Google Flow创作电影级故事",
+        "title_en": "Google Flow 🤝 Gemini Omni Create more cinematic stories with our latest model， which brings batch …",
+        "url": "https://x.com/GoogleDeepMind/status/2056804306653794336",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "publishedAt": "2026-05-19T18:28:54.000Z",
+        "summary": "Google Flow 🤝 Gemini Omni\n\n使用我们的最新模型创作更具电影感的故事，它带来了批量编辑、改进的角色一致性等功能。以下是@FlowbyGoogle的其他新功能 → https：//goo.gle/42K2nge\n\n#GoogleIO",
+        "category": "ai-products",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cmpcyioqw01c3sljlknwkg5gr",
+        "title": "Google AI 订阅服务全新内容，源自 I/O 2026 大会",
+        "title_en": "Everything new in our Google AI subscriptions， fresh from I/O 2026",
+        "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-05-19T17:45:00.000Z",
+        "summary": "Google 在 I/O 2026 大会上宣布更新其 AI 订阅服务，推出了全新的 100 美元\"AI Ultra\"计划。同时，面向 Google AI Plus、Pro 和 Ultra 三个层级的现有订阅者，服务均增加了新的功能和权益。此次更新标志着 Google 在 AI 付费订阅领域推出了更高端的选项并强化了现有套餐的价值。",
+        "category": "ai-products",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      }
+    ],
     "productivity": [
+      {
+        "id": "cmpculcys009gsljl1jpnwadp",
+        "title": "Google I/O 开发者大会日程公布",
+        "title_en": "It's time for Google I/O！ ✧ 10：00AM - Keynote ✧ 1：30PM - Developer Keynote ✧ 3：30PM - What's new in…",
+        "url": "https://x.com/googleaidevs/status/2056767412255805521",
+        "source": "X：Google AI for Developers (@googleaidevs)",
+        "publishedAt": "2026-05-19T16:02:18.000Z",
+        "summary": "Google I/O 开发者大会即将开始！\n\n✧ 上午10：00 - 主题演讲\n✧ 下午1：30 - 开发者主题演讲\n✧ 下午3：30 - Google AI 新动态\n✧ 下午4：30 - 与 @GoogleDeepMind 和 @Antigravity 共同扩展开发者生态系统\n\n时间为太平洋时间。\nhttps：//x.com/i/events/2053241348807864323",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
       {
         "id": "cmpckp777033vslaeq0owzke0",
         "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
@@ -23,190 +186,185 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
-      },
+        "formattedTime": "16小时前"
+      }
+    ],
+    "education": [
       {
-        "id": "cmp8oygzv0kc6slnz56g1hza2",
-        "title": "按需定制快捷键，优化工作流效率",
-        "title_en": "We're having way too much fun working through your feedback. （Please， keep it coming.） Keyboard sh…",
-        "url": "https://x.com/OpenAIDevs/status/2055717793841221796",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-05-16T18:31:30.000Z",
-        "summary": "处理大家的反馈让我们感到太有趣了。\n（请继续反馈。）\n键盘快捷键现已支持自定义。\n围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。",
-        "category": "ai-products",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_283389204",
-        "title": "泰国内阁决定取消60天免签政策",
+        "id": "rss_722017696",
+        "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3816153636691717?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-05-19T00:00:00+00:00",
-        "summary": "据泰国媒体19日报道，泰国内阁当天批准取消对90多个国家公民的60天免签入境政策，恢复为之前的入境标准。泰国旅游与体育部长素拉沙·攀差伦沃拉恭19日表示，内阁会议已决定对90多个国家恢复原有免签政策，通常为免签入境30天左右。签证政策委员会此后将针对各国进行单独审查，并考虑安全和经济因素来制定新的免签政策。（新华社）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpcijn6h02ldslae0l9xasp9",
-        "title": "我真的要吹爆HTML！",
-        "title_en": "我真的要吹爆HTML！ 喵个咪终于可以把Notion给扔了， 现在做项目计划2分钟搞定， 做完直接发给领导！ 昨天做2026年度组织与人才盘点， 我给Claude code发了一个提示词， xhig…",
-        "url": "https://x.com/AYi_AInotes/status/2056685348156055980",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-05-19T10:36:13.000Z",
-        "summary": "作者通过向Claude Code提供精确的提示词，仅用2分钟就生成了一个功能完整的交互式HTML项目计划页面。该页面为单文件、无外部依赖，包含暗色主题、时间线、可折叠表格等丰富交互，可直接交付。相比过去在Notion中耗费30-40分钟制作模板，效率提升了近20倍。其核心在于使用明确的提示词来规范视觉、内容结构与交互细节，确保AI一次性交付完整产物。这充分展示了在AI时代，HTML作为轻量、高保真生产力工具的巨大潜力。",
+        "url": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 19 MaT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmpc4aons006xslvfuyn1l7ke",
-        "title": "QoderWork推出Design Desk无限画布AI工作区",
-        "title_en": "🎨 Introducing Design Desk by QoderWork. An infinite-canvas AI workspace that turns language into ru…",
-        "url": "https://x.com/alibaba_cloud/status/2056581373301788747",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "publishedAt": "2026-05-19T03:43:03.000Z",
-        "summary": "🎨 介绍QoderWork的Design Desk。一个将语言转化为可运行代码的无限画布AI工作区。\n💡 用自然语言描述你的需求--即可在无限画布上获得可运行的React + Vite项目。设计师迭代，开发者交付相同文件。无缝交接。\n⏬立即下载QoderWork\nhttps：//www.qoderwork.ai\n#AI #Qoder #QoderWork #DesignDesk",
-        "category": "ai-products",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmpbx9x5v1b1yslnzc24m4139",
-        "title": "「开发日志」提示词：让AI编码决策可审计",
-        "title_en": "Claude Code 核心开发者 Thariq 带来自己高频使用的「开发日志」提示词 @trq212 这段提示词解决了 AI 协作编码中最棘手的结构性问题：规格永远写不完整，但人又无法实时跟踪 A…",
-        "url": "https://x.com/shao__meng/status/2056535561540948056",
-        "source": "X：邵猛 (@shao__meng)",
-        "publishedAt": "2026-05-19T00:41:01.000Z",
-        "summary": "针对AI协作编码中\"规格永难完整\"与\"决策无法追踪\"的核心矛盾，此提示词提出了第三条路径。它要求AI在实现需求时同步维护一份结构化文档，明确记录设计决策、对规格的偏离、考虑过的权衡以及待确认的开放性问题。这种方法的关键在于将AI执行过程中的隐性判断显式化、文档化，从而让Code Review可直接对照决策笔记，而非逆向工程代码。它不仅降低了模型的过度澄清倾向，更通过提供结构化产物，建立了一种可审计、可协作的人机开发新范式。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmpccjtl2017qslaeequgv5v9",
-        "title": "Claude推出自托管沙箱与MCP隧道功能",
-        "title_en": "Live from Code with Claude London： we're launching self-hosted sandboxes （public beta） and MCP tunne…",
-        "url": "https://x.com/claudeai/status/2056645485696315581",
-        "source": "X：Claude (@claudeai)",
-        "publishedAt": "2026-05-19T07:57:49.000Z",
-        "summary": "来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。\n在您自己的安全边界内运行代理，默认应用您的安全控制。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpcc46av011oslaeonk3qlxc",
-        "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
-        "title_en": "月之暗面 Kimi 融资获国资加持，国智投、中国移动等央企巨头入场",
-        "url": "https://www.ithome.com/0/952/336.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-05-19T07:39:15.000Z",
-        "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
-        "category": "industry",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpc9xrvn00icslaezxqmcxuo",
-        "title": "Cursor 推出 Composer 2.5",
-        "title_en": null,
-        "url": "https://cursor.com/blog/composer-2-5",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-05-19T06:28:07.551Z",
-        "summary": "Cursor 发布 Composer 2.5，这是其开发工具 Cursor 的更新版本，版本号从2.0迭代至2.5。此次更新提升了代码补全效率并引入协作功能，以优化开发体验。该发布在 Hacker News 上获得 100 个投票点，显示开发者社区对此次升级的关注。",
-        "category": "ai-products",
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmp9n1c040s55slnzuroftb4b",
-        "title": "微软AI CEO预测18个月内AI自动化所有白领工作",
-        "title_en": "Mustafa Suleyman says 18 months until AI automates all white-collar work. Microsoft AI CEO Mustafa …",
-        "url": "https://x.com/kimmonismus/status/2055952702908355012",
-        "source": "X：Kim (@kimmonismus)",
-        "publishedAt": "2026-05-17T10:04:56.000Z",
-        "summary": "微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及\"坐在电脑前\"的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建\"超级智能\"，并展望未来创建新AI模型将像制作播客或写博客一样便捷。",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmp75qfv107p0slnza9wzcnmd",
-        "title": "Eric Jang - 从零开始构建 AlphaGo",
-        "title_en": "Eric Jang - Building AlphaGo from scratch",
-        "url": "https://www.dwarkesh.com/p/eric-jang",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-05-15T16:04:58.000Z",
-        "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
-        "category": "tip",
-        "interestTags": [
-          "writing",
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "rss_2187281189",
-        "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意",
-        "title_en": null,
-        "url": "https://sspai.com/post/109928",
-        "source": "少数派",
-        "publishedAt": "2026-05-19T09:03:04+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/109928\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "Tue, 19 Ma"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmpd3ms9200o4slk1fra40xlv",
+      "title": "在OpenClaw中使用Grok",
+      "title_en": "Use Grok in OpenClaw",
+      "url": "https://x.ai/news/grok-openclaw",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-05-22T00:00:00.000Z",
+      "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmpd9r8mi022fslk1qbsjsb9i",
+      "title": "拓宽关于前沿AI的对话",
+      "title_en": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-05-19T23:33:23.139Z",
+      "summary": "Anthropic为构建负责任的先进AI，正与全球多元群体展开对话。首轮讨论汇集了超过15个宗教、哲学及跨文化传统的学者与伦理学者，旨在为Claude等模型的道德形成与价值观对齐提供多元视角。受\"外部良知\"概念启发，团队开发并测试了伦理承诺提醒工具，初步实验显示其能有效降低模型不对齐行为。公司计划未来将对话拓展至法律、心理学及公民社会等领域，以共同应对AI对社会结构的重塑。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpd5x0qo0179slk1f2ze49et",
+      "title": "Claude Code的HTML输出：非凡的有效性",
+      "title_en": "Using Claude Code： The unreasonable effectiveness of HTML",
+      "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-05-19T21:45:38.448Z",
+      "summary": "Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpd5un01016gslk14jmz9h5z",
+      "title": "ChatGPT图像生成周使用量突破15亿次",
+      "title_en": "People are generating over 1.5 billion images a week in ChatGPT. Researcher @kenjihata joins Produc…",
+      "url": "https://x.com/OpenAI/status/2056849157860831239",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-05-19T21:27:08.000Z",
+      "summary": "人们每周在ChatGPT中生成超过15亿张图像。\n\n研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpd57aiz00zqslk11q0lp88m",
+      "title": "创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员",
+      "title_en": "One Year of Innovation： Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
+      "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-05-19T21:25:58.418Z",
+      "summary": "Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。",
+      "category": "industry",
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpd5qa3j014wslk1csm8g3lb",
+      "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
+      "title_en": "Today， we launched a brand-new intelligent Search box. Here's what that means： An upgrade to the S…",
+      "url": "https://x.com/GoogleAI/status/2056845506601718271",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-05-19T21:12:37.000Z",
+      "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpd3cb2800kuslk1tbv8fe48",
+      "title": "Claude实现真实界面操作的生产实践指南",
+      "title_en": "Computer use turns Claude into an agent that can operate real UIs. New blog post on making it reli…",
+      "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-05-19T20:32:13.000Z",
+      "summary": "计算机使用功能使Claude成为能够操作真实用户界面的智能体。\n\n新博客文章探讨如何在生产环境中确保其可靠性：包括提高点击准确性、选择思考努力级别、在长会话中保持上下文，以及记录Claude可重放的演示操作：\n\nhttps：//claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpczbj4s01k6sljl6alywqgy",
+      "title": "Gemini Omni助力Google Flow创作电影级故事",
+      "title_en": "Google Flow 🤝 Gemini Omni Create more cinematic stories with our latest model， which brings batch …",
+      "url": "https://x.com/GoogleDeepMind/status/2056804306653794336",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-05-19T18:28:54.000Z",
+      "summary": "Google Flow 🤝 Gemini Omni\n\n使用我们的最新模型创作更具电影感的故事，它带来了批量编辑、改进的角色一致性等功能。以下是@FlowbyGoogle的其他新功能 → https：//goo.gle/42K2nge\n\n#GoogleIO",
+      "category": "ai-products",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmpcyioqw01c3sljlknwkg5gr",
+      "title": "Google AI 订阅服务全新内容，源自 I/O 2026 大会",
+      "title_en": "Everything new in our Google AI subscriptions， fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "summary": "Google 在 I/O 2026 大会上宣布更新其 AI 订阅服务，推出了全新的 100 美元\"AI Ultra\"计划。同时，面向 Google AI Plus、Pro 和 Ultra 三个层级的现有订阅者，服务均增加了新的功能和权益。此次更新标志着 Google 在 AI 付费订阅领域推出了更高端的选项并强化了现有套餐的价值。",
+      "category": "ai-products",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmpculcys009gsljl1jpnwadp",
+      "title": "Google I/O 开发者大会日程公布",
+      "title_en": "It's time for Google I/O！ ✧ 10：00AM - Keynote ✧ 1：30PM - Developer Keynote ✧ 3：30PM - What's new in…",
+      "url": "https://x.com/googleaidevs/status/2056767412255805521",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "publishedAt": "2026-05-19T16:02:18.000Z",
+      "summary": "Google I/O 开发者大会即将开始！\n\n✧ 上午10：00 - 主题演讲\n✧ 下午1：30 - 开发者主题演讲\n✧ 下午3：30 - Google AI 新动态\n✧ 下午4：30 - 与 @GoogleDeepMind 和 @Antigravity 共同扩展开发者生态系统\n\n时间为太平洋时间。\nhttps：//x.com/i/events/2053241348807864323",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
     {
       "id": "cmpckp777033vslaeq0owzke0",
       "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
@@ -220,180 +378,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "cmpcijn6h02ldslae0l9xasp9",
-      "title": "我真的要吹爆HTML！",
-      "title_en": "我真的要吹爆HTML！ 喵个咪终于可以把Notion给扔了， 现在做项目计划2分钟搞定， 做完直接发给领导！ 昨天做2026年度组织与人才盘点， 我给Claude code发了一个提示词， xhig…",
-      "url": "https://x.com/AYi_AInotes/status/2056685348156055980",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-05-19T10:36:13.000Z",
-      "summary": "作者通过向Claude Code提供精确的提示词，仅用2分钟就生成了一个功能完整的交互式HTML项目计划页面。该页面为单文件、无外部依赖，包含暗色主题、时间线、可折叠表格等丰富交互，可直接交付。相比过去在Notion中耗费30-40分钟制作模板，效率提升了近20倍。其核心在于使用明确的提示词来规范视觉、内容结构与交互细节，确保AI一次性交付完整产物。这充分展示了在AI时代，HTML作为轻量、高保真生产力工具的巨大潜力。",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmpccjtl2017qslaeequgv5v9",
-      "title": "Claude推出自托管沙箱与MCP隧道功能",
-      "title_en": "Live from Code with Claude London： we're launching self-hosted sandboxes （public beta） and MCP tunne…",
-      "url": "https://x.com/claudeai/status/2056645485696315581",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-05-19T07:57:49.000Z",
-      "summary": "来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。\n在您自己的安全边界内运行代理，默认应用您的安全控制。",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpcc46av011oslaeonk3qlxc",
-      "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
-      "title_en": "月之暗面 Kimi 融资获国资加持，国智投、中国移动等央企巨头入场",
-      "url": "https://www.ithome.com/0/952/336.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-05-19T07:39:15.000Z",
-      "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
-      "category": "industry",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpc9xrvn00icslaezxqmcxuo",
-      "title": "Cursor 推出 Composer 2.5",
+      "id": "rss_722017696",
+      "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
       "title_en": null,
-      "url": "https://cursor.com/blog/composer-2-5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-05-19T06:28:07.551Z",
-      "summary": "Cursor 发布 Composer 2.5，这是其开发工具 Cursor 的更新版本，版本号从2.0迭代至2.5。此次更新提升了代码补全效率并引入协作功能，以优化开发体验。该发布在 Hacker News 上获得 100 个投票点，显示开发者社区对此次升级的关注。",
-      "category": "ai-products",
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmpc4aons006xslvfuyn1l7ke",
-      "title": "QoderWork推出Design Desk无限画布AI工作区",
-      "title_en": "🎨 Introducing Design Desk by QoderWork. An infinite-canvas AI workspace that turns language into ru…",
-      "url": "https://x.com/alibaba_cloud/status/2056581373301788747",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-05-19T03:43:03.000Z",
-      "summary": "🎨 介绍QoderWork的Design Desk。一个将语言转化为可运行代码的无限画布AI工作区。\n💡 用自然语言描述你的需求--即可在无限画布上获得可运行的React + Vite项目。设计师迭代，开发者交付相同文件。无缝交接。\n⏬立即下载QoderWork\nhttps：//www.qoderwork.ai\n#AI #Qoder #QoderWork #DesignDesk",
-      "category": "ai-products",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpbx9x5v1b1yslnzc24m4139",
-      "title": "「开发日志」提示词：让AI编码决策可审计",
-      "title_en": "Claude Code 核心开发者 Thariq 带来自己高频使用的「开发日志」提示词 @trq212 这段提示词解决了 AI 协作编码中最棘手的结构性问题：规格永远写不完整，但人又无法实时跟踪 A…",
-      "url": "https://x.com/shao__meng/status/2056535561540948056",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-05-19T00:41:01.000Z",
-      "summary": "针对AI协作编码中\"规格永难完整\"与\"决策无法追踪\"的核心矛盾，此提示词提出了第三条路径。它要求AI在实现需求时同步维护一份结构化文档，明确记录设计决策、对规格的偏离、考虑过的权衡以及待确认的开放性问题。这种方法的关键在于将AI执行过程中的隐性判断显式化、文档化，从而让Code Review可直接对照决策笔记，而非逆向工程代码。它不仅降低了模型的过度澄清倾向，更通过提供结构化产物，建立了一种可审计、可协作的人机开发新范式。",
+      "url": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 19 MaT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
-        "creative",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmp9n1c040s55slnzuroftb4b",
-      "title": "微软AI CEO预测18个月内AI自动化所有白领工作",
-      "title_en": "Mustafa Suleyman says 18 months until AI automates all white-collar work. Microsoft AI CEO Mustafa …",
-      "url": "https://x.com/kimmonismus/status/2055952702908355012",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-05-17T10:04:56.000Z",
-      "summary": "微软AI CEO Mustafa Suleyman预测，AI将在18个月内实现人类水平的性能，自动化大多数专业任务，包括会计、法律、营销和项目管理。他在Fortune采访中指出，所有涉及\"坐在电脑前\"的白领工作都将被AI完全取代。Suleyman透露自己的使命是构建\"超级智能\"，并展望未来创建新AI模型将像制作播客或写博客一样便捷。",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmp8oygzv0kc6slnz56g1hza2",
-      "title": "按需定制快捷键，优化工作流效率",
-      "title_en": "We're having way too much fun working through your feedback. （Please， keep it coming.） Keyboard sh…",
-      "url": "https://x.com/OpenAIDevs/status/2055717793841221796",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-05-16T18:31:30.000Z",
-      "summary": "处理大家的反馈让我们感到太有趣了。\n（请继续反馈。）\n键盘快捷键现已支持自定义。\n围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。",
-      "category": "ai-products",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmp75qfv107p0slnza9wzcnmd",
-      "title": "Eric Jang - 从零开始构建 AlphaGo",
-      "title_en": "Eric Jang - Building AlphaGo from scratch",
-      "url": "https://www.dwarkesh.com/p/eric-jang",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-05-15T16:04:58.000Z",
-      "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
-      "category": "tip",
-      "interestTags": [
-        "writing",
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_2187281189",
-      "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意",
-      "title_en": null,
-      "url": "https://sspai.com/post/109928",
-      "source": "少数派",
-      "publishedAt": "2026-05-19T09:03:04+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/109928\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "rss_283389204",
-      "title": "泰国内阁决定取消60天免签政策",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3816153636691717?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-05-19T00:00:00+00:00",
-      "summary": "据泰国媒体19日报道，泰国内阁当天批准取消对90多个国家公民的60天免签入境政策，恢复为之前的入境标准。泰国旅游与体育部长素拉沙·攀差伦沃拉恭19日表示，内阁会议已决定对90多个国家恢复原有免签政策，通常为免签入境30天左右。签证政策委员会此后将针对各国进行单独审查，并考虑安全和经济因素来制定新的免签政策。（新华社）",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "Tue, 19 Ma"
     }
   ]
 }
