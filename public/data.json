@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-20T03:37:16.046159+00:00",
+  "generatedAt": "2026-05-20T07:32:46.971070+00:00",
   "totalSource": 160,
-  "totalFiltered": 151,
+  "totalFiltered": 150,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -26,6 +26,22 @@
         "formattedTime": "刚刚"
       },
       {
+        "id": "cmpdoor1405odslk1agikxaqm",
+        "title": "开源油猴脚本实现多平台截图上传与内容处理",
+        "title_en": "让抖音、小红书、微信公众号支持截图上传。 搞好这个以后，有动力同步 X 内容过去了，虽然一些平台有点垃圾。",
+        "url": "https://x.com/vista8/status/2056982823169568779",
+        "source": "X：Vista (@vista8)",
+        "publishedAt": "2026-05-20T06:18:16.000Z",
+        "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
         "id": "cmpd9r8mi022fslk1qbsjsb9i",
         "title": "拓宽关于前沿AI的对话",
         "title_en": "Widening the conversation on frontier AI",
@@ -36,22 +52,6 @@
         "category": "tip",
         "interestTags": [
           "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpd3cb2800kuslk1tbv8fe48",
-        "title": "Claude实现真实界面操作的生产实践指南",
-        "title_en": "Computer use turns Claude into an agent that can operate real UIs. New blog post on making it reli…",
-        "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-05-19T20:32:13.000Z",
-        "summary": "计算机使用功能使Claude成为能够操作真实用户界面的智能体。\n\n新博客文章探讨如何在生产环境中确保其可靠性：包括提高点击准确性、选择思考努力级别、在长会话中保持上下文，以及记录Claude可重放的演示操作：\n\nhttps：//claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
@@ -74,7 +74,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "9小时前"
       },
       {
         "id": "cmpd5un01016gslk14jmz9h5z",
@@ -90,7 +90,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "10小时前"
       },
       {
         "id": "cmpd5qa3j014wslk1csm8g3lb",
@@ -106,7 +106,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "10小时前"
       }
     ],
     "writing": [
@@ -124,7 +124,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "10小时前"
       },
       {
         "id": "cmpczbj4s01k6sljl6alywqgy",
@@ -139,7 +139,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "13小时前"
       },
       {
         "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -154,7 +154,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "13小时前"
       }
     ],
     "productivity": [
@@ -171,7 +171,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "15小时前"
       },
       {
         "id": "cmpckp777033vslaeq0owzke0",
@@ -186,24 +186,25 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "19小时前"
       }
     ],
     "education": [
       {
-        "id": "rss_722017696",
-        "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 19 MaT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "id": "cmpcyioqw01c0sljlnmkn1jvc",
+        "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
+        "title_en": "I/O 2026： Welcome to the agentic Gemini era",
+        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-05-19T17:45:00.000Z",
+        "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
+        "category": "ai-models",
         "interestTags": [
-          "education"
+          "education",
+          "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "Tue, 19 Ma"
+        "techScore": 0,
+        "formattedTime": "13小时前"
       }
     ]
   },
@@ -224,6 +225,22 @@
       "formattedTime": "刚刚"
     },
     {
+      "id": "cmpdoor1405odslk1agikxaqm",
+      "title": "开源油猴脚本实现多平台截图上传与内容处理",
+      "title_en": "让抖音、小红书、微信公众号支持截图上传。 搞好这个以后，有动力同步 X 内容过去了，虽然一些平台有点垃圾。",
+      "url": "https://x.com/vista8/status/2056982823169568779",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-05-20T06:18:16.000Z",
+      "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
       "id": "cmpd9r8mi022fslk1qbsjsb9i",
       "title": "拓宽关于前沿AI的对话",
       "title_en": "Widening the conversation on frontier AI",
@@ -236,7 +253,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "7小时前"
     },
     {
       "id": "cmpd5x0qo0179slk1f2ze49et",
@@ -254,7 +271,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "9小时前"
     },
     {
       "id": "cmpd5un01016gslk14jmz9h5z",
@@ -270,7 +287,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "10小时前"
     },
     {
       "id": "cmpd57aiz00zqslk11q0lp88m",
@@ -286,7 +303,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "10小时前"
     },
     {
       "id": "cmpd5qa3j014wslk1csm8g3lb",
@@ -302,23 +319,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmpd3cb2800kuslk1tbv8fe48",
-      "title": "Claude实现真实界面操作的生产实践指南",
-      "title_en": "Computer use turns Claude into an agent that can operate real UIs. New blog post on making it reli…",
-      "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-05-19T20:32:13.000Z",
-      "summary": "计算机使用功能使Claude成为能够操作真实用户界面的智能体。\n\n新博客文章探讨如何在生产环境中确保其可靠性：包括提高点击准确性、选择思考努力级别、在长会话中保持上下文，以及记录Claude可重放的演示操作：\n\nhttps：//claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "10小时前"
     },
     {
       "id": "cmpczbj4s01k6sljl6alywqgy",
@@ -333,7 +334,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -348,7 +349,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmpculcys009gsljl1jpnwadp",
@@ -363,7 +364,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "15小时前"
     },
     {
       "id": "cmpckp777033vslaeq0owzke0",
@@ -378,22 +379,23 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "19小时前"
     },
     {
-      "id": "rss_722017696",
-      "title": "消息积压方面的数学知识：用于队列恢复的容量规划",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 19 MaT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/bvEPpX9sYTOZJsFzUKEf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "cmpcyioqw01c0sljlnmkn1jvc",
+      "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
+      "title_en": "I/O 2026： Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-05-19T17:45:00.000Z",
+      "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
+      "category": "ai-models",
       "interestTags": [
-        "education"
+        "education",
+        "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Tue, 19 Ma"
+      "techScore": 0,
+      "formattedTime": "13小时前"
     }
   ]
 }
