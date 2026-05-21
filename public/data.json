@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T07:32:46.971070+00:00",
+  "generatedAt": "2026-05-21T00:10:51.728481+00:00",
   "totalSource": 160,
   "totalFiltered": 150,
   "totalSelected": 12,
@@ -26,32 +26,34 @@
         "formattedTime": "刚刚"
       },
       {
-        "id": "cmpdoor1405odslk1agikxaqm",
-        "title": "开源油猴脚本实现多平台截图上传与内容处理",
-        "title_en": "让抖音、小红书、微信公众号支持截图上传。 搞好这个以后，有动力同步 X 内容过去了，虽然一些平台有点垃圾。",
-        "url": "https://x.com/vista8/status/2056982823169568779",
-        "source": "X：Vista (@vista8)",
-        "publishedAt": "2026-05-20T06:18:16.000Z",
-        "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
+        "id": "cmpebdc1s0b28slk1ol5l7sub",
+        "title": "ChatGPT移动端支持Codex，实现跨设备协作",
+        "title_en": "Your laptop can stay home. Work with Codex from the ChatGPT mobile app， answer questions on the go，…",
+        "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-05-20T16:54:01.000Z",
+        "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
+        "category": "ai-products",
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmpeaqdsu0ayqslk165azsfyn",
+        "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
+        "title_en": "How an Anthropic sales leader uses Claude Cowork to run a 4，000-account book",
+        "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-05-20T16:48:36.467Z",
+        "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
         "category": "tip",
         "interestTags": [
           "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmpd9r8mi022fslk1qbsjsb9i",
-        "title": "拓宽关于前沿AI的对话",
-        "title_en": "Widening the conversation on frontier AI",
-        "url": "https://www.anthropic.com/news/widening-conversation-ai",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-05-19T23:33:23.139Z",
-        "summary": "Anthropic为构建负责任的先进AI，正与全球多元群体展开对话。首轮讨论汇集了超过15个宗教、哲学及跨文化传统的学者与伦理学者，旨在为Claude等模型的道德形成与价值观对齐提供多元视角。受\"外部良知\"概念启发，团队开发并测试了伦理承诺提醒工具，初步实验显示其能有效降低模型不对齐行为。公司计划未来将对话拓展至法律、心理学及公民社会等领域，以共同应对AI对社会结构的重塑。",
-        "category": "tip",
-        "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
@@ -59,14 +61,14 @@
     ],
     "creative": [
       {
-        "id": "cmpd5x0qo0179slk1f2ze49et",
-        "title": "Claude Code的HTML输出：非凡的有效性",
-        "title_en": "Using Claude Code： The unreasonable effectiveness of HTML",
-        "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-05-19T21:45:38.448Z",
-        "summary": "Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。",
-        "category": "tip",
+        "id": "cmpeq13j70ejcslk16skz7ozw",
+        "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/953/096.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-20T23:28:17.000Z",
+        "summary": "腾讯于5月21日发布了操作系统层级AI助手\"马维斯\"，支持Windows、Mac和安卓平台同步上线。该助手具备文档归类解析、图片智能识别处理、系统维护等功能，并强调与操作系统深度集成，可调度不同模型处理任务，部分功能可在离线状态下使用。腾讯表示\"马维斯\"能完成市面主流Agent的大部分工作，并具备桌面操控手机应用等能力。这是继3月WorkBuddy和\"龙虾\"产品矩阵后，腾讯推出的又一AI助手产品。",
+        "category": "ai-products",
         "interestTags": [
           "creative",
           "app",
@@ -74,57 +76,104 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmpd5un01016gslk14jmz9h5z",
-        "title": "ChatGPT图像生成周使用量突破15亿次",
-        "title_en": "People are generating over 1.5 billion images a week in ChatGPT. Researcher @kenjihata joins Produc…",
-        "url": "https://x.com/OpenAI/status/2056849157860831239",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-05-19T21:27:08.000Z",
-        "summary": "人们每周在ChatGPT中生成超过15亿张图像。\n\n研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "10小时前"
-      },
-      {
-        "id": "cmpd5qa3j014wslk1csm8g3lb",
-        "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
-        "title_en": "Today， we launched a brand-new intelligent Search box. Here's what that means： An upgrade to the S…",
-        "url": "https://x.com/GoogleAI/status/2056845506601718271",
-        "source": "X：Google AI (@GoogleAI)",
-        "publishedAt": "2026-05-19T21:12:37.000Z",
-        "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
+        "id": "cmpeh7y5x0chnslk1zflfjrix",
+        "title": "V8.1新增反向提示功能",
+        "title_en": "Small update today. Many requested a \"anti-prompting\" feature for V8 models （which existed in previo…",
+        "url": "https://x.com/midjourney/status/2057184157869199429",
+        "source": "X：Midjourney (@midjourney)",
+        "publishedAt": "2026-05-20T19:38:18.000Z",
+        "summary": "今日小幅更新。许多用户要求为V8模型恢复\"反向提示\"功能（旧版本已有），我们称之为--no标志。该功能现已在V8.1中上线！如果您想从图像中排除某些元素（例如人物），可以尝试使用--no people。玩得开心！",
         "category": "ai-products",
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpe6yylc0a04slk1ip15yb89",
+        "title": "AI视频一致性始于动作之前",
+        "title_en": "AI video consistency starts before motion. For this 15s cooking short， we first generated a clean ch…",
+        "url": "https://x.com/PixVerse_/status/2057114262145818752",
+        "source": "X：PixVerse (@PixVerse_)",
+        "publishedAt": "2026-05-20T15:00:34.000Z",
+        "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmpecsrym0bf5slk1l0wn31kj",
+        "title": "上下文压缩技术提升搜索效率与准确性",
+        "title_en": "We've productionized query-aware compression for faster， cleaner， more-accurate search. Better cont…",
+        "url": "https://x.com/perplexity_ai/status/2057151002105753950",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "publishedAt": "2026-05-20T17:26:33.000Z",
+        "summary": "我们已将查询感知压缩技术投入生产，以实现更快、更清晰、更准确的搜索。\n更好的上下文优于更多的上下文。\n我们的系统可将上下文令牌最多削减70%，同时提升回答质量。",
+        "category": "ai-products",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpemu8bs0dsrslk16jnygisn",
+        "title": "不可持续的补贴",
+        "title_en": "The Unsustainable Subsidy",
+        "url": "https://www.tomtunguz.com/ai-model-inflation",
+        "source": "Tomer Tunguz 博客（VC 分析）",
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "summary": "三大AI厂商定价策略出现显著分化：Google的AI价格年增两倍，但其旗舰模型Gemini 3.1 Pro（输入2美元、输出12美元）仍是市场最低价；OpenAI的GPT-5.5（5美元/30美元）经历短期补贴后再次涨价；Anthropic的Claude Opus 4.7（5美元/25美元）价格保持稳定，且对最强模型有所下调。这些变动标志着行业正从不惜成本的市场份额争夺，转向注重利润与现金流管理的商业理性，以应对持续高昂的资本支出压力。",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmpefpfrr0c2pslk1vqgx7vfz",
+        "title": "OpenAI模型证伪了离散几何中的一个核心猜想",
+        "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-05-20T00:00:00.000Z",
+        "summary": "OpenAI开发的人工智能模型成功解决了数学界悬而未决逾80年的\"单元距离问题\"，并由此推翻了离散几何领域的一个核心猜想。这一突破被视作人工智能驱动数学研究的里程碑事件，标志着AI在基础科学理论探索中取得了实质性进展。该模型通过创新算法处理复杂的几何问题，展示了机器在自动化发现与验证数学猜想方面的巨大潜力。",
+        "category": "paper",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "cmpd57aiz00zqslk11q0lp88m",
-        "title": "创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员",
-        "title_en": "One Year of Innovation： Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
-        "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-05-19T21:25:58.418Z",
-        "summary": "Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。",
+        "id": "cmpea57r90arpslk1o2xw1hnw",
+        "title": "谷歌的人工智能正遭到操纵。这家搜索巨头正在悄然反击",
+        "title_en": null,
+        "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-20T16:20:07.607Z",
+        "summary": "谷歌的AI系统正面临被操纵的风险。为应对这一挑战，这家科技巨头已悄然启动防御措施，以保护其AI生成内容的结果免受恶意干扰。此举旨在确保搜索和AI服务的可靠性与可信度，反映了当前人工智能安全领域日益增长的对抗性问题。谷歌在未公开宣传的情况下，正在通过技术手段加强对其AI系统的防护。",
         "category": "industry",
         "interestTags": [
-          "writing",
-          "education"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "7小时前"
       },
       {
         "id": "cmpczbj4s01k6sljl6alywqgy",
@@ -139,7 +188,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -154,57 +203,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmpculcys009gsljl1jpnwadp",
-        "title": "Google I/O 开发者大会日程公布",
-        "title_en": "It's time for Google I/O！ ✧ 10：00AM - Keynote ✧ 1：30PM - Developer Keynote ✧ 3：30PM - What's new in…",
-        "url": "https://x.com/googleaidevs/status/2056767412255805521",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "publishedAt": "2026-05-19T16:02:18.000Z",
-        "summary": "Google I/O 开发者大会即将开始！\n\n✧ 上午10：00 - 主题演讲\n✧ 下午1：30 - 开发者主题演讲\n✧ 下午3：30 - Google AI 新动态\n✧ 下午4：30 - 与 @GoogleDeepMind 和 @Antigravity 共同扩展开发者生态系统\n\n时间为太平洋时间。\nhttps：//x.com/i/events/2053241348807864323",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "15小时前"
-      },
-      {
-        "id": "cmpckp777033vslaeq0owzke0",
-        "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/952/463.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-05-19T11:35:50.000Z",
-        "summary": "微软前高管马特·韦洛索批评称，尽管微软与OpenAI合作在2023至2025年间获得约300亿美元营收，但相关成本高达1000亿美元，盈利前景不明。他指出，微软在AI布局上存在多项失误，包括押注必应搜索AI转型未增市场份额、Copilot付费用户实际使用率不足3%、人才任用不当等。虽然微软称Copilot企业付费用户已超2000万家，但市场对其AI巨额投入的盈利路径存在担忧。微软仍计划2026年在AI基础设施投入最高1460亿美元。",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "19小时前"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmpcyioqw01c0sljlnmkn1jvc",
-        "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
-        "title_en": "I/O 2026： Welcome to the agentic Gemini era",
-        "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
-        "category": "ai-models",
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": 0,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
@@ -225,45 +224,14 @@
       "formattedTime": "刚刚"
     },
     {
-      "id": "cmpdoor1405odslk1agikxaqm",
-      "title": "开源油猴脚本实现多平台截图上传与内容处理",
-      "title_en": "让抖音、小红书、微信公众号支持截图上传。 搞好这个以后，有动力同步 X 内容过去了，虽然一些平台有点垃圾。",
-      "url": "https://x.com/vista8/status/2056982823169568779",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-05-20T06:18:16.000Z",
-      "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmpd9r8mi022fslk1qbsjsb9i",
-      "title": "拓宽关于前沿AI的对话",
-      "title_en": "Widening the conversation on frontier AI",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-05-19T23:33:23.139Z",
-      "summary": "Anthropic为构建负责任的先进AI，正与全球多元群体展开对话。首轮讨论汇集了超过15个宗教、哲学及跨文化传统的学者与伦理学者，旨在为Claude等模型的道德形成与价值观对齐提供多元视角。受\"外部良知\"概念启发，团队开发并测试了伦理承诺提醒工具，初步实验显示其能有效降低模型不对齐行为。公司计划未来将对话拓展至法律、心理学及公民社会等领域，以共同应对AI对社会结构的重塑。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmpd5x0qo0179slk1f2ze49et",
-      "title": "Claude Code的HTML输出：非凡的有效性",
-      "title_en": "Using Claude Code： The unreasonable effectiveness of HTML",
-      "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-05-19T21:45:38.448Z",
-      "summary": "Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。",
-      "category": "tip",
+      "id": "cmpeq13j70ejcslk16skz7ozw",
+      "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/953/096.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-20T23:28:17.000Z",
+      "summary": "腾讯于5月21日发布了操作系统层级AI助手\"马维斯\"，支持Windows、Mac和安卓平台同步上线。该助手具备文档归类解析、图片智能识别处理、系统维护等功能，并强调与操作系统深度集成，可调度不同模型处理任务，部分功能可在离线状态下使用。腾讯表示\"马维斯\"能完成市面主流Agent的大部分工作，并具备桌面操控手机应用等能力。这是继3月WorkBuddy和\"龙虾\"产品矩阵后，腾讯推出的又一AI助手产品。",
+      "category": "ai-products",
       "interestTags": [
         "creative",
         "app",
@@ -271,55 +239,133 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmpd5un01016gslk14jmz9h5z",
-      "title": "ChatGPT图像生成周使用量突破15亿次",
-      "title_en": "People are generating over 1.5 billion images a week in ChatGPT. Researcher @kenjihata joins Produc…",
-      "url": "https://x.com/OpenAI/status/2056849157860831239",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-05-19T21:27:08.000Z",
-      "summary": "人们每周在ChatGPT中生成超过15亿张图像。\n\n研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmpd57aiz00zqslk11q0lp88m",
-      "title": "创新一周年：庆祝Google Cloud x NVIDIA开发者社区达到10万会员",
-      "title_en": "One Year of Innovation： Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
-      "url": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-05-19T21:25:58.418Z",
-      "summary": "Google Cloud与NVIDIA开发者社区迎来成立一周年，会员规模突破10万。社区为开发者提供先进AI基础设施与资源支持，包括LLM优化、GPU加速数据分析等专项学习路径及专家网络研讨会。第二年计划将进一步扩展，推出实践实验室、工程活动及聚焦代理式AI增长的专项内容。",
-      "category": "industry",
-      "interestTags": [
-        "writing",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmpd5qa3j014wslk1csm8g3lb",
-      "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
-      "title_en": "Today， we launched a brand-new intelligent Search box. Here's what that means： An upgrade to the S…",
-      "url": "https://x.com/GoogleAI/status/2056845506601718271",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-05-19T21:12:37.000Z",
-      "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
+      "id": "cmpeh7y5x0chnslk1zflfjrix",
+      "title": "V8.1新增反向提示功能",
+      "title_en": "Small update today. Many requested a \"anti-prompting\" feature for V8 models （which existed in previo…",
+      "url": "https://x.com/midjourney/status/2057184157869199429",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-05-20T19:38:18.000Z",
+      "summary": "今日小幅更新。许多用户要求为V8模型恢复\"反向提示\"功能（旧版本已有），我们称之为--no标志。该功能现已在V8.1中上线！如果您想从图像中排除某些元素（例如人物），可以尝试使用--no people。玩得开心！",
       "category": "ai-products",
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpecsrym0bf5slk1l0wn31kj",
+      "title": "上下文压缩技术提升搜索效率与准确性",
+      "title_en": "We've productionized query-aware compression for faster， cleaner， more-accurate search. Better cont…",
+      "url": "https://x.com/perplexity_ai/status/2057151002105753950",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-05-20T17:26:33.000Z",
+      "summary": "我们已将查询感知压缩技术投入生产，以实现更快、更清晰、更准确的搜索。\n更好的上下文优于更多的上下文。\n我们的系统可将上下文令牌最多削减70%，同时提升回答质量。",
+      "category": "ai-products",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpebdc1s0b28slk1ol5l7sub",
+      "title": "ChatGPT移动端支持Codex，实现跨设备协作",
+      "title_en": "Your laptop can stay home. Work with Codex from the ChatGPT mobile app， answer questions on the go，…",
+      "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-05-20T16:54:01.000Z",
+      "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
+      "category": "ai-products",
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpeaqdsu0ayqslk165azsfyn",
+      "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
+      "title_en": "How an Anthropic sales leader uses Claude Cowork to run a 4，000-account book",
+      "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-05-20T16:48:36.467Z",
+      "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpea57r90arpslk1o2xw1hnw",
+      "title": "谷歌的人工智能正遭到操纵。这家搜索巨头正在悄然反击",
+      "title_en": null,
+      "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-20T16:20:07.607Z",
+      "summary": "谷歌的AI系统正面临被操纵的风险。为应对这一挑战，这家科技巨头已悄然启动防御措施，以保护其AI生成内容的结果免受恶意干扰。此举旨在确保搜索和AI服务的可靠性与可信度，反映了当前人工智能安全领域日益增长的对抗性问题。谷歌在未公开宣传的情况下，正在通过技术手段加强对其AI系统的防护。",
+      "category": "industry",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpe6yylc0a04slk1ip15yb89",
+      "title": "AI视频一致性始于动作之前",
+      "title_en": "AI video consistency starts before motion. For this 15s cooking short， we first generated a clean ch…",
+      "url": "https://x.com/PixVerse_/status/2057114262145818752",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-05-20T15:00:34.000Z",
+      "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmpemu8bs0dsrslk16jnygisn",
+      "title": "不可持续的补贴",
+      "title_en": "The Unsustainable Subsidy",
+      "url": "https://www.tomtunguz.com/ai-model-inflation",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "summary": "三大AI厂商定价策略出现显著分化：Google的AI价格年增两倍，但其旗舰模型Gemini 3.1 Pro（输入2美元、输出12美元）仍是市场最低价；OpenAI的GPT-5.5（5美元/30美元）经历短期补贴后再次涨价；Anthropic的Claude Opus 4.7（5美元/25美元）价格保持稳定，且对最强模型有所下调。这些变动标志着行业正从不惜成本的市场份额争夺，转向注重利润与现金流管理的商业理性，以应对持续高昂的资本支出压力。",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmpefpfrr0c2pslk1vqgx7vfz",
+      "title": "OpenAI模型证伪了离散几何中的一个核心猜想",
+      "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-05-20T00:00:00.000Z",
+      "summary": "OpenAI开发的人工智能模型成功解决了数学界悬而未决逾80年的\"单元距离问题\"，并由此推翻了离散几何领域的一个核心猜想。这一突破被视作人工智能驱动数学研究的里程碑事件，标志着AI在基础科学理论探索中取得了实质性进展。该模型通过创新算法处理复杂的几何问题，展示了机器在自动化发现与验证数学猜想方面的巨大潜力。",
+      "category": "paper",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpczbj4s01k6sljl6alywqgy",
@@ -334,7 +380,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -349,53 +395,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
-    },
-    {
-      "id": "cmpculcys009gsljl1jpnwadp",
-      "title": "Google I/O 开发者大会日程公布",
-      "title_en": "It's time for Google I/O！ ✧ 10：00AM - Keynote ✧ 1：30PM - Developer Keynote ✧ 3：30PM - What's new in…",
-      "url": "https://x.com/googleaidevs/status/2056767412255805521",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "publishedAt": "2026-05-19T16:02:18.000Z",
-      "summary": "Google I/O 开发者大会即将开始！\n\n✧ 上午10：00 - 主题演讲\n✧ 下午1：30 - 开发者主题演讲\n✧ 下午3：30 - Google AI 新动态\n✧ 下午4：30 - 与 @GoogleDeepMind 和 @Antigravity 共同扩展开发者生态系统\n\n时间为太平洋时间。\nhttps：//x.com/i/events/2053241348807864323",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "15小时前"
-    },
-    {
-      "id": "cmpckp777033vslaeq0owzke0",
-      "title": "前高管称微软 AI 布局失利，Copilot 付费使用率不足 3%",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/952/463.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-05-19T11:35:50.000Z",
-      "summary": "微软前高管马特·韦洛索批评称，尽管微软与OpenAI合作在2023至2025年间获得约300亿美元营收，但相关成本高达1000亿美元，盈利前景不明。他指出，微软在AI布局上存在多项失误，包括押注必应搜索AI转型未增市场份额、Copilot付费用户实际使用率不足3%、人才任用不当等。虽然微软称Copilot企业付费用户已超2000万家，但市场对其AI巨额投入的盈利路径存在担忧。微软仍计划2026年在AI基础设施投入最高1460亿美元。",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmpcyioqw01c0sljlnmkn1jvc",
-      "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
-      "title_en": "I/O 2026： Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "summary": "Google 在 I/O 2026 大会上宣布 Gemini 进入自主代理时代，新功能使其能够自动执行复杂任务，显著提升用户工作效率。大会展示了 Gemini 如何通过代理操作简化工作流程，实现自动化处理，例如自动管理邮件、安排日程或生成报告，帮助用户从重复性工作中解放出来，专注于创造性任务。这一更新基于先进机器学习模型，强调准确性与效率，标志着 AI 助手向更智能、更自主的方向发展。",
-      "category": "ai-models",
-      "interestTags": [
-        "education",
-        "productivity"
-      ],
-      "techScore": 0,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
