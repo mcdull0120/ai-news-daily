@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-21T00:10:51.728481+00:00",
+  "generatedAt": "2026-05-22T00:08:03.185001+00:00",
   "totalSource": 160,
-  "totalFiltered": 150,
+  "totalFiltered": 147,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,110 +9,37 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "cmpd3ms9200o4slk1fra40xlv",
-        "title": "在OpenClaw中使用Grok",
-        "title_en": "Use Grok in OpenClaw",
-        "url": "https://x.ai/news/grok-openclaw",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-05-22T00:00:00.000Z",
-        "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmpebdc1s0b28slk1ol5l7sub",
-        "title": "ChatGPT移动端支持Codex，实现跨设备协作",
-        "title_en": "Your laptop can stay home. Work with Codex from the ChatGPT mobile app， answer questions on the go，…",
-        "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-05-20T16:54:01.000Z",
-        "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
-        "category": "ai-products",
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmpeaqdsu0ayqslk165azsfyn",
-        "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
-        "title_en": "How an Anthropic sales leader uses Claude Cowork to run a 4，000-account book",
-        "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-05-20T16:48:36.467Z",
-        "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpeq13j70ejcslk16skz7ozw",
-        "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/953/096.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-05-20T23:28:17.000Z",
-        "summary": "腾讯于5月21日发布了操作系统层级AI助手\"马维斯\"，支持Windows、Mac和安卓平台同步上线。该助手具备文档归类解析、图片智能识别处理、系统维护等功能，并强调与操作系统深度集成，可调度不同模型处理任务，部分功能可在离线状态下使用。腾讯表示\"马维斯\"能完成市面主流Agent的大部分工作，并具备桌面操控手机应用等能力。这是继3月WorkBuddy和\"龙虾\"产品矩阵后，腾讯推出的又一AI助手产品。",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmpeh7y5x0chnslk1zflfjrix",
-        "title": "V8.1新增反向提示功能",
-        "title_en": "Small update today. Many requested a \"anti-prompting\" feature for V8 models （which existed in previo…",
-        "url": "https://x.com/midjourney/status/2057184157869199429",
-        "source": "X：Midjourney (@midjourney)",
-        "publishedAt": "2026-05-20T19:38:18.000Z",
-        "summary": "今日小幅更新。许多用户要求为V8模型恢复\"反向提示\"功能（旧版本已有），我们称之为--no标志。该功能现已在V8.1中上线！如果您想从图像中排除某些元素（例如人物），可以尝试使用--no people。玩得开心！",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpe6yylc0a04slk1ip15yb89",
-        "title": "AI视频一致性始于动作之前",
-        "title_en": "AI video consistency starts before motion. For this 15s cooking short， we first generated a clean ch…",
-        "url": "https://x.com/PixVerse_/status/2057114262145818752",
-        "source": "X：PixVerse (@PixVerse_)",
-        "publishedAt": "2026-05-20T15:00:34.000Z",
-        "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
-      }
-    ],
     "productivity": [
+      {
+        "id": "cmpfyb7qb0apysljwk3k8nlne",
+        "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
+        "title_en": "Have you ever thought to yourself： I really don't want to make this PowerPoint. Good news： ChatGPT …",
+        "url": "https://x.com/ChatGPTapp/status/2057560276384563560",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-05-21T20:32:52.000Z",
+        "summary": "你是否曾这样想过：我真的不想做这个PPT。\n\n好消息：ChatGPT现在可以直接在PowerPoint中创建和编辑演示文稿。\n\n在PowerPoint中直接构建、更新、理解和优化演示文稿，同时保持幻灯片可编辑。\n\n目前处于测试阶段，我们期待您的反馈 👀",
+        "category": "ai-products",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmpfpql9r08kzsljwm397lepk",
+        "title": "Gemini每日简报助你高效规划一天",
+        "title_en": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most i…",
+        "url": "https://x.com/GeminiApp/status/2057500470147698936",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-05-21T16:35:13.000Z",
+        "summary": "用Daily Brief开启高效一天。\nGemini现在能主动将最重要的事项整理成易于理解的待办清单，让你在早餐结束前就为一天做好准备。",
+        "category": "ai-products",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmpecsrym0bf5slk1l0wn31kj",
         "title": "上下文压缩技术提升搜索效率与准确性",
@@ -126,37 +53,104 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmpfx8pgl0aftsljw6ddy0mx0",
+        "title": "Gemini扩展应用连接，支持更多服务",
+        "title_en": "Gemini can now connect to even more apps， including @OpenTable， @Canva， and @Instacart. Whether you…",
+        "url": "https://x.com/GeminiApp/status/2057550225863246236",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-05-21T19:52:55.000Z",
+        "summary": "Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。\n\n无论您是预订餐厅、制作传单还是订购杂货，Gemini不仅能查找信息，还能通过连接的应用帮助您无缝采取行动。",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmpemu8bs0dsrslk16jnygisn",
-        "title": "不可持续的补贴",
-        "title_en": "The Unsustainable Subsidy",
-        "url": "https://www.tomtunguz.com/ai-model-inflation",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "三大AI厂商定价策略出现显著分化：Google的AI价格年增两倍，但其旗舰模型Gemini 3.1 Pro（输入2美元、输出12美元）仍是市场最低价；OpenAI的GPT-5.5（5美元/30美元）经历短期补贴后再次涨价；Anthropic的Claude Opus 4.7（5美元/25美元）价格保持稳定，且对最强模型有所下调。这些变动标志着行业正从不惜成本的市场份额争夺，转向注重利润与现金流管理的商业理性，以应对持续高昂的资本支出压力。",
+        "id": "cmpfvtbs20a1ssljw6zxhrsfd",
+        "title": "Cloudflare首席执行官谈如何决定用人工智能取代哪些员工",
+        "title_en": null,
+        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-21T19:16:20.918Z",
+        "summary": "Cloudflare首席执行官在《华尔街日报》撰文，分享其公司用AI替代部分员工的决策逻辑。该文于2026年5月21日发布，引发了技术社区的广泛讨论，在Hacker News上获得100个点赞。",
         "category": "tip",
         "interestTags": [
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmpefpfrr0c2pslk1vqgx7vfz",
-        "title": "OpenAI模型证伪了离散几何中的一个核心猜想",
-        "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-05-20T00:00:00.000Z",
-        "summary": "OpenAI开发的人工智能模型成功解决了数学界悬而未决逾80年的\"单元距离问题\"，并由此推翻了离散几何领域的一个核心猜想。这一突破被视作人工智能驱动数学研究的里程碑事件，标志着AI在基础科学理论探索中取得了实质性进展。该模型通过创新算法处理复杂的几何问题，展示了机器在自动化发现与验证数学猜想方面的巨大潜力。",
-        "category": "paper",
+        "id": "cmpfuzwcl09visljwx2mgue3s",
+        "title": "Codex实现全天候跨设备安全操控Mac",
+        "title_en": "Codex anywhere and everywhere， all the time. Now your Mac doesn't have to be unlocked for Codex to …",
+        "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-05-21T18:59:12.000Z",
+        "summary": "Codex随时随地，无处不在。\n现在您的Mac无需解锁，Codex即可使用您的电脑。\n通过手机，Codex可以安全地使用您Mac上的应用程序，即使屏幕关闭且处于锁定状态。\nhttps：//developers.openai.com/codex/app/computer-use#locked-use",
+        "category": "ai-products",
         "interestTags": [
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "5小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpfy3oks0am6sljw9otht8dv",
+        "title": "Datasette Agent",
+        "title_en": null,
+        "url": "https://simonwillison.net/2026/May/21/datasette-agent",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-05-21T19:52:19.000Z",
+        "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpfw62gg0a6hsljwnu5etjbw",
+        "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
+        "title_en": "Introducing Fight Anyone 3D🥊A 3D party fighter， probably the most satisfying game to play at work. …",
+        "url": "https://x.com/ViggleAI/status/2057541072419520634",
+        "source": "X：Viggle AI (@ViggleAI)",
+        "publishedAt": "2026-05-21T19:16:33.000Z",
+        "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpfoxw8508fasljwvrn0utgu",
+        "title": "Shoplift by PixVerse快速生成平台原生广告视频",
+        "title_en": "No studio. No editor queue. Paste a product URL into Shoplift by PixVerse and ship platform-native …",
+        "url": "https://x.com/PixVerse_/status/2057492991036588306",
+        "source": "X：PixVerse (@PixVerse_)",
+        "publishedAt": "2026-05-21T16:05:30.000Z",
+        "summary": "无需工作室，无需编辑队列。\n将产品URL粘贴到Shoplift by PixVerse，几分钟内即可发布平台原生广告视频\n--专为持续进行创意测试的DTC团队打造。\n免费早期访问：https：//shoplift.pixverse.ai\n转发+关注+回复=300积分（仅限72小时）",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
       }
     ],
     "writing": [
@@ -173,7 +167,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpczbj4s01k6sljl6alywqgy",
@@ -188,7 +182,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -203,52 +197,49 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpd3ms9200o4slk1fra40xlv",
-      "title": "在OpenClaw中使用Grok",
-      "title_en": "Use Grok in OpenClaw",
-      "url": "https://x.ai/news/grok-openclaw",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-05-22T00:00:00.000Z",
-      "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
+      "id": "cmpfyb7qb0apysljwk3k8nlne",
+      "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
+      "title_en": "Have you ever thought to yourself： I really don't want to make this PowerPoint. Good news： ChatGPT …",
+      "url": "https://x.com/ChatGPTapp/status/2057560276384563560",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "publishedAt": "2026-05-21T20:32:52.000Z",
+      "summary": "你是否曾这样想过：我真的不想做这个PPT。\n\n好消息：ChatGPT现在可以直接在PowerPoint中创建和编辑演示文稿。\n\n在PowerPoint中直接构建、更新、理解和优化演示文稿，同时保持幻灯片可编辑。\n\n目前处于测试阶段，我们期待您的反馈 👀",
+      "category": "ai-products",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmpfx8pgl0aftsljw6ddy0mx0",
+      "title": "Gemini扩展应用连接，支持更多服务",
+      "title_en": "Gemini can now connect to even more apps， including @OpenTable， @Canva， and @Instacart. Whether you…",
+      "url": "https://x.com/GeminiApp/status/2057550225863246236",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-05-21T19:52:55.000Z",
+      "summary": "Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。\n\n无论您是预订餐厅、制作传单还是订购杂货，Gemini不仅能查找信息，还能通过连接的应用帮助您无缝采取行动。",
       "category": "ai-products",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmpeq13j70ejcslk16skz7ozw",
-      "title": "腾讯张军官宣操作系统层级 AI 助手\"马维斯\"正式上工，Windows、Mac、安卓端同步上线",
+      "id": "cmpfy3oks0am6sljw9otht8dv",
+      "title": "Datasette Agent",
       "title_en": null,
-      "url": "https://www.ithome.com/0/953/096.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-05-20T23:28:17.000Z",
-      "summary": "腾讯于5月21日发布了操作系统层级AI助手\"马维斯\"，支持Windows、Mac和安卓平台同步上线。该助手具备文档归类解析、图片智能识别处理、系统维护等功能，并强调与操作系统深度集成，可调度不同模型处理任务，部分功能可在离线状态下使用。腾讯表示\"马维斯\"能完成市面主流Agent的大部分工作，并具备桌面操控手机应用等能力。这是继3月WorkBuddy和\"龙虾\"产品矩阵后，腾讯推出的又一AI助手产品。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmpeh7y5x0chnslk1zflfjrix",
-      "title": "V8.1新增反向提示功能",
-      "title_en": "Small update today. Many requested a \"anti-prompting\" feature for V8 models （which existed in previo…",
-      "url": "https://x.com/midjourney/status/2057184157869199429",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-05-20T19:38:18.000Z",
-      "summary": "今日小幅更新。许多用户要求为V8模型恢复\"反向提示\"功能（旧版本已有），我们称之为--no标志。该功能现已在V8.1中上线！如果您想从图像中排除某些元素（例如人物），可以尝试使用--no people。玩得开心！",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-05-21T19:52:19.000Z",
+      "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
       "category": "ai-products",
       "interestTags": [
         "creative",
@@ -256,6 +247,83 @@
       ],
       "techScore": -1,
       "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpfw62gg0a6hsljwnu5etjbw",
+      "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
+      "title_en": "Introducing Fight Anyone 3D🥊A 3D party fighter， probably the most satisfying game to play at work. …",
+      "url": "https://x.com/ViggleAI/status/2057541072419520634",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "publishedAt": "2026-05-21T19:16:33.000Z",
+      "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpfvtbs20a1ssljw6zxhrsfd",
+      "title": "Cloudflare首席执行官谈如何决定用人工智能取代哪些员工",
+      "title_en": null,
+      "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-21T19:16:20.918Z",
+      "summary": "Cloudflare首席执行官在《华尔街日报》撰文，分享其公司用AI替代部分员工的决策逻辑。该文于2026年5月21日发布，引发了技术社区的广泛讨论，在Hacker News上获得100个点赞。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpfuzwcl09visljwx2mgue3s",
+      "title": "Codex实现全天候跨设备安全操控Mac",
+      "title_en": "Codex anywhere and everywhere， all the time. Now your Mac doesn't have to be unlocked for Codex to …",
+      "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-05-21T18:59:12.000Z",
+      "summary": "Codex随时随地，无处不在。\n现在您的Mac无需解锁，Codex即可使用您的电脑。\n通过手机，Codex可以安全地使用您Mac上的应用程序，即使屏幕关闭且处于锁定状态。\nhttps：//developers.openai.com/codex/app/computer-use#locked-use",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpfpql9r08kzsljwm397lepk",
+      "title": "Gemini每日简报助你高效规划一天",
+      "title_en": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most i…",
+      "url": "https://x.com/GeminiApp/status/2057500470147698936",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-05-21T16:35:13.000Z",
+      "summary": "用Daily Brief开启高效一天。\nGemini现在能主动将最重要的事项整理成易于理解的待办清单，让你在早餐结束前就为一天做好准备。",
+      "category": "ai-products",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpfoxw8508fasljwvrn0utgu",
+      "title": "Shoplift by PixVerse快速生成平台原生广告视频",
+      "title_en": "No studio. No editor queue. Paste a product URL into Shoplift by PixVerse and ship platform-native …",
+      "url": "https://x.com/PixVerse_/status/2057492991036588306",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-05-21T16:05:30.000Z",
+      "summary": "无需工作室，无需编辑队列。\n将产品URL粘贴到Shoplift by PixVerse，几分钟内即可发布平台原生广告视频\n--专为持续进行创意测试的DTC团队打造。\n免费早期访问：https：//shoplift.pixverse.ai\n转发+关注+回复=300积分（仅限72小时）",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
     },
     {
       "id": "cmpecsrym0bf5slk1l0wn31kj",
@@ -270,40 +338,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmpebdc1s0b28slk1ol5l7sub",
-      "title": "ChatGPT移动端支持Codex，实现跨设备协作",
-      "title_en": "Your laptop can stay home. Work with Codex from the ChatGPT mobile app， answer questions on the go，…",
-      "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-05-20T16:54:01.000Z",
-      "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
-      "category": "ai-products",
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmpeaqdsu0ayqslk165azsfyn",
-      "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
-      "title_en": "How an Anthropic sales leader uses Claude Cowork to run a 4，000-account book",
-      "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-05-20T16:48:36.467Z",
-      "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpea57r90arpslk1o2xw1hnw",
@@ -316,53 +351,6 @@
       "category": "industry",
       "interestTags": [
         "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmpe6yylc0a04slk1ip15yb89",
-      "title": "AI视频一致性始于动作之前",
-      "title_en": "AI video consistency starts before motion. For this 15s cooking short， we first generated a clean ch…",
-      "url": "https://x.com/PixVerse_/status/2057114262145818752",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-05-20T15:00:34.000Z",
-      "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "cmpemu8bs0dsrslk16jnygisn",
-      "title": "不可持续的补贴",
-      "title_en": "The Unsustainable Subsidy",
-      "url": "https://www.tomtunguz.com/ai-model-inflation",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "summary": "三大AI厂商定价策略出现显著分化：Google的AI价格年增两倍，但其旗舰模型Gemini 3.1 Pro（输入2美元、输出12美元）仍是市场最低价；OpenAI的GPT-5.5（5美元/30美元）经历短期补贴后再次涨价；Anthropic的Claude Opus 4.7（5美元/25美元）价格保持稳定，且对最强模型有所下调。这些变动标志着行业正从不惜成本的市场份额争夺，转向注重利润与现金流管理的商业理性，以应对持续高昂的资本支出压力。",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpefpfrr0c2pslk1vqgx7vfz",
-      "title": "OpenAI模型证伪了离散几何中的一个核心猜想",
-      "title_en": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-05-20T00:00:00.000Z",
-      "summary": "OpenAI开发的人工智能模型成功解决了数学界悬而未决逾80年的\"单元距离问题\"，并由此推翻了离散几何领域的一个核心猜想。这一突破被视作人工智能驱动数学研究的里程碑事件，标志着AI在基础科学理论探索中取得了实质性进展。该模型通过创新算法处理复杂的几何问题，展示了机器在自动化发现与验证数学猜想方面的巨大潜力。",
-      "category": "paper",
-      "interestTags": [
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -380,7 +368,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpcyioqw01c3sljlknwkg5gr",
@@ -395,7 +383,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     }
   ]
 }
