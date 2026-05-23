@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-22T00:08:03.185001+00:00",
+  "generatedAt": "2026-05-23T00:11:16.488623+00:00",
   "totalSource": 160,
-  "totalFiltered": 147,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,148 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmphirw6f0oqmsljw84zngzfo",
+        "title": "AlphaProof Nexus：用形式化验证驱动AI数学证明搜索",
+        "title_en": "Google DeepMind's new paper. Shows that AI can now search formal mathematics proofs， but only insid…",
+        "url": "https://x.com/rohanpaul_ai/status/2057954067146781151",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-05-22T22:37:39.000Z",
+        "summary": "Google DeepMind提出了AlphaProof Nexus系统，它将大型语言模型与Lean形式化验证工具相结合。该系统允许LLM在生成证明的过程中，不断读取Lean的编译错误并进行修正，还可调用更强的工具辅助解决子问题。这一机制迫使模型将每一步逻辑都转化为可编译、可验证的代码，从而将其角色从\"令人信服的叙述者\"转变为\"候选方案生成器\"。在针对353个Erdős问题和492个开放猜想的测试中，系统成功解决了9个Erdős问题并证明了44个序列猜想。该研究展示了形式化验证在暴露AI逻辑错误、建立\"人类提问-模型探索-验证器把关\"新分工中的关键作用。",
+        "category": "paper",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmphj83pb0oufsljw1o50bxte",
+        "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/954/223.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-22T22:30:03.000Z",
+        "summary": "英伟达发布2027财年Q1财报，营收816亿美元，同比增长85%，净利润583亿美元，翻两倍多，市值达5.7万亿美元，已超德国2026年GDP预测。黄仁勋预测，超大规模云厂商的AI基建年度开支将从当前的1万亿美元，增长至3-4万亿美元，远超华尔街预期。财报同时显示，数据中心业务营收752亿美元，占比超九成。值得注意的是，AI基建的高能耗正推高居民电费，数据中心用电成本转嫁效应已初步显现。",
+        "category": "industry",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmphdt39c0njesljw5m72ds3y",
+        "title": "新增差异标记样式设置选项",
+        "title_en": "Shipped papercut： new diff markers setting in Appearance. Prefer classic + / - markers when reviewi…",
+        "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-05-22T20:16:49.000Z",
+        "summary": "已发布剪纸功能：外观设置中新增差异标记样式。\n\n在查看差异时更喜欢经典的 + / - 标记？现在你可以选择使用它们，而不仅仅是彩色差异条。\n\n默认设置保持不变，除非你主动选择启用。",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmphi58uq0olfsljw5hm9fmom",
+        "title": "动作捕捉与角色动画制作更轻松",
+        "title_en": "motion capture and character animation have never been easier. keep building &amp； more features c…",
+        "url": "https://x.com/ViggleAI/status/2057947352195858568",
+        "source": "X：Viggle AI (@ViggleAI)",
+        "publishedAt": "2026-05-22T22:10:58.000Z",
+        "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
+        "category": "ai-products",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmphbp5r30n1asljwb1oaa1ly",
+        "title": "ChatGPT语音模式实现表单语音填写",
+        "title_en": "Paperwork is better when you can just talk through it. With Images in ChatGPT and voice mode， you c…",
+        "url": "https://x.com/ChatGPTapp/status/2057908052968521902",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-05-22T19:34:48.000Z",
+        "summary": "用对话处理文书工作更轻松。\n\n借助ChatGPT的图像功能和语音模式，您可以上传表单，说出要填写的内容，即可获得填写完成的版本。",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmph4kqfx0l9xsljw0q29ydog",
+        "title": "Suno AI创作夏日神曲《波多黎各》爆火",
+        "title_en": "The song of the summer was made on Suno.☀️Huge thanks to @GMA for highlighting the viral \"Puerto Ric…",
+        "url": "https://x.com/suno/status/2057858423664894196",
+        "source": "X：Suno (@suno)",
+        "publishedAt": "2026-05-22T16:17:36.000Z",
+        "summary": "今年夏天的热门歌曲是用 Suno 制作的。☀️非常感谢 @GMA 让这首病毒式传播的《Puerto Rico》歌曲被更多人看到！还有谁的脑海里也一直回响着这首歌？🇵🇷🎶",
+        "category": "industry",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmpga762r0dmfsljwzsp341eh",
+        "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
+        "title_en": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人，聊天 15 分钟难辨人机",
+        "url": "https://www.ithome.com/0/953/705.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-22T01:22:11.000Z",
+        "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
+        "category": "paper",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
+      {
+        "id": "cmpea57r90arpslk1o2xw1hnw",
+        "title": "谷歌的人工智能正遭到操纵。这家搜索巨头正在悄然反击",
+        "title_en": null,
+        "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-20T16:20:07.607Z",
+        "summary": "谷歌的AI系统正面临被操纵的风险。为应对这一挑战，这家科技巨头已悄然启动防御措施，以保护其AI生成内容的结果免受恶意干扰。此举旨在确保搜索和AI服务的可靠性与可信度，反映了当前人工智能安全领域日益增长的对抗性问题。谷歌在未公开宣传的情况下，正在通过技术手段加强对其AI系统的防护。",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmphhu4x20ohusljw43utrbfd",
+        "title": "v2.1.149 更新摘要",
+        "title_en": "v2.1.149",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "publishedAt": "2026-05-22T22:09:29.000Z",
+        "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
+        "category": "ai-products",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 1,
+        "formattedTime": "2小时前"
+      }
+    ],
     "productivity": [
       {
         "id": "cmpfyb7qb0apysljwk3k8nlne",
@@ -23,7 +165,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpfpql9r08kzsljwm397lepk",
@@ -38,7 +180,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpecsrym0bf5slk1l0wn31kj",
@@ -53,155 +195,117 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmpfx8pgl0aftsljw6ddy0mx0",
-        "title": "Gemini扩展应用连接，支持更多服务",
-        "title_en": "Gemini can now connect to even more apps， including @OpenTable， @Canva， and @Instacart. Whether you…",
-        "url": "https://x.com/GeminiApp/status/2057550225863246236",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-05-21T19:52:55.000Z",
-        "summary": "Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。\n\n无论您是预订餐厅、制作传单还是订购杂货，Gemini不仅能查找信息，还能通过连接的应用帮助您无缝采取行动。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpfvtbs20a1ssljw6zxhrsfd",
-        "title": "Cloudflare首席执行官谈如何决定用人工智能取代哪些员工",
-        "title_en": null,
-        "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-05-21T19:16:20.918Z",
-        "summary": "Cloudflare首席执行官在《华尔街日报》撰文，分享其公司用AI替代部分员工的决策逻辑。该文于2026年5月21日发布，引发了技术社区的广泛讨论，在Hacker News上获得100个点赞。",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpfuzwcl09visljwx2mgue3s",
-        "title": "Codex实现全天候跨设备安全操控Mac",
-        "title_en": "Codex anywhere and everywhere， all the time. Now your Mac doesn't have to be unlocked for Codex to …",
-        "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-05-21T18:59:12.000Z",
-        "summary": "Codex随时随地，无处不在。\n现在您的Mac无需解锁，Codex即可使用您的电脑。\n通过手机，Codex可以安全地使用您Mac上的应用程序，即使屏幕关闭且处于锁定状态。\nhttps：//developers.openai.com/codex/app/computer-use#locked-use",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpfy3oks0am6sljw9otht8dv",
-        "title": "Datasette Agent",
-        "title_en": null,
-        "url": "https://simonwillison.net/2026/May/21/datasette-agent",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-05-21T19:52:19.000Z",
-        "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpfw62gg0a6hsljwnu5etjbw",
-        "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
-        "title_en": "Introducing Fight Anyone 3D🥊A 3D party fighter， probably the most satisfying game to play at work. …",
-        "url": "https://x.com/ViggleAI/status/2057541072419520634",
-        "source": "X：Viggle AI (@ViggleAI)",
-        "publishedAt": "2026-05-21T19:16:33.000Z",
-        "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpfoxw8508fasljwvrn0utgu",
-        "title": "Shoplift by PixVerse快速生成平台原生广告视频",
-        "title_en": "No studio. No editor queue. Paste a product URL into Shoplift by PixVerse and ship platform-native …",
-        "url": "https://x.com/PixVerse_/status/2057492991036588306",
-        "source": "X：PixVerse (@PixVerse_)",
-        "publishedAt": "2026-05-21T16:05:30.000Z",
-        "summary": "无需工作室，无需编辑队列。\n将产品URL粘贴到Shoplift by PixVerse，几分钟内即可发布平台原生广告视频\n--专为持续进行创意测试的DTC团队打造。\n免费早期访问：https：//shoplift.pixverse.ai\n转发+关注+回复=300积分（仅限72小时）",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmpea57r90arpslk1o2xw1hnw",
-        "title": "谷歌的人工智能正遭到操纵。这家搜索巨头正在悄然反击",
-        "title_en": null,
-        "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-05-20T16:20:07.607Z",
-        "summary": "谷歌的AI系统正面临被操纵的风险。为应对这一挑战，这家科技巨头已悄然启动防御措施，以保护其AI生成内容的结果免受恶意干扰。此举旨在确保搜索和AI服务的可靠性与可信度，反映了当前人工智能安全领域日益增长的对抗性问题。谷歌在未公开宣传的情况下，正在通过技术手段加强对其AI系统的防护。",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmpczbj4s01k6sljl6alywqgy",
-        "title": "Gemini Omni助力Google Flow创作电影级故事",
-        "title_en": "Google Flow 🤝 Gemini Omni Create more cinematic stories with our latest model， which brings batch …",
-        "url": "https://x.com/GoogleDeepMind/status/2056804306653794336",
-        "source": "X：Google DeepMind (@GoogleDeepMind)",
-        "publishedAt": "2026-05-19T18:28:54.000Z",
-        "summary": "Google Flow 🤝 Gemini Omni\n\n使用我们的最新模型创作更具电影感的故事，它带来了批量编辑、改进的角色一致性等功能。以下是@FlowbyGoogle的其他新功能 → https：//goo.gle/42K2nge\n\n#GoogleIO",
-        "category": "ai-products",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmpcyioqw01c3sljlknwkg5gr",
-        "title": "Google AI 订阅服务全新内容，源自 I/O 2026 大会",
-        "title_en": "Everything new in our Google AI subscriptions， fresh from I/O 2026",
-        "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-05-19T17:45:00.000Z",
-        "summary": "Google 在 I/O 2026 大会上宣布更新其 AI 订阅服务，推出了全新的 100 美元\"AI Ultra\"计划。同时，面向 Google AI Plus、Pro 和 Ultra 三个层级的现有订阅者，服务均增加了新的功能和权益。此次更新标志着 Google 在 AI 付费订阅领域推出了更高端的选项并强化了现有套餐的价值。",
-        "category": "ai-products",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmphirw6f0oqmsljw84zngzfo",
+      "title": "AlphaProof Nexus：用形式化验证驱动AI数学证明搜索",
+      "title_en": "Google DeepMind's new paper. Shows that AI can now search formal mathematics proofs， but only insid…",
+      "url": "https://x.com/rohanpaul_ai/status/2057954067146781151",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-05-22T22:37:39.000Z",
+      "summary": "Google DeepMind提出了AlphaProof Nexus系统，它将大型语言模型与Lean形式化验证工具相结合。该系统允许LLM在生成证明的过程中，不断读取Lean的编译错误并进行修正，还可调用更强的工具辅助解决子问题。这一机制迫使模型将每一步逻辑都转化为可编译、可验证的代码，从而将其角色从\"令人信服的叙述者\"转变为\"候选方案生成器\"。在针对353个Erdős问题和492个开放猜想的测试中，系统成功解决了9个Erdős问题并证明了44个序列猜想。该研究展示了形式化验证在暴露AI逻辑错误、建立\"人类提问-模型探索-验证器把关\"新分工中的关键作用。",
+      "category": "paper",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmphj83pb0oufsljw1o50bxte",
+      "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/954/223.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-22T22:30:03.000Z",
+      "summary": "英伟达发布2027财年Q1财报，营收816亿美元，同比增长85%，净利润583亿美元，翻两倍多，市值达5.7万亿美元，已超德国2026年GDP预测。黄仁勋预测，超大规模云厂商的AI基建年度开支将从当前的1万亿美元，增长至3-4万亿美元，远超华尔街预期。财报同时显示，数据中心业务营收752亿美元，占比超九成。值得注意的是，AI基建的高能耗正推高居民电费，数据中心用电成本转嫁效应已初步显现。",
+      "category": "industry",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmphi58uq0olfsljw5hm9fmom",
+      "title": "动作捕捉与角色动画制作更轻松",
+      "title_en": "motion capture and character animation have never been easier. keep building &amp； more features c…",
+      "url": "https://x.com/ViggleAI/status/2057947352195858568",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "publishedAt": "2026-05-22T22:10:58.000Z",
+      "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
+      "category": "ai-products",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmphdt39c0njesljw5m72ds3y",
+      "title": "新增差异标记样式设置选项",
+      "title_en": "Shipped papercut： new diff markers setting in Appearance. Prefer classic + / - markers when reviewi…",
+      "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-05-22T20:16:49.000Z",
+      "summary": "已发布剪纸功能：外观设置中新增差异标记样式。\n\n在查看差异时更喜欢经典的 + / - 标记？现在你可以选择使用它们，而不仅仅是彩色差异条。\n\n默认设置保持不变，除非你主动选择启用。",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmphbp5r30n1asljwb1oaa1ly",
+      "title": "ChatGPT语音模式实现表单语音填写",
+      "title_en": "Paperwork is better when you can just talk through it. With Images in ChatGPT and voice mode， you c…",
+      "url": "https://x.com/ChatGPTapp/status/2057908052968521902",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "publishedAt": "2026-05-22T19:34:48.000Z",
+      "summary": "用对话处理文书工作更轻松。\n\n借助ChatGPT的图像功能和语音模式，您可以上传表单，说出要填写的内容，即可获得填写完成的版本。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmph4kqfx0l9xsljw0q29ydog",
+      "title": "Suno AI创作夏日神曲《波多黎各》爆火",
+      "title_en": "The song of the summer was made on Suno.☀️Huge thanks to @GMA for highlighting the viral \"Puerto Ric…",
+      "url": "https://x.com/suno/status/2057858423664894196",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-05-22T16:17:36.000Z",
+      "summary": "今年夏天的热门歌曲是用 Suno 制作的。☀️非常感谢 @GMA 让这首病毒式传播的《Puerto Rico》歌曲被更多人看到！还有谁的脑海里也一直回响着这首歌？🇵🇷🎶",
+      "category": "industry",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpga762r0dmfsljwzsp341eh",
+      "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
+      "title_en": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人，聊天 15 分钟难辨人机",
+      "url": "https://www.ithome.com/0/953/705.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-22T01:22:11.000Z",
+      "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
+      "category": "paper",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmpfyb7qb0apysljwk3k8nlne",
       "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
@@ -215,84 +319,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmpfx8pgl0aftsljw6ddy0mx0",
-      "title": "Gemini扩展应用连接，支持更多服务",
-      "title_en": "Gemini can now connect to even more apps， including @OpenTable， @Canva， and @Instacart. Whether you…",
-      "url": "https://x.com/GeminiApp/status/2057550225863246236",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-05-21T19:52:55.000Z",
-      "summary": "Gemini现在可以连接更多应用，包括@OpenTable、@Canva和@Instacart。\n\n无论您是预订餐厅、制作传单还是订购杂货，Gemini不仅能查找信息，还能通过连接的应用帮助您无缝采取行动。",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpfy3oks0am6sljw9otht8dv",
-      "title": "Datasette Agent",
-      "title_en": null,
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-05-21T19:52:19.000Z",
-      "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpfw62gg0a6hsljwnu5etjbw",
-      "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
-      "title_en": "Introducing Fight Anyone 3D🥊A 3D party fighter， probably the most satisfying game to play at work. …",
-      "url": "https://x.com/ViggleAI/status/2057541072419520634",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-05-21T19:16:33.000Z",
-      "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpfvtbs20a1ssljw6zxhrsfd",
-      "title": "Cloudflare首席执行官谈如何决定用人工智能取代哪些员工",
-      "title_en": null,
-      "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-05-21T19:16:20.918Z",
-      "summary": "Cloudflare首席执行官在《华尔街日报》撰文，分享其公司用AI替代部分员工的决策逻辑。该文于2026年5月21日发布，引发了技术社区的广泛讨论，在Hacker News上获得100个点赞。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpfuzwcl09visljwx2mgue3s",
-      "title": "Codex实现全天候跨设备安全操控Mac",
-      "title_en": "Codex anywhere and everywhere， all the time. Now your Mac doesn't have to be unlocked for Codex to …",
-      "url": "https://x.com/OpenAIDevs/status/2057536706778378692",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-05-21T18:59:12.000Z",
-      "summary": "Codex随时随地，无处不在。\n现在您的Mac无需解锁，Codex即可使用您的电脑。\n通过手机，Codex可以安全地使用您Mac上的应用程序，即使屏幕关闭且处于锁定状态。\nhttps：//developers.openai.com/codex/app/computer-use#locked-use",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpfpql9r08kzsljwm397lepk",
@@ -307,23 +334,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmpfoxw8508fasljwvrn0utgu",
-      "title": "Shoplift by PixVerse快速生成平台原生广告视频",
-      "title_en": "No studio. No editor queue. Paste a product URL into Shoplift by PixVerse and ship platform-native …",
-      "url": "https://x.com/PixVerse_/status/2057492991036588306",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-05-21T16:05:30.000Z",
-      "summary": "无需工作室，无需编辑队列。\n将产品URL粘贴到Shoplift by PixVerse，几分钟内即可发布平台原生广告视频\n--专为持续进行创意测试的DTC团队打造。\n免费早期访问：https：//shoplift.pixverse.ai\n转发+关注+回复=300积分（仅限72小时）",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpecsrym0bf5slk1l0wn31kj",
@@ -338,7 +349,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpea57r90arpslk1o2xw1hnw",
@@ -353,37 +364,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmpczbj4s01k6sljl6alywqgy",
-      "title": "Gemini Omni助力Google Flow创作电影级故事",
-      "title_en": "Google Flow 🤝 Gemini Omni Create more cinematic stories with our latest model， which brings batch …",
-      "url": "https://x.com/GoogleDeepMind/status/2056804306653794336",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-05-19T18:28:54.000Z",
-      "summary": "Google Flow 🤝 Gemini Omni\n\n使用我们的最新模型创作更具电影感的故事，它带来了批量编辑、改进的角色一致性等功能。以下是@FlowbyGoogle的其他新功能 → https：//goo.gle/42K2nge\n\n#GoogleIO",
+      "id": "cmphhu4x20ohusljw43utrbfd",
+      "title": "v2.1.149 更新摘要",
+      "title_en": "v2.1.149",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-05-22T22:09:29.000Z",
+      "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
       "category": "ai-products",
       "interestTags": [
         "writing"
       ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmpcyioqw01c3sljlknwkg5gr",
-      "title": "Google AI 订阅服务全新内容，源自 I/O 2026 大会",
-      "title_en": "Everything new in our Google AI subscriptions， fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-05-19T17:45:00.000Z",
-      "summary": "Google 在 I/O 2026 大会上宣布更新其 AI 订阅服务，推出了全新的 100 美元\"AI Ultra\"计划。同时，面向 Google AI Plus、Pro 和 Ultra 三个层级的现有订阅者，服务均增加了新的功能和权益。此次更新标志着 Google 在 AI 付费订阅领域推出了更高端的选项并强化了现有套餐的价值。",
-      "category": "ai-products",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "techScore": 1,
+      "formattedTime": "2小时前"
     }
   ]
 }
