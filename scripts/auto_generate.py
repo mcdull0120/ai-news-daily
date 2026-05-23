@@ -48,7 +48,7 @@ def call_claude_api(prompt):
         'anthropic-version': '2023-06-01'
     }
 
-    model = os.environ.get('ANTHROPIC_MODEL', 'claude-sonnet-4-6-20251001')
+    model = os.environ.get('ANTHROPIC_MODEL', 'claude-3-5-sonnet-20241022')
     payload = {
         'model': model,
         'max_tokens': 8000,
