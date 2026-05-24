@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-23T00:11:16.488623+00:00",
+  "generatedAt": "2026-05-24T00:01:06.481032+00:00",
   "totalSource": 160,
-  "totalFiltered": 141,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -10,6 +10,38 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmpiq2r6p0z5bsljwnmtrw2la",
+        "title": "Replit Agent与Squidler集成，实现全自动化AI质量保障",
+        "title_en": "Replit Agent builds your app. Squidler tests it like a real user. Replit Agent fixes what's broken. …",
+        "url": "https://x.com/Replit/status/2058261705998602548",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-05-23T19:00:06.000Z",
+        "summary": "Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保障闭环。用户可通过自然语言描述应用功能，由Replit Agent负责构建。构建完成后，Squidler会像真实用户一样对线上应用进行自动化测试，无需编写任何测试脚本。测试中发现的问题会自动反馈给Replit Agent进行修复。该流程已通过Squidler加入Replit的MCP库正式上线，实现了从构建、测试到修复的全自动化，显著降低了应用测试与维护的门槛。",
+        "category": "ai-products",
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpi5yk550udosljwr18jxglb",
+        "title": "加倍投入科学以赢得工业AI",
+        "title_en": "Doubling Down on Science to Win Industrial AI May 22， 2026 Mistral AI",
+        "url": "https://mistral.ai/news/science-to-win-industrial-ai",
+        "source": "Mistral AI：News（网页）",
+        "publishedAt": "2026-05-23T09:46:00.745Z",
+        "summary": "Mistral AI宣布与物理AI先驱Emmi AI达成最终收购协议，旨在加强其在工业AI领域的领导地位。通过整合Emmi AI在物理仿真与数字孪生方面的专长，Mistral AI将提升其工程解决方案能力，并加速科学研发路线。Emmi AI的30余名研究员与工程师将加入Mistral AI团队，共同构建由物理AI驱动的综合技术栈。此次合作将为航空航天、汽车等高风险行业提供实时仿真与复杂问题解决平台，推动工业研发的突破性进展。",
+        "category": "industry",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
       {
         "id": "cmphirw6f0oqmsljw84zngzfo",
         "title": "AlphaProof Nexus：用形式化验证驱动AI数学证明搜索",
@@ -23,40 +55,27 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmphj83pb0oufsljw1o50bxte",
-        "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/954/223.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-05-22T22:30:03.000Z",
-        "summary": "英伟达发布2027财年Q1财报，营收816亿美元，同比增长85%，净利润583亿美元，翻两倍多，市值达5.7万亿美元，已超德国2026年GDP预测。黄仁勋预测，超大规模云厂商的AI基建年度开支将从当前的1万亿美元，增长至3-4万亿美元，远超华尔街预期。财报同时显示，数据中心业务营收752亿美元，占比超九成。值得注意的是，AI基建的高能耗正推高居民电费，数据中心用电成本转嫁效应已初步显现。",
-        "category": "industry",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmphdt39c0njesljw5m72ds3y",
-        "title": "新增差异标记样式设置选项",
-        "title_en": "Shipped papercut： new diff markers setting in Appearance. Prefer classic + / - markers when reviewi…",
-        "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-05-22T20:16:49.000Z",
-        "summary": "已发布剪纸功能：外观设置中新增差异标记样式。\n\n在查看差异时更喜欢经典的 + / - 标记？现在你可以选择使用它们，而不仅仅是彩色差异条。\n\n默认设置保持不变，除非你主动选择启用。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
+      {
+        "id": "cmphqn8pz0qnlsljwi7q35oae",
+        "title": "Kling AI亮相戛纳，推动AI赋能电影制作",
+        "title_en": "Debut in Cannes | Kling AI Conference Highlights On May 18， Kling AI hosted its official conference…",
+        "url": "https://x.com/Kling_ai/status/2058013861404684739",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-05-23T02:35:15.000Z",
+        "summary": "Kling AI在戛纳电影市场（Marché du Film）举办官方会议，首次登上这一世界顶级电影舞台。会议汇集全球电影专业人士，共同探讨AI如何融入实际电影制作流程。Kling AI已证明其能力可服务于动画长片、好莱坞剧集、实验短片及影院电影等多种创作形式。未来，Kling AI将继续推进电影级AI影像技术，与全球创作者合作，将更多\"不可能\"的故事呈现在银幕上。",
+        "category": "industry",
+        "interestTags": [
+          "creative",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
       {
         "id": "cmphi58uq0olfsljw5hm9fmom",
         "title": "动作捕捉与角色动画制作更轻松",
@@ -70,7 +89,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmphbp5r30n1asljwb1oaa1ly",
@@ -86,22 +105,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmph4kqfx0l9xsljw0q29ydog",
-        "title": "Suno AI创作夏日神曲《波多黎各》爆火",
-        "title_en": "The song of the summer was made on Suno.☀️Huge thanks to @GMA for highlighting the viral \"Puerto Ric…",
-        "url": "https://x.com/suno/status/2057858423664894196",
-        "source": "X：Suno (@suno)",
-        "publishedAt": "2026-05-22T16:17:36.000Z",
-        "summary": "今年夏天的热门歌曲是用 Suno 制作的。☀️非常感谢 @GMA 让这首病毒式传播的《Puerto Rico》歌曲被更多人看到！还有谁的脑海里也一直回响着这首歌？🇵🇷🎶",
-        "category": "industry",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -118,7 +122,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "22小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpea57r90arpslk1o2xw1hnw",
@@ -133,7 +137,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmphhu4x20ohusljw43utrbfd",
@@ -148,7 +152,7 @@
           "writing"
         ],
         "techScore": 1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
@@ -165,7 +169,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmpfpql9r08kzsljwm397lepk",
@@ -180,7 +184,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmpecsrym0bf5slk1l0wn31kj",
@@ -195,11 +199,60 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmpiq2r6p0z5bsljwnmtrw2la",
+      "title": "Replit Agent与Squidler集成，实现全自动化AI质量保障",
+      "title_en": "Replit Agent builds your app. Squidler tests it like a real user. Replit Agent fixes what's broken. …",
+      "url": "https://x.com/Replit/status/2058261705998602548",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-05-23T19:00:06.000Z",
+      "summary": "Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保障闭环。用户可通过自然语言描述应用功能，由Replit Agent负责构建。构建完成后，Squidler会像真实用户一样对线上应用进行自动化测试，无需编写任何测试脚本。测试中发现的问题会自动反馈给Replit Agent进行修复。该流程已通过Squidler加入Replit的MCP库正式上线，实现了从构建、测试到修复的全自动化，显著降低了应用测试与维护的门槛。",
+      "category": "ai-products",
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpi5yk550udosljwr18jxglb",
+      "title": "加倍投入科学以赢得工业AI",
+      "title_en": "Doubling Down on Science to Win Industrial AI May 22， 2026 Mistral AI",
+      "url": "https://mistral.ai/news/science-to-win-industrial-ai",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-05-23T09:46:00.745Z",
+      "summary": "Mistral AI宣布与物理AI先驱Emmi AI达成最终收购协议，旨在加强其在工业AI领域的领导地位。通过整合Emmi AI在物理仿真与数字孪生方面的专长，Mistral AI将提升其工程解决方案能力，并加速科学研发路线。Emmi AI的30余名研究员与工程师将加入Mistral AI团队，共同构建由物理AI驱动的综合技术栈。此次合作将为航空航天、汽车等高风险行业提供实时仿真与复杂问题解决平台，推动工业研发的突破性进展。",
+      "category": "industry",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "cmphqn8pz0qnlsljwi7q35oae",
+      "title": "Kling AI亮相戛纳，推动AI赋能电影制作",
+      "title_en": "Debut in Cannes | Kling AI Conference Highlights On May 18， Kling AI hosted its official conference…",
+      "url": "https://x.com/Kling_ai/status/2058013861404684739",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-05-23T02:35:15.000Z",
+      "summary": "Kling AI在戛纳电影市场（Marché du Film）举办官方会议，首次登上这一世界顶级电影舞台。会议汇集全球电影专业人士，共同探讨AI如何融入实际电影制作流程。Kling AI已证明其能力可服务于动画长片、好莱坞剧集、实验短片及影院电影等多种创作形式。未来，Kling AI将继续推进电影级AI影像技术，与全球创作者合作，将更多\"不可能\"的故事呈现在银幕上。",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
+    },
     {
       "id": "cmphirw6f0oqmsljw84zngzfo",
       "title": "AlphaProof Nexus：用形式化验证驱动AI数学证明搜索",
@@ -213,22 +266,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmphj83pb0oufsljw1o50bxte",
-      "title": "黄仁勋：AI 基建年度开支要冲到 4 万亿美元！",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/954/223.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-05-22T22:30:03.000Z",
-      "summary": "英伟达发布2027财年Q1财报，营收816亿美元，同比增长85%，净利润583亿美元，翻两倍多，市值达5.7万亿美元，已超德国2026年GDP预测。黄仁勋预测，超大规模云厂商的AI基建年度开支将从当前的1万亿美元，增长至3-4万亿美元，远超华尔街预期。财报同时显示，数据中心业务营收752亿美元，占比超九成。值得注意的是，AI基建的高能耗正推高居民电费，数据中心用电成本转嫁效应已初步显现。",
-      "category": "industry",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmphi58uq0olfsljw5hm9fmom",
@@ -243,22 +281,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmphdt39c0njesljw5m72ds3y",
-      "title": "新增差异标记样式设置选项",
-      "title_en": "Shipped papercut： new diff markers setting in Appearance. Prefer classic + / - markers when reviewi…",
-      "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-05-22T20:16:49.000Z",
-      "summary": "已发布剪纸功能：外观设置中新增差异标记样式。\n\n在查看差异时更喜欢经典的 + / - 标记？现在你可以选择使用它们，而不仅仅是彩色差异条。\n\n默认设置保持不变，除非你主动选择启用。",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmphbp5r30n1asljwb1oaa1ly",
@@ -274,22 +297,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmph4kqfx0l9xsljw0q29ydog",
-      "title": "Suno AI创作夏日神曲《波多黎各》爆火",
-      "title_en": "The song of the summer was made on Suno.☀️Huge thanks to @GMA for highlighting the viral \"Puerto Ric…",
-      "url": "https://x.com/suno/status/2057858423664894196",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-05-22T16:17:36.000Z",
-      "summary": "今年夏天的热门歌曲是用 Suno 制作的。☀️非常感谢 @GMA 让这首病毒式传播的《Puerto Rico》歌曲被更多人看到！还有谁的脑海里也一直回响着这首歌？🇵🇷🎶",
-      "category": "industry",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpga762r0dmfsljwzsp341eh",
@@ -304,7 +312,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "22小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpfyb7qb0apysljwk3k8nlne",
@@ -319,7 +327,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpfpql9r08kzsljwm397lepk",
@@ -334,7 +342,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpecsrym0bf5slk1l0wn31kj",
@@ -349,7 +357,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmpea57r90arpslk1o2xw1hnw",
@@ -364,7 +372,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmphhu4x20ohusljw43utrbfd",
@@ -379,7 +387,7 @@
         "writing"
       ],
       "techScore": 1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
