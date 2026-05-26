@@ -1,61 +1,59 @@
 {
-  "generatedAt": "2026-05-25T00:04:28.599996+00:00",
-  "totalSource": 160,
-  "totalFiltered": 143,
+  "generatedAt": "2026-05-26T00:09:40.581890+00:00",
+  "totalSource": 170,
+  "totalFiltered": 157,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "app": [
       {
-        "id": "cmpkd0u6q05zssl01cy9jq6ro",
-        "title": "Luma Agents 实现规模化真实 UGC 广告生成",
-        "title_en": "Authenticity at scale used to be a contradiction. Not anymore. Define the brief. Set the style. Lum…",
-        "url": "https://x.com/LumaLabsAI/status/2058672731705503959",
-        "source": "X：Luma AI (@LumaLabsAI)",
-        "publishedAt": "2026-05-24T22:13:22.000Z",
-        "summary": "规模化的真实性曾是矛盾，如今已成现实。\n定义简报，设定风格，Luma Agents 从这里构建每一条 UGC 风格广告。\n让它真实 → http：//lumalabs.ai/app",
+        "id": "cmplkklsy0gnysl019nmpl677",
+        "title": "Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话",
+        "title_en": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+        "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-05-25T18:58:16.220Z",
+        "summary": "Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想\"生长\"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。",
+        "category": "tip",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpldyuyz0f2nsl01au9kw3uf",
+        "title": "Qwen3.7-Max隐式缓存功能上线",
+        "title_en": "✅Implicit caching is now live on Qwen3.7-Max - kicks in automatically， no setup needed. ⚡️Faster + …",
+        "url": "https://x.com/Alibaba_Qwen/status/2058932656797368619",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "publishedAt": "2026-05-25T15:26:13.000Z",
+        "summary": "✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。\n⚡️开箱即用，更快更便宜。\n\n需要更高、更确定的命中率？请尝试显式缓存。🙌\n🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice",
         "category": "ai-products",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "8小时前"
       },
       {
-        "id": "cmpk270zc03fusl01q0nprvlc",
-        "title": "面向 Codex 的自我优化提示词框架",
-        "title_en": "self improvement prompt for codex",
-        "url": "https://x.com/gdb/status/2058598608224858442",
-        "source": "X：Greg Brockman (@gdb)",
-        "publishedAt": "2026-05-24T17:18:49.000Z",
-        "summary": "这是一个结构化的提示词，用于指导 Codex 自动分析其历史记录以识别并固化重复工作流。该框架要求 Codex 回顾会话、Memories 等数据，找出重复、耗时且有明确复用价值的任务。筛选标准包括至少出现两次、输入稳定、可提升效率等。最终，Codex 应以\"技能\"、子智能体或自动化工具等最小实用形式创建或扩展现有资产，避免冗余。流程包括生成候选清单、执行创建，并汇报结果与待验证项。",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmpjqgwu200n8sl01vthwo9pr",
-        "title": "Claude Code自动模式：多任务并行的关键技巧",
-        "title_en": "People often ask what my biggest tip is for getting the most out of Claude Code. These days my #1 t…",
-        "url": "https://x.com/bcherny/status/2058519809214607704",
-        "source": "X：Boris Cherny (@bcherny)",
-        "publishedAt": "2026-05-24T12:05:42.000Z",
-        "summary": "人们常问我，用好Claude Code的最大技巧是什么。\n如今我的头号技巧是：使用自动模式。\n自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
-        "category": "tip",
+        "id": "cmpldcxz10ew3sl01caeact4o",
+        "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
+        "title_en": "Pope Leo calls for being 'profoundly human' in the age of AI",
+        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-05-25T15:05:07.000Z",
+        "summary": "教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于\"在人工智能时代守护人\"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。",
+        "category": "industry",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "9小时前"
       }
     ],
     "creative": [
@@ -73,7 +71,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmphqn8pz0qnlsljwi7q35oae",
@@ -90,7 +88,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmphi58uq0olfsljw5hm9fmom",
@@ -105,7 +103,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
@@ -122,7 +120,24 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "bili_BV1Nd596vEyU",
+        "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-05-26T00:09:40.573494+00:00",
+        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       },
       {
         "id": "cmphhu4x20ohusljw43utrbfd",
@@ -137,7 +152,7 @@
           "writing"
         ],
         "techScore": 1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -154,7 +169,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmpfpql9r08kzsljwm397lepk",
@@ -169,75 +184,70 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_3347570341",
-        "title": "优步董事会讨论提高对Delivery Hero收购报价",
+        "id": "rss_1450070723",
+        "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3823950108283013?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-05-25T00:00:00+00:00",
-        "summary": "据知情人士称，优步董事会于周六召开会议，讨论提高对德国外卖公司Delivery Hero的收购报价。此前，Delivery Hero的一位主要股东拒绝了优步提出的超过115亿欧元（约合133.9亿美元）的收购要约。（新浪财经）",
-        "category": "industry",
+        "url": "https://sspai.com/post/109450",
+        "source": "少数派",
+        "publishedAt": "2026-05-25T03:23:36+00:00",
+        "summary": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...<a href=\"https://sspai.com/post/109450\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmpgadnmr0dqnsljw1u378q70",
-        "title": "从推理链到可验证子问题：课程强化学习实现LLM推理的信用分配",
-        "title_en": "From Reasoning Chains to Verifiable Subproblems： Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
-        "url": "https://arxiv.org/abs/2605.22074",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "publishedAt": "2026-05-21T00:00:00.000Z",
-        "summary": "针对基于结果的强化学习在处理困难推理问题时因正确样本稀少而效率低下的问题，本文提出子问题课程强化学习框架。该框架从参考推理链中提取可验证子问题，并将最终子问题固定为原始问题，从而将部分解题进展转化为可验证的学习信号。其通过在子问题位置独立归一化奖励并分配优势值，实现了更细粒度的信用分配。实验表明，SCRL显著提升了模型在多个数学推理基准上的性能，有效增强了在复杂问题上的探索与推理能力。",
-        "category": "paper",
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "4天前"
+        "formattedTime": "20小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpkd0u6q05zssl01cy9jq6ro",
-      "title": "Luma Agents 实现规模化真实 UGC 广告生成",
-      "title_en": "Authenticity at scale used to be a contradiction. Not anymore. Define the brief. Set the style. Lum…",
-      "url": "https://x.com/LumaLabsAI/status/2058672731705503959",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-05-24T22:13:22.000Z",
-      "summary": "规模化的真实性曾是矛盾，如今已成现实。\n定义简报，设定风格，Luma Agents 从这里构建每一条 UGC 风格广告。\n让它真实 → http：//lumalabs.ai/app",
+      "id": "cmplkklsy0gnysl019nmpl677",
+      "title": "Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话",
+      "title_en": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-05-25T18:58:16.220Z",
+      "summary": "Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想\"生长\"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpldyuyz0f2nsl01au9kw3uf",
+      "title": "Qwen3.7-Max隐式缓存功能上线",
+      "title_en": "✅Implicit caching is now live on Qwen3.7-Max - kicks in automatically， no setup needed. ⚡️Faster + …",
+      "url": "https://x.com/Alibaba_Qwen/status/2058932656797368619",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-05-25T15:26:13.000Z",
+      "summary": "✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。\n⚡️开箱即用，更快更便宜。\n\n需要更高、更确定的命中率？请尝试显式缓存。🙌\n🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice",
       "category": "ai-products",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "8小时前"
     },
     {
-      "id": "cmpk270zc03fusl01q0nprvlc",
-      "title": "面向 Codex 的自我优化提示词框架",
-      "title_en": "self improvement prompt for codex",
-      "url": "https://x.com/gdb/status/2058598608224858442",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-05-24T17:18:49.000Z",
-      "summary": "这是一个结构化的提示词，用于指导 Codex 自动分析其历史记录以识别并固化重复工作流。该框架要求 Codex 回顾会话、Memories 等数据，找出重复、耗时且有明确复用价值的任务。筛选标准包括至少出现两次、输入稳定、可提升效率等。最终，Codex 应以\"技能\"、子智能体或自动化工具等最小实用形式创建或扩展现有资产，避免冗余。流程包括生成候选清单、执行创建，并汇报结果与待验证项。",
-      "category": "tip",
+      "id": "cmpldcxz10ew3sl01caeact4o",
+      "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
+      "title_en": "Pope Leo calls for being 'profoundly human' in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-05-25T15:05:07.000Z",
+      "summary": "教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于\"在人工智能时代守护人\"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。",
+      "category": "industry",
       "interestTags": [
-        "app",
-        "writing",
-        "productivity"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "9小时前"
     },
     {
       "id": "cmpjxfqq702cosl01objnyl15",
@@ -253,22 +263,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpjqgwu200n8sl01vthwo9pr",
-      "title": "Claude Code自动模式：多任务并行的关键技巧",
-      "title_en": "People often ask what my biggest tip is for getting the most out of Claude Code. These days my #1 t…",
-      "url": "https://x.com/bcherny/status/2058519809214607704",
-      "source": "X：Boris Cherny (@bcherny)",
-      "publishedAt": "2026-05-24T12:05:42.000Z",
-      "summary": "人们常问我，用好Claude Code的最大技巧是什么。\n如今我的头号技巧是：使用自动模式。\n自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmphqn8pz0qnlsljwi7q35oae",
@@ -285,7 +280,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmphi58uq0olfsljw5hm9fmom",
@@ -300,7 +295,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmpga762r0dmfsljwzsp341eh",
@@ -315,7 +310,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmpfyb7qb0apysljwk3k8nlne",
@@ -330,7 +325,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmpfpql9r08kzsljwm397lepk",
@@ -345,18 +340,35 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_3347570341",
-      "title": "优步董事会讨论提高对Delivery Hero收购报价",
+      "id": "rss_1450070723",
+      "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3823950108283013?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-05-25T00:00:00+00:00",
-      "summary": "据知情人士称，优步董事会于周六召开会议，讨论提高对德国外卖公司Delivery Hero的收购报价。此前，Delivery Hero的一位主要股东拒绝了优步提出的超过115亿欧元（约合133.9亿美元）的收购要约。（新浪财经）",
-      "category": "industry",
+      "url": "https://sspai.com/post/109450",
+      "source": "少数派",
+      "publishedAt": "2026-05-25T03:23:36+00:00",
+      "summary": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...<a href=\"https://sspai.com/post/109450\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "bili_BV1Nd596vEyU",
+      "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-05-26T00:09:40.573494+00:00",
+      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education",
         "productivity"
       ],
       "techScore": -1,
@@ -375,23 +387,7 @@
         "writing"
       ],
       "techScore": 1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmpgadnmr0dqnsljw1u378q70",
-      "title": "从推理链到可验证子问题：课程强化学习实现LLM推理的信用分配",
-      "title_en": "From Reasoning Chains to Verifiable Subproblems： Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning",
-      "url": "https://arxiv.org/abs/2605.22074",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "summary": "针对基于结果的强化学习在处理困难推理问题时因正确样本稀少而效率低下的问题，本文提出子问题课程强化学习框架。该框架从参考推理链中提取可验证子问题，并将最终子问题固定为原始问题，从而将部分解题进展转化为可验证的学习信号。其通过在子问题位置独立归一化奖励并分配优势值，实现了更细粒度的信用分配。实验表明，SCRL显著提升了模型在多个数学推理基准上的性能，有效增强了在复杂问题上的探索与推理能力。",
-      "category": "paper",
-      "interestTags": [
-        "education",
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "4天前"
+      "formattedTime": "3天前"
     }
   ]
 }
