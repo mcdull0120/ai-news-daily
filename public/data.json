@@ -1,112 +1,151 @@
 {
-  "generatedAt": "2026-05-26T00:09:40.581890+00:00",
-  "totalSource": 170,
-  "totalFiltered": 157,
+  "generatedAt": "2026-05-27T00:12:39.869263+00:00",
+  "totalSource": 160,
+  "totalFiltered": 149,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmplkklsy0gnysl019nmpl677",
-        "title": "Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话",
-        "title_en": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-        "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+        "id": "cmpn9vusg0vq6sl0195qmighr",
+        "title": "Anthropic任命KiYoung Choi为韩国代表董事",
+        "title_en": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+        "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
         "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-05-25T18:58:16.220Z",
-        "summary": "Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想\"生长\"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。",
-        "category": "tip",
+        "publishedAt": "2026-05-26T23:34:41.030Z",
+        "summary": "Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均已在使用Claude构建产品。",
+        "category": "industry",
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmpldyuyz0f2nsl01au9kw3uf",
-        "title": "Qwen3.7-Max隐式缓存功能上线",
-        "title_en": "✅Implicit caching is now live on Qwen3.7-Max - kicks in automatically， no setup needed. ⚡️Faster + …",
-        "url": "https://x.com/Alibaba_Qwen/status/2058932656797368619",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "publishedAt": "2026-05-25T15:26:13.000Z",
-        "summary": "✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。\n⚡️开箱即用，更快更便宜。\n\n需要更高、更确定的命中率？请尝试显式缓存。🙌\n🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice",
+        "id": "cmpn36lbm0u1jsl01z7qrudt2",
+        "title": "选择保持人性",
+        "title_en": "Choosing to Stay Human",
+        "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "publishedAt": "2026-05-26T19:56:01.000Z",
+        "summary": "社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmpmt9jei0rnwsl016h1v6av1",
+        "title": "未来展望：2026年5月的一些想法",
+        "title_en": "Some ideas for what comes next， May 2026",
+        "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "publishedAt": "2026-05-26T15:39:02.000Z",
+        "summary": "文章展望了截至2026年5月AI领域的动态。内容涉及 Gemini Flash 3.5 的发布、名为 Mythos 的新产品或项目、开源与闭源生态平衡（open-closed balance）的讨论、美国开源力量的显著增长（America's open-source surge），以及由此引发的新兴权力博弈（emerging power struggles）。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpn5d9kj0uk3sl011wu9fzo3",
+        "title": "Gemini Omni 视频提示词使用指南",
+        "title_en": "http：//x.com/i/article/2059377716965888000",
+        "url": "https://x.com/GoogleAI/status/2059381218660270435",
+        "source": "X：Google AI (@GoogleAI)",
+        "publishedAt": "2026-05-26T21:08:38.000Z",
+        "summary": "Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmpmu0srh0rvzsl01sq59jkbk",
+        "title": "Replit 应用添加登录的两种方式",
+        "title_en": "There are two ways to add login to your app on Replit： → Replit Auth： zero setup， users sign in with…",
+        "url": "https://x.com/Replit/status/2059303550375674139",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-05-26T16:00:01.000Z",
+        "summary": "在 Replit 上为你的应用添加登录有两种方式：\n→ Replit Auth：零配置，用户使用其 Replit 账户登录\n→ Clerk Auth：你自己的品牌化登录，开发/生产环境均只需一个提示词。文档和视频见下方 👇\n\n文档：https：//docs.replit.com/learn/projects-and-artifacts/auth#auth",
         "category": "ai-products",
         "interestTags": [
-          "app"
+          "creative",
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "8小时前"
       },
       {
-        "id": "cmpldcxz10ew3sl01caeact4o",
-        "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
-        "title_en": "Pope Leo calls for being 'profoundly human' in the age of AI",
-        "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-05-25T15:05:07.000Z",
-        "summary": "教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于\"在人工智能时代守护人\"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。",
-        "category": "industry",
+        "id": "cmpmqm3d00r0wsl018dub96w0",
+        "title": "Project Luxo：跨越AI媒体的恐怖谷",
+        "title_en": "Project Luxo： Crossing the Uncanny Valley of AI Media",
+        "url": "https://runwayml.com/news/project-luxo",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-05-26T14:34:37.143Z",
+        "summary": "Runway通过Project Luxo研究发现，AI生成视频已跨越\"恐怖谷\"。他们向创意生态从业者展示了《The Rogue》等AI短片及广告样片，评估显示观众开始关注故事本身，而非技术瑕疵。所有作品均由单人团队制作，耗时从3周到4小时不等。Runway认为，这标志着AI媒体成熟--当技术足够好以至于\"隐形\"，观众沉浸于故事时，便实现了这一跨越。",
+        "category": "tip",
         "interestTags": [
-          "app"
+          "creative",
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "9小时前"
       }
     ],
-    "creative": [
+    "writing": [
       {
-        "id": "cmpjxfqq702cosl01objnyl15",
-        "title": "Pixverse角色设计工作流测试",
-        "title_en": "Character design workflow test in Pixverse GPT Image 2.0 for Lucas' visual identity， Seedance 2.0 fo…",
-        "url": "https://x.com/PixVerse_/status/2058564994669727803",
-        "source": "X：PixVerse (@PixVerse_)",
-        "publishedAt": "2026-05-24T15:05:15.000Z",
-        "summary": "在Pixverse中进行角色设计工作流测试\n使用GPT Image 2.0为Lucas创建视觉形象，使用Seedance 2.0制作动画弹跳表演。\n从静态概念图到电影级动态效果。\nRT + Follow + Reply = 工作流",
+        "id": "cmpn2ao6h0tvcsl01u8w73iv8",
+        "title": "人类与AI分工：教育咨询及文学奖争议",
+        "title_en": "I wrote a new post on what we need to keep human and what to hand over to AI， with forays into exper…",
+        "url": "https://x.com/emollick/status/2059363865536668040",
+        "source": "X：Ethan Mollick (@emollick)",
+        "publishedAt": "2026-05-26T19:59:41.000Z",
+        "summary": "我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。",
         "category": "tip",
         "interestTags": [
-          "creative",
-          "productivity"
+          "writing",
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmphqn8pz0qnlsljwi7q35oae",
-        "title": "Kling AI亮相戛纳，推动AI赋能电影制作",
-        "title_en": "Debut in Cannes | Kling AI Conference Highlights On May 18， Kling AI hosted its official conference…",
-        "url": "https://x.com/Kling_ai/status/2058013861404684739",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "publishedAt": "2026-05-23T02:35:15.000Z",
-        "summary": "Kling AI在戛纳电影市场（Marché du Film）举办官方会议，首次登上这一世界顶级电影舞台。会议汇集全球电影专业人士，共同探讨AI如何融入实际电影制作流程。Kling AI已证明其能力可服务于动画长片、好莱坞剧集、实验短片及影院电影等多种创作形式。未来，Kling AI将继续推进电影级AI影像技术，与全球创作者合作，将更多\"不可能\"的故事呈现在银幕上。",
+        "id": "cmpmkyxc60pjvsl01xm2idwf8",
+        "title": "SynthID水印技术扩展合作，覆盖超千亿内容",
+        "title_en": "SynthID has already watermarked over 100 billion pieces of content， but transparency is a team sport…",
+        "url": "https://x.com/GoogleDeepMind/status/2059235181274202500",
+        "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "publishedAt": "2026-05-26T11:28:20.000Z",
+        "summary": "SynthID已为超过1000亿条内容添加水印，但透明度需要行业协作。\n因此，我们正与OpenAI、ElevenLabs和Kakao合作，将SynthID水印技术集成到他们的模型中--这延续了我们与NVIDIA共同推动的全行业趋势。",
         "category": "industry",
         "interestTags": [
-          "creative",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "12小时前"
       },
-      {
-        "id": "cmphi58uq0olfsljw5hm9fmom",
-        "title": "动作捕捉与角色动画制作更轻松",
-        "title_en": "motion capture and character animation have never been easier. keep building &amp； more features c…",
-        "url": "https://x.com/ViggleAI/status/2057947352195858568",
-        "source": "X：Viggle AI (@ViggleAI)",
-        "publishedAt": "2026-05-22T22:10:58.000Z",
-        "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
-        "category": "ai-products",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "writing": [
       {
         "id": "cmpga762r0dmfsljwzsp341eh",
         "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
@@ -120,39 +159,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "bili_BV1Nd596vEyU",
-        "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】",
-        "title_en": null,
-        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-        "source": "B站：秋芝2046",
-        "publishedAt": "2026-05-26T00:09:40.573494+00:00",
-        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmphhu4x20ohusljw43utrbfd",
-        "title": "v2.1.149 更新摘要",
-        "title_en": "v2.1.149",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-05-22T22:09:29.000Z",
-        "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
-        "category": "ai-products",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -169,25 +176,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "cmpfpql9r08kzsljwm397lepk",
-        "title": "Gemini每日简报助你高效规划一天",
-        "title_en": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most i…",
-        "url": "https://x.com/GeminiApp/status/2057500470147698936",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-05-21T16:35:13.000Z",
-        "summary": "用Daily Brief开启高效一天。\nGemini现在能主动将最重要的事项整理成易于理解的待办清单，让你在早餐结束前就为一天做好准备。",
-        "category": "ai-products",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_1450070723",
+        "id": "rss_1046103183",
         "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
         "title_en": null,
         "url": "https://sspai.com/post/109450",
@@ -199,103 +191,157 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_3693780750",
+        "title": "百亿元级私募机构已率先加仓",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3826776692806531?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-05-27T00:00:00+00:00",
+        "summary": "私募排排网最新数据显示，截至2026年5月15日，全市场股票私募仓位指数为80.09%，虽较近一个月的最高值下降2.07%，但整体持仓仍维持高位。具体来看，中小型私募机构大多仍在谨慎观望，体现在管理规模100亿元及以下各梯队私募仓位指数均呈现小幅回落态势。但与之形成鲜明对比的是，管理规模在100亿元以上的百亿元级股票私募仓位指数结束了此前连续四周的下行，回升至82.10%，显示相关机构已率先开启加仓布局。（证券日报）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmplkklsy0gnysl019nmpl677",
-      "title": "Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话",
-      "title_en": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "id": "cmpn9vusg0vq6sl0195qmighr",
+      "title": "Anthropic任命KiYoung Choi为韩国代表董事",
+      "title_en": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
       "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-05-25T18:58:16.220Z",
-      "summary": "Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想\"生长\"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。",
-      "category": "tip",
+      "publishedAt": "2026-05-26T23:34:41.030Z",
+      "summary": "Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均已在使用Claude构建产品。",
+      "category": "industry",
       "interestTags": [
-        "app"
+        "app",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmpldyuyz0f2nsl01au9kw3uf",
-      "title": "Qwen3.7-Max隐式缓存功能上线",
-      "title_en": "✅Implicit caching is now live on Qwen3.7-Max - kicks in automatically， no setup needed. ⚡️Faster + …",
-      "url": "https://x.com/Alibaba_Qwen/status/2058932656797368619",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-05-25T15:26:13.000Z",
-      "summary": "✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。\n⚡️开箱即用，更快更便宜。\n\n需要更高、更确定的命中率？请尝试显式缓存。🙌\n🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice",
+      "id": "cmpn5d9kj0uk3sl011wu9fzo3",
+      "title": "Gemini Omni 视频提示词使用指南",
+      "title_en": "http：//x.com/i/article/2059377716965888000",
+      "url": "https://x.com/GoogleAI/status/2059381218660270435",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-05-26T21:08:38.000Z",
+      "summary": "Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmpn2ao6h0tvcsl01u8w73iv8",
+      "title": "人类与AI分工：教育咨询及文学奖争议",
+      "title_en": "I wrote a new post on what we need to keep human and what to hand over to AI， with forays into exper…",
+      "url": "https://x.com/emollick/status/2059363865536668040",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-05-26T19:59:41.000Z",
+      "summary": "我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpn36lbm0u1jsl01z7qrudt2",
+      "title": "选择保持人性",
+      "title_en": "Choosing to Stay Human",
+      "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "summary": "社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmpmu0srh0rvzsl01sq59jkbk",
+      "title": "Replit 应用添加登录的两种方式",
+      "title_en": "There are two ways to add login to your app on Replit： → Replit Auth： zero setup， users sign in with…",
+      "url": "https://x.com/Replit/status/2059303550375674139",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-05-26T16:00:01.000Z",
+      "summary": "在 Replit 上为你的应用添加登录有两种方式：\n→ Replit Auth：零配置，用户使用其 Replit 账户登录\n→ Clerk Auth：你自己的品牌化登录，开发/生产环境均只需一个提示词。文档和视频见下方 👇\n\n文档：https：//docs.replit.com/learn/projects-and-artifacts/auth#auth",
       "category": "ai-products",
       "interestTags": [
-        "app"
+        "creative",
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "8小时前"
     },
     {
-      "id": "cmpldcxz10ew3sl01caeact4o",
-      "title": "教皇里奥呼吁在AI时代保持\"深刻的人性\"",
-      "title_en": "Pope Leo calls for being 'profoundly human' in the age of AI",
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-05-25T15:05:07.000Z",
-      "summary": "教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于\"在人工智能时代守护人\"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。",
-      "category": "industry",
+      "id": "cmpmt9jei0rnwsl016h1v6av1",
+      "title": "未来展望：2026年5月的一些想法",
+      "title_en": "Some ideas for what comes next， May 2026",
+      "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "publishedAt": "2026-05-26T15:39:02.000Z",
+      "summary": "文章展望了截至2026年5月AI领域的动态。内容涉及 Gemini Flash 3.5 的发布、名为 Mythos 的新产品或项目、开源与闭源生态平衡（open-closed balance）的讨论、美国开源力量的显著增长（America's open-source surge），以及由此引发的新兴权力博弈（emerging power struggles）。",
+      "category": "tip",
       "interestTags": [
-        "app"
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmpmqm3d00r0wsl018dub96w0",
+      "title": "Project Luxo：跨越AI媒体的恐怖谷",
+      "title_en": "Project Luxo： Crossing the Uncanny Valley of AI Media",
+      "url": "https://runwayml.com/news/project-luxo",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-05-26T14:34:37.143Z",
+      "summary": "Runway通过Project Luxo研究发现，AI生成视频已跨越\"恐怖谷\"。他们向创意生态从业者展示了《The Rogue》等AI短片及广告样片，评估显示观众开始关注故事本身，而非技术瑕疵。所有作品均由单人团队制作，耗时从3周到4小时不等。Runway认为，这标志着AI媒体成熟--当技术足够好以至于\"隐形\"，观众沉浸于故事时，便实现了这一跨越。",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "writing"
       ],
       "techScore": -1,
       "formattedTime": "9小时前"
     },
     {
-      "id": "cmpjxfqq702cosl01objnyl15",
-      "title": "Pixverse角色设计工作流测试",
-      "title_en": "Character design workflow test in Pixverse GPT Image 2.0 for Lucas' visual identity， Seedance 2.0 fo…",
-      "url": "https://x.com/PixVerse_/status/2058564994669727803",
-      "source": "X：PixVerse (@PixVerse_)",
-      "publishedAt": "2026-05-24T15:05:15.000Z",
-      "summary": "在Pixverse中进行角色设计工作流测试\n使用GPT Image 2.0为Lucas创建视觉形象，使用Seedance 2.0制作动画弹跳表演。\n从静态概念图到电影级动态效果。\nRT + Follow + Reply = 工作流",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmphqn8pz0qnlsljwi7q35oae",
-      "title": "Kling AI亮相戛纳，推动AI赋能电影制作",
-      "title_en": "Debut in Cannes | Kling AI Conference Highlights On May 18， Kling AI hosted its official conference…",
-      "url": "https://x.com/Kling_ai/status/2058013861404684739",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-05-23T02:35:15.000Z",
-      "summary": "Kling AI在戛纳电影市场（Marché du Film）举办官方会议，首次登上这一世界顶级电影舞台。会议汇集全球电影专业人士，共同探讨AI如何融入实际电影制作流程。Kling AI已证明其能力可服务于动画长片、好莱坞剧集、实验短片及影院电影等多种创作形式。未来，Kling AI将继续推进电影级AI影像技术，与全球创作者合作，将更多\"不可能\"的故事呈现在银幕上。",
+      "id": "cmpmkyxc60pjvsl01xm2idwf8",
+      "title": "SynthID水印技术扩展合作，覆盖超千亿内容",
+      "title_en": "SynthID has already watermarked over 100 billion pieces of content， but transparency is a team sport…",
+      "url": "https://x.com/GoogleDeepMind/status/2059235181274202500",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-05-26T11:28:20.000Z",
+      "summary": "SynthID已为超过1000亿条内容添加水印，但透明度需要行业协作。\n因此，我们正与OpenAI、ElevenLabs和Kakao合作，将SynthID水印技术集成到他们的模型中--这延续了我们与NVIDIA共同推动的全行业趋势。",
       "category": "industry",
       "interestTags": [
-        "creative",
         "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmphi58uq0olfsljw5hm9fmom",
-      "title": "动作捕捉与角色动画制作更轻松",
-      "title_en": "motion capture and character animation have never been easier. keep building &amp； more features c…",
-      "url": "https://x.com/ViggleAI/status/2057947352195858568",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-05-22T22:10:58.000Z",
-      "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
-      "category": "ai-products",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "12小时前"
     },
     {
       "id": "cmpga762r0dmfsljwzsp341eh",
@@ -310,7 +356,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmpfyb7qb0apysljwk3k8nlne",
@@ -325,25 +371,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmpfpql9r08kzsljwm397lepk",
-      "title": "Gemini每日简报助你高效规划一天",
-      "title_en": "Get a head start on your day with Daily Brief. Gemini can now proactively flag what matters most i…",
-      "url": "https://x.com/GeminiApp/status/2057500470147698936",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-05-21T16:35:13.000Z",
-      "summary": "用Daily Brief开启高效一天。\nGemini现在能主动将最重要的事项整理成易于理解的待办清单，让你在早餐结束前就为一天做好准备。",
-      "category": "ai-products",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_1450070723",
+      "id": "rss_1046103183",
       "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
       "title_en": null,
       "url": "https://sspai.com/post/109450",
@@ -355,39 +386,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "bili_BV1Nd596vEyU",
-      "title": "40分钟学会Codex！“零基础”终级教程～【附完整文档】",
+      "id": "rss_3693780750",
+      "title": "百亿元级私募机构已率先加仓",
       "title_en": null,
-      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-      "source": "B站：秋芝2046",
-      "publishedAt": "2026-05-26T00:09:40.573494+00:00",
-      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
-      "category": "tip",
+      "url": "https://36kr.com/newsflashes/3826776692806531?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-05-27T00:00:00+00:00",
+      "summary": "私募排排网最新数据显示，截至2026年5月15日，全市场股票私募仓位指数为80.09%，虽较近一个月的最高值下降2.07%，但整体持仓仍维持高位。具体来看，中小型私募机构大多仍在谨慎观望，体现在管理规模100亿元及以下各梯队私募仓位指数均呈现小幅回落态势。但与之形成鲜明对比的是，管理规模在100亿元以上的百亿元级股票私募仓位指数结束了此前连续四周的下行，回升至82.10%，显示相关机构已率先开启加仓布局。（证券日报）",
+      "category": "industry",
       "interestTags": [
-        "writing",
-        "education",
         "productivity"
       ],
       "techScore": -1,
       "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmphhu4x20ohusljw43utrbfd",
-      "title": "v2.1.149 更新摘要",
-      "title_en": "v2.1.149",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-05-22T22:09:29.000Z",
-      "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
-      "category": "ai-products",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": 1,
-      "formattedTime": "3天前"
     }
   ]
 }
