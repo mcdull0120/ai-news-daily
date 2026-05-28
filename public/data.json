@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-27T00:12:39.869263+00:00",
+  "generatedAt": "2026-05-28T00:03:55.873383+00:00",
   "totalSource": 160,
-  "totalFiltered": 149,
+  "totalFiltered": 151,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,108 +9,149 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cmpn9vusg0vq6sl0195qmighr",
-        "title": "Anthropic任命KiYoung Choi为韩国代表董事",
-        "title_en": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-        "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-05-26T23:34:41.030Z",
-        "summary": "Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均已在使用Claude构建产品。",
-        "category": "industry",
+        "id": "cmpop686i07ypslv41a160cay",
+        "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。",
+        "title_en": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求简单整理一下，发给三个不同的…",
+        "url": "https://x.com/dotey/status/2059773942500298934",
+        "source": "X：宝玉 (@dotey)",
+        "publishedAt": "2026-05-27T23:09:11.000Z",
+        "summary": "用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。",
+        "category": "tip",
         "interestTags": [
+          "creative",
           "app",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
         "formattedTime": "刚刚"
       },
       {
-        "id": "cmpn36lbm0u1jsl01z7qrudt2",
-        "title": "选择保持人性",
-        "title_en": "Choosing to Stay Human",
-        "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "publishedAt": "2026-05-26T19:56:01.000Z",
-        "summary": "社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpmt9jei0rnwsl016h1v6av1",
-        "title": "未来展望：2026年5月的一些想法",
-        "title_en": "Some ideas for what comes next， May 2026",
-        "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
-        "source": "Nathan Lambert：Interconnects（RSS）",
-        "publishedAt": "2026-05-26T15:39:02.000Z",
-        "summary": "文章展望了截至2026年5月AI领域的动态。内容涉及 Gemini Flash 3.5 的发布、名为 Mythos 的新产品或项目、开源与闭源生态平衡（open-closed balance）的讨论、美国开源力量的显著增长（America's open-source surge），以及由此引发的新兴权力博弈（emerging power struggles）。",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpn5d9kj0uk3sl011wu9fzo3",
-        "title": "Gemini Omni 视频提示词使用指南",
-        "title_en": "http：//x.com/i/article/2059377716965888000",
-        "url": "https://x.com/GoogleAI/status/2059381218660270435",
-        "source": "X：Google AI (@GoogleAI)",
-        "publishedAt": "2026-05-26T21:08:38.000Z",
-        "summary": "Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmpmu0srh0rvzsl01sq59jkbk",
-        "title": "Replit 应用添加登录的两种方式",
-        "title_en": "There are two ways to add login to your app on Replit： → Replit Auth： zero setup， users sign in with…",
-        "url": "https://x.com/Replit/status/2059303550375674139",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-05-26T16:00:01.000Z",
-        "summary": "在 Replit 上为你的应用添加登录有两种方式：\n→ Replit Auth：零配置，用户使用其 Replit 账户登录\n→ Clerk Auth：你自己的品牌化登录，开发/生产环境均只需一个提示词。文档和视频见下方 👇\n\n文档：https：//docs.replit.com/learn/projects-and-artifacts/auth#auth",
+        "id": "cmpofemy505maslv4n15rpet7",
+        "title": "Web 更新",
+        "title_en": "Web Updates",
+        "url": "https://updates.midjourney.com/web-updates-5",
+        "source": "Midjourney：Updates（RSS）",
+        "publishedAt": "2026-05-27T18:44:53.000Z",
+        "summary": "对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。",
         "category": "ai-products",
         "interestTags": [
-          "creative",
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpodsy24059vslv40tqd294a",
+        "title": "OpenCode与MiMo V2.5限时免费开放",
+        "title_en": "OpenCode x MiMo V2.5 - Free for a limited time 1M context • reasoning • text • image",
+        "url": "https://x.com/opencode/status/2059696100626297225",
+        "source": "X：opencode (@opencode)",
+        "publishedAt": "2026-05-27T17:59:52.000Z",
+        "summary": "OpenCode x MiMo V2.5 - 限时免费\n\n1M 上下文 • 推理 • 文本 • 图像",
+        "category": "ai-products",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmpocm9by04ymslv4agum9edi",
+        "title": "Google Pay 最新更新",
+        "title_en": "The latest updates to Google Pay",
+        "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-05-27T17:39:01.813Z",
+        "summary": "Google Pay 正向\"智能体商务\"演进，推出了通用商务协议和新的 MCP 服务器，允许 AI 智能体管理集成与分析趋势。Android 平台更新引入了动态回调以支持快速结账，并通过 WebView 将支付功能扩展至社交媒体应用。此外，平台还推出了跨设备生物认证和新的交易信号，旨在帮助商家减少流程摩擦。",
+        "category": "ai-products",
+        "interestTags": [
           "app",
-          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmpmqm3d00r0wsl018dub96w0",
-        "title": "Project Luxo：跨越AI媒体的恐怖谷",
-        "title_en": "Project Luxo： Crossing the Uncanny Valley of AI Media",
-        "url": "https://runwayml.com/news/project-luxo",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-05-26T14:34:37.143Z",
-        "summary": "Runway通过Project Luxo研究发现，AI生成视频已跨越\"恐怖谷\"。他们向创意生态从业者展示了《The Rogue》等AI短片及广告样片，评估显示观众开始关注故事本身，而非技术瑕疵。所有作品均由单人团队制作，耗时从3周到4小时不等。Runway认为，这标志着AI媒体成熟--当技术足够好以至于\"隐形\"，观众沉浸于故事时，便实现了这一跨越。",
-        "category": "tip",
+        "id": "cmpocrldo050lslv45vxk0w5y",
+        "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
+        "title_en": "Replit has been named to @Redpoint's 2026 InfraRed 100. A list of the companies building what AI ru…",
+        "url": "https://x.com/Replit/status/2059688584899154134",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-05-27T17:30:00.000Z",
+        "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
+        "category": "industry",
         "interestTags": [
-          "creative",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpoad2jr04e6slv4ineho5xm",
+        "title": "与Google搜索产品副总裁Robby Stein的访谈：AI原生搜索时代",
+        "title_en": "I sat down with Robby Stein （@rmstein）， Google's VP of Product for Search， at @Google I/O. Robby is…",
+        "url": "https://x.com/kimmonismus/status/2059668961181004275",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-05-27T16:12:01.000Z",
+        "summary": "本文记录了与Google搜索产品副总裁Robby Stein在Google I/O的访谈，核心探讨Google Search向\"AI原生\"模式的重大转变。讨论话题包括AI Mode是进化还是重塑、如何将复杂问题拆解为多轮搜索、AI搜索的高运行成本、Google TPU及基础设施的优势、AI时代搜索量不减反增的原因，以及优质AI回答与出版商流量之间的张力。访谈还涉及Google决定展示哪些信息源与链接的逻辑，并围绕一个核心问题展开：如果Google直接给出答案，传统的基于链接的网页生态将走向何方？",
+        "category": "tip",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmpomepbx07ckslv4qmr6x0hq",
+        "title": "思科与OpenAI携手Codex重新定义企业工程",
+        "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "url": "https://openai.com/index/cisco",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-05-27T11:00:00.000Z",
+        "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
+      {
+        "id": "rss_3057415424",
+        "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
+        "title_en": null,
+        "url": "https://36kr.com/p/3826932509364869?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-05-27T00:00:00+00:00",
+        "summary": "<p>当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。</p>\n  <p>2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。</p>\n  <p>5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_850460967",
+        "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 26 MaT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "Tue, 26 Ma"
       }
     ],
     "writing": [
@@ -128,7 +169,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpmkyxc60pjvsl01xm2idwf8",
@@ -144,106 +185,134 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmpga762r0dmfsljwzsp341eh",
-        "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
-        "title_en": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人，聊天 15 分钟难辨人机",
-        "url": "https://www.ithome.com/0/953/705.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-05-22T01:22:11.000Z",
-        "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
-        "category": "paper",
+        "id": "rss_2245908431",
+        "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+        "title_en": null,
+        "url": "https://sspai.com/post/110184",
+        "source": "少数派",
+        "publishedAt": "2026-05-26T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110184\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmpfyb7qb0apysljwk3k8nlne",
-        "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
-        "title_en": "Have you ever thought to yourself： I really don't want to make this PowerPoint. Good news： ChatGPT …",
-        "url": "https://x.com/ChatGPTapp/status/2057560276384563560",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-05-21T20:32:52.000Z",
-        "summary": "你是否曾这样想过：我真的不想做这个PPT。\n\n好消息：ChatGPT现在可以直接在PowerPoint中创建和编辑演示文稿。\n\n在PowerPoint中直接构建、更新、理解和优化演示文稿，同时保持幻灯片可编辑。\n\n目前处于测试阶段，我们期待您的反馈 👀",
-        "category": "ai-products",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_1046103183",
-        "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
-        "title_en": null,
-        "url": "https://sspai.com/post/109450",
-        "source": "少数派",
-        "publishedAt": "2026-05-25T03:23:36+00:00",
-        "summary": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...<a href=\"https://sspai.com/post/109450\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3693780750",
-        "title": "百亿元级私募机构已率先加仓",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3826776692806531?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-05-27T00:00:00+00:00",
-        "summary": "私募排排网最新数据显示，截至2026年5月15日，全市场股票私募仓位指数为80.09%，虽较近一个月的最高值下降2.07%，但整体持仓仍维持高位。具体来看，中小型私募机构大多仍在谨慎观望，体现在管理规模100亿元及以下各梯队私募仓位指数均呈现小幅回落态势。但与之形成鲜明对比的是，管理规模在100亿元以上的百亿元级股票私募仓位指数结束了此前连续四周的下行，回升至82.10%，显示相关机构已率先开启加仓布局。（证券日报）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpn9vusg0vq6sl0195qmighr",
-      "title": "Anthropic任命KiYoung Choi为韩国代表董事",
-      "title_en": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-05-26T23:34:41.030Z",
-      "summary": "Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均已在使用Claude构建产品。",
-      "category": "industry",
+      "id": "cmpop686i07ypslv41a160cay",
+      "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。",
+      "title_en": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求简单整理一下，发给三个不同的…",
+      "url": "https://x.com/dotey/status/2059773942500298934",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-05-27T23:09:11.000Z",
+      "summary": "用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。",
+      "category": "tip",
       "interestTags": [
+        "creative",
         "app",
+        "writing",
         "productivity"
       ],
       "techScore": -1,
       "formattedTime": "刚刚"
     },
     {
-      "id": "cmpn5d9kj0uk3sl011wu9fzo3",
-      "title": "Gemini Omni 视频提示词使用指南",
-      "title_en": "http：//x.com/i/article/2059377716965888000",
-      "url": "https://x.com/GoogleAI/status/2059381218660270435",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-05-26T21:08:38.000Z",
-      "summary": "Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。",
-      "category": "tip",
+      "id": "cmpofemy505maslv4n15rpet7",
+      "title": "Web 更新",
+      "title_en": "Web Updates",
+      "url": "https://updates.midjourney.com/web-updates-5",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-05-27T18:44:53.000Z",
+      "summary": "对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。",
+      "category": "ai-products",
       "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "education"
+        "creative"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpodsy24059vslv40tqd294a",
+      "title": "OpenCode与MiMo V2.5限时免费开放",
+      "title_en": "OpenCode x MiMo V2.5 - Free for a limited time 1M context • reasoning • text • image",
+      "url": "https://x.com/opencode/status/2059696100626297225",
+      "source": "X：opencode (@opencode)",
+      "publishedAt": "2026-05-27T17:59:52.000Z",
+      "summary": "OpenCode x MiMo V2.5 - 限时免费\n\n1M 上下文 • 推理 • 文本 • 图像",
+      "category": "ai-products",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpocm9by04ymslv4agum9edi",
+      "title": "Google Pay 最新更新",
+      "title_en": "The latest updates to Google Pay",
+      "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-05-27T17:39:01.813Z",
+      "summary": "Google Pay 正向\"智能体商务\"演进，推出了通用商务协议和新的 MCP 服务器，允许 AI 智能体管理集成与分析趋势。Android 平台更新引入了动态回调以支持快速结账，并通过 WebView 将支付功能扩展至社交媒体应用。此外，平台还推出了跨设备生物认证和新的交易信号，旨在帮助商家减少流程摩擦。",
+      "category": "ai-products",
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpocrldo050lslv45vxk0w5y",
+      "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
+      "title_en": "Replit has been named to @Redpoint's 2026 InfraRed 100. A list of the companies building what AI ru…",
+      "url": "https://x.com/Replit/status/2059688584899154134",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-05-27T17:30:00.000Z",
+      "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
+      "category": "industry",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpoad2jr04e6slv4ineho5xm",
+      "title": "与Google搜索产品副总裁Robby Stein的访谈：AI原生搜索时代",
+      "title_en": "I sat down with Robby Stein （@rmstein）， Google's VP of Product for Search， at @Google I/O. Robby is…",
+      "url": "https://x.com/kimmonismus/status/2059668961181004275",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-05-27T16:12:01.000Z",
+      "summary": "本文记录了与Google搜索产品副总裁Robby Stein在Google I/O的访谈，核心探讨Google Search向\"AI原生\"模式的重大转变。讨论话题包括AI Mode是进化还是重塑、如何将复杂问题拆解为多轮搜索、AI搜索的高运行成本、Google TPU及基础设施的优势、AI时代搜索量不减反增的原因，以及优质AI回答与出版商流量之间的张力。访谈还涉及Google决定展示哪些信息源与链接的逻辑，并围绕一个核心问题展开：如果Google直接给出答案，传统的基于链接的网页生态将走向何方？",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpomepbx07ckslv4qmr6x0hq",
+      "title": "思科与OpenAI携手Codex重新定义企业工程",
+      "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-05-27T11:00:00.000Z",
+      "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmpn2ao6h0tvcsl01u8w73iv8",
@@ -259,73 +328,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpn36lbm0u1jsl01z7qrudt2",
-      "title": "选择保持人性",
-      "title_en": "Choosing to Stay Human",
-      "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "publishedAt": "2026-05-26T19:56:01.000Z",
-      "summary": "社交媒体平台上的帖子内容正变得越来越相似。这种趋同现象可能意味着大量内容正在被AI生成或同质化处理，引发了人们对于内容原创性与人类独特视角的讨论。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpmu0srh0rvzsl01sq59jkbk",
-      "title": "Replit 应用添加登录的两种方式",
-      "title_en": "There are two ways to add login to your app on Replit： → Replit Auth： zero setup， users sign in with…",
-      "url": "https://x.com/Replit/status/2059303550375674139",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-05-26T16:00:01.000Z",
-      "summary": "在 Replit 上为你的应用添加登录有两种方式：\n→ Replit Auth：零配置，用户使用其 Replit 账户登录\n→ Clerk Auth：你自己的品牌化登录，开发/生产环境均只需一个提示词。文档和视频见下方 👇\n\n文档：https：//docs.replit.com/learn/projects-and-artifacts/auth#auth",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpmt9jei0rnwsl016h1v6av1",
-      "title": "未来展望：2026年5月的一些想法",
-      "title_en": "Some ideas for what comes next， May 2026",
-      "url": "https://www.interconnects.ai/p/some-ideas-for-what-comes-next-may",
-      "source": "Nathan Lambert：Interconnects（RSS）",
-      "publishedAt": "2026-05-26T15:39:02.000Z",
-      "summary": "文章展望了截至2026年5月AI领域的动态。内容涉及 Gemini Flash 3.5 的发布、名为 Mythos 的新产品或项目、开源与闭源生态平衡（open-closed balance）的讨论、美国开源力量的显著增长（America's open-source surge），以及由此引发的新兴权力博弈（emerging power struggles）。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpmqm3d00r0wsl018dub96w0",
-      "title": "Project Luxo：跨越AI媒体的恐怖谷",
-      "title_en": "Project Luxo： Crossing the Uncanny Valley of AI Media",
-      "url": "https://runwayml.com/news/project-luxo",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-05-26T14:34:37.143Z",
-      "summary": "Runway通过Project Luxo研究发现，AI生成视频已跨越\"恐怖谷\"。他们向创意生态从业者展示了《The Rogue》等AI短片及广告样片，评估显示观众开始关注故事本身，而非技术瑕疵。所有作品均由单人团队制作，耗时从3周到4小时不等。Runway认为，这标志着AI媒体成熟--当技术足够好以至于\"隐形\"，观众沉浸于故事时，便实现了这一跨越。",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpmkyxc60pjvsl01xm2idwf8",
@@ -341,67 +344,52 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmpga762r0dmfsljwzsp341eh",
-      "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
-      "title_en": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人，聊天 15 分钟难辨人机",
-      "url": "https://www.ithome.com/0/953/705.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-05-22T01:22:11.000Z",
-      "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
-      "category": "paper",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmpfyb7qb0apysljwk3k8nlne",
-      "title": "ChatGPT现已支持在PowerPoint中直接创建编辑演示文稿",
-      "title_en": "Have you ever thought to yourself： I really don't want to make this PowerPoint. Good news： ChatGPT …",
-      "url": "https://x.com/ChatGPTapp/status/2057560276384563560",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-05-21T20:32:52.000Z",
-      "summary": "你是否曾这样想过：我真的不想做这个PPT。\n\n好消息：ChatGPT现在可以直接在PowerPoint中创建和编辑演示文稿。\n\n在PowerPoint中直接构建、更新、理解和优化演示文稿，同时保持幻灯片可编辑。\n\n目前处于测试阶段，我们期待您的反馈 👀",
-      "category": "ai-products",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_1046103183",
-      "title": "五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役",
+      "id": "rss_2245908431",
+      "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
       "title_en": null,
-      "url": "https://sspai.com/post/109450",
+      "url": "https://sspai.com/post/110184",
       "source": "少数派",
-      "publishedAt": "2026-05-25T03:23:36+00:00",
-      "summary": "一晃近2000天，我手中的罗技MXMaster3，依旧是我办公时最顺手的伙伴。当初购入它，核心原因就是手大且需要一款适配办公的鼠标——此前我用过雷蛇、赛睿的多款鼠标，并非它们不好用，而是这些鼠标多偏向 ...<a href=\"https://sspai.com/post/109450\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-05-26T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110184\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_3693780750",
-      "title": "百亿元级私募机构已率先加仓",
+      "id": "rss_3057415424",
+      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3826776692806531?f=rss",
+      "url": "https://36kr.com/p/3826932509364869?f=rss",
       "source": "36氪",
       "publishedAt": "2026-05-27T00:00:00+00:00",
-      "summary": "私募排排网最新数据显示，截至2026年5月15日，全市场股票私募仓位指数为80.09%，虽较近一个月的最高值下降2.07%，但整体持仓仍维持高位。具体来看，中小型私募机构大多仍在谨慎观望，体现在管理规模100亿元及以下各梯队私募仓位指数均呈现小幅回落态势。但与之形成鲜明对比的是，管理规模在100亿元以上的百亿元级股票私募仓位指数结束了此前连续四周的下行，回升至82.10%，显示相关机构已率先开启加仓布局。（证券日报）",
+      "summary": "<p>当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。</p>\n  <p>2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。</p>\n  <p>5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "techScore": 1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_850460967",
+      "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 26 MaT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "Tue, 26 Ma"
     }
   ]
 }
