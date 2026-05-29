@@ -1,160 +1,128 @@
 {
-  "generatedAt": "2026-05-28T00:03:55.873383+00:00",
-  "totalSource": 160,
-  "totalFiltered": 151,
+  "generatedAt": "2026-05-29T00:14:55.306130+00:00",
+  "totalSource": 140,
+  "totalFiltered": 131,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
-    "rss": 60,
+    "rss": 40,
     "bilibili": 0
   },
   "grouped": {
     "creative": [
       {
-        "id": "cmpop686i07ypslv41a160cay",
-        "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。",
-        "title_en": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求简单整理一下，发给三个不同的…",
-        "url": "https://x.com/dotey/status/2059773942500298934",
-        "source": "X：宝玉 (@dotey)",
-        "publishedAt": "2026-05-27T23:09:11.000Z",
-        "summary": "用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。",
-        "category": "tip",
+        "id": "cmppzjfxo00grslno218up73l",
+        "title": "Grok Build 0.2.7 发布，新增多项功能",
+        "title_en": "Grok Build 0.2.7 is now out， with /usage， /login， shared terminals across subagents， and improved im…",
+        "url": "https://x.com/xai/status/2060102590122385460",
+        "source": "X：xAI (@xai)",
+        "publishedAt": "2026-05-28T20:55:06.000Z",
+        "summary": "Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。\n所有更新请查看 https：//x.ai/build/changelog",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmppyywnt00djslno0rujv5zz",
+        "title": "Replit Canvas：智能体设计工具发布",
+        "title_en": "The best design work doesn't happen in a chat box. You need space to explore ideas， create variants，…",
+        "url": "https://x.com/Replit/status/2060097656207413613",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-05-28T20:35:30.000Z",
+        "summary": "最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。\n认识新的 Replit Canvas。\n你的智能体设计工具，用于构建精美的网站、应用、营销资产等。",
+        "category": "ai-products",
         "interestTags": [
           "creative",
           "app",
-          "writing",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmpofemy505maslv4n15rpet7",
-        "title": "Web 更新",
-        "title_en": "Web Updates",
-        "url": "https://updates.midjourney.com/web-updates-5",
-        "source": "Midjourney：Updates（RSS）",
-        "publishedAt": "2026-05-27T18:44:53.000Z",
-        "summary": "对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。",
+        "id": "cmppv6bhy01dlslm6hh647pnl",
+        "title": "Gemini Omni向印度用户开放视频编辑功能",
+        "title_en": "You're in luck！ Users in India can now upload videos （from their camera roll or saved files） and use…",
+        "url": "https://x.com/GeminiApp/status/2060074415304610168",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-05-28T19:03:09.000Z",
+        "summary": "好消息！印度用户现在可以上传视频（来自相册或已保存文件），并使用Gemini Omni进行编辑和转换。快来试试，并告诉我们你的想法。",
         "category": "ai-products",
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
         "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmpodsy24059vslv40tqd294a",
-        "title": "OpenCode与MiMo V2.5限时免费开放",
-        "title_en": "OpenCode x MiMo V2.5 - Free for a limited time 1M context • reasoning • text • image",
-        "url": "https://x.com/opencode/status/2059696100626297225",
-        "source": "X：opencode (@opencode)",
-        "publishedAt": "2026-05-27T17:59:52.000Z",
-        "summary": "OpenCode x MiMo V2.5 - 限时免费\n\n1M 上下文 • 推理 • 文本 • 图像",
-        "category": "ai-products",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
       }
     ],
     "app": [
       {
-        "id": "cmpocm9by04ymslv4agum9edi",
-        "title": "Google Pay 最新更新",
-        "title_en": "The latest updates to Google Pay",
-        "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-05-27T17:39:01.813Z",
-        "summary": "Google Pay 正向\"智能体商务\"演进，推出了通用商务协议和新的 MCP 服务器，允许 AI 智能体管理集成与分析趋势。Android 平台更新引入了动态回调以支持快速结账，并通过 WebView 将支付功能扩展至社交媒体应用。此外，平台还推出了跨设备生物认证和新的交易信号，旨在帮助商家减少流程摩擦。",
+        "id": "cmppvr37p01lgslm6udm3v6qa",
+        "title": "MiniMax M2.7 免费智能体编程限时开放",
+        "title_en": "Free agentic coding with MiniMax M2.7 on @OpenHandsDev？ Yes， please！ Available for a limited time …",
+        "url": "https://x.com/MiniMax_AI/status/2060071852970844377",
+        "source": "X：MiniMax (@MiniMax_AI)",
+        "publishedAt": "2026-05-28T18:52:58.000Z",
+        "summary": "在 @OpenHandsDev 上使用 MiniMax M2.7 进行免费智能体编程？\n\n是的，请给我！限时提供 ⚡👀",
         "category": "ai-products",
         "interestTags": [
-          "app",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "5小时前"
       },
       {
-        "id": "cmpocrldo050lslv45vxk0w5y",
-        "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
-        "title_en": "Replit has been named to @Redpoint's 2026 InfraRed 100. A list of the companies building what AI ru…",
-        "url": "https://x.com/Replit/status/2059688584899154134",
+        "id": "cmppuiqqt01a5slm6n7mhtwo5",
+        "title": "Apple 正努力将庞大的 Gemini 模型塞进 iPhone 以驱动新 Siri",
+        "title_en": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+        "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
+        "source": "Ars Technica：AI（RSS）",
+        "publishedAt": "2026-05-28T18:30:48.000Z",
+        "summary": "Apple 正尝试将大型 Gemini 模型集成到 iPhone 中，以支持全新的 Siri 功能。由于模型规模庞大，本地处理可能无法完全实现，因此一个云端组件很可能是必然的选择。",
+        "category": "industry",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmppsj2o500svslm6jst6o7tj",
+        "title": "四步保障AI生成应用安全",
+        "title_en": "How to secure your vibecoded app in 4 steps 🔒 Speed without security is a liability. Here's how to…",
+        "url": "https://x.com/Replit/status/2060052289155375532",
         "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-05-27T17:30:00.000Z",
-        "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
-        "category": "industry",
+        "publishedAt": "2026-05-28T17:35:14.000Z",
+        "summary": "如何用四步保障你的vibecoded应用安全 🔒\n\n速度若无安全加持，便是隐患。以下是使用Replit发布应用时，如何避免留下后门的方法。\n\n🧵展开阅读 ↓",
+        "category": "tip",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
         "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmpoad2jr04e6slv4ineho5xm",
-        "title": "与Google搜索产品副总裁Robby Stein的访谈：AI原生搜索时代",
-        "title_en": "I sat down with Robby Stein （@rmstein）， Google's VP of Product for Search， at @Google I/O. Robby is…",
-        "url": "https://x.com/kimmonismus/status/2059668961181004275",
-        "source": "X：Kim (@kimmonismus)",
-        "publishedAt": "2026-05-27T16:12:01.000Z",
-        "summary": "本文记录了与Google搜索产品副总裁Robby Stein在Google I/O的访谈，核心探讨Google Search向\"AI原生\"模式的重大转变。讨论话题包括AI Mode是进化还是重塑、如何将复杂问题拆解为多轮搜索、AI搜索的高运行成本、Google TPU及基础设施的优势、AI时代搜索量不减反增的原因，以及优质AI回答与出版商流量之间的张力。访谈还涉及Google决定展示哪些信息源与链接的逻辑，并围绕一个核心问题展开：如果Google直接给出答案，传统的基于链接的网页生态将走向何方？",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmpomepbx07ckslv4qmr6x0hq",
-        "title": "思科与OpenAI携手Codex重新定义企业工程",
-        "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
-        "url": "https://openai.com/index/cisco",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-05-27T11:00:00.000Z",
-        "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "13小时前"
-      },
-      {
-        "id": "rss_3057415424",
-        "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-        "title_en": null,
-        "url": "https://36kr.com/p/3826932509364869?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-05-27T00:00:00+00:00",
-        "summary": "<p>当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。</p>\n  <p>2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。</p>\n  <p>5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_850460967",
-        "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 26 MaT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "Tue, 26 Ma"
       }
     ],
     "writing": [
+      {
+        "id": "cmppmk7v801e1slvy1g30z6wl",
+        "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
+        "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
+        "url": "https://x.com/OpenRouter/status/2060007875590697088",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-05-28T14:38:45.000Z",
+        "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
       {
         "id": "cmpn2ao6h0tvcsl01u8w73iv8",
         "title": "人类与AI分工：教育咨询及文学奖争议",
@@ -169,7 +137,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmpmkyxc60pjvsl01xm2idwf8",
@@ -185,52 +153,99 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmpp7sbi50cnwslv4ukds92j6",
+        "title": "可灵AI将在AI电影节展示20部4K原创短片",
+        "title_en": "Kling AI is taking the stage at AI on the Lot's Community Day - the world's largest AI film & media …",
+        "url": "https://x.com/Kling_ai/status/2059908126611292645",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-05-28T08:02:23.000Z",
+        "summary": "可灵AI将在全球最大AI影视会议AI on the Lot的社区日上，展示由Prompt Club的电影制作人创作的20部原创AI短片。所有短片均为原生4K分辨率，旨在探索AI电影的边界。该展示将于5月29日在加州卡尔弗市的卡尔弗剧院举行。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
       },
       {
-        "id": "rss_2245908431",
-        "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
-        "title_en": null,
-        "url": "https://sspai.com/post/110184",
-        "source": "少数派",
-        "publishedAt": "2026-05-26T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110184\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "id": "cmpomepbx07ckslv4qmr6x0hq",
+        "title": "思科与OpenAI携手Codex重新定义企业工程",
+        "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "url": "https://openai.com/index/cisco",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-05-27T11:00:00.000Z",
+        "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
+        "category": "industry",
         "interestTags": [
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_2256342856",
+        "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+        "title_en": null,
+        "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 28 MaT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Thu, 28 Ma"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpop686i07ypslv41a160cay",
-      "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。",
-      "title_en": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求简单整理一下，发给三个不同的…",
-      "url": "https://x.com/dotey/status/2059773942500298934",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-05-27T23:09:11.000Z",
-      "summary": "用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。",
-      "category": "tip",
+      "id": "cmppzjfxo00grslno218up73l",
+      "title": "Grok Build 0.2.7 发布，新增多项功能",
+      "title_en": "Grok Build 0.2.7 is now out， with /usage， /login， shared terminals across subagents， and improved im…",
+      "url": "https://x.com/xai/status/2060102590122385460",
+      "source": "X：xAI (@xai)",
+      "publishedAt": "2026-05-28T20:55:06.000Z",
+      "summary": "Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。\n所有更新请查看 https：//x.ai/build/changelog",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmppyywnt00djslno0rujv5zz",
+      "title": "Replit Canvas：智能体设计工具发布",
+      "title_en": "The best design work doesn't happen in a chat box. You need space to explore ideas， create variants，…",
+      "url": "https://x.com/Replit/status/2060097656207413613",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-05-28T20:35:30.000Z",
+      "summary": "最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。\n认识新的 Replit Canvas。\n你的智能体设计工具，用于构建精美的网站、应用、营销资产等。",
+      "category": "ai-products",
       "interestTags": [
         "creative",
         "app",
-        "writing",
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "cmpofemy505maslv4n15rpet7",
-      "title": "Web 更新",
-      "title_en": "Web Updates",
-      "url": "https://updates.midjourney.com/web-updates-5",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-05-27T18:44:53.000Z",
-      "summary": "对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。",
+      "id": "cmppv6bhy01dlslm6hh647pnl",
+      "title": "Gemini Omni向印度用户开放视频编辑功能",
+      "title_en": "You're in luck！ Users in India can now upload videos （from their camera roll or saved files） and use…",
+      "url": "https://x.com/GeminiApp/status/2060074415304610168",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-05-28T19:03:09.000Z",
+      "summary": "好消息！印度用户现在可以上传视频（来自相册或已保存文件），并使用Gemini Omni进行编辑和转换。快来试试，并告诉我们你的想法。",
       "category": "ai-products",
       "interestTags": [
         "creative"
@@ -239,65 +254,80 @@
       "formattedTime": "5小时前"
     },
     {
-      "id": "cmpodsy24059vslv40tqd294a",
-      "title": "OpenCode与MiMo V2.5限时免费开放",
-      "title_en": "OpenCode x MiMo V2.5 - Free for a limited time 1M context • reasoning • text • image",
-      "url": "https://x.com/opencode/status/2059696100626297225",
-      "source": "X：opencode (@opencode)",
-      "publishedAt": "2026-05-27T17:59:52.000Z",
-      "summary": "OpenCode x MiMo V2.5 - 限时免费\n\n1M 上下文 • 推理 • 文本 • 图像",
+      "id": "cmppvr37p01lgslm6udm3v6qa",
+      "title": "MiniMax M2.7 免费智能体编程限时开放",
+      "title_en": "Free agentic coding with MiniMax M2.7 on @OpenHandsDev？ Yes， please！ Available for a limited time …",
+      "url": "https://x.com/MiniMax_AI/status/2060071852970844377",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-05-28T18:52:58.000Z",
+      "summary": "在 @OpenHandsDev 上使用 MiniMax M2.7 进行免费智能体编程？\n\n是的，请给我！限时提供 ⚡👀",
       "category": "ai-products",
       "interestTags": [
-        "creative"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "cmpocm9by04ymslv4agum9edi",
-      "title": "Google Pay 最新更新",
-      "title_en": "The latest updates to Google Pay",
-      "url": "https://developers.googleblog.com/the-latest-updates-to-google-pay",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-05-27T17:39:01.813Z",
-      "summary": "Google Pay 正向\"智能体商务\"演进，推出了通用商务协议和新的 MCP 服务器，允许 AI 智能体管理集成与分析趋势。Android 平台更新引入了动态回调以支持快速结账，并通过 WebView 将支付功能扩展至社交媒体应用。此外，平台还推出了跨设备生物认证和新的交易信号，旨在帮助商家减少流程摩擦。",
-      "category": "ai-products",
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmpocrldo050lslv45vxk0w5y",
-      "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
-      "title_en": "Replit has been named to @Redpoint's 2026 InfraRed 100. A list of the companies building what AI ru…",
-      "url": "https://x.com/Replit/status/2059688584899154134",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-05-27T17:30:00.000Z",
-      "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
+      "id": "cmppuiqqt01a5slm6n7mhtwo5",
+      "title": "Apple 正努力将庞大的 Gemini 模型塞进 iPhone 以驱动新 Siri",
+      "title_en": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-05-28T18:30:48.000Z",
+      "summary": "Apple 正尝试将大型 Gemini 模型集成到 iPhone 中，以支持全新的 Siri 功能。由于模型规模庞大，本地处理可能无法完全实现，因此一个云端组件很可能是必然的选择。",
       "category": "industry",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "cmpoad2jr04e6slv4ineho5xm",
-      "title": "与Google搜索产品副总裁Robby Stein的访谈：AI原生搜索时代",
-      "title_en": "I sat down with Robby Stein （@rmstein）， Google's VP of Product for Search， at @Google I/O. Robby is…",
-      "url": "https://x.com/kimmonismus/status/2059668961181004275",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-05-27T16:12:01.000Z",
-      "summary": "本文记录了与Google搜索产品副总裁Robby Stein在Google I/O的访谈，核心探讨Google Search向\"AI原生\"模式的重大转变。讨论话题包括AI Mode是进化还是重塑、如何将复杂问题拆解为多轮搜索、AI搜索的高运行成本、Google TPU及基础设施的优势、AI时代搜索量不减反增的原因，以及优质AI回答与出版商流量之间的张力。访谈还涉及Google决定展示哪些信息源与链接的逻辑，并围绕一个核心问题展开：如果Google直接给出答案，传统的基于链接的网页生态将走向何方？",
+      "id": "cmppsj2o500svslm6jst6o7tj",
+      "title": "四步保障AI生成应用安全",
+      "title_en": "How to secure your vibecoded app in 4 steps 🔒 Speed without security is a liability. Here's how to…",
+      "url": "https://x.com/Replit/status/2060052289155375532",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-05-28T17:35:14.000Z",
+      "summary": "如何用四步保障你的vibecoded应用安全 🔒\n\n速度若无安全加持，便是隐患。以下是使用Replit发布应用时，如何避免留下后门的方法。\n\n🧵展开阅读 ↓",
       "category": "tip",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmppmk7v801e1slvy1g30z6wl",
+      "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
+      "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
+      "url": "https://x.com/OpenRouter/status/2060007875590697088",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-05-28T14:38:45.000Z",
+      "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmpp7sbi50cnwslv4ukds92j6",
+      "title": "可灵AI将在AI电影节展示20部4K原创短片",
+      "title_en": "Kling AI is taking the stage at AI on the Lot's Community Day - the world's largest AI film & media …",
+      "url": "https://x.com/Kling_ai/status/2059908126611292645",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-05-28T08:02:23.000Z",
+      "summary": "可灵AI将在全球最大AI影视会议AI on the Lot的社区日上，展示由Prompt Club的电影制作人创作的20部原创AI短片。所有短片均为原生4K分辨率，旨在探索AI电影的边界。该展示将于5月29日在加州卡尔弗市的卡尔弗剧院举行。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
     },
     {
       "id": "cmpomepbx07ckslv4qmr6x0hq",
@@ -312,7 +342,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpn2ao6h0tvcsl01u8w73iv8",
@@ -328,7 +358,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpmkyxc60pjvsl01xm2idwf8",
@@ -344,52 +374,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2245908431",
-      "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+      "id": "rss_2256342856",
+      "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
       "title_en": null,
-      "url": "https://sspai.com/post/110184",
-      "source": "少数派",
-      "publishedAt": "2026-05-26T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110184\" target=\"_blank\">查看全文</a>",
+      "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 28 MaT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_3057415424",
-      "title": "前两天，我们在亦庄听到了AI最真实的声音｜2026 AI Partner大会金句实录",
-      "title_en": null,
-      "url": "https://36kr.com/p/3826932509364869?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-05-27T00:00:00+00:00",
-      "summary": "<p>当大模型API调用成本一年内骤降超过80%，百万Token仅需几分钱时，产业竞争便不再纠结于技术指标的高低，而是回归到最朴素的价值衡量——能否在实际场景中降本增效。行业的聚光灯，从实验室的榜单，转向了真实的生产线、医院诊室、物流仓库和城市管理后台。</p>\n  <p>2026年，谁能在复杂场景中解决真问题，谁才是这场变革的主角。</p>\n  <p>5月19日至20日，以“带着AI去前线”为主题的2026 AI Partner·北京亦庄AI+产业大会在北京经开区通明湖会展中心举办。大会由北京经开区管委会指导、36氪主办、国家信创园承办，设置9场圆桌对话、22场主题演讲以及一场",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_850460967",
-      "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 26 MaT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "Tue, 26 Ma"
+      "formattedTime": "Thu, 28 Ma"
     }
   ]
 }
