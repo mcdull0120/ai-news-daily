@@ -1,39 +1,88 @@
 {
-  "generatedAt": "2026-05-29T00:14:55.306130+00:00",
-  "totalSource": 140,
-  "totalFiltered": 131,
+  "generatedAt": "2026-05-30T00:12:25.826391+00:00",
+  "totalSource": 160,
+  "totalFiltered": 154,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
-    "rss": 40,
+    "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "creative": [
+    "productivity": [
       {
-        "id": "cmppzjfxo00grslno218up73l",
-        "title": "Grok Build 0.2.7 发布，新增多项功能",
-        "title_en": "Grok Build 0.2.7 is now out， with /usage， /login， shared terminals across subagents， and improved im…",
-        "url": "https://x.com/xai/status/2060102590122385460",
-        "source": "X：xAI (@xai)",
-        "publishedAt": "2026-05-28T20:55:06.000Z",
-        "summary": "Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。\n所有更新请查看 https：//x.ai/build/changelog",
+        "id": "cmprlcgbc0205sllj84qulx8l",
+        "title": "ComfyUI现已支持OpenRouter模型直接调用",
+        "title_en": "Now you can use your OpenRouter models directly inside @ComfyUI workflows！",
+        "url": "https://x.com/OpenRouter/status/2060511136932315259",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-05-29T23:58:32.000Z",
+        "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
         "category": "ai-products",
         "interestTags": [
-          "creative",
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmppyywnt00djslno0rujv5zz",
-        "title": "Replit Canvas：智能体设计工具发布",
-        "title_en": "The best design work doesn't happen in a chat box. You need space to explore ideas， create variants，…",
-        "url": "https://x.com/Replit/status/2060097656207413613",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-05-28T20:35:30.000Z",
-        "summary": "最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。\n认识新的 Replit Canvas。\n你的智能体设计工具，用于构建精美的网站、应用、营销资产等。",
+        "id": "cmprilbss01egsllj3maz5i8a",
+        "title": "Codex可自主管理对话线程与并行任务",
+        "title_en": "codex for managing the codex UI：",
+        "url": "https://x.com/gdb/status/2060486309886443787",
+        "source": "X：Greg Brockman (@gdb)",
+        "publishedAt": "2026-05-29T22:19:52.000Z",
+        "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
+        "category": "ai-products",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmpp7sbi50cnwslv4ukds92j6",
+        "title": "可灵AI将在AI电影节展示20部4K原创短片",
+        "title_en": "Kling AI is taking the stage at AI on the Lot's Community Day - the world's largest AI film & media …",
+        "url": "https://x.com/Kling_ai/status/2059908126611292645",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-05-28T08:02:23.000Z",
+        "summary": "可灵AI将在全球最大AI影视会议AI on the Lot的社区日上，展示由Prompt Club的电影制作人创作的20部原创AI短片。所有短片均为原生4K分辨率，旨在探索AI电影的边界。该展示将于5月29日在加州卡尔弗市的卡尔弗剧院举行。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpribwbr01bnslljhk0pj682",
+        "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
+        "title_en": null,
+        "url": "https://x.com/hongming731/status/2060487110906527820",
+        "source": "X：洪明 (@hongming731)",
+        "publishedAt": "2026-05-29T22:23:03.000Z",
+        "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmpramk160cceslno2f8eouqr",
+        "title": "Gemini Omni可将草图变为现实",
+        "title_en": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini a…",
+        "url": "https://x.com/GeminiApp/status/2060435981946503243",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-05-29T18:59:53.000Z",
+        "summary": "Gemini Omni甚至能将简单的草图变为新的现实。\n\n在Gemini应用中亲自尝试。上传一段有人画圆的视频，然后输入这个提示词：当我画完这个圆时，它变成了___。",
         "category": "ai-products",
         "interestTags": [
           "creative",
@@ -41,72 +90,90 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "5小时前"
       },
       {
-        "id": "cmppv6bhy01dlslm6hh647pnl",
-        "title": "Gemini Omni向印度用户开放视频编辑功能",
-        "title_en": "You're in luck！ Users in India can now upload videos （from their camera roll or saved files） and use…",
-        "url": "https://x.com/GeminiApp/status/2060074415304610168",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-05-28T19:03:09.000Z",
-        "summary": "好消息！印度用户现在可以上传视频（来自相册或已保存文件），并使用Gemini Omni进行编辑和转换。快来试试，并告诉我们你的想法。",
-        "category": "ai-products",
+        "id": "cmpr6m8dg0be7slno4oc8myl7",
+        "title": "GPIC：大规模视觉生成基准数据集发布",
+        "title_en": "I'm very excited by this new benchmark dataset for visual generation that is suitable for the modern…",
+        "url": "https://x.com/drfeifei/status/2060404846734512205",
+        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+        "publishedAt": "2026-05-29T16:56:10.000Z",
+        "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
+        "category": "paper",
         "interestTags": [
-          "creative"
+          "creative",
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "7小时前"
       }
     ],
     "app": [
       {
-        "id": "cmppvr37p01lgslm6udm3v6qa",
-        "title": "MiniMax M2.7 免费智能体编程限时开放",
-        "title_en": "Free agentic coding with MiniMax M2.7 on @OpenHandsDev？ Yes， please！ Available for a limited time …",
-        "url": "https://x.com/MiniMax_AI/status/2060071852970844377",
-        "source": "X：MiniMax (@MiniMax_AI)",
-        "publishedAt": "2026-05-28T18:52:58.000Z",
-        "summary": "在 @OpenHandsDev 上使用 MiniMax M2.7 进行免费智能体编程？\n\n是的，请给我！限时提供 ⚡👀",
+        "id": "cmpreww0500fosllj22uja0ac",
+        "title": "ChatGPT对话目录功能现已上线",
+        "title_en": "For every ChatGPT conversation that started as \"one quick thing\" and became a full on saga： table of…",
+        "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-05-29T21:03:39.000Z",
+        "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
         "category": "ai-products",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmppuiqqt01a5slm6n7mhtwo5",
-        "title": "Apple 正努力将庞大的 Gemini 模型塞进 iPhone 以驱动新 Siri",
-        "title_en": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-        "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
-        "source": "Ars Technica：AI（RSS）",
-        "publishedAt": "2026-05-28T18:30:48.000Z",
-        "summary": "Apple 正尝试将大型 Gemini 模型集成到 iPhone 中，以支持全新的 Siri 功能。由于模型规模庞大，本地处理可能无法完全实现，因此一个云端组件很可能是必然的选择。",
-        "category": "industry",
+        "id": "cmpreiy8h00dwslljv0r8dmt7",
+        "title": "Luma Agents 自动生成宣传图，输入内容即可",
+        "title_en": "The blog post did the thinking. Now let the promo do the work. Drop in the content. Define the hoo…",
+        "url": "https://x.com/LumaLabsAI/status/2060461313713909783",
+        "source": "X：Luma AI (@LumaLabsAI)",
+        "publishedAt": "2026-05-29T20:40:33.000Z",
+        "summary": "博客文章完成了思考。现在让宣传来发挥作用。\n\n输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。\n\n投入使用 → http：//lumalabs.ai/app",
+        "category": "ai-products",
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmppsj2o500svslm6jst6o7tj",
-        "title": "四步保障AI生成应用安全",
-        "title_en": "How to secure your vibecoded app in 4 steps 🔒 Speed without security is a liability. Here's how to…",
-        "url": "https://x.com/Replit/status/2060052289155375532",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-05-28T17:35:14.000Z",
-        "summary": "如何用四步保障你的vibecoded应用安全 🔒\n\n速度若无安全加持，便是隐患。以下是使用Replit发布应用时，如何避免留下后门的方法。\n\n🧵展开阅读 ↓",
+        "id": "cmprapdjj0cdoslnomir3c2q7",
+        "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
+        "title_en": "Take our I/O 2026 quiz， vibe coded in Google AI Studio.",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-05-29T19:00:00.000Z",
+        "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
         "category": "tip",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "5小时前"
       }
     ],
     "writing": [
+      {
+        "id": "cmpr2onlg0adislno0rn7snxt",
+        "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
+        "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
+        "url": "https://x.com/Kling_ai/status/2060375625404432757",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-05-29T15:00:03.000Z",
+        "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
       {
         "id": "cmppmk7v801e1slvy1g30z6wl",
         "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
@@ -121,117 +188,99 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "cmpn2ao6h0tvcsl01u8w73iv8",
-        "title": "人类与AI分工：教育咨询及文学奖争议",
-        "title_en": "I wrote a new post on what we need to keep human and what to hand over to AI， with forays into exper…",
-        "url": "https://x.com/emollick/status/2059363865536668040",
-        "source": "X：Ethan Mollick (@emollick)",
-        "publishedAt": "2026-05-26T19:59:41.000Z",
-        "summary": "我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmpmkyxc60pjvsl01xm2idwf8",
-        "title": "SynthID水印技术扩展合作，覆盖超千亿内容",
-        "title_en": "SynthID has already watermarked over 100 billion pieces of content， but transparency is a team sport…",
-        "url": "https://x.com/GoogleDeepMind/status/2059235181274202500",
-        "source": "X：Google DeepMind (@GoogleDeepMind)",
-        "publishedAt": "2026-05-26T11:28:20.000Z",
-        "summary": "SynthID已为超过1000亿条内容添加水印，但透明度需要行业协作。\n因此，我们正与OpenAI、ElevenLabs和Kakao合作，将SynthID水印技术集成到他们的模型中--这延续了我们与NVIDIA共同推动的全行业趋势。",
-        "category": "industry",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmpp7sbi50cnwslv4ukds92j6",
-        "title": "可灵AI将在AI电影节展示20部4K原创短片",
-        "title_en": "Kling AI is taking the stage at AI on the Lot's Community Day - the world's largest AI film & media …",
-        "url": "https://x.com/Kling_ai/status/2059908126611292645",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "publishedAt": "2026-05-28T08:02:23.000Z",
-        "summary": "可灵AI将在全球最大AI影视会议AI on the Lot的社区日上，展示由Prompt Club的电影制作人创作的20部原创AI短片。所有短片均为原生4K分辨率，旨在探索AI电影的边界。该展示将于5月29日在加州卡尔弗市的卡尔弗剧院举行。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      },
-      {
-        "id": "cmpomepbx07ckslv4qmr6x0hq",
-        "title": "思科与OpenAI携手Codex重新定义企业工程",
-        "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
-        "url": "https://openai.com/index/cisco",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-05-27T11:00:00.000Z",
-        "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
       },
       {
-        "id": "rss_2256342856",
-        "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+        "id": "rss_2024605564",
+        "title": "住久了没意思（三）：打造能好好放松的卧室",
         "title_en": null,
-        "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Thu, 28 MaT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom",
+        "source": "少数派",
+        "publishedAt": "2026-05-29T09:20:56+00:00",
+        "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...<a href=\"https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
         "category": "tip",
         "interestTags": [
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "Thu, 28 Ma"
+        "formattedTime": "14小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmppzjfxo00grslno218up73l",
-      "title": "Grok Build 0.2.7 发布，新增多项功能",
-      "title_en": "Grok Build 0.2.7 is now out， with /usage， /login， shared terminals across subagents， and improved im…",
-      "url": "https://x.com/xai/status/2060102590122385460",
-      "source": "X：xAI (@xai)",
-      "publishedAt": "2026-05-28T20:55:06.000Z",
-      "summary": "Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。\n所有更新请查看 https：//x.ai/build/changelog",
+      "id": "cmprlcgbc0205sllj84qulx8l",
+      "title": "ComfyUI现已支持OpenRouter模型直接调用",
+      "title_en": "Now you can use your OpenRouter models directly inside @ComfyUI workflows！",
+      "url": "https://x.com/OpenRouter/status/2060511136932315259",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-05-29T23:58:32.000Z",
+      "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
       "category": "ai-products",
       "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmpribwbr01bnslljhk0pj682",
+      "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
+      "title_en": null,
+      "url": "https://x.com/hongming731/status/2060487110906527820",
+      "source": "X：洪明 (@hongming731)",
+      "publishedAt": "2026-05-29T22:23:03.000Z",
+      "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
+      "category": "tip",
+      "interestTags": [
         "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmprilbss01egsllj3maz5i8a",
+      "title": "Codex可自主管理对话线程与并行任务",
+      "title_en": "codex for managing the codex UI：",
+      "url": "https://x.com/gdb/status/2060486309886443787",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-05-29T22:19:52.000Z",
+      "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
+      "category": "ai-products",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmpreww0500fosllj22uja0ac",
+      "title": "ChatGPT对话目录功能现已上线",
+      "title_en": "For every ChatGPT conversation that started as \"one quick thing\" and became a full on saga： table of…",
+      "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "publishedAt": "2026-05-29T21:03:39.000Z",
+      "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
+      "category": "ai-products",
+      "interestTags": [
         "app"
       ],
       "techScore": -1,
       "formattedTime": "3小时前"
     },
     {
-      "id": "cmppyywnt00djslno0rujv5zz",
-      "title": "Replit Canvas：智能体设计工具发布",
-      "title_en": "The best design work doesn't happen in a chat box. You need space to explore ideas， create variants，…",
-      "url": "https://x.com/Replit/status/2060097656207413613",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-05-28T20:35:30.000Z",
-      "summary": "最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。\n认识新的 Replit Canvas。\n你的智能体设计工具，用于构建精美的网站、应用、营销资产等。",
+      "id": "cmpreiy8h00dwslljv0r8dmt7",
+      "title": "Luma Agents 自动生成宣传图，输入内容即可",
+      "title_en": "The blog post did the thinking. Now let the promo do the work. Drop in the content. Define the hoo…",
+      "url": "https://x.com/LumaLabsAI/status/2060461313713909783",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-05-29T20:40:33.000Z",
+      "summary": "博客文章完成了思考。现在让宣传来发挥作用。\n\n输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。\n\n投入使用 → http：//lumalabs.ai/app",
       "category": "ai-products",
       "interestTags": [
-        "creative",
         "app",
         "writing"
       ],
@@ -239,64 +288,68 @@
       "formattedTime": "3小时前"
     },
     {
-      "id": "cmppv6bhy01dlslm6hh647pnl",
-      "title": "Gemini Omni向印度用户开放视频编辑功能",
-      "title_en": "You're in luck！ Users in India can now upload videos （from their camera roll or saved files） and use…",
-      "url": "https://x.com/GeminiApp/status/2060074415304610168",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-05-28T19:03:09.000Z",
-      "summary": "好消息！印度用户现在可以上传视频（来自相册或已保存文件），并使用Gemini Omni进行编辑和转换。快来试试，并告诉我们你的想法。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmppvr37p01lgslm6udm3v6qa",
-      "title": "MiniMax M2.7 免费智能体编程限时开放",
-      "title_en": "Free agentic coding with MiniMax M2.7 on @OpenHandsDev？ Yes， please！ Available for a limited time …",
-      "url": "https://x.com/MiniMax_AI/status/2060071852970844377",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-05-28T18:52:58.000Z",
-      "summary": "在 @OpenHandsDev 上使用 MiniMax M2.7 进行免费智能体编程？\n\n是的，请给我！限时提供 ⚡👀",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmppuiqqt01a5slm6n7mhtwo5",
-      "title": "Apple 正努力将庞大的 Gemini 模型塞进 iPhone 以驱动新 Siri",
-      "title_en": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-05-28T18:30:48.000Z",
-      "summary": "Apple 正尝试将大型 Gemini 模型集成到 iPhone 中，以支持全新的 Siri 功能。由于模型规模庞大，本地处理可能无法完全实现，因此一个云端组件很可能是必然的选择。",
-      "category": "industry",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmppsj2o500svslm6jst6o7tj",
-      "title": "四步保障AI生成应用安全",
-      "title_en": "How to secure your vibecoded app in 4 steps 🔒 Speed without security is a liability. Here's how to…",
-      "url": "https://x.com/Replit/status/2060052289155375532",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-05-28T17:35:14.000Z",
-      "summary": "如何用四步保障你的vibecoded应用安全 🔒\n\n速度若无安全加持，便是隐患。以下是使用Replit发布应用时，如何避免留下后门的方法。\n\n🧵展开阅读 ↓",
+      "id": "cmprapdjj0cdoslnomir3c2q7",
+      "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
+      "title_en": "Take our I/O 2026 quiz， vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
       "category": "tip",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpramk160cceslno2f8eouqr",
+      "title": "Gemini Omni可将草图变为现实",
+      "title_en": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini a…",
+      "url": "https://x.com/GeminiApp/status/2060435981946503243",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-05-29T18:59:53.000Z",
+      "summary": "Gemini Omni甚至能将简单的草图变为新的现实。\n\n在Gemini应用中亲自尝试。上传一段有人画圆的视频，然后输入这个提示词：当我画完这个圆时，它变成了___。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpr6m8dg0be7slno4oc8myl7",
+      "title": "GPIC：大规模视觉生成基准数据集发布",
+      "title_en": "I'm very excited by this new benchmark dataset for visual generation that is suitable for the modern…",
+      "url": "https://x.com/drfeifei/status/2060404846734512205",
+      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+      "publishedAt": "2026-05-29T16:56:10.000Z",
+      "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
+      "category": "paper",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpr2onlg0adislno0rn7snxt",
+      "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
+      "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
+      "url": "https://x.com/Kling_ai/status/2060375625404432757",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-05-29T15:00:03.000Z",
+      "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
     },
     {
       "id": "cmppmk7v801e1slvy1g30z6wl",
@@ -312,7 +365,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpp7sbi50cnwslv4ukds92j6",
@@ -327,69 +380,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "cmpomepbx07ckslv4qmr6x0hq",
-      "title": "思科与OpenAI携手Codex重新定义企业工程",
-      "title_en": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-05-27T11:00:00.000Z",
-      "summary": "思科正与OpenAI合作，利用Codex重新定义企业工程实践。此次合作旨在帮助思科扩展AI原生开发能力、加速其AI Defense安全工作，并实现缺陷修复流程的自动化。",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmpn2ao6h0tvcsl01u8w73iv8",
-      "title": "人类与AI分工：教育咨询及文学奖争议",
-      "title_en": "I wrote a new post on what we need to keep human and what to hand over to AI， with forays into exper…",
-      "url": "https://x.com/emollick/status/2059363865536668040",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-05-26T19:59:41.000Z",
-      "summary": "我写了一篇新文章，探讨我们需要保留哪些人类特质，以及哪些可以交给AI，其中涉及教育、咨询领域的实验，以及最近关于文学奖的争议。",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmpmkyxc60pjvsl01xm2idwf8",
-      "title": "SynthID水印技术扩展合作，覆盖超千亿内容",
-      "title_en": "SynthID has already watermarked over 100 billion pieces of content， but transparency is a team sport…",
-      "url": "https://x.com/GoogleDeepMind/status/2059235181274202500",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-05-26T11:28:20.000Z",
-      "summary": "SynthID已为超过1000亿条内容添加水印，但透明度需要行业协作。\n因此，我们正与OpenAI、ElevenLabs和Kakao合作，将SynthID水印技术集成到他们的模型中--这延续了我们与NVIDIA共同推动的全行业趋势。",
-      "category": "industry",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2256342856",
-      "title": "「AI研习社」用腾讯云ADP部署OpenClaw，为企业效率赋能",
+      "id": "rss_2024605564",
+      "title": "住久了没意思（三）：打造能好好放松的卧室",
       "title_en": null,
-      "url": "https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Thu, 28 MaT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/video/x7SpzJAJYoexdHIZv198?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom",
+      "source": "少数派",
+      "publishedAt": "2026-05-29T09:20:56+00:00",
+      "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...<a href=\"https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
       "category": "tip",
       "interestTags": [
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "Thu, 28 Ma"
+      "formattedTime": "14小时前"
     }
   ]
 }
