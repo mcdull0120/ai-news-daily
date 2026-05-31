@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T00:12:25.826391+00:00",
+  "generatedAt": "2026-05-31T00:04:52.280902+00:00",
   "totalSource": 160,
   "totalFiltered": 154,
   "totalSelected": 12,
@@ -9,6 +9,104 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmpsvokod04y4sluz4luwdj16",
+        "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+        "title_en": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+        "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-05-30T21:02:16.000Z",
+        "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite。",
+        "category": "tip",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmpsjtxfm022vsluz0pojemz9",
+        "title": "随着成本飙升，美国企业开始对人工智能实施配给",
+        "title_en": null,
+        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-30T15:40:48.502Z",
+        "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmpsii2qb01qhsluzzwifggo3",
+        "title": "免费领取6个月ChatGPT Pro及AI工具思考",
+        "title_en": "免费领6个月ChatGPT Pro， 价值$ 1200🤩 这可能是今年对开发者最实在的福利了， 没有硬性Star数要求， 有项目链接基本都能过， 只要你是任何一个公开开源项目的维护者，哪怕只有…",
+        "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "publishedAt": "2026-05-30T15:09:36.000Z",
+        "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmps1l0zg0605sllj8vf4wake",
+        "title": "最后一次技术面试",
+        "title_en": null,
+        "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-30T07:25:10.263Z",
+        "summary": "Steve Yegge 在 Medium 发表观点文章《最后一次技术面试》，探讨 AI 时代传统技术面试的意义变化。文章在 Hacker News 社区获得 100 分关注。",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
+      {
+        "id": "cmpr2onlg0adislno0rn7snxt",
+        "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
+        "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
+        "url": "https://x.com/Kling_ai/status/2060375625404432757",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-05-29T15:00:03.000Z",
+        "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmppmk7v801e1slvy1g30z6wl",
+        "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
+        "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
+        "url": "https://x.com/OpenRouter/status/2060007875590697088",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-05-28T14:38:45.000Z",
+        "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
     "productivity": [
       {
         "id": "cmprlcgbc0205sllj84qulx8l",
@@ -23,7 +121,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmprilbss01egsllj3maz5i8a",
@@ -38,7 +136,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpp7sbi50cnwslv4ukds92j6",
@@ -53,7 +151,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -73,7 +171,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpramk160cceslno2f8eouqr",
@@ -90,7 +188,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpr6m8dg0be7slno4oc8myl7",
@@ -106,108 +204,73 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmpreww0500fosllj22uja0ac",
-        "title": "ChatGPT对话目录功能现已上线",
-        "title_en": "For every ChatGPT conversation that started as \"one quick thing\" and became a full on saga： table of…",
-        "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-05-29T21:03:39.000Z",
-        "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
-        "category": "ai-products",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmpreiy8h00dwslljv0r8dmt7",
-        "title": "Luma Agents 自动生成宣传图，输入内容即可",
-        "title_en": "The blog post did the thinking. Now let the promo do the work. Drop in the content. Define the hoo…",
-        "url": "https://x.com/LumaLabsAI/status/2060461313713909783",
-        "source": "X：Luma AI (@LumaLabsAI)",
-        "publishedAt": "2026-05-29T20:40:33.000Z",
-        "summary": "博客文章完成了思考。现在让宣传来发挥作用。\n\n输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。\n\n投入使用 → http：//lumalabs.ai/app",
-        "category": "ai-products",
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmprapdjj0cdoslnomir3c2q7",
-        "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
-        "title_en": "Take our I/O 2026 quiz， vibe coded in Google AI Studio.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-05-29T19:00:00.000Z",
-        "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmpr2onlg0adislno0rn7snxt",
-        "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
-        "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
-        "url": "https://x.com/Kling_ai/status/2060375625404432757",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "publishedAt": "2026-05-29T15:00:03.000Z",
-        "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "cmppmk7v801e1slvy1g30z6wl",
-        "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
-        "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
-        "url": "https://x.com/OpenRouter/status/2060007875590697088",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-05-28T14:38:45.000Z",
-        "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_2024605564",
-        "title": "住久了没意思（三）：打造能好好放松的卧室",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom",
-        "source": "少数派",
-        "publishedAt": "2026-05-29T09:20:56+00:00",
-        "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...<a href=\"https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmpsvokod04y4sluz4luwdj16",
+      "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+      "title_en": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+      "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-05-30T21:02:16.000Z",
+      "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmpsjtxfm022vsluz0pojemz9",
+      "title": "随着成本飙升，美国企业开始对人工智能实施配给",
+      "title_en": null,
+      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-30T15:40:48.502Z",
+      "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmpsii2qb01qhsluzzwifggo3",
+      "title": "免费领取6个月ChatGPT Pro及AI工具思考",
+      "title_en": "免费领6个月ChatGPT Pro， 价值$ 1200🤩 这可能是今年对开发者最实在的福利了， 没有硬性Star数要求， 有项目链接基本都能过， 只要你是任何一个公开开源项目的维护者，哪怕只有…",
+      "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-05-30T15:09:36.000Z",
+      "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmps1l0zg0605sllj8vf4wake",
+      "title": "最后一次技术面试",
+      "title_en": null,
+      "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-30T07:25:10.263Z",
+      "summary": "Steve Yegge 在 Medium 发表观点文章《最后一次技术面试》，探讨 AI 时代传统技术面试的意义变化。文章在 Hacker News 社区获得 100 分关注。",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
     {
       "id": "cmprlcgbc0205sllj84qulx8l",
       "title": "ComfyUI现已支持OpenRouter模型直接调用",
@@ -221,7 +284,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpribwbr01bnslljhk0pj682",
@@ -239,7 +302,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmprilbss01egsllj3maz5i8a",
@@ -254,53 +317,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmpreww0500fosllj22uja0ac",
-      "title": "ChatGPT对话目录功能现已上线",
-      "title_en": "For every ChatGPT conversation that started as \"one quick thing\" and became a full on saga： table of…",
-      "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-05-29T21:03:39.000Z",
-      "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmpreiy8h00dwslljv0r8dmt7",
-      "title": "Luma Agents 自动生成宣传图，输入内容即可",
-      "title_en": "The blog post did the thinking. Now let the promo do the work. Drop in the content. Define the hoo…",
-      "url": "https://x.com/LumaLabsAI/status/2060461313713909783",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-05-29T20:40:33.000Z",
-      "summary": "博客文章完成了思考。现在让宣传来发挥作用。\n\n输入内容。定义钩子。Luma Agents 从那里构建每一张宣传图。\n\n投入使用 → http：//lumalabs.ai/app",
-      "category": "ai-products",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmprapdjj0cdoslnomir3c2q7",
-      "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
-      "title_en": "Take our I/O 2026 quiz， vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-05-29T19:00:00.000Z",
-      "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpramk160cceslno2f8eouqr",
@@ -317,7 +334,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpr6m8dg0be7slno4oc8myl7",
@@ -333,7 +350,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpr2onlg0adislno0rn7snxt",
@@ -349,7 +366,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmppmk7v801e1slvy1g30z6wl",
@@ -365,7 +382,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpp7sbi50cnwslv4ukds92j6",
@@ -380,22 +397,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2024605564",
-      "title": "住久了没意思（三）：打造能好好放松的卧室",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom",
-      "source": "少数派",
-      "publishedAt": "2026-05-29T09:20:56+00:00",
-      "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手对大部分人来说，卧室可能是在家里待得最长时间的区域。除了每天睡觉，周末可能也会花很多时间赖在卧室；如果家里比较小，卧室还可能承担休闲和娱乐的功能 ...<a href=\"https://sspai.com/prime/story/how-to-renovate-a-rental-bedroom\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "2天前"
     }
   ]
 }
