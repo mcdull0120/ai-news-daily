@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T00:04:52.280902+00:00",
+  "generatedAt": "2026-06-01T00:10:04.535341+00:00",
   "totalSource": 160,
   "totalFiltered": 154,
   "totalSelected": 12,
@@ -10,6 +10,36 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmpu58ppf00syslagod0p5uv7",
+        "title": "DeepSeek V4 Flash 已上线 OpenCode Zen",
+        "title_en": "DeepSeek V4 Flash is now available in OpenCode Zen",
+        "url": "https://x.com/opencode/status/2061153857321775209",
+        "source": "X：opencode (@opencode)",
+        "publishedAt": "2026-05-31T18:32:28.000Z",
+        "summary": "DeepSeek V4 Flash 现已在 OpenCode Zen 上线。",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpt5p76d07g3sluzcbxft4f4",
+        "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/957/718.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-05-31T01:30:46.000Z",
+        "summary": "一辆特斯拉汽车搭载 FSD V14.3.3 版本软件，完成了全球首次全程零人工干预、横穿加拿大的自动驾驶行程。车辆从温哥华出发，历时 4 天 21 小时，行驶 3760 英里（6051 公里）抵达哈利法克斯，全程所有驾驶操作（包括高速并线、应对复杂路况与自动泊车）均由系统自主完成，无任何系统退出或人工修正。该版本随 2026.14.6.6 更新推送，整合了春季软件功能。",
+        "category": "industry",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
       {
         "id": "cmpsvokod04y4sluz4luwdj16",
         "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
@@ -23,42 +53,40 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "writing": [
       {
-        "id": "cmpsjtxfm022vsluz0pojemz9",
-        "title": "随着成本飙升，美国企业开始对人工智能实施配给",
-        "title_en": null,
-        "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-05-30T15:40:48.502Z",
-        "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
+        "id": "cmpu1hyyy00tosla8zp4xb8nj",
+        "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
+        "title_en": "The Pope appears to understand AI better than Geoffrey Hinton does.",
+        "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-05-31T16:38:20.000Z",
+        "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
         "category": "tip",
         "interestTags": [
-          "app",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmpsii2qb01qhsluzzwifggo3",
-        "title": "免费领取6个月ChatGPT Pro及AI工具思考",
-        "title_en": "免费领6个月ChatGPT Pro， 价值$ 1200🤩 这可能是今年对开发者最实在的福利了， 没有硬性Star数要求， 有项目链接基本都能过， 只要你是任何一个公开开源项目的维护者，哪怕只有…",
-        "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-05-30T15:09:36.000Z",
-        "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
+        "id": "cmptzehi500cdsla80uvg4kgh",
+        "title": "我花200英镑把一台数据中心级GPU装进了我的游戏电脑",
+        "title_en": null,
+        "url": "https://blog.tymscar.com/posts/v100localllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-05-31T15:55:27.025Z",
+        "summary": "一名用户以200英镑的价格购入了一块数据中心级GPU，并将其成功安装到自己的游戏电脑中。文章记述了这一非标准硬件改装过程、遇到的技术挑战以及最终实现本地运行大语言模型的体验。",
         "category": "tip",
         "interestTags": [
-          "app",
           "writing"
         ],
         "techScore": -1,
         "formattedTime": "8小时前"
-      }
-    ],
-    "writing": [
+      },
       {
         "id": "cmps1l0zg0605sllj8vf4wake",
         "title": "最后一次技术面试",
@@ -72,36 +100,56 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmptzbrme00aasla8lu56k78h",
+        "title": "OpenAI正式进军机器人领域并启动招聘",
+        "title_en": "OpenAI Robotics is hiring， looking for exceptional full-stack hardware， ops， systems， and ML enginee…",
+        "url": "https://x.com/sama/status/2061117302528188712",
+        "source": "X：Sam Altman (@sama)",
+        "publishedAt": "2026-05-31T16:07:13.000Z",
+        "summary": "OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统及ML工程师，以编程和制造能服务社会的机器人。该项目由Aditya Ramesh领导，其世界模拟研究计划已演变为机器人研究，强调硬件与ML研究的协同设计。短期目标是支持技术工人构建未来基础设施，长期愿景是为每个人提供个人机器人。",
+        "category": "industry",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
       },
       {
-        "id": "cmpr2onlg0adislno0rn7snxt",
-        "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
-        "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
-        "url": "https://x.com/Kling_ai/status/2060375625404432757",
-        "source": "X：可灵 Kling AI (@Kling_ai)",
-        "publishedAt": "2026-05-29T15:00:03.000Z",
-        "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
+        "id": "cmpribwbr01bnslljhk0pj682",
+        "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
+        "title_en": null,
+        "url": "https://x.com/hongming731/status/2060487110906527820",
+        "source": "X：洪明 (@hongming731)",
+        "publishedAt": "2026-05-29T22:23:03.000Z",
+        "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
         "category": "tip",
         "interestTags": [
+          "creative",
+          "app",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmppmk7v801e1slvy1g30z6wl",
-        "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
-        "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
-        "url": "https://x.com/OpenRouter/status/2060007875590697088",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-05-28T14:38:45.000Z",
-        "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
-        "category": "tip",
+        "id": "cmpramk160cceslno2f8eouqr",
+        "title": "Gemini Omni可将草图变为现实",
+        "title_en": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini a…",
+        "url": "https://x.com/GeminiApp/status/2060435981946503243",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-05-29T18:59:53.000Z",
+        "summary": "Gemini Omni甚至能将简单的草图变为新的现实。\n\n在Gemini应用中亲自尝试。上传一段有人画圆的视频，然后输入这个提示词：当我画完这个圆时，它变成了___。",
+        "category": "ai-products",
         "interestTags": [
-          "writing",
-          "productivity"
+          "creative",
+          "app",
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -121,7 +169,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmprilbss01egsllj3maz5i8a",
@@ -136,7 +184,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmpp7sbi50cnwslv4ukds92j6",
@@ -151,64 +199,86 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpribwbr01bnslljhk0pj682",
-        "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
-        "title_en": null,
-        "url": "https://x.com/hongming731/status/2060487110906527820",
-        "source": "X：洪明 (@hongming731)",
-        "publishedAt": "2026-05-29T22:23:03.000Z",
-        "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmpramk160cceslno2f8eouqr",
-        "title": "Gemini Omni可将草图变为现实",
-        "title_en": "Gemini Omni can transform even a basic sketch into a new reality. Try for yourself in the Gemini a…",
-        "url": "https://x.com/GeminiApp/status/2060435981946503243",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-05-29T18:59:53.000Z",
-        "summary": "Gemini Omni甚至能将简单的草图变为新的现实。\n\n在Gemini应用中亲自尝试。上传一段有人画圆的视频，然后输入这个提示词：当我画完这个圆时，它变成了___。",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmpr6m8dg0be7slno4oc8myl7",
-        "title": "GPIC：大规模视觉生成基准数据集发布",
-        "title_en": "I'm very excited by this new benchmark dataset for visual generation that is suitable for the modern…",
-        "url": "https://x.com/drfeifei/status/2060404846734512205",
-        "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-        "publishedAt": "2026-05-29T16:56:10.000Z",
-        "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
-        "category": "paper",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmpu58ppf00syslagod0p5uv7",
+      "title": "DeepSeek V4 Flash 已上线 OpenCode Zen",
+      "title_en": "DeepSeek V4 Flash is now available in OpenCode Zen",
+      "url": "https://x.com/opencode/status/2061153857321775209",
+      "source": "X：opencode (@opencode)",
+      "publishedAt": "2026-05-31T18:32:28.000Z",
+      "summary": "DeepSeek V4 Flash 现已在 OpenCode Zen 上线。",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpu1hyyy00tosla8zp4xb8nj",
+      "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
+      "title_en": "The Pope appears to understand AI better than Geoffrey Hinton does.",
+      "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-05-31T16:38:20.000Z",
+      "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmptzbrme00aasla8lu56k78h",
+      "title": "OpenAI正式进军机器人领域并启动招聘",
+      "title_en": "OpenAI Robotics is hiring， looking for exceptional full-stack hardware， ops， systems， and ML enginee…",
+      "url": "https://x.com/sama/status/2061117302528188712",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-05-31T16:07:13.000Z",
+      "summary": "OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统及ML工程师，以编程和制造能服务社会的机器人。该项目由Aditya Ramesh领导，其世界模拟研究计划已演变为机器人研究，强调硬件与ML研究的协同设计。短期目标是支持技术工人构建未来基础设施，长期愿景是为每个人提供个人机器人。",
+      "category": "industry",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmptzehi500cdsla80uvg4kgh",
+      "title": "我花200英镑把一台数据中心级GPU装进了我的游戏电脑",
+      "title_en": null,
+      "url": "https://blog.tymscar.com/posts/v100localllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-05-31T15:55:27.025Z",
+      "summary": "一名用户以200英镑的价格购入了一块数据中心级GPU，并将其成功安装到自己的游戏电脑中。文章记述了这一非标准硬件改装过程、遇到的技术挑战以及最终实现本地运行大语言模型的体验。",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmpt5p76d07g3sluzcbxft4f4",
+      "title": "6000 多公里全程零干预：特斯拉 FSD 完成全球首次横穿加拿大自动驾驶",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/957/718.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-05-31T01:30:46.000Z",
+      "summary": "一辆特斯拉汽车搭载 FSD V14.3.3 版本软件，完成了全球首次全程零人工干预、横穿加拿大的自动驾驶行程。车辆从温哥华出发，历时 4 天 21 小时，行驶 3760 英里（6051 公里）抵达哈利法克斯，全程所有驾驶操作（包括高速并线、应对复杂路况与自动泊车）均由系统自主完成，无任何系统退出或人工修正。该版本随 2026.14.6.6 更新推送，整合了春季软件功能。",
+      "category": "industry",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmpsvokod04y4sluz4luwdj16",
       "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
@@ -222,39 +292,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmpsjtxfm022vsluz0pojemz9",
-      "title": "随着成本飙升，美国企业开始对人工智能实施配给",
-      "title_en": null,
-      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-05-30T15:40:48.502Z",
-      "summary": "由于运行和使用AI工具的成本持续飙升，美国企业正开始对人工智能的使用实施配给制。企业通过限制使用量、设置分层级审批流程等方式控制开支，以应对AI费用增长过快的问题。这种从广泛采用转向精细化管理的策略，标志着企业在AI应用上从追求速度转向注重成本效益。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpsii2qb01qhsluzzwifggo3",
-      "title": "免费领取6个月ChatGPT Pro及AI工具思考",
-      "title_en": "免费领6个月ChatGPT Pro， 价值$ 1200🤩 这可能是今年对开发者最实在的福利了， 没有硬性Star数要求， 有项目链接基本都能过， 只要你是任何一个公开开源项目的维护者，哪怕只有…",
-      "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-05-30T15:09:36.000Z",
-      "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmps1l0zg0605sllj8vf4wake",
@@ -269,7 +307,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmprlcgbc0205sllj84qulx8l",
@@ -284,7 +322,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpribwbr01bnslljhk0pj682",
@@ -302,7 +340,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmprilbss01egsllj3maz5i8a",
@@ -317,7 +355,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpramk160cceslno2f8eouqr",
@@ -332,54 +370,6 @@
         "creative",
         "app",
         "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpr6m8dg0be7slno4oc8myl7",
-      "title": "GPIC：大规模视觉生成基准数据集发布",
-      "title_en": "I'm very excited by this new benchmark dataset for visual generation that is suitable for the modern…",
-      "url": "https://x.com/drfeifei/status/2060404846734512205",
-      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-      "publishedAt": "2026-05-29T16:56:10.000Z",
-      "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
-      "category": "paper",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpr2onlg0adislno0rn7snxt",
-      "title": "Kling AI助力电影RAPHAEL创作全流程揭秘",
-      "title_en": "Kling AI Cannes Showcase - RAPHAEL： Behind the AI Workflow Go behind the scenes of RAPHAEL， an AI-p…",
-      "url": "https://x.com/Kling_ai/status/2060375625404432757",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "publishedAt": "2026-05-29T15:00:03.000Z",
-      "summary": "Kling AI戛纳展示--RAPHAEL：AI工作流幕后\n\n深入了解RAPHAEL，一部使用Kling AI创作的AI驱动故事片。看看创作者如何在整个电影制作流程中运用Kling AI，从创意构思到最终电影画面，简化制作并释放新的创作可能性。",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmppmk7v801e1slvy1g30z6wl",
-      "title": "OpenRouter 支持模型现可选 Flex 与 Priority 服务层级",
-      "title_en": "TIP： You can use Flex and Priority tiers for supported models （OpenAI， Google Vertex， & more） Prici…",
-      "url": "https://x.com/OpenRouter/status/2060007875590697088",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-05-28T14:38:45.000Z",
-      "summary": "提示：您可以为支持的模型（OpenAI、Google Vertex 等）使用 Flex 和 Priority 层级。\n定价信息请查看各模型页面。文档：https：//openrouter.ai/docs/guides/features/service-tiers",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -397,7 +387,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     }
   ]
 }
