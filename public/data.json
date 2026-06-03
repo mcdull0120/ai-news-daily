@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-02T00:17:40.944784+00:00",
+  "generatedAt": "2026-06-03T01:42:06.527593+00:00",
   "totalSource": 160,
-  "totalFiltered": 155,
+  "totalFiltered": 153,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,155 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmpxdi3fh02xoslck8d7nggbj",
+        "title": "智能体工程实战窍门全录",
+        "title_en": "Agentic Engineering 实战窍门全录（2026年6月版） 来自 @mvanhorn 的分享 👏🏻，他三个月内从「高中后没发布过有价值软件」到 last30days（27K sta…",
+        "url": "https://x.com/shao__meng/status/2061974983094755575",
+        "source": "X：邵猛 (@shao__meng)",
+        "publishedAt": "2026-06-03T00:55:20.000Z",
+        "summary": "该内容源自@mvanhorn的分享，介绍了\"智能体工程\"如何重塑软件开发。其核心是从\"人主导编码\"转向\"人主导方向、智能体执行\"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmpx36moe005uslckmmw9hjlt",
+        "title": "Claude Code 自我检查与反馈闭环技巧",
+        "title_en": "How do you get Claude Code to check its own work before handing it back？ Watch how you can encode y…",
+        "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-06-02T19:59:06.000Z",
+        "summary": "如何让 Claude Code 在交回工作前检查自己的成果？\n看看如何编码你的手动检查，让 Claude 自己关闭反馈循环：",
+        "category": "tip",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpx2aezv00d8slgygrrq7o5v",
+        "title": "OpenRouter上线微软三款新模型",
+        "title_en": "Three new @MicrosoftAI models now live on OpenRouter！ Launching together： MAI-Image-2.5， MAI-Transc…",
+        "url": "https://x.com/OpenRouter/status/2061894672847671724",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-06-02T19:36:12.000Z",
+        "summary": "三款新的 @MicrosoftAI 模型现已在 OpenRouter 上线！\n同步推出：MAI-Image-2.5、MAI-Transcribe-1.5 和 MAI-Voice-2。详情见下文 🧵",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmpxah2zs023islckk59trtto",
+        "title": "NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师",
+        "title_en": "Industrial Software Leaders Build Secure， Autonomous AI Engineers With NVIDIA NemoClaw",
+        "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw",
+        "source": "NVIDIA Blog：Agentic AI（网页）",
+        "publishedAt": "2026-06-02T22:00:58.000Z",
+        "summary": "在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 AI 工程师，旨在将原本需数周的仿真与设计任务压缩至数小时。",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmpx11l8102mmsl7940fhk41n",
+        "title": "OpenAI Codex 推出团队专属插件",
+        "title_en": "Role-specific plugins in Codex are built around the work teams actually do. Plugins for Data Analyt…",
+        "url": "https://x.com/OpenAIDevs/status/2061888366791246071",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-06-02T19:11:09.000Z",
+        "summary": "Codex 中的角色专属插件围绕团队实际工作构建。\n\n数据分析、创意制作和产品设计插件为 Codex 提供了创建报告、创意方向和原型的工具与上下文。\n\n由 OpenAI 团队构建并使用。",
+        "category": "ai-products",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpwrs3jx004wsl79yv419af3",
+        "title": "商汤开源SenseNova-Skills AI办公技能套件",
+        "title_en": "Power smarter AI agents with #SenseNova-Skills 🚀 An open-source AI o…",
+        "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
+        "publishedAt": "2026-06-02T14:48:01.000Z",
+        "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术、技术、社交等多源搜索并生成报告）。该技能套件现已完全开源。",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmpx3fvdq009rslckxcfsidbc",
+        "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
+        "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
+        "url": "https://x.com/nvidia/status/2061904438478970985",
+        "source": "X：NVIDIA (@nvidia)",
+        "publishedAt": "2026-06-02T20:15:01.000Z",
+        "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
+        "category": "ai-products",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmpwuirwl00tisl79gfmq5mmf",
+        "title": "Gary Marcus：为什么事情终将崩塌",
+        "title_en": "Why things will eventually fall apart",
+        "url": "https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-06-02T15:41:57.000Z",
+        "summary": "知名人工智能批评者Gary Marcus在其关于可信赖AI的专栏中，探讨了人工智能发展面临的根本性挑战。文章开篇即指向问题的核心，指出相关数学理论的局限性与人类心理的复杂性，是导致AI系统最终可能出现问题的根源。",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "cmpvs3efm015wslukv1os8v5x",
+        "title": "ChatGPT 新增长文编辑与保存功能",
+        "title_en": "Long-form writing works better with a little more space. Now you can edit longer pieces in full-sc…",
+        "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-06-01T22:11:55.000Z",
+        "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
+        "category": "ai-products",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
     "education": [
       {
         "id": "cmpvvux6a0246sluks34rofcg",
@@ -23,189 +172,171 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
-      }
-    ],
-    "creative": [
+        "formattedTime": "昨天"
+      },
       {
-        "id": "cmpvto5n701kssluknz9cgg40",
-        "title": "Sam Altman强调AI发展应以人为本",
-        "title_en": "Sam Altman's new interview： AI should not be designed to pursue goals that are disconnected from hum…",
-        "url": "https://x.com/rohanpaul_ai/status/2061586179292831774",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-01T23:10:22.000Z",
-        "summary": "Sam Altman在采访中表示，AI不应被设计为追求脱离人类需求的目标，人类必须始终处于AI发展的中心。他批判了行业内\"AI将摧毁大量工作\"等言论，认为人们担忧的并非AI带来的好处，而是自身在未来的角色、经济前景与自主权。他指出，AI行业的失败在于未能清晰解释人类如何在每一步保持对未来的控制权，以及如何在AI时代继续拥有充实、有意义的生活。",
-        "category": "tip",
+        "id": "rss_3702201075",
+        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "title_en": null,
+        "url": "https://36kr.com/p/3836068296209537?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-03T00:00:00+00:00",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
+        "category": "industry",
         "interestTags": [
-          "creative"
+          "education",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "1小时前"
       },
       {
-        "id": "cmpvmm0ab00ndslfpbxb2m5kh",
-        "title": "Replit 用单个提示词构建完整业务",
-        "title_en": "Can you build a real business for free with a single prompt？ Starting today on Replit， the answer …",
-        "url": "https://x.com/Replit/status/2061534759520760112",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-06-01T19:46:02.000Z",
-        "summary": "你能用单个提示词免费构建一个真实的业务吗？\n\n从今天起，在 Replit 上，答案是肯定的。\n\n从一个提示词开始，获得一个网站、移动应用、幻灯片和发布视频。\n此外，还能解锁使用 @stripe @atlas， @QuickBooks， @mercury & @doolaHQ 运营业务的福利。",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmpvf8bjd06blsl0zwmfpzvmr",
-        "title": "Gemini Omni支持创建个人数字分身",
-        "title_en": "Easily add yourself to your video creations in Gemini. Here's how to create your own digital avatar…",
-        "url": "https://x.com/GeminiApp/status/2061480944905982276",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-06-01T16:12:12.000Z",
-        "summary": "轻松将自己添加到Gemini的视频创作中。\n\n以下是如何使用Gemini Omni创建一个外观和声音都像你的数字分身。🧵",
-        "category": "tip",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmpvs3efm015wslukv1os8v5x",
-        "title": "ChatGPT 新增长文编辑与保存功能",
-        "title_en": "Long-form writing works better with a little more space. Now you can edit longer pieces in full-sc…",
-        "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-06-01T22:11:55.000Z",
-        "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
-        "category": "ai-products",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmpuj4yr0045lslaglcf8y5b2",
-        "title": "全球首次：MWC26 上海将举办\"人形机器人点球大战\"，宇树科技等 8 支队伍参赛、参演",
+        "id": "rss_3797653080",
+        "title": "“星尘智能”完成超10亿B轮融资",
         "title_en": null,
-        "url": "https://www.ithome.com/0/957/938.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-01T00:55:00.000Z",
-        "summary": "全球首次\"人形机器人点球大战\"将于2026年6月在MWC上海举行。8支中国顶尖具身智能战队将进行自主对抗，无需人工操控或预设脚本。赛事旨在集中展示人形机器人在动态平衡、精准控制与自主决策等方面的技术突破。",
+        "url": "https://36kr.com/newsflashes/3836753824478601?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-03T00:00:00+00:00",
+        "summary": "36氪获悉，绳驱AI机器人公司“星尘智能”（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某上市企业及国科投资等老股东持续追投。",
         "category": "industry",
         "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      },
-      {
-        "id": "cmpu1hyyy00tosla8zp4xb8nj",
-        "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
-        "title_en": "The Pope appears to understand AI better than Geoffrey Hinton does.",
-        "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-05-31T16:38:20.000Z",
-        "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmpvk16me000kslfppbs3wx8f",
-        "title": "Google AI 展示并行子智能体自动整理文件",
-        "title_en": "From clutter to clarity. Watch parallel subagents in @Antigravity sort and rename hundreds of market…",
-        "url": "https://x.com/googleaidevs/status/2061515177166844317",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "publishedAt": "2026-06-01T18:28:13.000Z",
-        "summary": "从杂乱到清晰。观看 @Antigravity 中的并行子智能体对数百个营销资产进行分类和重命名，消除手动文件管理。",
-        "category": "tip",
-        "interestTags": [
-          "app",
-          "writing",
+          "education",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmpvej11l065tsl0zrvg9kj3a",
-        "title": "智谱：建议 A 股发行并在科创板上市",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/958/444.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-01T15:53:42.000Z",
-        "summary": "智谱计划向中国监管机构申请发行A股并在科创板上市。发行股份数量占发行完成后总股本的2%至8%，预计全部为新股，原股东不发售。本次发行募集资金净额将投资于人工智能通用基座大模型、大模型MaaS一站式服务平台及补充流动资金。此外，公司拟将英文名称由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co.， Ltd.\"。",
-        "category": "industry",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmpva42zm0501sl0z1dba5bm8",
-        "title": "AI Pulse 探讨智能体时代新指标 DAA",
-        "title_en": "ICYMI： Our latest AI Pulse looked at Daily Active Agents （DAA） - a metric for measuring value in the…",
-        "url": "https://x.com/Baidu_Inc/status/2061447687028039854",
-        "source": "X：百度 Baidu (@Baidu_Inc)",
-        "publishedAt": "2026-06-01T14:00:03.000Z",
-        "summary": "ICYMI：我们最新的 AI Pulse 探讨了日活跃智能体（DAA）--一个衡量智能体时代价值的指标--以及我们的智能体组合。",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "10小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmprlcgbc0205sllj84qulx8l",
-        "title": "ComfyUI现已支持OpenRouter模型直接调用",
-        "title_en": "Now you can use your OpenRouter models directly inside @ComfyUI workflows！",
-        "url": "https://x.com/OpenRouter/status/2060511136932315259",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-05-29T23:58:32.000Z",
-        "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
-        "category": "ai-products",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmprilbss01egsllj3maz5i8a",
-        "title": "Codex可自主管理对话线程与并行任务",
-        "title_en": "codex for managing the codex UI：",
-        "url": "https://x.com/gdb/status/2060486309886443787",
-        "source": "X：Greg Brockman (@gdb)",
-        "publishedAt": "2026-05-29T22:19:52.000Z",
-        "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
-        "category": "ai-products",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "1小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmpxdi3fh02xoslck8d7nggbj",
+      "title": "智能体工程实战窍门全录",
+      "title_en": "Agentic Engineering 实战窍门全录（2026年6月版） 来自 @mvanhorn 的分享 👏🏻，他三个月内从「高中后没发布过有价值软件」到 last30days（27K sta…",
+      "url": "https://x.com/shao__meng/status/2061974983094755575",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-06-03T00:55:20.000Z",
+      "summary": "该内容源自@mvanhorn的分享，介绍了\"智能体工程\"如何重塑软件开发。其核心是从\"人主导编码\"转向\"人主导方向、智能体执行\"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。",
+      "category": "tip",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmpxah2zs023islckk59trtto",
+      "title": "NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师",
+      "title_en": "Industrial Software Leaders Build Secure， Autonomous AI Engineers With NVIDIA NemoClaw",
+      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw",
+      "source": "NVIDIA Blog：Agentic AI（网页）",
+      "publishedAt": "2026-06-02T22:00:58.000Z",
+      "summary": "在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 AI 工程师，旨在将原本需数周的仿真与设计任务压缩至数小时。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmpx3fvdq009rslckxcfsidbc",
+      "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
+      "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
+      "url": "https://x.com/nvidia/status/2061904438478970985",
+      "source": "X：NVIDIA (@nvidia)",
+      "publishedAt": "2026-06-02T20:15:01.000Z",
+      "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
+      "category": "ai-products",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpx36moe005uslckmmw9hjlt",
+      "title": "Claude Code 自我检查与反馈闭环技巧",
+      "title_en": "How do you get Claude Code to check its own work before handing it back？ Watch how you can encode y…",
+      "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-06-02T19:59:06.000Z",
+      "summary": "如何让 Claude Code 在交回工作前检查自己的成果？\n看看如何编码你的手动检查，让 Claude 自己关闭反馈循环：",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpx2aezv00d8slgygrrq7o5v",
+      "title": "OpenRouter上线微软三款新模型",
+      "title_en": "Three new @MicrosoftAI models now live on OpenRouter！ Launching together： MAI-Image-2.5， MAI-Transc…",
+      "url": "https://x.com/OpenRouter/status/2061894672847671724",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-06-02T19:36:12.000Z",
+      "summary": "三款新的 @MicrosoftAI 模型现已在 OpenRouter 上线！\n同步推出：MAI-Image-2.5、MAI-Transcribe-1.5 和 MAI-Voice-2。详情见下文 🧵",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpx11l8102mmsl7940fhk41n",
+      "title": "OpenAI Codex 推出团队专属插件",
+      "title_en": "Role-specific plugins in Codex are built around the work teams actually do. Plugins for Data Analyt…",
+      "url": "https://x.com/OpenAIDevs/status/2061888366791246071",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-02T19:11:09.000Z",
+      "summary": "Codex 中的角色专属插件围绕团队实际工作构建。\n\n数据分析、创意制作和产品设计插件为 Codex 提供了创建报告、创意方向和原型的工具与上下文。\n\n由 OpenAI 团队构建并使用。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpwuirwl00tisl79gfmq5mmf",
+      "title": "Gary Marcus：为什么事情终将崩塌",
+      "title_en": "Why things will eventually fall apart",
+      "url": "https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-06-02T15:41:57.000Z",
+      "summary": "知名人工智能批评者Gary Marcus在其关于可信赖AI的专栏中，探讨了人工智能发展面临的根本性挑战。文章开篇即指向问题的核心，指出相关数学理论的局限性与人类心理的复杂性，是导致AI系统最终可能出现问题的根源。",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmpwrs3jx004wsl79yv419af3",
+      "title": "商汤开源SenseNova-Skills AI办公技能套件",
+      "title_en": "Power smarter AI agents with #SenseNova-Skills 🚀 An open-source AI o…",
+      "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-06-02T14:48:01.000Z",
+      "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术、技术、社交等多源搜索并生成报告）。该技能套件现已完全开源。",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
     {
       "id": "cmpvvux6a0246sluks34rofcg",
       "title": "Karpathy 分享学习方法论",
@@ -219,22 +350,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmpvto5n701kssluknz9cgg40",
-      "title": "Sam Altman强调AI发展应以人为本",
-      "title_en": "Sam Altman's new interview： AI should not be designed to pursue goals that are disconnected from hum…",
-      "url": "https://x.com/rohanpaul_ai/status/2061586179292831774",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-01T23:10:22.000Z",
-      "summary": "Sam Altman在采访中表示，AI不应被设计为追求脱离人类需求的目标，人类必须始终处于AI发展的中心。他批判了行业内\"AI将摧毁大量工作\"等言论，认为人们担忧的并非AI带来的好处，而是自身在未来的角色、经济前景与自主权。他指出，AI行业的失败在于未能清晰解释人类如何在每一步保持对未来的控制权，以及如何在AI时代继续拥有充实、有意义的生活。",
-      "category": "tip",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpvs3efm015wslukv1os8v5x",
@@ -249,147 +365,39 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmpvmm0ab00ndslfpbxb2m5kh",
-      "title": "Replit 用单个提示词构建完整业务",
-      "title_en": "Can you build a real business for free with a single prompt？ Starting today on Replit， the answer …",
-      "url": "https://x.com/Replit/status/2061534759520760112",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-01T19:46:02.000Z",
-      "summary": "你能用单个提示词免费构建一个真实的业务吗？\n\n从今天起，在 Replit 上，答案是肯定的。\n\n从一个提示词开始，获得一个网站、移动应用、幻灯片和发布视频。\n此外，还能解锁使用 @stripe @atlas， @QuickBooks， @mercury & @doolaHQ 运营业务的福利。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmpvk16me000kslfppbs3wx8f",
-      "title": "Google AI 展示并行子智能体自动整理文件",
-      "title_en": "From clutter to clarity. Watch parallel subagents in @Antigravity sort and rename hundreds of market…",
-      "url": "https://x.com/googleaidevs/status/2061515177166844317",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "publishedAt": "2026-06-01T18:28:13.000Z",
-      "summary": "从杂乱到清晰。观看 @Antigravity 中的并行子智能体对数百个营销资产进行分类和重命名，消除手动文件管理。",
-      "category": "tip",
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmpvf8bjd06blsl0zwmfpzvmr",
-      "title": "Gemini Omni支持创建个人数字分身",
-      "title_en": "Easily add yourself to your video creations in Gemini. Here's how to create your own digital avatar…",
-      "url": "https://x.com/GeminiApp/status/2061480944905982276",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-06-01T16:12:12.000Z",
-      "summary": "轻松将自己添加到Gemini的视频创作中。\n\n以下是如何使用Gemini Omni创建一个外观和声音都像你的数字分身。🧵",
-      "category": "tip",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpvej11l065tsl0zrvg9kj3a",
-      "title": "智谱：建议 A 股发行并在科创板上市",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/958/444.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-01T15:53:42.000Z",
-      "summary": "智谱计划向中国监管机构申请发行A股并在科创板上市。发行股份数量占发行完成后总股本的2%至8%，预计全部为新股，原股东不发售。本次发行募集资金净额将投资于人工智能通用基座大模型、大模型MaaS一站式服务平台及补充流动资金。此外，公司拟将英文名称由\"Knowledge Atlas Technology Joint Stock Company Limited\"变更为\"Z.AI Co.， Ltd.\"。",
-      "category": "industry",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmpva42zm0501sl0z1dba5bm8",
-      "title": "AI Pulse 探讨智能体时代新指标 DAA",
-      "title_en": "ICYMI： Our latest AI Pulse looked at Daily Active Agents （DAA） - a metric for measuring value in the…",
-      "url": "https://x.com/Baidu_Inc/status/2061447687028039854",
-      "source": "X：百度 Baidu (@Baidu_Inc)",
-      "publishedAt": "2026-06-01T14:00:03.000Z",
-      "summary": "ICYMI：我们最新的 AI Pulse 探讨了日活跃智能体（DAA）--一个衡量智能体时代价值的指标--以及我们的智能体组合。",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmpuj4yr0045lslaglcf8y5b2",
-      "title": "全球首次：MWC26 上海将举办\"人形机器人点球大战\"，宇树科技等 8 支队伍参赛、参演",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/957/938.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-01T00:55:00.000Z",
-      "summary": "全球首次\"人形机器人点球大战\"将于2026年6月在MWC上海举行。8支中国顶尖具身智能战队将进行自主对抗，无需人工操控或预设脚本。赛事旨在集中展示人形机器人在动态平衡、精准控制与自主决策等方面的技术突破。",
-      "category": "industry",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "cmpu1hyyy00tosla8zp4xb8nj",
-      "title": "教皇似乎比Geoffrey Hinton更懂人工智能",
-      "title_en": "The Pope appears to understand AI better than Geoffrey Hinton does.",
-      "url": "https://garymarcus.substack.com/p/the-pope-appears-to-understand-ai",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-05-31T16:38:20.000Z",
-      "summary": "这一观点强调，单纯分析AI的输出内容，无法还原其生成过程与背后的推理逻辑，触及了当前AI可解释性研究的核心挑战。",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmprlcgbc0205sllj84qulx8l",
-      "title": "ComfyUI现已支持OpenRouter模型直接调用",
-      "title_en": "Now you can use your OpenRouter models directly inside @ComfyUI workflows！",
-      "url": "https://x.com/OpenRouter/status/2060511136932315259",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-05-29T23:58:32.000Z",
-      "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
-      "category": "ai-products",
+      "id": "rss_3702201075",
+      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "title_en": null,
+      "url": "https://36kr.com/p/3836068296209537?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-03T00:00:00+00:00",
+      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
+      "category": "industry",
       "interestTags": [
+        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "1小时前"
     },
     {
-      "id": "cmprilbss01egsllj3maz5i8a",
-      "title": "Codex可自主管理对话线程与并行任务",
-      "title_en": "codex for managing the codex UI：",
-      "url": "https://x.com/gdb/status/2060486309886443787",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-05-29T22:19:52.000Z",
-      "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
-      "category": "ai-products",
+      "id": "rss_3797653080",
+      "title": "“星尘智能”完成超10亿B轮融资",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3836753824478601?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-03T00:00:00+00:00",
+      "summary": "36氪获悉，绳驱AI机器人公司“星尘智能”（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某上市企业及国科投资等老股东持续追投。",
+      "category": "industry",
       "interestTags": [
+        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "1小时前"
     }
   ]
 }
