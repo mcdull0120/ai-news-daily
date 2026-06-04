@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-03T01:42:06.527593+00:00",
+  "generatedAt": "2026-06-04T01:44:18.999157+00:00",
   "totalSource": 160,
-  "totalFiltered": 153,
+  "totalFiltered": 152,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,69 +11,69 @@
   "grouped": {
     "app": [
       {
-        "id": "cmpxdi3fh02xoslck8d7nggbj",
-        "title": "智能体工程实战窍门全录",
-        "title_en": "Agentic Engineering 实战窍门全录（2026年6月版） 来自 @mvanhorn 的分享 👏🏻，他三个月内从「高中后没发布过有价值软件」到 last30days（27K sta…",
-        "url": "https://x.com/shao__meng/status/2061974983094755575",
-        "source": "X：邵猛 (@shao__meng)",
-        "publishedAt": "2026-06-03T00:55:20.000Z",
-        "summary": "该内容源自@mvanhorn的分享，介绍了\"智能体工程\"如何重塑软件开发。其核心是从\"人主导编码\"转向\"人主导方向、智能体执行\"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。",
+        "id": "cmpyfwtdf04rzslaxxzkal9na",
+        "title": "优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考",
+        "title_en": "优步每月1，500美元的AI使用上限为AI工具定价提供了有价值的参考",
+        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-03T19:00:08.294Z",
+        "summary": "优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。",
         "category": "tip",
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmpx36moe005uslckmmw9hjlt",
-        "title": "Claude Code 自我检查与反馈闭环技巧",
-        "title_en": "How do you get Claude Code to check its own work before handing it back？ Watch how you can encode y…",
-        "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-06-02T19:59:06.000Z",
-        "summary": "如何让 Claude Code 在交回工作前检查自己的成果？\n看看如何编码你的手动检查，让 Claude 自己关闭反馈循环：",
-        "category": "tip",
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmpx2aezv00d8slgygrrq7o5v",
-        "title": "OpenRouter上线微软三款新模型",
-        "title_en": "Three new @MicrosoftAI models now live on OpenRouter！ Launching together： MAI-Image-2.5， MAI-Transc…",
-        "url": "https://x.com/OpenRouter/status/2061894672847671724",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-06-02T19:36:12.000Z",
-        "summary": "三款新的 @MicrosoftAI 模型现已在 OpenRouter 上线！\n同步推出：MAI-Image-2.5、MAI-Transcribe-1.5 和 MAI-Voice-2。详情见下文 🧵",
-        "category": "ai-products",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
         "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmpydnyp4045mslaxffsskvf4",
+        "title": "黄仁勋与纳德拉共议智能体AI时代",
+        "title_en": "The agentic AI era is here. From Taipei， Jensen Huang joined @satyanadella at #MSBuild to show how …",
+        "url": "https://x.com/nvidia/status/2062228974273716457",
+        "source": "X：NVIDIA (@nvidia)",
+        "publishedAt": "2026-06-03T17:44:36.000Z",
+        "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
+        "category": "ai-products",
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmpyc4uab03qgslaxgjm4awp6",
+        "title": "Anthropic 用 Claude 赋能自助数据分析",
+        "title_en": "How Anthropic enables self-service data analytics with Claude",
+        "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-06-03T17:23:16.528Z",
+        "summary": "Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。",
+        "category": "tip",
+        "interestTags": [
+          "app",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmpxah2zs023islckk59trtto",
-        "title": "NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师",
-        "title_en": "Industrial Software Leaders Build Secure， Autonomous AI Engineers With NVIDIA NemoClaw",
-        "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw",
-        "source": "NVIDIA Blog：Agentic AI（网页）",
-        "publishedAt": "2026-06-02T22:00:58.000Z",
-        "summary": "在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 AI 工程师，旨在将原本需数周的仿真与设计任务压缩至数小时。",
-        "category": "ai-products",
+        "id": "cmpy7c7v402flslaxwaf0jfr1",
+        "title": "Suno完成4亿美元D轮融资",
+        "title_en": "We're thrilled to announce Suno's next chapter： a $400M Series D at a $5.4B valuation！ 🚀 Our missio…",
+        "url": "https://x.com/suno/status/2062183524887675243",
+        "source": "X：Suno (@suno)",
+        "publishedAt": "2026-06-03T14:44:00.000Z",
+        "summary": "我们激动地宣布Suno的新篇章：4亿美元D轮融资，估值54亿美元！🚀\n我们的使命一直很简单：让更多人能体验制作音乐的乐趣。非常感谢我们不可思议的社区和投资者与我们共同建设。\n\n点击此处阅读Mikey的博客：https：//suno.com/blog/series-d-announcement",
+        "category": "industry",
         "interestTags": [
           "creative",
-          "app",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "11小时前"
       },
       {
         "id": "cmpx11l8102mmsl7940fhk41n",
@@ -89,7 +89,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpwrs3jx004wsl79yv419af3",
@@ -107,7 +107,55 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmpxp1npl061rslckexyk9lam",
+        "title": "Karpathy 的 llm-wiki 项目获超五千星",
+        "title_en": "@karpathy 's llm-wiki hit 5，000+ stars in weeks. The idea： stop re-discovering knowledge every sess…",
+        "url": "https://x.com/SiliconFlowAI/status/2062054848762450324",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "publishedAt": "2026-06-03T06:12:41.000Z",
+        "summary": "@karpathy 的 llm-wiki 在几周内获得了 5，000+ 颗星。\n\n其理念是：停止在每个会话中重新发现知识。让一个大语言模型构建并维护一个维基，每次使用时它都会变得更智能。\n\n以下是如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本 🧵",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
+      },
+      {
+        "id": "cmpvvux6a0246sluks34rofcg",
+        "title": "Karpathy 分享学习方法论",
+        "title_en": "🎯 Andrej Karpathy on how to learn.",
+        "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-02T00:12:00.000Z",
+        "summary": "🎯 Andrej Karpathy 谈如何学习。",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_2248961138",
+        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+        "title_en": null,
+        "url": "https://36kr.com/p/3836068296209537?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-03T00:00:00+00:00",
+        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
+        "category": "industry",
+        "interestTags": [
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -125,7 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpwuirwl00tisl79gfmq5mmf",
@@ -140,7 +188,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmpvs3efm015wslukv1os8v5x",
@@ -155,92 +203,88 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmpvvux6a0246sluks34rofcg",
-        "title": "Karpathy 分享学习方法论",
-        "title_en": "🎯 Andrej Karpathy on how to learn.",
-        "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-02T00:12:00.000Z",
-        "summary": "🎯 Andrej Karpathy 谈如何学习。",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3702201075",
-        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-        "title_en": null,
-        "url": "https://36kr.com/p/3836068296209537?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-03T00:00:00+00:00",
-        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
-        "category": "industry",
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "rss_3797653080",
-        "title": "“星尘智能”完成超10亿B轮融资",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3836753824478601?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-03T00:00:00+00:00",
-        "summary": "36氪获悉，绳驱AI机器人公司“星尘智能”（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某上市企业及国科投资等老股东持续追投。",
-        "category": "industry",
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpxdi3fh02xoslck8d7nggbj",
-      "title": "智能体工程实战窍门全录",
-      "title_en": "Agentic Engineering 实战窍门全录（2026年6月版） 来自 @mvanhorn 的分享 👏🏻，他三个月内从「高中后没发布过有价值软件」到 last30days（27K sta…",
-      "url": "https://x.com/shao__meng/status/2061974983094755575",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-06-03T00:55:20.000Z",
-      "summary": "该内容源自@mvanhorn的分享，介绍了\"智能体工程\"如何重塑软件开发。其核心是从\"人主导编码\"转向\"人主导方向、智能体执行\"，中心从IDE变为终端与计划文件。方法论遵循Research → Plan → Work循环，核心是让plan.md约束智能体行为。分享者总结了22条实战技巧，涵盖规划、并行执行、输入方式、远程控制等方面，并列出了完整的工具栈。",
+      "id": "cmpyfwtdf04rzslaxxzkal9na",
+      "title": "优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考",
+      "title_en": "优步每月1，500美元的AI使用上限为AI工具定价提供了有价值的参考",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-03T19:00:08.294Z",
+      "summary": "优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmpydnyp4045mslaxffsskvf4",
+      "title": "黄仁勋与纳德拉共议智能体AI时代",
+      "title_en": "The agentic AI era is here. From Taipei， Jensen Huang joined @satyanadella at #MSBuild to show how …",
+      "url": "https://x.com/nvidia/status/2062228974273716457",
+      "source": "X：NVIDIA (@nvidia)",
+      "publishedAt": "2026-06-03T17:44:36.000Z",
+      "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
+      "category": "ai-products",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmpyc4uab03qgslaxgjm4awp6",
+      "title": "Anthropic 用 Claude 赋能自助数据分析",
+      "title_en": "How Anthropic enables self-service data analytics with Claude",
+      "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-03T17:23:16.528Z",
+      "summary": "Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。",
       "category": "tip",
       "interestTags": [
         "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmpxah2zs023islckk59trtto",
-      "title": "NVIDIA 推出 NemoClaw 平台，助力工业软件厂商构建自主 AI 工程师",
-      "title_en": "Industrial Software Leaders Build Secure， Autonomous AI Engineers With NVIDIA NemoClaw",
-      "url": "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw",
-      "source": "NVIDIA Blog：Agentic AI（网页）",
-      "publishedAt": "2026-06-02T22:00:58.000Z",
-      "summary": "在 COMPUTEX 上，NVIDIA 发布了 NemoClaw 平台，这是一个用于构建专业、长时间运行 AI 智能体的开放蓝图。该平台提供安全运行时、前沿模型支持以及多种编排框架集成选项，可通过 DGX Spark、数据中心或云端部署。其核心开源运行时 OpenShell 实施基于策略的安全管控，规范智能体对文件、网络和工具的访问。Cadence、达索系统、西门子、Synopsys 等十多家工业软件厂商正基于 NemoClaw 构建用于 CAE 和 EDA 工作流的自主 AI 工程师，旨在将原本需数周的仿真与设计任务压缩至数小时。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app",
+        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmpy7c7v402flslaxwaf0jfr1",
+      "title": "Suno完成4亿美元D轮融资",
+      "title_en": "We're thrilled to announce Suno's next chapter： a $400M Series D at a $5.4B valuation！ 🚀 Our missio…",
+      "url": "https://x.com/suno/status/2062183524887675243",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-06-03T14:44:00.000Z",
+      "summary": "我们激动地宣布Suno的新篇章：4亿美元D轮融资，估值54亿美元！🚀\n我们的使命一直很简单：让更多人能体验制作音乐的乐趣。非常感谢我们不可思议的社区和投资者与我们共同建设。\n\n点击此处阅读Mikey的博客：https：//suno.com/blog/series-d-announcement",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmpxp1npl061rslckexyk9lam",
+      "title": "Karpathy 的 llm-wiki 项目获超五千星",
+      "title_en": "@karpathy 's llm-wiki hit 5，000+ stars in weeks. The idea： stop re-discovering knowledge every sess…",
+      "url": "https://x.com/SiliconFlowAI/status/2062054848762450324",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-06-03T06:12:41.000Z",
+      "summary": "@karpathy 的 llm-wiki 在几周内获得了 5，000+ 颗星。\n\n其理念是：停止在每个会话中重新发现知识。让一个大语言模型构建并维护一个维基，每次使用时它都会变得更智能。\n\n以下是如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本 🧵",
+      "category": "tip",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
     },
     {
       "id": "cmpx3fvdq009rslckxcfsidbc",
@@ -256,37 +300,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmpx36moe005uslckmmw9hjlt",
-      "title": "Claude Code 自我检查与反馈闭环技巧",
-      "title_en": "How do you get Claude Code to check its own work before handing it back？ Watch how you can encode y…",
-      "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-06-02T19:59:06.000Z",
-      "summary": "如何让 Claude Code 在交回工作前检查自己的成果？\n看看如何编码你的手动检查，让 Claude 自己关闭反馈循环：",
-      "category": "tip",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmpx2aezv00d8slgygrrq7o5v",
-      "title": "OpenRouter上线微软三款新模型",
-      "title_en": "Three new @MicrosoftAI models now live on OpenRouter！ Launching together： MAI-Image-2.5， MAI-Transc…",
-      "url": "https://x.com/OpenRouter/status/2061894672847671724",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-02T19:36:12.000Z",
-      "summary": "三款新的 @MicrosoftAI 模型现已在 OpenRouter 上线！\n同步推出：MAI-Image-2.5、MAI-Transcribe-1.5 和 MAI-Voice-2。详情见下文 🧵",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpx11l8102mmsl7940fhk41n",
@@ -302,7 +316,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpwuirwl00tisl79gfmq5mmf",
@@ -317,7 +331,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpwrs3jx004wsl79yv419af3",
@@ -335,7 +349,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpvvux6a0246sluks34rofcg",
@@ -350,7 +364,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmpvs3efm015wslukv1os8v5x",
@@ -365,10 +379,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_3702201075",
+      "id": "rss_2248961138",
       "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
       "title_en": null,
       "url": "https://36kr.com/p/3836068296209537?f=rss",
@@ -381,23 +395,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "rss_3797653080",
-      "title": "“星尘智能”完成超10亿B轮融资",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3836753824478601?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-03T00:00:00+00:00",
-      "summary": "36氪获悉，绳驱AI机器人公司“星尘智能”（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某上市企业及国科投资等老股东持续追投。",
-      "category": "industry",
-      "interestTags": [
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
