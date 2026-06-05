@@ -1,64 +1,145 @@
 {
-  "generatedAt": "2026-06-04T01:44:18.999157+00:00",
-  "totalSource": 160,
-  "totalFiltered": 152,
+  "generatedAt": "2026-06-05T00:14:15.254887+00:00",
+  "totalSource": 170,
+  "totalFiltered": 160,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "app": [
       {
-        "id": "cmpyfwtdf04rzslaxxzkal9na",
-        "title": "优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考",
-        "title_en": "优步每月1，500美元的AI使用上限为AI工具定价提供了有价值的参考",
-        "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-03T19:00:08.294Z",
-        "summary": "优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。",
-        "category": "tip",
+        "id": "cmq01ld46020ksltri2vkr5uv",
+        "title": "NotebookLM 来源归属功能上线",
+        "title_en": "Today we're launching another highly requested feature： Source Attribution！ 🥳 No more guessing. No…",
+        "url": "https://x.com/NotebookLM/status/2062653124326863077",
+        "source": "X：NotebookLM (@NotebookLM)",
+        "publishedAt": "2026-06-04T21:50:01.000Z",
+        "summary": "今天，我们推出又一项呼声很高的功能：来源归属！🥳\n\n无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点\"迭代\"，随心定制 💖",
+        "category": "ai-products",
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmpydnyp4045mslaxffsskvf4",
-        "title": "黄仁勋与纳德拉共议智能体AI时代",
-        "title_en": "The agentic AI era is here. From Taipei， Jensen Huang joined @satyanadella at #MSBuild to show how …",
-        "url": "https://x.com/nvidia/status/2062228974273716457",
-        "source": "X：NVIDIA (@nvidia)",
-        "publishedAt": "2026-06-03T17:44:36.000Z",
-        "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
+        "id": "cmq01qi40023fsltru08k8zx9",
+        "title": "Gemini macOS 双击 Command 附加活动窗口",
+        "title_en": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Co…",
+        "url": "https://x.com/GeminiApp/status/2062652523945836770",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-06-04T21:47:38.000Z",
+        "summary": "使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻\n\n只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。",
+        "category": "ai-products",
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmpztzorc000vsltrtvxh4va3",
+        "title": "Codex 推出 iOS 应用构建插件",
+        "title_en": "More of the iOS app loop， now inside Codex. The Build iOS Apps plugin lets Codex view and test your…",
+        "url": "https://x.com/OpenAIDevs/status/2062599291479478275",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-06-04T18:16:06.000Z",
+        "summary": "更多 iOS 应用循环，现已集成至 Codex。\n\nBuild iOS Apps 插件让 Codex 可在应用内浏览器查看和测试你的 iOS 应用，打开 SwiftUI 预览，并无需离开 Codex 即可热重载编辑。",
         "category": "ai-products",
         "interestTags": [
           "app"
         ],
         "techScore": -1,
+        "formattedTime": "5小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmq01c0eo01ycsltrs4arno27",
+        "title": "共存与协同智能的终结",
+        "title_en": "Co-Existence and the End of Co-Intelligence",
+        "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "publishedAt": "2026-06-04T21:13:42.000Z",
+        "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmpzrtp0u06dxslkp7tqka277",
+        "title": "NotebookLM 推出福尔摩斯游戏笔记本",
+        "title_en": "PRO TIP： Gamify your notebooks Don't just read your notes- investigate them. Our new Sherlock Holme…",
+        "url": "https://x.com/NotebookLM/status/2062582348194197743",
+        "source": "X：NotebookLM (@NotebookLM)",
+        "publishedAt": "2026-06-04T17:08:47.000Z",
+        "summary": "专业技巧：将笔记本游戏化\n\n不要只是阅读笔记--去调查它们。我们全新的福尔摩斯笔记本将学习变成一款互动侦探游戏。推理事实，发现线索，证明即使是最复杂的问题也能迎刃而解。\n\n➡️ https：//goo.gle/Sherlock",
+        "category": "ai-products",
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
         "formattedTime": "7小时前"
       },
       {
-        "id": "cmpyc4uab03qgslaxgjm4awp6",
-        "title": "Anthropic 用 Claude 赋能自助数据分析",
-        "title_en": "How Anthropic enables self-service data analytics with Claude",
-        "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-06-03T17:23:16.528Z",
-        "summary": "Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。",
-        "category": "tip",
+        "id": "cmpx3fvdq009rslckxcfsidbc",
+        "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
+        "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
+        "url": "https://x.com/nvidia/status/2061904438478970985",
+        "source": "X：NVIDIA (@nvidia)",
+        "publishedAt": "2026-06-02T20:15:01.000Z",
+        "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
+        "category": "ai-products",
         "interestTags": [
-          "app",
-          "education",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
+      {
+        "id": "cmpzhk1rp03k5slkpmx3q7mp3",
+        "title": "EVA-Bench Data 2.0 发布：覆盖三大领域、121 个工具、213 个场景",
+        "title_en": "EVA-Bench Data 2.0： 3 Domains， 121 Tools， 213 Scenarios",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+        "source": "Hugging Face：Blog（RSS）",
+        "publishedAt": "2026-06-04T12:24:58.000Z",
+        "summary": "EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客户服务管理（CSM）、企业 IT 服务管理（ITSM）和医疗 HR 服务交付（HRSD）三个领域，共涵盖 121 个工具、213 个场景，场景数较原始版本增长约 4 倍。每个场景均经 OpenAI GPT-5.4、Google Gemini 3.1 Pro 和 Anthropic Claude Opus 4.6 验证可解性。数据集遵循语音优先、真实性、多样性、认证流程和可复现性五项设计原则，包含单意图、多意图（最多 4 个意图）和对抗性呼叫类型。所有三个数据集已开源，可通过 `load_dataset` 从 Hugging Face 直接下载。后续将推出多语言扩展。",
+        "category": "paper",
+        "interestTags": [
+          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "cmpyvxja303t6sli3dok90v7m",
+        "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
+        "title_en": "Radiance fields are only as good as the images behind them. PPISP helps compensate for photometric…",
+        "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
+        "source": "X：NVIDIA AI (@NVIDIAAI)",
+        "publishedAt": "2026-06-04T02:17:37.000Z",
+        "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
+        "category": "paper",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
       {
         "id": "cmpy7c7v402flslaxwaf0jfr1",
         "title": "Suno完成4亿美元D轮融资",
@@ -71,40 +152,6 @@
         "interestTags": [
           "creative",
           "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "cmpx11l8102mmsl7940fhk41n",
-        "title": "OpenAI Codex 推出团队专属插件",
-        "title_en": "Role-specific plugins in Codex are built around the work teams actually do. Plugins for Data Analyt…",
-        "url": "https://x.com/OpenAIDevs/status/2061888366791246071",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-06-02T19:11:09.000Z",
-        "summary": "Codex 中的角色专属插件围绕团队实际工作构建。\n\n数据分析、创意制作和产品设计插件为 Codex 提供了创建报告、创意方向和原型的工具与上下文。\n\n由 OpenAI 团队构建并使用。",
-        "category": "ai-products",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmpwrs3jx004wsl79yv419af3",
-        "title": "商汤开源SenseNova-Skills AI办公技能套件",
-        "title_en": "Power smarter AI agents with #SenseNova-Skills 🚀 An open-source AI o…",
-        "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "publishedAt": "2026-06-02T14:48:01.000Z",
-        "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术、技术、社交等多源搜索并生成报告）。该技能套件现已完全开源。",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -124,136 +171,152 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
-      },
-      {
-        "id": "cmpvvux6a0246sluks34rofcg",
-        "title": "Karpathy 分享学习方法论",
-        "title_en": "🎯 Andrej Karpathy on how to learn.",
-        "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-02T00:12:00.000Z",
-        "summary": "🎯 Andrej Karpathy 谈如何学习。",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2248961138",
-        "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
-        "title_en": null,
-        "url": "https://36kr.com/p/3836068296209537?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-03T00:00:00+00:00",
-        "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
-        "category": "industry",
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
       }
     ],
-    "writing": [
+    "productivity": [
       {
-        "id": "cmpx3fvdq009rslckxcfsidbc",
-        "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
-        "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
-        "url": "https://x.com/nvidia/status/2061904438478970985",
-        "source": "X：NVIDIA (@nvidia)",
-        "publishedAt": "2026-06-02T20:15:01.000Z",
-        "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
-        "category": "ai-products",
+        "id": "rss_484144851",
+        "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 03 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
-          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "Wed, 03 Ju"
       },
       {
-        "id": "cmpwuirwl00tisl79gfmq5mmf",
-        "title": "Gary Marcus：为什么事情终将崩塌",
-        "title_en": "Why things will eventually fall apart",
-        "url": "https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-06-02T15:41:57.000Z",
-        "summary": "知名人工智能批评者Gary Marcus在其关于可信赖AI的专栏中，探讨了人工智能发展面临的根本性挑战。文章开篇即指向问题的核心，指出相关数学理论的局限性与人类心理的复杂性，是导致AI系统最终可能出现问题的根源。",
+        "id": "bili_BV12eDkBoEjM",
+        "title": "躺着办公这么爽？AI时代好东西分享1.0",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-06-05T00:14:15.246791+00:00",
+        "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmpvs3efm015wslukv1os8v5x",
-        "title": "ChatGPT 新增长文编辑与保存功能",
-        "title_en": "Long-form writing works better with a little more space. Now you can edit longer pieces in full-sc…",
-        "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-06-01T22:11:55.000Z",
-        "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
-        "category": "ai-products",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmpyfwtdf04rzslaxxzkal9na",
-      "title": "优步每月 1，500 美元的 AI 使用上限为 AI 工具定价提供参考",
-      "title_en": "优步每月1，500美元的AI使用上限为AI工具定价提供了有价值的参考",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-03T19:00:08.294Z",
-      "summary": "优步将 AI 工具每月使用上限定为 1500 美元，这一做法为行业 AI 工具定价提供了有价值的参考信号。",
-      "category": "tip",
+      "id": "cmq01ld46020ksltri2vkr5uv",
+      "title": "NotebookLM 来源归属功能上线",
+      "title_en": "Today we're launching another highly requested feature： Source Attribution！ 🥳 No more guessing. No…",
+      "url": "https://x.com/NotebookLM/status/2062653124326863077",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-04T21:50:01.000Z",
+      "summary": "今天，我们推出又一项呼声很高的功能：来源归属！🥳\n\n无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点\"迭代\"，随心定制 💖",
+      "category": "ai-products",
       "interestTags": [
-        "app"
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "cmpydnyp4045mslaxffsskvf4",
-      "title": "黄仁勋与纳德拉共议智能体AI时代",
-      "title_en": "The agentic AI era is here. From Taipei， Jensen Huang joined @satyanadella at #MSBuild to show how …",
-      "url": "https://x.com/nvidia/status/2062228974273716457",
-      "source": "X：NVIDIA (@nvidia)",
-      "publishedAt": "2026-06-03T17:44:36.000Z",
-      "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
+      "id": "cmq01qi40023fsltru08k8zx9",
+      "title": "Gemini macOS 双击 Command 附加活动窗口",
+      "title_en": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Co…",
+      "url": "https://x.com/GeminiApp/status/2062652523945836770",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-06-04T21:47:38.000Z",
+      "summary": "使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻\n\n只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。",
+      "category": "ai-products",
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmq01c0eo01ycsltrs4arno27",
+      "title": "共存与协同智能的终结",
+      "title_en": "Co-Existence and the End of Co-Intelligence",
+      "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "publishedAt": "2026-06-04T21:13:42.000Z",
+      "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmpztzorc000vsltrtvxh4va3",
+      "title": "Codex 推出 iOS 应用构建插件",
+      "title_en": "More of the iOS app loop， now inside Codex. The Build iOS Apps plugin lets Codex view and test your…",
+      "url": "https://x.com/OpenAIDevs/status/2062599291479478275",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-04T18:16:06.000Z",
+      "summary": "更多 iOS 应用循环，现已集成至 Codex。\n\nBuild iOS Apps 插件让 Codex 可在应用内浏览器查看和测试你的 iOS 应用，打开 SwiftUI 预览，并无需离开 Codex 即可热重载编辑。",
       "category": "ai-products",
       "interestTags": [
         "app"
       ],
       "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmpzrtp0u06dxslkp7tqka277",
+      "title": "NotebookLM 推出福尔摩斯游戏笔记本",
+      "title_en": "PRO TIP： Gamify your notebooks Don't just read your notes- investigate them. Our new Sherlock Holme…",
+      "url": "https://x.com/NotebookLM/status/2062582348194197743",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-04T17:08:47.000Z",
+      "summary": "专业技巧：将笔记本游戏化\n\n不要只是阅读笔记--去调查它们。我们全新的福尔摩斯笔记本将学习变成一款互动侦探游戏。推理事实，发现线索，证明即使是最复杂的问题也能迎刃而解。\n\n➡️ https：//goo.gle/Sherlock",
+      "category": "ai-products",
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
       "formattedTime": "7小时前"
     },
     {
-      "id": "cmpyc4uab03qgslaxgjm4awp6",
-      "title": "Anthropic 用 Claude 赋能自助数据分析",
-      "title_en": "How Anthropic enables self-service data analytics with Claude",
-      "url": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-03T17:23:16.528Z",
-      "summary": "Anthropic 使用 Claude 自动化了 95% 的业务分析查询，整体准确率约 95%。其关键在于构建智能体分析栈（agentic analytics stack），通过数据基础层、维护验证流程和技能（skills）分别解决概念-实体歧义、数据过时和检索失败三大错误来源。相比编码场景，数据分析的难点在于将用户问题映射到正确的数据实体，而执行 SQL 反而是简单的。Anthropic 的数据科学团队因此得以专注于因果建模、预测和机器学习等战略工作。",
-      "category": "tip",
+      "id": "cmpzhk1rp03k5slkpmx3q7mp3",
+      "title": "EVA-Bench Data 2.0 发布：覆盖三大领域、121 个工具、213 个场景",
+      "title_en": "EVA-Bench Data 2.0： 3 Domains， 121 Tools， 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-04T12:24:58.000Z",
+      "summary": "EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客户服务管理（CSM）、企业 IT 服务管理（ITSM）和医疗 HR 服务交付（HRSD）三个领域，共涵盖 121 个工具、213 个场景，场景数较原始版本增长约 4 倍。每个场景均经 OpenAI GPT-5.4、Google Gemini 3.1 Pro 和 Anthropic Claude Opus 4.6 验证可解性。数据集遵循语音优先、真实性、多样性、认证流程和可复现性五项设计原则，包含单意图、多意图（最多 4 个意图）和对抗性呼叫类型。所有三个数据集已开源，可通过 `load_dataset` 从 Hugging Face 直接下载。后续将推出多语言扩展。",
+      "category": "paper",
       "interestTags": [
+        "creative",
         "app",
-        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmpyvxja303t6sli3dok90v7m",
+      "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
+      "title_en": "Radiance fields are only as good as the images behind them. PPISP helps compensate for photometric…",
+      "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
+      "source": "X：NVIDIA AI (@NVIDIAAI)",
+      "publishedAt": "2026-06-04T02:17:37.000Z",
+      "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
+      "category": "paper",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
     },
     {
       "id": "cmpy7c7v402flslaxwaf0jfr1",
@@ -269,7 +332,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpxp1npl061rslckexyk9lam",
@@ -284,7 +347,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmpx3fvdq009rslckxcfsidbc",
@@ -300,102 +363,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpx11l8102mmsl7940fhk41n",
-      "title": "OpenAI Codex 推出团队专属插件",
-      "title_en": "Role-specific plugins in Codex are built around the work teams actually do. Plugins for Data Analyt…",
-      "url": "https://x.com/OpenAIDevs/status/2061888366791246071",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-02T19:11:09.000Z",
-      "summary": "Codex 中的角色专属插件围绕团队实际工作构建。\n\n数据分析、创意制作和产品设计插件为 Codex 提供了创建报告、创意方向和原型的工具与上下文。\n\n由 OpenAI 团队构建并使用。",
-      "category": "ai-products",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpwuirwl00tisl79gfmq5mmf",
-      "title": "Gary Marcus：为什么事情终将崩塌",
-      "title_en": "Why things will eventually fall apart",
-      "url": "https://garymarcus.substack.com/p/why-things-will-eventually-fall-apart",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-02T15:41:57.000Z",
-      "summary": "知名人工智能批评者Gary Marcus在其关于可信赖AI的专栏中，探讨了人工智能发展面临的根本性挑战。文章开篇即指向问题的核心，指出相关数学理论的局限性与人类心理的复杂性，是导致AI系统最终可能出现问题的根源。",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpwrs3jx004wsl79yv419af3",
-      "title": "商汤开源SenseNova-Skills AI办公技能套件",
-      "title_en": "Power smarter AI agents with #SenseNova-Skills 🚀 An open-source AI o…",
-      "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "publishedAt": "2026-06-02T14:48:01.000Z",
-      "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术、技术、社交等多源搜索并生成报告）。该技能套件现已完全开源。",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpvvux6a0246sluks34rofcg",
-      "title": "Karpathy 分享学习方法论",
-      "title_en": "🎯 Andrej Karpathy on how to learn.",
-      "url": "https://x.com/rohanpaul_ai/status/2061601689841648120",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-02T00:12:00.000Z",
-      "summary": "🎯 Andrej Karpathy 谈如何学习。",
-      "category": "tip",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "cmpvs3efm015wslukv1os8v5x",
-      "title": "ChatGPT 新增长文编辑与保存功能",
-      "title_en": "Long-form writing works better with a little more space. Now you can edit longer pieces in full-sc…",
-      "url": "https://x.com/ChatGPTapp/status/2061571468992126982",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-06-01T22:11:55.000Z",
-      "summary": "长文写作需要更多空间。\n\n现在你可以在全屏模式下编辑更长的文章，并将其保存到你的资料库中，以便稍后继续。",
-      "category": "ai-products",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2248961138",
-      "title": "深圳具身公司星尘智能完成超10亿B轮融资，估值破百亿｜硬氪首发",
+      "id": "rss_484144851",
+      "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
       "title_en": null,
-      "url": "https://36kr.com/p/3836068296209537?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-03T00:00:00+00:00",
-      "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，绳驱AI机器人公司星尘智能（Astribot）近日完成B轮系列融资，三个月内三轮累计融资额超10亿元，投资方包括梁溪科创产业二期母基金（博华资本管理）、扬州龙投芯粒、中博聚力、中科创达、科德教育、某头部上市企业及国科投资等老股东持续追投。</p>\n  <p>目前星尘智能估值已突破百亿元，这也是深圳诞生的又一家具身智能百亿独角兽。此前，公司投资方阵容中已出现了腾讯、阿里、字节系机构的身影。</p>\n  <p>商业化方面，星尘智能还同步拿下了几个产业场景合作订单，包括与中科创达的千台级工业及商业服务订单并推",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 03 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
-        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "Wed, 03 Ju"
+    },
+    {
+      "id": "bili_BV12eDkBoEjM",
+      "title": "躺着办公这么爽？AI时代好东西分享1.0",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-06-05T00:14:15.246791+00:00",
+      "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
     }
   ]
 }
