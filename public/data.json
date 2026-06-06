@@ -1,56 +1,57 @@
 {
-  "generatedAt": "2026-06-05T00:14:15.254887+00:00",
-  "totalSource": 170,
-  "totalFiltered": 160,
-  "totalSelected": 12,
+  "generatedAt": "2026-06-06T00:11:55.779158+00:00",
+  "totalSource": 160,
+  "totalFiltered": 151,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmq01ld46020ksltri2vkr5uv",
-        "title": "NotebookLM 来源归属功能上线",
-        "title_en": "Today we're launching another highly requested feature： Source Attribution！ 🥳 No more guessing. No…",
-        "url": "https://x.com/NotebookLM/status/2062653124326863077",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "publishedAt": "2026-06-04T21:50:01.000Z",
-        "summary": "今天，我们推出又一项呼声很高的功能：来源归属！🥳\n\n无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点\"迭代\"，随心定制 💖",
-        "category": "ai-products",
+        "id": "cmq1hy4wt0fyrsltrxx64boz8",
+        "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
+        "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
+        "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-05T22:01:20.000Z",
+        "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
+        "category": "paper",
         "interestTags": [
           "app",
-          "writing"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2小时前"
       },
       {
-        "id": "cmq01qi40023fsltru08k8zx9",
-        "title": "Gemini macOS 双击 Command 附加活动窗口",
-        "title_en": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Co…",
-        "url": "https://x.com/GeminiApp/status/2062652523945836770",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-06-04T21:47:38.000Z",
-        "summary": "使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻\n\n只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。",
+        "id": "cmq1dossi0ev7sltrrihfn7pb",
+        "title": "谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架",
+        "title_en": "Unlocking dependable responses with Gemini Enterprise Agent Platform's Agentic RAG",
+        "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
+        "source": "Google Research：Blog（网页）",
+        "publishedAt": "2026-06-05T20:30:02.046Z",
+        "summary": "Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。",
         "category": "ai-products",
         "interestTags": [
           "app",
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmpztzorc000vsltrtvxh4va3",
-        "title": "Codex 推出 iOS 应用构建插件",
-        "title_en": "More of the iOS app loop， now inside Codex. The Build iOS Apps plugin lets Codex view and test your…",
-        "url": "https://x.com/OpenAIDevs/status/2062599291479478275",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-06-04T18:16:06.000Z",
-        "summary": "更多 iOS 应用循环，现已集成至 Codex。\n\nBuild iOS Apps 插件让 Codex 可在应用内浏览器查看和测试你的 iOS 应用，打开 SwiftUI 预览，并无需离开 Codex 即可热重载编辑。",
-        "category": "ai-products",
+        "id": "cmq1b8gvh0e7isltriul9fo2j",
+        "title": "Claude 是否增加了 rsync 中的错误？",
+        "title_en": "克劳德是否增加了 rsync 中的错误？",
+        "url": "https://alexispurslane.github.io/rsync-analysis",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-05T19:07:35.749Z",
+        "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
+        "category": "tip",
         "interestTags": [
           "app"
         ],
@@ -59,6 +60,37 @@
       }
     ],
     "writing": [
+      {
+        "id": "cmq1cb2df0ehlsltrb0nb702a",
+        "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
+        "title_en": null,
+        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-05T19:23:20.788Z",
+        "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmq16lagb0czbsltr4d2whlpo",
+        "title": "ChatGPT 网页版支持从写作块发送邮件",
+        "title_en": "Draft it. Tweak it. Send it. You can now send emails directly from writing blocks in ChatGPT on the…",
+        "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-06-05T17:06:52.000Z",
+        "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
+        "category": "ai-products",
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmq01c0eo01ycsltrs4arno27",
         "title": "共存与协同智能的终结",
@@ -72,89 +104,56 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
       {
-        "id": "cmpzrtp0u06dxslkp7tqka277",
-        "title": "NotebookLM 推出福尔摩斯游戏笔记本",
-        "title_en": "PRO TIP： Gamify your notebooks Don't just read your notes- investigate them. Our new Sherlock Holme…",
-        "url": "https://x.com/NotebookLM/status/2062582348194197743",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "publishedAt": "2026-06-04T17:08:47.000Z",
-        "summary": "专业技巧：将笔记本游戏化\n\n不要只是阅读笔记--去调查它们。我们全新的福尔摩斯笔记本将学习变成一款互动侦探游戏。推理事实，发现线索，证明即使是最复杂的问题也能迎刃而解。\n\n➡️ https：//goo.gle/Sherlock",
+        "id": "cmq15ifnr0comsltrb2vd53mu",
+        "title": "Gemini Live 支持实时创建编辑图像",
+        "title_en": "You can now create and edit images directly in Gemini Live. Whether testing out room decor， getting…",
+        "url": "https://x.com/GeminiApp/status/2062936486509785385",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-06-05T16:36:00.000Z",
+        "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
         "category": "ai-products",
         "interestTags": [
-          "writing",
-          "education"
+          "creative",
+          "app"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
       },
       {
-        "id": "cmpx3fvdq009rslckxcfsidbc",
-        "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
-        "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
-        "url": "https://x.com/nvidia/status/2061904438478970985",
-        "source": "X：NVIDIA (@nvidia)",
-        "publishedAt": "2026-06-02T20:15:01.000Z",
-        "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
+        "id": "cmq118d2f0bjmsltrjj0o010h",
+        "title": "Viggle_PINOC 免费动捕测试开启",
+        "title_en": "Mocap shouldn't require a suit， a studio， or thousands of dollars. With @Viggle_PINOC， anyone can s…",
+        "url": "https://x.com/ViggleAI/status/2062904007123714329",
+        "source": "X：Viggle AI (@ViggleAI)",
+        "publishedAt": "2026-06-05T14:26:56.000Z",
+        "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
         "category": "ai-products",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmpzhk1rp03k5slkpmx3q7mp3",
-        "title": "EVA-Bench Data 2.0 发布：覆盖三大领域、121 个工具、213 个场景",
-        "title_en": "EVA-Bench Data 2.0： 3 Domains， 121 Tools， 213 Scenarios",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-        "source": "Hugging Face：Blog（RSS）",
-        "publishedAt": "2026-06-04T12:24:58.000Z",
-        "summary": "EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客户服务管理（CSM）、企业 IT 服务管理（ITSM）和医疗 HR 服务交付（HRSD）三个领域，共涵盖 121 个工具、213 个场景，场景数较原始版本增长约 4 倍。每个场景均经 OpenAI GPT-5.4、Google Gemini 3.1 Pro 和 Anthropic Claude Opus 4.6 验证可解性。数据集遵循语音优先、真实性、多样性、认证流程和可复现性五项设计原则，包含单意图、多意图（最多 4 个意图）和对抗性呼叫类型。所有三个数据集已开源，可通过 `load_dataset` 从 Hugging Face 直接下载。后续将推出多语言扩展。",
-        "category": "paper",
-        "interestTags": [
-          "creative",
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "cmpyvxja303t6sli3dok90v7m",
-        "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
-        "title_en": "Radiance fields are only as good as the images behind them. PPISP helps compensate for photometric…",
-        "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
-        "source": "X：NVIDIA AI (@NVIDIAAI)",
-        "publishedAt": "2026-06-04T02:17:37.000Z",
-        "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
-        "category": "paper",
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "9小时前"
       },
       {
-        "id": "cmpy7c7v402flslaxwaf0jfr1",
-        "title": "Suno完成4亿美元D轮融资",
-        "title_en": "We're thrilled to announce Suno's next chapter： a $400M Series D at a $5.4B valuation！ 🚀 Our missio…",
-        "url": "https://x.com/suno/status/2062183524887675243",
-        "source": "X：Suno (@suno)",
-        "publishedAt": "2026-06-03T14:44:00.000Z",
-        "summary": "我们激动地宣布Suno的新篇章：4亿美元D轮融资，估值54亿美元！🚀\n我们的使命一直很简单：让更多人能体验制作音乐的乐趣。非常感谢我们不可思议的社区和投资者与我们共同建设。\n\n点击此处阅读Mikey的博客：https：//suno.com/blog/series-d-announcement",
+        "id": "cmq12gsy20buksltr2nwivyhu",
+        "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
+        "title_en": "古尔曼称苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta 版\"",
+        "url": "https://www.ithome.com/0/960/739.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-05T14:21:03.000Z",
+        "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
         "category": "industry",
         "interestTags": [
           "creative",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "9小时前"
       }
     ],
     "education": [
@@ -171,74 +170,153 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_484144851",
-        "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 03 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "id": "cmq10uxf80bfesltrngu1lo15",
+        "title": "你的AI账单失控了。Cloudflare现在可以解决这个问题。",
+        "title_en": "Your AI bill is out of control. Cloudflare can fix it now.",
+        "url": "https://blog.cloudflare.com/ai-gateway-spend-limits",
+        "source": "Cloudflare Blog",
+        "publishedAt": "2026-06-05T13:00:00.000Z",
+        "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
+        "category": "ai-products",
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "Wed, 03 Ju"
-      },
-      {
-        "id": "bili_BV12eDkBoEjM",
-        "title": "躺着办公这么爽？AI时代好东西分享1.0",
-        "title_en": null,
-        "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
-        "source": "B站：秋芝2046",
-        "publishedAt": "2026-06-05T00:14:15.246791+00:00",
-        "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "techScore": 1,
+        "formattedTime": "11小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmq01ld46020ksltri2vkr5uv",
-      "title": "NotebookLM 来源归属功能上线",
-      "title_en": "Today we're launching another highly requested feature： Source Attribution！ 🥳 No more guessing. No…",
-      "url": "https://x.com/NotebookLM/status/2062653124326863077",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-04T21:50:01.000Z",
-      "summary": "今天，我们推出又一项呼声很高的功能：来源归属！🥳\n\n无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点\"迭代\"，随心定制 💖",
-      "category": "ai-products",
+      "id": "cmq1hy4wt0fyrsltrxx64boz8",
+      "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
+      "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
+      "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-05T22:01:20.000Z",
+      "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
+      "category": "paper",
       "interestTags": [
         "app",
-        "writing"
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2小时前"
     },
     {
-      "id": "cmq01qi40023fsltru08k8zx9",
-      "title": "Gemini macOS 双击 Command 附加活动窗口",
-      "title_en": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Co…",
-      "url": "https://x.com/GeminiApp/status/2062652523945836770",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-06-04T21:47:38.000Z",
-      "summary": "使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻\n\n只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。",
+      "id": "cmq1dossi0ev7sltrrihfn7pb",
+      "title": "谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架",
+      "title_en": "Unlocking dependable responses with Gemini Enterprise Agent Platform's Agentic RAG",
+      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-06-05T20:30:02.046Z",
+      "summary": "Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。",
       "category": "ai-products",
       "interestTags": [
         "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmq1cb2df0ehlsltrb0nb702a",
+      "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
+      "title_en": null,
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-05T19:23:20.788Z",
+      "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
+      "category": "industry",
+      "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmq1b8gvh0e7isltriul9fo2j",
+      "title": "Claude 是否增加了 rsync 中的错误？",
+      "title_en": "克劳德是否增加了 rsync 中的错误？",
+      "url": "https://alexispurslane.github.io/rsync-analysis",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-05T19:07:35.749Z",
+      "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
+      "category": "tip",
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmq16lagb0czbsltr4d2whlpo",
+      "title": "ChatGPT 网页版支持从写作块发送邮件",
+      "title_en": "Draft it. Tweak it. Send it. You can now send emails directly from writing blocks in ChatGPT on the…",
+      "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "publishedAt": "2026-06-05T17:06:52.000Z",
+      "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
+      "category": "ai-products",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmq15ifnr0comsltrb2vd53mu",
+      "title": "Gemini Live 支持实时创建编辑图像",
+      "title_en": "You can now create and edit images directly in Gemini Live. Whether testing out room decor， getting…",
+      "url": "https://x.com/GeminiApp/status/2062936486509785385",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-06-05T16:36:00.000Z",
+      "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
+      "category": "ai-products",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmq118d2f0bjmsltrjj0o010h",
+      "title": "Viggle_PINOC 免费动捕测试开启",
+      "title_en": "Mocap shouldn't require a suit， a studio， or thousands of dollars. With @Viggle_PINOC， anyone can s…",
+      "url": "https://x.com/ViggleAI/status/2062904007123714329",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "publishedAt": "2026-06-05T14:26:56.000Z",
+      "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
+      "category": "ai-products",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmq12gsy20buksltr2nwivyhu",
+      "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
+      "title_en": "古尔曼称苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta 版\"",
+      "url": "https://www.ithome.com/0/960/739.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-05T14:21:03.000Z",
+      "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
     },
     {
       "id": "cmq01c0eo01ycsltrs4arno27",
@@ -250,85 +328,6 @@
       "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
       "category": "tip",
       "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmpztzorc000vsltrtvxh4va3",
-      "title": "Codex 推出 iOS 应用构建插件",
-      "title_en": "More of the iOS app loop， now inside Codex. The Build iOS Apps plugin lets Codex view and test your…",
-      "url": "https://x.com/OpenAIDevs/status/2062599291479478275",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-04T18:16:06.000Z",
-      "summary": "更多 iOS 应用循环，现已集成至 Codex。\n\nBuild iOS Apps 插件让 Codex 可在应用内浏览器查看和测试你的 iOS 应用，打开 SwiftUI 预览，并无需离开 Codex 即可热重载编辑。",
-      "category": "ai-products",
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmpzrtp0u06dxslkp7tqka277",
-      "title": "NotebookLM 推出福尔摩斯游戏笔记本",
-      "title_en": "PRO TIP： Gamify your notebooks Don't just read your notes- investigate them. Our new Sherlock Holme…",
-      "url": "https://x.com/NotebookLM/status/2062582348194197743",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-04T17:08:47.000Z",
-      "summary": "专业技巧：将笔记本游戏化\n\n不要只是阅读笔记--去调查它们。我们全新的福尔摩斯笔记本将学习变成一款互动侦探游戏。推理事实，发现线索，证明即使是最复杂的问题也能迎刃而解。\n\n➡️ https：//goo.gle/Sherlock",
-      "category": "ai-products",
-      "interestTags": [
-        "writing",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmpzhk1rp03k5slkpmx3q7mp3",
-      "title": "EVA-Bench Data 2.0 发布：覆盖三大领域、121 个工具、213 个场景",
-      "title_en": "EVA-Bench Data 2.0： 3 Domains， 121 Tools， 213 Scenarios",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-04T12:24:58.000Z",
-      "summary": "EVA-Bench Data 2.0 将评估范围从单一企业领域扩展至航空公司客户服务管理（CSM）、企业 IT 服务管理（ITSM）和医疗 HR 服务交付（HRSD）三个领域，共涵盖 121 个工具、213 个场景，场景数较原始版本增长约 4 倍。每个场景均经 OpenAI GPT-5.4、Google Gemini 3.1 Pro 和 Anthropic Claude Opus 4.6 验证可解性。数据集遵循语音优先、真实性、多样性、认证流程和可复现性五项设计原则，包含单意图、多意图（最多 4 个意图）和对抗性呼叫类型。所有三个数据集已开源，可通过 `load_dataset` 从 Hugging Face 直接下载。后续将推出多语言扩展。",
-      "category": "paper",
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmpyvxja303t6sli3dok90v7m",
-      "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
-      "title_en": "Radiance fields are only as good as the images behind them. PPISP helps compensate for photometric…",
-      "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
-      "source": "X：NVIDIA AI (@NVIDIAAI)",
-      "publishedAt": "2026-06-04T02:17:37.000Z",
-      "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
-      "category": "paper",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "21小时前"
-    },
-    {
-      "id": "cmpy7c7v402flslaxwaf0jfr1",
-      "title": "Suno完成4亿美元D轮融资",
-      "title_en": "We're thrilled to announce Suno's next chapter： a $400M Series D at a $5.4B valuation！ 🚀 Our missio…",
-      "url": "https://x.com/suno/status/2062183524887675243",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-06-03T14:44:00.000Z",
-      "summary": "我们激动地宣布Suno的新篇章：4亿美元D轮融资，估值54亿美元！🚀\n我们的使命一直很简单：让更多人能体验制作音乐的乐趣。非常感谢我们不可思议的社区和投资者与我们共同建设。\n\n点击此处阅读Mikey的博客：https：//suno.com/blog/series-d-announcement",
-      "category": "industry",
-      "interestTags": [
-        "creative",
         "writing"
       ],
       "techScore": -1,
@@ -347,53 +346,22 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmpx3fvdq009rslckxcfsidbc",
-      "title": "NVIDIA DGX Station 开始交付开发者和研究人员",
-      "title_en": "NVIDIA DGX Station systems are beginning to arrive at the desks of developers and researchers. 📦 E…",
-      "url": "https://x.com/nvidia/status/2061904438478970985",
-      "source": "X：NVIDIA (@nvidia)",
-      "publishedAt": "2026-06-02T20:15:01.000Z",
-      "summary": "NVIDIA DGX Station 系统正开始送达开发者和研究人员的办公桌。📦\n\n企业团队可以本地部署数据中心级性能，搭载 GB300 的系统正从华硕、戴尔、技嘉、惠普、微星和超微等合作伙伴处发货。\n\n👉 阅读博客：https：//nvda.ws/4x3VdBr",
-      "category": "ai-products",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "rss_484144851",
-      "title": "Codex新升级：彻底打通Windows生态！手机也能远程跑开发任务，效率拉满",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 03 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/RcDBAl3VhkNDQvPevPrd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "cmq10uxf80bfesltrngu1lo15",
+      "title": "你的AI账单失控了。Cloudflare现在可以解决这个问题。",
+      "title_en": "Your AI bill is out of control. Cloudflare can fix it now.",
+      "url": "https://blog.cloudflare.com/ai-gateway-spend-limits",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-06-05T13:00:00.000Z",
+      "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
+      "category": "ai-products",
       "interestTags": [
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Wed, 03 Ju"
-    },
-    {
-      "id": "bili_BV12eDkBoEjM",
-      "title": "躺着办公这么爽？AI时代好东西分享1.0",
-      "title_en": null,
-      "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
-      "source": "B站：秋芝2046",
-      "publishedAt": "2026-06-05T00:14:15.246791+00:00",
-      "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "techScore": 1,
+      "formattedTime": "11小时前"
     }
   ]
 }
