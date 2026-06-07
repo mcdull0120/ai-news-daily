@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-06T00:11:55.779158+00:00",
+  "generatedAt": "2026-06-07T00:09:00.208820+00:00",
   "totalSource": 160,
-  "totalFiltered": 151,
+  "totalFiltered": 154,
   "totalSelected": 11,
   "sources": {
     "aihot": 100,
@@ -11,6 +11,23 @@
   "grouped": {
     "app": [
       {
+        "id": "cmq2w7jzd01ojsl97krih83rb",
+        "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
+        "title_en": null,
+        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-06T21:47:39.887Z",
+        "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
         "id": "cmq1hy4wt0fyrsltrxx64boz8",
         "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
         "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
@@ -19,29 +36,15 @@
         "publishedAt": "2026-06-05T22:01:20.000Z",
         "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
         "category": "paper",
+        "score": 76,
+        "selected": true,
         "interestTags": [
           "app",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmq1dossi0ev7sltrrihfn7pb",
-        "title": "谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架",
-        "title_en": "Unlocking dependable responses with Gemini Enterprise Agent Platform's Agentic RAG",
-        "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
-        "source": "Google Research：Blog（网页）",
-        "publishedAt": "2026-06-05T20:30:02.046Z",
-        "summary": "Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。",
-        "category": "ai-products",
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq1b8gvh0e7isltriul9fo2j",
@@ -52,14 +55,33 @@
         "publishedAt": "2026-06-05T19:07:35.749Z",
         "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
         "category": "tip",
+        "score": 70,
+        "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
+      {
+        "id": "cmq2kpb9b01h1slbv07xan05v",
+        "title": "AI 的黑色星期五",
+        "title_en": "AI's Black Friday",
+        "url": "https://garymarcus.substack.com/p/ais-black-friday",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-06-06T16:24:04.000Z",
+        "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
+        "category": "tip",
+        "score": 69,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmq1cb2df0ehlsltrb0nb702a",
         "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
@@ -69,11 +91,13 @@
         "publishedAt": "2026-06-05T19:23:20.788Z",
         "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
         "category": "industry",
+        "score": 75,
+        "selected": true,
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq16lagb0czbsltr4d2whlpo",
@@ -84,24 +108,11 @@
         "publishedAt": "2026-06-05T17:06:52.000Z",
         "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
         "category": "ai-products",
+        "score": 68,
+        "selected": true,
         "interestTags": [
           "writing",
           "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmq01c0eo01ycsltrs4arno27",
-        "title": "共存与协同智能的终结",
-        "title_en": "Co-Existence and the End of Co-Intelligence",
-        "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-        "source": "Ethan Mollick：One Useful Thing（RSS）",
-        "publishedAt": "2026-06-04T21:13:42.000Z",
-        "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
-        "category": "tip",
-        "interestTags": [
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -117,12 +128,14 @@
         "publishedAt": "2026-06-05T16:36:00.000Z",
         "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
         "category": "ai-products",
+        "score": 81,
+        "selected": true,
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq118d2f0bjmsltrjj0o010h",
@@ -133,11 +146,13 @@
         "publishedAt": "2026-06-05T14:26:56.000Z",
         "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
         "category": "ai-products",
+        "score": 65,
+        "selected": true,
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq12gsy20buksltr2nwivyhu",
@@ -148,32 +163,32 @@
         "publishedAt": "2026-06-05T14:21:03.000Z",
         "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
         "category": "industry",
+        "score": 73,
+        "selected": true,
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmpxp1npl061rslckexyk9lam",
-        "title": "Karpathy 的 llm-wiki 项目获超五千星",
-        "title_en": "@karpathy 's llm-wiki hit 5，000+ stars in weeks. The idea： stop re-discovering knowledge every sess…",
-        "url": "https://x.com/SiliconFlowAI/status/2062054848762450324",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "publishedAt": "2026-06-03T06:12:41.000Z",
-        "summary": "@karpathy 的 llm-wiki 在几周内获得了 5，000+ 颗星。\n\n其理念是：停止在每个会话中重新发现知识。让一个大语言模型构建并维护一个维基，每次使用时它都会变得更智能。\n\n以下是如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本 🧵",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
+      {
+        "id": "rss_2649263457",
+        "title": "2026年第二批医保参照药预沟通论证顺利实施",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-06T00:00:00+00:00",
+        "summary": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmq10uxf80bfesltrngu1lo15",
         "title": "你的AI账单失控了。Cloudflare现在可以解决这个问题。",
@@ -183,15 +198,51 @@
         "publishedAt": "2026-06-05T13:00:00.000Z",
         "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
         "category": "ai-products",
+        "score": 71,
+        "selected": true,
         "interestTags": [
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmq2w7jzd01ojsl97krih83rb",
+      "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
+      "title_en": null,
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-06T21:47:39.887Z",
+      "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmq2kpb9b01h1slbv07xan05v",
+      "title": "AI 的黑色星期五",
+      "title_en": "AI's Black Friday",
+      "url": "https://garymarcus.substack.com/p/ais-black-friday",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-06-06T16:24:04.000Z",
+      "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
     {
       "id": "cmq1hy4wt0fyrsltrxx64boz8",
       "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
@@ -201,29 +252,15 @@
       "publishedAt": "2026-06-05T22:01:20.000Z",
       "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
       "category": "paper",
+      "score": 76,
+      "selected": true,
       "interestTags": [
         "app",
         "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmq1dossi0ev7sltrrihfn7pb",
-      "title": "谷歌推出基于 Gemini Enterprise Agent Platform 的 Agentic RAG 框架",
-      "title_en": "Unlocking dependable responses with Gemini Enterprise Agent Platform's Agentic RAG",
-      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-06-05T20:30:02.046Z",
-      "summary": "Google Research 与 Google Cloud 合作推出跨语料库检索（Cross-Corpus Retrieval）框架，作为 Gemini Enterprise Agent Platform 的 Agentic RAG。该多智能体工作流将复杂企业查询分解为子任务，通过规划、重写和路由，迭代搜索多个数据源直至获得充分上下文，再生成可靠回答。与标准 RAG 相比，在事实性数据集上准确率最高提升 34%；在多个领域特定内部数据集上也实现了更好的接地与推理准确性。",
-      "category": "ai-products",
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq1cb2df0ehlsltrb0nb702a",
@@ -234,11 +271,13 @@
       "publishedAt": "2026-06-05T19:23:20.788Z",
       "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
       "category": "industry",
+      "score": 75,
+      "selected": true,
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq1b8gvh0e7isltriul9fo2j",
@@ -249,11 +288,13 @@
       "publishedAt": "2026-06-05T19:07:35.749Z",
       "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
       "category": "tip",
+      "score": 70,
+      "selected": true,
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq16lagb0czbsltr4d2whlpo",
@@ -264,12 +305,14 @@
       "publishedAt": "2026-06-05T17:06:52.000Z",
       "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
       "category": "ai-products",
+      "score": 68,
+      "selected": true,
       "interestTags": [
         "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq15ifnr0comsltrb2vd53mu",
@@ -280,12 +323,14 @@
       "publishedAt": "2026-06-05T16:36:00.000Z",
       "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
       "category": "ai-products",
+      "score": 81,
+      "selected": true,
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq118d2f0bjmsltrjj0o010h",
@@ -296,11 +341,13 @@
       "publishedAt": "2026-06-05T14:26:56.000Z",
       "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
       "category": "ai-products",
+      "score": 65,
+      "selected": true,
       "interestTags": [
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq12gsy20buksltr2nwivyhu",
@@ -311,42 +358,29 @@
       "publishedAt": "2026-06-05T14:21:03.000Z",
       "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
       "category": "industry",
+      "score": 73,
+      "selected": true,
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "cmq01c0eo01ycsltrs4arno27",
-      "title": "共存与协同智能的终结",
-      "title_en": "Co-Existence and the End of Co-Intelligence",
-      "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "publishedAt": "2026-06-04T21:13:42.000Z",
-      "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmpxp1npl061rslckexyk9lam",
-      "title": "Karpathy 的 llm-wiki 项目获超五千星",
-      "title_en": "@karpathy 's llm-wiki hit 5，000+ stars in weeks. The idea： stop re-discovering knowledge every sess…",
-      "url": "https://x.com/SiliconFlowAI/status/2062054848762450324",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-06-03T06:12:41.000Z",
-      "summary": "@karpathy 的 llm-wiki 在几周内获得了 5，000+ 颗星。\n\n其理念是：停止在每个会话中重新发现知识。让一个大语言模型构建并维护一个维基，每次使用时它都会变得更智能。\n\n以下是如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本 🧵",
-      "category": "tip",
+      "id": "rss_2649263457",
+      "title": "2026年第二批医保参照药预沟通论证顺利实施",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-06T00:00:00+00:00",
+      "summary": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
+      "category": "industry",
       "interestTags": [
-        "education"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq10uxf80bfesltrngu1lo15",
@@ -357,11 +391,13 @@
       "publishedAt": "2026-06-05T13:00:00.000Z",
       "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
       "category": "ai-products",
+      "score": 71,
+      "selected": true,
       "interestTags": [
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
