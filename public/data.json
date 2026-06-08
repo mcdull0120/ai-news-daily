@@ -1,67 +1,172 @@
 {
-  "generatedAt": "2026-06-07T00:09:00.208820+00:00",
+  "generatedAt": "2026-06-08T00:13:47.307194+00:00",
   "totalSource": 160,
-  "totalFiltered": 154,
-  "totalSelected": 11,
+  "totalFiltered": 153,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cmq2w7jzd01ojsl97krih83rb",
-        "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
-        "title_en": null,
-        "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-06T21:47:39.887Z",
-        "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
+        "id": "cmq4gflji00qtslotgoi786jr",
+        "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
+        "title_en": "Nvidia， SK Hynix Sign Multi-Year Pact to Develop Next-Gen Chips",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
+        "source": "Bloomberg：Technology（RSS）",
+        "publishedAt": "2026-06-07T23:26:02.000Z",
+        "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
         "category": "industry",
+        "score": 71,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmq44c1hy00d9slz5itsduqad",
+        "title": "ChatGPT 要变 AgentGPT 了",
+        "title_en": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Cha…",
+        "url": "https://x.com/dotey/status/2063686036895478162",
+        "source": "X：宝玉 (@dotey)",
+        "publishedAt": "2026-06-07T18:14:27.000Z",
+        "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmq3p62px00llsla9chtyvf4z",
+        "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+        "title_en": "http：//x.com/i/article/2063531614047444992",
+        "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "publishedAt": "2026-06-07T10:48:06.000Z",
+        "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
+        "category": "tip",
         "score": 78,
         "selected": true,
         "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmq1hy4wt0fyrsltrxx64boz8",
-        "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
-        "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
-        "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-05T22:01:20.000Z",
-        "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
-        "category": "paper",
-        "score": 76,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "writing",
+          "creative",
+          "education",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "13小时前"
+      }
+    ],
+    "app": [
       {
-        "id": "cmq1b8gvh0e7isltriul9fo2j",
-        "title": "Claude 是否增加了 rsync 中的错误？",
-        "title_en": "克劳德是否增加了 rsync 中的错误？",
-        "url": "https://alexispurslane.github.io/rsync-analysis",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-05T19:07:35.749Z",
-        "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
-        "category": "tip",
-        "score": 70,
+        "id": "cmq4gfkuv00qoslot9jvo6ip8",
+        "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
+        "title_en": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+        "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
+        "source": "NVIDIA AI Blog",
+        "publishedAt": "2026-06-07T23:00:36.000Z",
+        "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。",
+        "category": "industry",
+        "score": 61,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmq404ny5005mslr29n96iugc",
+        "title": "OpenAI 仍推进超级应用计划",
+        "title_en": "OpenAI is still working on that 'super app'",
+        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-07T16:23:22.000Z",
+        "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
+        "category": "industry",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmq3thx1f01pjsla9rsrrlqom",
+        "title": "Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统",
+        "title_en": null,
+        "url": "https://symbolica.io/posts/symbolica_2_0_release",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-07T12:59:12.136Z",
+        "summary": "Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmq3uy43k022gsla9pazggsdm",
+        "title": "苹果秘密会议内幕：它终于认真对待AI",
+        "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+        "source": "Bloomberg：Technology（RSS）",
+        "publishedAt": "2026-06-07T14:00:01.000Z",
+        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "rss_1047771158",
+        "title": "韩国交易所召开紧急会议，应对市场波动并强化监控",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3843763008735751?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-08T00:00:00+00:00",
+        "summary": "韩国交易所6月8日召开紧急市场评估会议，评估当前市场波动态势并研讨稳定市场运行的应对措施，会议重点审视了美国股市大幅下跌及隔夜期货市场走势，讨论了相应的市场管理措施。韩国交易所表示将强化全机构应急响应机制，密切跟踪全球市场动态、中东局势演变及外汇市场走势，同时加大对不公平交易行为的监察力度，并扩大对非法卖空活动的检查范围。（财联社）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "rss_2263423888",
+        "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/06/431694.html",
+        "source": "量子位",
+        "publishedAt": "2026-06-07T12:13:16+00:00",
+        "summary": "人类历史最大规模的IPO招股开始了！",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 0,
+        "formattedTime": "12小时前"
       }
     ],
     "writing": [
@@ -80,7 +185,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq1cb2df0ehlsltrb0nb702a",
@@ -97,7 +202,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmq16lagb0czbsltr4d2whlpo",
@@ -115,116 +220,134 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmq15ifnr0comsltrb2vd53mu",
-        "title": "Gemini Live 支持实时创建编辑图像",
-        "title_en": "You can now create and edit images directly in Gemini Live. Whether testing out room decor， getting…",
-        "url": "https://x.com/GeminiApp/status/2062936486509785385",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-06-05T16:36:00.000Z",
-        "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
-        "category": "ai-products",
-        "score": 81,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmq118d2f0bjmsltrjj0o010h",
-        "title": "Viggle_PINOC 免费动捕测试开启",
-        "title_en": "Mocap shouldn't require a suit， a studio， or thousands of dollars. With @Viggle_PINOC， anyone can s…",
-        "url": "https://x.com/ViggleAI/status/2062904007123714329",
-        "source": "X：Viggle AI (@ViggleAI)",
-        "publishedAt": "2026-06-05T14:26:56.000Z",
-        "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmq12gsy20buksltr2nwivyhu",
-        "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
-        "title_en": "古尔曼称苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta 版\"",
-        "url": "https://www.ithome.com/0/960/739.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-05T14:21:03.000Z",
-        "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
-        "category": "industry",
-        "score": 73,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_2649263457",
-        "title": "2026年第二批医保参照药预沟通论证顺利实施",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-06T00:00:00+00:00",
-        "summary": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmq10uxf80bfesltrngu1lo15",
-        "title": "你的AI账单失控了。Cloudflare现在可以解决这个问题。",
-        "title_en": "Your AI bill is out of control. Cloudflare can fix it now.",
-        "url": "https://blog.cloudflare.com/ai-gateway-spend-limits",
-        "source": "Cloudflare Blog",
-        "publishedAt": "2026-06-05T13:00:00.000Z",
-        "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmq2w7jzd01ojsl97krih83rb",
-      "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
-      "title_en": null,
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-06T21:47:39.887Z",
-      "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
+      "id": "cmq4gflji00qtslotgoi786jr",
+      "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
+      "title_en": "Nvidia， SK Hynix Sign Multi-Year Pact to Develop Next-Gen Chips",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-07T23:26:02.000Z",
+      "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
       "category": "industry",
-      "score": 78,
+      "score": 71,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmq4gfkuv00qoslot9jvo6ip8",
+      "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
+      "title_en": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-06-07T23:00:36.000Z",
+      "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。",
+      "category": "industry",
+      "score": 61,
       "selected": true,
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmq44c1hy00d9slz5itsduqad",
+      "title": "ChatGPT 要变 AgentGPT 了",
+      "title_en": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Cha…",
+      "url": "https://x.com/dotey/status/2063686036895478162",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-06-07T18:14:27.000Z",
+      "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmq404ny5005mslr29n96iugc",
+      "title": "OpenAI 仍推进超级应用计划",
+      "title_en": "OpenAI is still working on that 'super app'",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-07T16:23:22.000Z",
+      "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmq3uy43k022gsla9pazggsdm",
+      "title": "苹果秘密会议内幕：它终于认真对待AI",
+      "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-07T14:00:01.000Z",
+      "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmq3thx1f01pjsla9rsrrlqom",
+      "title": "Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统",
+      "title_en": null,
+      "url": "https://symbolica.io/posts/symbolica_2_0_release",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-07T12:59:12.136Z",
+      "summary": "Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmq3p62px00llsla9chtyvf4z",
+      "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+      "title_en": "http：//x.com/i/article/2063531614047444992",
+      "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-07T10:48:06.000Z",
+      "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmq2kpb9b01h1slbv07xan05v",
@@ -239,25 +362,6 @@
       "selected": true,
       "interestTags": [
         "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmq1hy4wt0fyrsltrxx64boz8",
-      "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
-      "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
-      "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-05T22:01:20.000Z",
-      "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -277,24 +381,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmq1b8gvh0e7isltriul9fo2j",
-      "title": "Claude 是否增加了 rsync 中的错误？",
-      "title_en": "克劳德是否增加了 rsync 中的错误？",
-      "url": "https://alexispurslane.github.io/rsync-analysis",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-05T19:07:35.749Z",
-      "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmq16lagb0czbsltr4d2whlpo",
@@ -312,92 +399,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmq15ifnr0comsltrb2vd53mu",
-      "title": "Gemini Live 支持实时创建编辑图像",
-      "title_en": "You can now create and edit images directly in Gemini Live. Whether testing out room decor， getting…",
-      "url": "https://x.com/GeminiApp/status/2062936486509785385",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-06-05T16:36:00.000Z",
-      "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmq118d2f0bjmsltrjj0o010h",
-      "title": "Viggle_PINOC 免费动捕测试开启",
-      "title_en": "Mocap shouldn't require a suit， a studio， or thousands of dollars. With @Viggle_PINOC， anyone can s…",
-      "url": "https://x.com/ViggleAI/status/2062904007123714329",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-06-05T14:26:56.000Z",
-      "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmq12gsy20buksltr2nwivyhu",
-      "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
-      "title_en": "古尔曼称苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta 版\"",
-      "url": "https://www.ithome.com/0/960/739.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-05T14:21:03.000Z",
-      "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2649263457",
-      "title": "2026年第二批医保参照药预沟通论证顺利实施",
+      "id": "rss_1047771158",
+      "title": "韩国交易所召开紧急会议，应对市场波动并强化监控",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3841423767603465?f=rss",
+      "url": "https://36kr.com/newsflashes/3843763008735751?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-06-06T00:00:00+00:00",
-      "summary": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作已经开始，根据《参照药预沟通办法（试行）》，对前两批论证结果有异议且希望再次开展论证的药品，如果申报了2026年药品目录调整，参照药将在目录调整综合评审阶段按流程论证确定，并以评审确定的参照药为准。（证券时报）",
+      "publishedAt": "2026-06-08T00:00:00+00:00",
+      "summary": "韩国交易所6月8日召开紧急市场评估会议，评估当前市场波动态势并研讨稳定市场运行的应对措施，会议重点审视了美国股市大幅下跌及隔夜期货市场走势，讨论了相应的市场管理措施。韩国交易所表示将强化全机构应急响应机制，密切跟踪全球市场动态、中东局势演变及外汇市场走势，同时加大对不公平交易行为的监察力度，并扩大对非法卖空活动的检查范围。（财联社）",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmq10uxf80bfesltrngu1lo15",
-      "title": "你的AI账单失控了。Cloudflare现在可以解决这个问题。",
-      "title_en": "Your AI bill is out of control. Cloudflare can fix it now.",
-      "url": "https://blog.cloudflare.com/ai-gateway-spend-limits",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-06-05T13:00:00.000Z",
-      "summary": "Cloudflare AI Gateway新增实时消费限制功能，防止跨多个AI提供商的token账单失控。通过与Cloudflare Access集成，企业可以使用基于身份的预算和策略管理AI使用成本。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
+      "id": "rss_2263423888",
+      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/431694.html",
+      "source": "量子位",
+      "publishedAt": "2026-06-07T12:13:16+00:00",
+      "summary": "人类历史最大规模的IPO招股开始了！",
+      "category": "industry",
       "interestTags": [
         "productivity"
       ],
-      "techScore": 1,
-      "formattedTime": "昨天"
+      "techScore": 0,
+      "formattedTime": "12小时前"
     }
   ]
 }
