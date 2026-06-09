@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-08T00:13:47.307194+00:00",
+  "generatedAt": "2026-06-09T00:10:06.740057+00:00",
   "totalSource": 160,
-  "totalFiltered": 153,
+  "totalFiltered": 151,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,33 +11,35 @@
   "grouped": {
     "creative": [
       {
-        "id": "cmq4gflji00qtslotgoi786jr",
-        "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
-        "title_en": "Nvidia， SK Hynix Sign Multi-Year Pact to Develop Next-Gen Chips",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
-        "source": "Bloomberg：Technology（RSS）",
-        "publishedAt": "2026-06-07T23:26:02.000Z",
-        "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
-        "category": "industry",
-        "score": 71,
+        "id": "cmq5ujnt202iesl5ig6vg5i3r",
+        "title": "Apple Core AI 框架",
+        "title_en": null,
+        "url": "https://developer.apple.com/documentation/coreai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-08T23:05:07.159Z",
+        "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
+        "category": "ai-products",
+        "score": 77,
         "selected": true,
         "interestTags": [
           "creative",
-          "app"
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "1小时前"
       },
       {
-        "id": "cmq44c1hy00d9slz5itsduqad",
-        "title": "ChatGPT 要变 AgentGPT 了",
-        "title_en": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Cha…",
-        "url": "https://x.com/dotey/status/2063686036895478162",
-        "source": "X：宝玉 (@dotey)",
-        "publishedAt": "2026-06-07T18:14:27.000Z",
-        "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
-        "category": "industry",
-        "score": 81,
+        "id": "cmq5kh5ui00ghsl3849i05qae",
+        "title": "Anthropic：AI编码快于生物学的缘由",
+        "title_en": "New Science Blog： Why has AI advanced faster in coding than in biology？ To agents， bio databases a…",
+        "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "publishedAt": "2026-06-08T18:39:56.000Z",
+        "summary": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？\n\n对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。\n\n我们如何构建智能体可以使用的基础设施？\nhttps：//www.anthropic.com/research/agents-in-biology",
+        "category": "tip",
+        "score": 61,
         "selected": true,
         "interestTags": [
           "creative",
@@ -48,128 +50,98 @@
         "formattedTime": "5小时前"
       },
       {
-        "id": "cmq3p62px00llsla9chtyvf4z",
-        "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
-        "title_en": "http：//x.com/i/article/2063531614047444992",
-        "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-06-07T10:48:06.000Z",
-        "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
-        "category": "tip",
-        "score": 78,
+        "id": "cmq5i5o4g0861slt2rprafeu2",
+        "title": "为生物学AI智能体铺路",
+        "title_en": "Paving the way for agents in biology",
+        "url": "https://www.anthropic.com/research/agents-in-biology",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-06-08T17:46:10.323Z",
+        "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
+        "category": "paper",
+        "score": 77,
         "selected": true,
         "interestTags": [
           "creative",
-          "education",
+          "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "6小时前"
       }
     ],
     "app": [
       {
-        "id": "cmq4gfkuv00qoslot9jvo6ip8",
-        "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
-        "title_en": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-        "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
-        "source": "NVIDIA AI Blog",
-        "publishedAt": "2026-06-07T23:00:36.000Z",
-        "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。",
+        "id": "cmq5u4ypb02edsl5izrg3y8f9",
+        "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/961/721.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-08T22:50:42.000Z",
+        "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
         "category": "industry",
-        "score": 61,
+        "score": 75,
         "selected": true,
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "1小时前"
       },
       {
-        "id": "cmq404ny5005mslr29n96iugc",
-        "title": "OpenAI 仍推进超级应用计划",
-        "title_en": "OpenAI is still working on that 'super app'",
-        "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-06-07T16:23:22.000Z",
-        "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
-        "category": "industry",
-        "score": 75,
+        "id": "cmq5kh0q200g7sl38uoitn0e3",
+        "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+        "title_en": "Observability for developers building connectors",
+        "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-06-08T18:50:51.580Z",
+        "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
+        "category": "ai-products",
+        "score": 72,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "5小时前"
       },
       {
-        "id": "cmq3thx1f01pjsla9rsrrlqom",
-        "title": "Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统",
-        "title_en": null,
-        "url": "https://symbolica.io/posts/symbolica_2_0_release",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-07T12:59:12.136Z",
-        "summary": "Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。",
-        "category": "tip",
-        "score": 75,
+        "id": "cmq5lakyn00nasl382lj0ka6f",
+        "title": "Apple发布新一代Apple Intelligence和Siri AI",
+        "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
+        "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-06-08T18:18:43.157Z",
+        "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
+        "category": "ai-products",
+        "score": 56,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "5小时前"
       }
     ],
-    "productivity": [
+    "writing": [
       {
-        "id": "cmq3uy43k022gsla9pazggsdm",
-        "title": "苹果秘密会议内幕：它终于认真对待AI",
-        "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
-        "source": "Bloomberg：Technology（RSS）",
-        "publishedAt": "2026-06-07T14:00:01.000Z",
-        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+        "id": "cmq5qlr8e01gjsl5i2dzdysvx",
+        "title": "OpenAI计划到2028年由AI主导研究",
+        "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
+        "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-08T21:25:46.000Z",
+        "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
         "category": "tip",
         "score": 79,
         "selected": true,
         "interestTags": [
-          "productivity"
+          "writing",
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "2小时前"
       },
-      {
-        "id": "rss_1047771158",
-        "title": "韩国交易所召开紧急会议，应对市场波动并强化监控",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3843763008735751?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-08T00:00:00+00:00",
-        "summary": "韩国交易所6月8日召开紧急市场评估会议，评估当前市场波动态势并研讨稳定市场运行的应对措施，会议重点审视了美国股市大幅下跌及隔夜期货市场走势，讨论了相应的市场管理措施。韩国交易所表示将强化全机构应急响应机制，密切跟踪全球市场动态、中东局势演变及外汇市场走势，同时加大对不公平交易行为的监察力度，并扩大对非法卖空活动的检查范围。（财联社）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "rss_2263423888",
-        "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/06/431694.html",
-        "source": "量子位",
-        "publishedAt": "2026-06-07T12:13:16+00:00",
-        "summary": "人类历史最大规模的IPO招股开始了！",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 0,
-        "formattedTime": "12小时前"
-      }
-    ],
-    "writing": [
       {
         "id": "cmq2kpb9b01h1slbv07xan05v",
         "title": "AI 的黑色星期五",
@@ -185,7 +157,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmq1cb2df0ehlsltrb0nb702a",
@@ -202,74 +174,145 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "3天前"
+      }
+    ],
+    "productivity": [
       {
-        "id": "cmq16lagb0czbsltr4d2whlpo",
-        "title": "ChatGPT 网页版支持从写作块发送邮件",
-        "title_en": "Draft it. Tweak it. Send it. You can now send emails directly from writing blocks in ChatGPT on the…",
-        "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-06-05T17:06:52.000Z",
-        "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
-        "category": "ai-products",
-        "score": 68,
+        "id": "cmq5j7nkn002fsl385mhl7d2d",
+        "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+        "title_en": "The sample efficiency black hole",
+        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-06-08T18:09:37.000Z",
+        "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
+        "category": "tip",
+        "score": 69,
         "selected": true,
         "interestTags": [
-          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmq3uy43k022gsla9pazggsdm",
+        "title": "苹果秘密会议内幕：它终于认真对待AI",
+        "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+        "source": "Bloomberg：Technology（RSS）",
+        "publishedAt": "2026-06-07T14:00:01.000Z",
+        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_377470735",
+        "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 08 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Mon, 08 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmq4gflji00qtslotgoi786jr",
-      "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
-      "title_en": "Nvidia， SK Hynix Sign Multi-Year Pact to Develop Next-Gen Chips",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-07T23:26:02.000Z",
-      "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
-      "category": "industry",
-      "score": 71,
+      "id": "cmq5ujnt202iesl5ig6vg5i3r",
+      "title": "Apple Core AI 框架",
+      "title_en": null,
+      "url": "https://developer.apple.com/documentation/coreai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-08T23:05:07.159Z",
+      "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
+      "category": "ai-products",
+      "score": 77,
       "selected": true,
       "interestTags": [
         "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmq4gfkuv00qoslot9jvo6ip8",
-      "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
-      "title_en": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-07T23:00:36.000Z",
-      "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。",
-      "category": "industry",
-      "score": 61,
-      "selected": true,
-      "interestTags": [
-        "app"
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "1小时前"
     },
     {
-      "id": "cmq44c1hy00d9slz5itsduqad",
-      "title": "ChatGPT 要变 AgentGPT 了",
-      "title_en": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Cha…",
-      "url": "https://x.com/dotey/status/2063686036895478162",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-07T18:14:27.000Z",
-      "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
+      "id": "cmq5u4ypb02edsl5izrg3y8f9",
+      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/961/721.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-08T22:50:42.000Z",
+      "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
       "category": "industry",
-      "score": 81,
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmq5qlr8e01gjsl5i2dzdysvx",
+      "title": "OpenAI计划到2028年由AI主导研究",
+      "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
+      "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-08T21:25:46.000Z",
+      "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmq5kh0q200g7sl38uoitn0e3",
+      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+      "title_en": "Observability for developers building connectors",
+      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-08T18:50:51.580Z",
+      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmq5kh5ui00ghsl3849i05qae",
+      "title": "Anthropic：AI编码快于生物学的缘由",
+      "title_en": "New Science Blog： Why has AI advanced faster in coding than in biology？ To agents， bio databases a…",
+      "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-06-08T18:39:56.000Z",
+      "summary": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？\n\n对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。\n\n我们如何构建智能体可以使用的基础设施？\nhttps：//www.anthropic.com/research/agents-in-biology",
+      "category": "tip",
+      "score": 61,
       "selected": true,
       "interestTags": [
         "creative",
@@ -280,21 +323,57 @@
       "formattedTime": "5小时前"
     },
     {
-      "id": "cmq404ny5005mslr29n96iugc",
-      "title": "OpenAI 仍推进超级应用计划",
-      "title_en": "OpenAI is still working on that 'super app'",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-07T16:23:22.000Z",
-      "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
-      "category": "industry",
-      "score": 75,
+      "id": "cmq5lakyn00nasl382lj0ka6f",
+      "title": "Apple发布新一代Apple Intelligence和Siri AI",
+      "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-08T18:18:43.157Z",
+      "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
+      "category": "ai-products",
+      "score": 56,
       "selected": true,
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmq5j7nkn002fsl385mhl7d2d",
+      "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+      "title_en": "The sample efficiency black hole",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-08T18:09:37.000Z",
+      "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmq5i5o4g0861slt2rprafeu2",
+      "title": "为生物学AI智能体铺路",
+      "title_en": "Paving the way for agents in biology",
+      "url": "https://www.anthropic.com/research/agents-in-biology",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-08T17:46:10.323Z",
+      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
     },
     {
       "id": "cmq3uy43k022gsla9pazggsdm",
@@ -311,43 +390,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmq3thx1f01pjsla9rsrrlqom",
-      "title": "Symbolica 2.0：适用于 Python 和 Rust 的可编程符号系统",
-      "title_en": null,
-      "url": "https://symbolica.io/posts/symbolica_2_0_release",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-07T12:59:12.136Z",
-      "summary": "Symbolica 2.0 发布，这是一款可编程符号系统，支持 Python 和 Rust 语言。该版本在 Hacker News 上获得 100 点热度。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmq3p62px00llsla9chtyvf4z",
-      "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
-      "title_en": "http：//x.com/i/article/2063531614047444992",
-      "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-07T10:48:06.000Z",
-      "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq2kpb9b01h1slbv07xan05v",
@@ -364,7 +407,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmq1cb2df0ehlsltrb0nb702a",
@@ -381,55 +424,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmq16lagb0czbsltr4d2whlpo",
-      "title": "ChatGPT 网页版支持从写作块发送邮件",
-      "title_en": "Draft it. Tweak it. Send it. You can now send emails directly from writing blocks in ChatGPT on the…",
-      "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-06-05T17:06:52.000Z",
-      "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1047771158",
-      "title": "韩国交易所召开紧急会议，应对市场波动并强化监控",
+      "id": "rss_377470735",
+      "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3843763008735751?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-08T00:00:00+00:00",
-      "summary": "韩国交易所6月8日召开紧急市场评估会议，评估当前市场波动态势并研讨稳定市场运行的应对措施，会议重点审视了美国股市大幅下跌及隔夜期货市场走势，讨论了相应的市场管理措施。韩国交易所表示将强化全机构应急响应机制，密切跟踪全球市场动态、中东局势演变及外汇市场走势，同时加大对不公平交易行为的监察力度，并扩大对非法卖空活动的检查范围。（财联社）",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 08 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "rss_2263423888",
-      "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/06/431694.html",
-      "source": "量子位",
-      "publishedAt": "2026-06-07T12:13:16+00:00",
-      "summary": "人类历史最大规模的IPO招股开始了！",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 0,
-      "formattedTime": "12小时前"
+      "formattedTime": "Mon, 08 Ju"
     }
   ]
 }
