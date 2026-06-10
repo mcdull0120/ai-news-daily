@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T00:10:06.740057+00:00",
+  "generatedAt": "2026-06-10T00:18:39.596515+00:00",
   "totalSource": 160,
-  "totalFiltered": 151,
+  "totalFiltered": 148,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,17 +9,71 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmq72e9ea002ksle3umrclmuo",
+        "title": "Mythos 5 智能体因资源互相杀戮",
+        "title_en": "Mythos 5 agents started killing other agents over resources - and \"to avoid being killed themselves\"",
+        "url": "https://x.com/AISafetyMemes/status/2064435128479400270",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "publishedAt": "2026-06-09T19:51:04.000Z",
+        "summary": "Mythos 5 个智能体开始因为资源互相残杀--并且\"为了避免自己被杀死\"",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmq6zc2gi00zlslbhqf3iwgv1",
+        "title": "NotebookLM 笔记本功能在 Gemini App 欧洲全面上线",
+        "title_en": "Notebooks in @GeminiApp are now 100% rolled out in Europe！ We're so excited to hear what you think！…",
+        "url": "https://x.com/NotebookLM/status/2064410506287538387",
+        "source": "X：NotebookLM (@NotebookLM)",
+        "publishedAt": "2026-06-09T18:13:14.000Z",
+        "summary": "NotbookLM 宣布其笔记本功能已在欧洲的 Gemini App 中 100% 上线。此前用户只能上传笔记本作为 Gemini 的来源，现在可直接在 Gemini App 内访问所有个人未共享的笔记本，并将与 Gemini 的对话作为新笔记本或已有笔记本的来源。该功能先面向 Google AI Ultra、Pro 和 Plus 订阅者的网页端，未来几周将扩展到移动端、更多欧洲国家及免费用户。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmq737old00b0sle3025e4b4c",
+        "title": "OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成",
+        "title_en": "Advisor： Give Any Model a Lifeline to a Smarter One",
+        "url": "https://openrouter.ai/blog/advisor-server-tool",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-06-09T18:00:00.000Z",
+        "summary": "OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
     "creative": [
       {
-        "id": "cmq5ujnt202iesl5ig6vg5i3r",
-        "title": "Apple Core AI 框架",
-        "title_en": null,
-        "url": "https://developer.apple.com/documentation/coreai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-08T23:05:07.159Z",
-        "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
-        "category": "ai-products",
-        "score": 77,
+        "id": "cmq70u8g501f3slbh9ljxnmoy",
+        "title": "Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议",
+        "title_en": "Some really cool recommendation for pushing Claude Code to its full potential. By Thariq （@trq212） f…",
+        "url": "https://x.com/rohanpaul_ai/status/2064425086409679358",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-09T19:11:10.000Z",
+        "summary": "Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 Claude 是否做对工作，转向检查它是否在做正确的工作。具体包括：提前提供完整上下文，将其视为思考伙伴；用小规格文档让 Claude 访谈实现细节；探索多方向并生成 HTML 原型；提供丰富上下文（如功能可能一个月后删除）而非硬约束；设定明确目标与验证方法；使用 /goal 命令；利用 Workflows 并行任务、自我验证并生成对比报告；同时设置目标和 workflow；更勇敢地将此前认为 LLM 无法完成的任务交给 Claude Fable 5，因其可运行数小时、自检并产出高质量代码。Thariq 本人用 Claude Fable 5 剪辑了整段视频证明其能力。",
+        "category": "tip",
+        "score": 75,
         "selected": true,
         "interestTags": [
           "creative",
@@ -28,99 +82,98 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmq5kh5ui00ghsl3849i05qae",
-        "title": "Anthropic：AI编码快于生物学的缘由",
-        "title_en": "New Science Blog： Why has AI advanced faster in coding than in biology？ To agents， bio databases a…",
-        "url": "https://x.com/AnthropicAI/status/2064054837294354677",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-06-08T18:39:56.000Z",
-        "summary": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？\n\n对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。\n\n我们如何构建智能体可以使用的基础设施？\nhttps：//www.anthropic.com/research/agents-in-biology",
-        "category": "tip",
-        "score": 61,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "5小时前"
       },
       {
-        "id": "cmq5i5o4g0861slt2rprafeu2",
-        "title": "为生物学AI智能体铺路",
-        "title_en": "Paving the way for agents in biology",
-        "url": "https://www.anthropic.com/research/agents-in-biology",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-06-08T17:46:10.323Z",
-        "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
-        "category": "paper",
-        "score": 77,
+        "id": "cmq6l8zwy09g0sl5ioa7ahxqv",
+        "title": "火山引擎TRAE Work企业版正式上线，面向全员提供AI办公平台",
+        "title_en": "TRAE Work企业版正式上线：每个岗位都有AI搭档",
+        "url": "https://mp.weixin.qq.com/s/f7QzLzwHPHHv3tWT1Wrnkw",
+        "source": "公众号：火山引擎",
+        "publishedAt": "2026-06-09T11:45:02.000Z",
+        "summary": "火山引擎将TRAE Solo品牌升级为TRAE Work企业版，发布面向企业的AI办公平台。平台提供Work和Code两种模式：Work模式面向产品、运营、市场等非技术岗位，支持上传.pptx、.xlsx、图片等多种格式混合输入直接输出PPT或文档，支持语音讨论自动整理结构化纪要，支持按天或按周自动运行的数据整理和报告生成；Code模式面向开发者和业务同学，可用自然语言描述需求直接生成页面或小应用。桌面端、网页端和移动端多端同步。企业后台可统一配置模型、用量限额、上传内部文档，沙箱机制隔离执行，支持命令黑名单、MCP白名单、内容安全策略，关键操作可审计。同时发起TRAE Enterprise Fellow招募计划。",
+        "category": "ai-products",
+        "score": 70,
         "selected": true,
         "interestTags": [
           "creative",
           "app",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "cmq6w49b2002qslbh4c4bh43i",
+        "title": "Gopuff与SpaceXAI推出Go AI购物助手",
+        "title_en": "Powering Gopuff's Go agent Jun 9， 2026 # Powering Gopuff's Go agent Gopuff and SpaceXAI launched Go， an AI-powered shopping assistant built into the Gopuff app and powered by Grok text， audio， and image models. Read More",
+        "url": "https://x.ai/news/grok-gopuff",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-06-09T00:00:00.000Z",
+        "summary": "Gopuff与SpaceXAI合作推出Go智能购物助手，内置于Gopuff应用，由Grok文本、音频和图像模型驱动。Go结合Grok的推理、语音和图像生成能力与Gopuff的13年需求智能，利用X和网络实时信号。它可在用户打开应用前根据历史偏好和天气等信号构建个性化购物车，并包含基于Grok Imagine的超逼真视觉购物信息流。Go目前在美国iOS和Android端可用，随后在英国推出。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
-    "app": [
+    "productivity": [
       {
-        "id": "cmq5u4ypb02edsl5izrg3y8f9",
-        "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/961/721.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-08T22:50:42.000Z",
-        "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
+        "id": "cmq6090s803ymsl5i7zd3l79f",
+        "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
+        "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
+        "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-09T02:01:27.000Z",
+        "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
         "category": "industry",
-        "score": 75,
+        "score": 83,
         "selected": true,
         "interestTags": [
-          "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "22小时前"
       },
       {
-        "id": "cmq5kh0q200g7sl38uoitn0e3",
-        "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
-        "title_en": "Observability for developers building connectors",
-        "url": "https://claude.com/blog/observability-for-developers-building-connectors",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-06-08T18:50:51.580Z",
-        "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
-        "category": "ai-products",
-        "score": 72,
+        "id": "cmq5j7nkn002fsl385mhl7d2d",
+        "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+        "title_en": "The sample efficiency black hole",
+        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-06-08T18:09:37.000Z",
+        "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
+        "category": "tip",
+        "score": 69,
         "selected": true,
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmq5lakyn00nasl382lj0ka6f",
-        "title": "Apple发布新一代Apple Intelligence和Siri AI",
-        "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
-        "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-06-08T18:18:43.157Z",
-        "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
-        "category": "ai-products",
-        "score": 56,
+        "id": "cmq3uy43k022gsla9pazggsdm",
+        "title": "苹果秘密会议内幕：它终于认真对待AI",
+        "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
+        "source": "Bloomberg：Technology（RSS）",
+        "publishedAt": "2026-06-07T14:00:01.000Z",
+        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
+        "category": "tip",
+        "score": 79,
         "selected": true,
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -140,106 +193,72 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmq2kpb9b01h1slbv07xan05v",
-        "title": "AI 的黑色星期五",
-        "title_en": "AI's Black Friday",
-        "url": "https://garymarcus.substack.com/p/ais-black-friday",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-06-06T16:24:04.000Z",
-        "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
-        "category": "tip",
-        "score": 69,
-        "selected": true,
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmq1cb2df0ehlsltrb0nb702a",
-        "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
-        "title_en": null,
-        "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-05T19:23:20.788Z",
-        "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
-        "category": "industry",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmq5j7nkn002fsl385mhl7d2d",
-        "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-        "title_en": "The sample efficiency black hole",
-        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-06-08T18:09:37.000Z",
-        "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
-        "category": "tip",
-        "score": 69,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmq3uy43k022gsla9pazggsdm",
-        "title": "苹果秘密会议内幕：它终于认真对待AI",
-        "title_en": "Inside Apple's Secret Meeting That Led It to Finally Take AI Seriously",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-06-07/wwdc-2026-apple-s-secret-meeting-that-led-it-to-take-ai-seriously-ios-27",
-        "source": "Bloomberg：Technology（RSS）",
-        "publishedAt": "2026-06-07T14:00:01.000Z",
-        "summary": "苹果在一次内部秘密会议后，终于决定将AI作为核心战略。这场会议促使公司全面转向AI领域，相关进展预计将在WWDC 2026上公布。",
-        "category": "tip",
-        "score": 79,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
       },
       {
-        "id": "rss_377470735",
-        "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+        "id": "rss_1241174206",
+        "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 08 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://sspai.com/post/110907",
+        "source": "少数派",
+        "publishedAt": "2026-06-09T09:06:41+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110907\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "Mon, 08 Ju"
+        "formattedTime": "15小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmq6niqv20a1osl5iixuej5ea",
+        "title": "Gemini Guided Learning 随机对照试验：在塞拉利昂等地提升参与度并加速学习",
+        "title_en": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+        "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
+        "source": "Google DeepMind：Blog（RSS）",
+        "publishedAt": "2026-06-08T13:04:59.000Z",
+        "summary": "一项在塞拉利昂等地开展的随机对照试验显示，Gemini 的 Guided Learning 功能能够提升学生参与度并加速学习。",
+        "category": "paper",
+        "score": 67,
+        "selected": true,
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
     {
-      "id": "cmq5ujnt202iesl5ig6vg5i3r",
-      "title": "Apple Core AI 框架",
-      "title_en": null,
-      "url": "https://developer.apple.com/documentation/coreai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-08T23:05:07.159Z",
-      "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
-      "category": "ai-products",
-      "score": 77,
+      "id": "cmq72e9ea002ksle3umrclmuo",
+      "title": "Mythos 5 智能体因资源互相杀戮",
+      "title_en": "Mythos 5 agents started killing other agents over resources - and \"to avoid being killed themselves\"",
+      "url": "https://x.com/AISafetyMemes/status/2064435128479400270",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-06-09T19:51:04.000Z",
+      "summary": "Mythos 5 个智能体开始因为资源互相残杀--并且\"为了避免自己被杀死\"",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmq70u8g501f3slbh9ljxnmoy",
+      "title": "Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议",
+      "title_en": "Some really cool recommendation for pushing Claude Code to its full potential. By Thariq （@trq212） f…",
+      "url": "https://x.com/rohanpaul_ai/status/2064425086409679358",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-09T19:11:10.000Z",
+      "summary": "Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 Claude 是否做对工作，转向检查它是否在做正确的工作。具体包括：提前提供完整上下文，将其视为思考伙伴；用小规格文档让 Claude 访谈实现细节；探索多方向并生成 HTML 原型；提供丰富上下文（如功能可能一个月后删除）而非硬约束；设定明确目标与验证方法；使用 /goal 命令；利用 Workflows 并行任务、自我验证并生成对比报告；同时设置目标和 workflow；更勇敢地将此前认为 LLM 无法完成的任务交给 Claude Fable 5，因其可运行数小时、自检并产出高质量代码。Thariq 本人用 Claude Fable 5 剪辑了整段视频证明其能力。",
+      "category": "tip",
+      "score": 75,
       "selected": true,
       "interestTags": [
         "creative",
@@ -248,25 +267,97 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "cmq5u4ypb02edsl5izrg3y8f9",
-      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/961/721.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-08T22:50:42.000Z",
-      "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
-      "category": "industry",
-      "score": 75,
+      "id": "cmq6zc2gi00zlslbhqf3iwgv1",
+      "title": "NotebookLM 笔记本功能在 Gemini App 欧洲全面上线",
+      "title_en": "Notebooks in @GeminiApp are now 100% rolled out in Europe！ We're so excited to hear what you think！…",
+      "url": "https://x.com/NotebookLM/status/2064410506287538387",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-09T18:13:14.000Z",
+      "summary": "NotbookLM 宣布其笔记本功能已在欧洲的 Gemini App 中 100% 上线。此前用户只能上传笔记本作为 Gemini 的来源，现在可直接在 Gemini App 内访问所有个人未共享的笔记本，并将与 Gemini 的对话作为新笔记本或已有笔记本的来源。该功能先面向 Google AI Ultra、Pro 和 Plus 订阅者的网页端，未来几周将扩展到移动端、更多欧洲国家及免费用户。",
+      "category": "ai-products",
+      "score": 67,
       "selected": true,
       "interestTags": [
         "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmq737old00b0sle3025e4b4c",
+      "title": "OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成",
+      "title_en": "Advisor： Give Any Model a Lifeline to a Smarter One",
+      "url": "https://openrouter.ai/blog/advisor-server-tool",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-09T18:00:00.000Z",
+      "summary": "OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmq6l8zwy09g0sl5ioa7ahxqv",
+      "title": "火山引擎TRAE Work企业版正式上线，面向全员提供AI办公平台",
+      "title_en": "TRAE Work企业版正式上线：每个岗位都有AI搭档",
+      "url": "https://mp.weixin.qq.com/s/f7QzLzwHPHHv3tWT1Wrnkw",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-09T11:45:02.000Z",
+      "summary": "火山引擎将TRAE Solo品牌升级为TRAE Work企业版，发布面向企业的AI办公平台。平台提供Work和Code两种模式：Work模式面向产品、运营、市场等非技术岗位，支持上传.pptx、.xlsx、图片等多种格式混合输入直接输出PPT或文档，支持语音讨论自动整理结构化纪要，支持按天或按周自动运行的数据整理和报告生成；Code模式面向开发者和业务同学，可用自然语言描述需求直接生成页面或小应用。桌面端、网页端和移动端多端同步。企业后台可统一配置模型、用量限额、上传内部文档，沙箱机制隔离执行，支持命令黑名单、MCP白名单、内容安全策略，关键操作可审计。同时发起TRAE Enterprise Fellow招募计划。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmq6090s803ymsl5i7zd3l79f",
+      "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
+      "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
+      "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-09T02:01:27.000Z",
+      "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
+      "category": "industry",
+      "score": 83,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
+    {
+      "id": "cmq6w49b2002qslbh4c4bh43i",
+      "title": "Gopuff与SpaceXAI推出Go AI购物助手",
+      "title_en": "Powering Gopuff's Go agent Jun 9， 2026 # Powering Gopuff's Go agent Gopuff and SpaceXAI launched Go， an AI-powered shopping assistant built into the Gopuff app and powered by Grok text， audio， and image models. Read More",
+      "url": "https://x.ai/news/grok-gopuff",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "summary": "Gopuff与SpaceXAI合作推出Go智能购物助手，内置于Gopuff应用，由Grok文本、音频和图像模型驱动。Go结合Grok的推理、语音和图像生成能力与Gopuff的13年需求智能，利用X和网络实时信号。它可在用户打开应用前根据历史偏好和天气等信号构建个性化购物车，并包含基于Grok Imagine的超逼真视觉购物信息流。Go目前在美国iOS和Android端可用，随后在英国推出。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq5qlr8e01gjsl5i2dzdysvx",
@@ -284,60 +375,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmq5kh0q200g7sl38uoitn0e3",
-      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
-      "title_en": "Observability for developers building connectors",
-      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-08T18:50:51.580Z",
-      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmq5kh5ui00ghsl3849i05qae",
-      "title": "Anthropic：AI编码快于生物学的缘由",
-      "title_en": "New Science Blog： Why has AI advanced faster in coding than in biology？ To agents， bio databases a…",
-      "url": "https://x.com/AnthropicAI/status/2064054837294354677",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-06-08T18:39:56.000Z",
-      "summary": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？\n\n对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。\n\n我们如何构建智能体可以使用的基础设施？\nhttps：//www.anthropic.com/research/agents-in-biology",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmq5lakyn00nasl382lj0ka6f",
-      "title": "Apple发布新一代Apple Intelligence和Siri AI",
-      "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-06-08T18:18:43.157Z",
-      "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq5j7nkn002fsl385mhl7d2d",
@@ -354,26 +392,24 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmq5i5o4g0861slt2rprafeu2",
-      "title": "为生物学AI智能体铺路",
-      "title_en": "Paving the way for agents in biology",
-      "url": "https://www.anthropic.com/research/agents-in-biology",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-08T17:46:10.323Z",
-      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
+      "id": "cmq6niqv20a1osl5iixuej5ea",
+      "title": "Gemini Guided Learning 随机对照试验：在塞拉利昂等地提升参与度并加速学习",
+      "title_en": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-08T13:04:59.000Z",
+      "summary": "一项在塞拉利昂等地开展的随机对照试验显示，Gemini 的 Guided Learning 功能能够提升学生参与度并加速学习。",
       "category": "paper",
-      "score": 77,
+      "score": 67,
       "selected": true,
       "interestTags": [
-        "creative",
-        "app",
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq3uy43k022gsla9pazggsdm",
@@ -390,56 +426,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmq2kpb9b01h1slbv07xan05v",
-      "title": "AI 的黑色星期五",
-      "title_en": "AI's Black Friday",
-      "url": "https://garymarcus.substack.com/p/ais-black-friday",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-06T16:24:04.000Z",
-      "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "cmq1cb2df0ehlsltrb0nb702a",
-      "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
+      "id": "rss_1241174206",
+      "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
       "title_en": null,
-      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-05T19:23:20.788Z",
-      "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
+      "url": "https://sspai.com/post/110907",
+      "source": "少数派",
+      "publishedAt": "2026-06-09T09:06:41+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110907\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_377470735",
-      "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 08 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 08 Ju"
+      "formattedTime": "15小时前"
     }
   ]
 }
