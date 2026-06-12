@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-11T00:20:08.239182+00:00",
+  "generatedAt": "2026-06-12T00:21:33.162597+00:00",
   "totalSource": 160,
-  "totalFiltered": 148,
+  "totalFiltered": 151,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,48 +11,49 @@
   "grouped": {
     "app": [
       {
-        "id": "cmq8nblte041islldguc1eqww",
-        "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
-        "title_en": "Access OpenAI models and Codex through your Oracle cloud commitment",
-        "url": "https://openai.com/index/openai-on-oracle-cloud",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-10T20:00:00.000Z",
-        "summary": "OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。",
-        "category": "industry",
-        "score": 56,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmq8fw7e8023xslldgifbkkc2",
-        "title": "Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距",
-        "title_en": "AI is advancing at a pace our policymaking institutions were never built for-and the gap between the…",
-        "url": "https://x.com/AnthropicAI/status/2064783418844762489",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-06-10T18:55:03.000Z",
-        "summary": "Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。",
+        "id": "cmqa20ewf0hf8slldlq4bawrp",
+        "title": "Replit 专家级提示词技巧",
+        "title_en": "How to prompt like a pro with Replit 🤖 Vague prompts just mean more rewrites. Here's how to get Ag…",
+        "url": "https://x.com/Replit/status/2065192392718733327",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-06-11T22:00:10.000Z",
+        "summary": "如何像专家一样使用 Replit 进行提示 🤖\n\n模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。\n\n🧵 展开线程 ↓",
         "category": "tip",
-        "score": 81,
+        "score": 72,
         "selected": true,
         "interestTags": [
           "app",
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmq8bqdmc00xhslldd0wzblke",
-        "title": "Replit 联合 Socket 推出 Package Firewall",
-        "title_en": "Most people run a security scan for malicious packages before publishing a project But the risk sta…",
-        "url": "https://x.com/Replit/status/2064750235193417828",
+        "id": "cmqa20ewf0hf9slldu9bj1rhz",
+        "title": "Replit 与 Databricks 集成升级，公开预览开放",
+        "title_en": "Replit and @databricks integration just leveled up. Build apps where every user sees only what they…",
+        "url": "https://x.com/Replit/status/2065189762365813089",
         "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-06-10T16:43:11.000Z",
-        "summary": "大多数人在发布项目前会运行安全扫描以检测恶意包\n\n但风险从安装的那一刻就已开始\n\n今天，我们正式推出 Package Firewall，与 Socket 合作构建\n\n它在恶意软件到达你的应用之前就将其拦截",
+        "publishedAt": "2026-06-11T21:49:43.000Z",
+        "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmq9vker90fnyslldhowm7reb",
+        "title": "Replit Agent 新增自定义指令与技能功能",
+        "title_en": "AI agents are powerful， but they don't remember your preferences. So you end up repeating instructi…",
+        "url": "https://x.com/Replit/status/2065146579326271883",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-06-11T18:58:07.000Z",
+        "summary": "AI 智能体很强大，但它们不记得你的偏好。\n\n所以你总是重复指令--如何组织项目、你的品牌指南。\n\n现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。\n\n它会在每个项目中自动将这些考虑进去。",
         "category": "ai-products",
         "score": 65,
         "selected": true,
@@ -60,138 +61,102 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "5小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmq8f7imu01wnslld8czaif69",
-        "title": "Apache Burr：构建可靠的人工智能代理和应用程序",
-        "title_en": null,
-        "url": "https://burr.apache.org/",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-10T18:33:56.920Z",
-        "summary": "Apache Burr 是一个用于构建可靠 AI 智能体和应用程序的框架，已在 Apache 基金会下发布。该项目提供工具和抽象，帮助开发者设计、开发和部署可信任的智能体应用，强调可靠性、可观测性和生产级部署能力。",
+        "id": "cmq9mtk1y0dbpslldlq5ewsuc",
+        "title": "Krea 2 推出生成式滑块控制图像属性",
+        "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
+        "url": "https://x.com/krea_ai/status/2065086662166901114",
+        "source": "X：Krea AI (@krea_ai)",
+        "publishedAt": "2026-06-11T15:00:02.000Z",
+        "summary": "推出生成式滑块。\n现在您可以控制使用 Krea 2 生成的任何图像的强度、复杂度和运动。\n你希望看到哪些新控制？👇",
         "category": "ai-products",
         "score": 73,
         "selected": true,
         "interestTags": [
-          "creative",
-          "app"
+          "creative"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "9小时前"
       },
       {
-        "id": "cmq89y6t100f3slldthloap2e",
-        "title": "Google将保存用户的Lens图片、Search Live录音和Translate音频用于AI训练",
-        "title_en": "Google will save your Lens photos， Search Live recordings， and Translate audio for AI training",
-        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-06-10T16:18:45.000Z",
-        "summary": "Google更新搜索交互数据保存方式，新增\"Search Services History\"设置，用于保存用户搜索时使用的图片、文件、音频和视频，包括Google Lens搜索的图片、实时搜索工具Search Live的录音、语音搜索和Translate中的语音片段。这些数据将被用于\"提供、改进和开发AI模型\"。用户可关闭该设置并禁用\"Save Media\"选项以避免保存。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmq883zxf05f5slepn6djvgee",
-        "title": "毕业典礼频现\"谈 AI 色变\"，微软总裁史密斯呼吁行业必须回应公众担忧",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/962/680.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-10T15:22:02.000Z",
-        "summary": "近几周多场毕业典礼上，演讲者宣传AI技术时遭学生嘘声。普林斯顿应届毕业生曾否决一款疑似借助AI设计的毕业典礼夹克。微软总裁布拉德·史密斯回应称，行业必须严肃可信地回答问题。史密斯主张AI应增强人而非取代人，认为实用AI渗透经济的速度可能比行业乐观预期更慢。微软今年计划投入约1900亿美元资本支出，主要用于数据中心。微软AI负责人穆斯塔法·苏莱曼修正此前\"大多数白领工作18个月内自动化\"的说法，表示仅指AI执行单项任务的能力。上月微软CFO艾米·胡德在杜克大学演讲全程未提AI，未遭嘘声。",
-        "category": "tip",
-        "score": 73,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmq6090s803ymsl5i7zd3l79f",
-        "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
-        "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
-        "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-09T02:01:27.000Z",
-        "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
-        "category": "industry",
-        "score": 83,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmq5j7nkn002fsl385mhl7d2d",
-        "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-        "title_en": "The sample efficiency black hole",
-        "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-06-08T18:09:37.000Z",
-        "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
-        "category": "tip",
-        "score": 69,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2582870303",
-        "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
-        "title_en": null,
-        "url": "https://36kr.com/p/3847079661193733?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-10T00:00:00+00:00",
-        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3847048931936512\"><strong>瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长</strong></a></p>\n  <p>36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmq5qlr8e01gjsl5i2dzdysvx",
-        "title": "OpenAI计划到2028年由AI主导研究",
-        "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
-        "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-08T21:25:46.000Z",
-        "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
+        "id": "cmq9mg2690d8hslldbkfxzrz7",
+        "title": "Claude Fable 5 一句话生成桌面台球游戏",
+        "title_en": "Claude Fable 5 一句话生成的桌面台球！ 念念不忘的蝗虫群梗彻底终结。 提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
+        "url": "https://x.com/vista8/status/2065079656324407345",
+        "source": "X：Vista (@vista8)",
+        "publishedAt": "2026-06-11T14:32:12.000Z",
+        "summary": "Claude Fable 5 一句话生成的桌面台球！\n\n念念不忘的蝗虫群梗彻底终结。\n\n提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
         "category": "tip",
         "score": 79,
         "selected": true,
         "interestTags": [
-          "writing",
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cmq9ljue40czuslldeag7dg21",
+        "title": "Runway与Lionsgate扩大战略合作",
+        "title_en": "Runway and Lionsgate Expand Partnership",
+        "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-06-11T14:31:51.811Z",
+        "summary": "全球内容巨头Lionsgate与生成式AI研究公司Runway今日宣布扩大战略合作。Lionsgate已取得Runway股权，双方将启动联合开发项目，共同创作并制作新IP，首推一部基于Lionsgate现有IP和Runway生成模型的短剧系列。此外，Lionsgate将作为主持伙伴参与6月举行的Runway AI电影节。这是双方继2024年9月首次合作后的深化，Lionsgate此前已在预可视化、故事板及最终帧制作中应用Runway工具。",
+        "category": "industry",
+        "score": 72,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmq9ip4u40c8eslldarnso34b",
+        "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
+        "title_en": "Introducing Claude Corps",
+        "url": "https://www.anthropic.com/news/claude-corps",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-06-11T13:12:25.934Z",
+        "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
+        "category": "industry",
+        "score": 61,
+        "selected": true,
+        "interestTags": [
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "11小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "rss_1746974095",
+        "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/home-made-beverages-1",
+        "source": "少数派",
+        "publishedAt": "2026-06-11T09:31:55+00:00",
+        "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-1\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
       },
       {
-        "id": "rss_3461983405",
+        "id": "rss_2932263149",
         "title": "线下活动｜周日到广州来，给你一张过去的 CD",
         "title_en": null,
         "url": "https://sspai.com/post/110911",
@@ -203,87 +168,102 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
       {
-        "id": "rss_2901036424",
-        "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
+        "id": "rss_3320186044",
+        "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
         "title_en": null,
-        "url": "https://sspai.com/post/110907",
-        "source": "少数派",
-        "publishedAt": "2026-06-09T09:06:41+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110907\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "https://36kr.com/p/3847079661193733?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-10T00:00:00+00:00",
+        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3847048931936512\"><strong>瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长</strong></a></p>\n  <p>36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表",
+        "category": "industry",
         "interestTags": [
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_671943722",
+        "title": "“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3849440819844099?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-12T00:00:00+00:00",
+        "summary": "6月5日，国务院办公厅公布《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》（以下简称《指导意见》），其中明确提到，出台规范私募基金“对赌协议”的制度安排。虽然具体细则尚未公布，但也引发了一级市场的广泛关注和讨论。业内人士普遍认为，当前投资对赌协议有其存在的现实意义，但行业内也同时存在一些弊病和乱象。专门针对“对赌协议”的制度安排即将出炉，也是政策层面首次对这一投资细节的发声。释放出的信号是，投资对赌条款或将从“市场自��约定”的状态逐步纳入监管视野，未来相关协议的效力认定、履行边界和违约责任都将更加有理有据，有更清晰的指引。当“靠严苛条款保底”的路径被规范后，机构的竞争",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "rss_2759753524",
+        "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 11 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Thu, 11 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmq8nblte041islldguc1eqww",
-      "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
-      "title_en": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-10T20:00:00.000Z",
-      "summary": "OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。",
-      "category": "industry",
-      "score": 56,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmq8fw7e8023xslldgifbkkc2",
-      "title": "Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距",
-      "title_en": "AI is advancing at a pace our policymaking institutions were never built for-and the gap between the…",
-      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-06-10T18:55:03.000Z",
-      "summary": "Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。",
+      "id": "cmqa20ewf0hf8slldlq4bawrp",
+      "title": "Replit 专家级提示词技巧",
+      "title_en": "How to prompt like a pro with Replit 🤖 Vague prompts just mean more rewrites. Here's how to get Ag…",
+      "url": "https://x.com/Replit/status/2065192392718733327",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-11T22:00:10.000Z",
+      "summary": "如何像专家一样使用 Replit 进行提示 🤖\n\n模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。\n\n🧵 展开线程 ↓",
       "category": "tip",
-      "score": 81,
+      "score": 72,
       "selected": true,
       "interestTags": [
         "app",
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "cmq8f7imu01wnslld8czaif69",
-      "title": "Apache Burr：构建可靠的人工智能代理和应用程序",
-      "title_en": null,
-      "url": "https://burr.apache.org/",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-10T18:33:56.920Z",
-      "summary": "Apache Burr 是一个用于构建可靠 AI 智能体和应用程序的框架，已在 Apache 基金会下发布。该项目提供工具和抽象，帮助开发者设计、开发和部署可信任的智能体应用，强调可靠性、可观测性和生产级部署能力。",
+      "id": "cmqa20ewf0hf9slldu9bj1rhz",
+      "title": "Replit 与 Databricks 集成升级，公开预览开放",
+      "title_en": "Replit and @databricks integration just leveled up. Build apps where every user sees only what they…",
+      "url": "https://x.com/Replit/status/2065189762365813089",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-11T21:49:43.000Z",
+      "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
       "category": "ai-products",
-      "score": 73,
+      "score": 68,
       "selected": true,
       "interestTags": [
-        "creative",
-        "app"
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "cmq8bqdmc00xhslldd0wzblke",
-      "title": "Replit 联合 Socket 推出 Package Firewall",
-      "title_en": "Most people run a security scan for malicious packages before publishing a project But the risk sta…",
-      "url": "https://x.com/Replit/status/2064750235193417828",
+      "id": "cmq9vker90fnyslldhowm7reb",
+      "title": "Replit Agent 新增自定义指令与技能功能",
+      "title_en": "AI agents are powerful， but they don't remember your preferences. So you end up repeating instructi…",
+      "url": "https://x.com/Replit/status/2065146579326271883",
       "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-10T16:43:11.000Z",
-      "summary": "大多数人在发布项目前会运行安全扫描以检测恶意包\n\n但风险从安装的那一刻就已开始\n\n今天，我们正式推出 Package Firewall，与 Socket 合作构建\n\n它在恶意软件到达你的应用之前就将其拦截",
+      "publishedAt": "2026-06-11T18:58:07.000Z",
+      "summary": "AI 智能体很强大，但它们不记得你的偏好。\n\n所以你总是重复指令--如何组织项目、你的品牌指南。\n\n现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。\n\n它会在每个项目中自动将这些考虑进去。",
       "category": "ai-products",
       "score": 65,
       "selected": true,
@@ -291,99 +271,96 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "cmq89y6t100f3slldthloap2e",
-      "title": "Google将保存用户的Lens图片、Search Live录音和Translate音频用于AI训练",
-      "title_en": "Google will save your Lens photos， Search Live recordings， and Translate audio for AI training",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-10T16:18:45.000Z",
-      "summary": "Google更新搜索交互数据保存方式，新增\"Search Services History\"设置，用于保存用户搜索时使用的图片、文件、音频和视频，包括Google Lens搜索的图片、实时搜索工具Search Live的录音、语音搜索和Translate中的语音片段。这些数据将被用于\"提供、改进和开发AI模型\"。用户可关闭该设置并禁用\"Save Media\"选项以避免保存。",
+      "id": "cmq9mtk1y0dbpslldlq5ewsuc",
+      "title": "Krea 2 推出生成式滑块控制图像属性",
+      "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
+      "url": "https://x.com/krea_ai/status/2065086662166901114",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-06-11T15:00:02.000Z",
+      "summary": "推出生成式滑块。\n现在您可以控制使用 Krea 2 生成的任何图像的强度、复杂度和运动。\n你希望看到哪些新控制？👇",
       "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmq883zxf05f5slepn6djvgee",
-      "title": "毕业典礼频现\"谈 AI 色变\"，微软总裁史密斯呼吁行业必须回应公众担忧",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/962/680.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-10T15:22:02.000Z",
-      "summary": "近几周多场毕业典礼上，演讲者宣传AI技术时遭学生嘘声。普林斯顿应届毕业生曾否决一款疑似借助AI设计的毕业典礼夹克。微软总裁布拉德·史密斯回应称，行业必须严肃可信地回答问题。史密斯主张AI应增强人而非取代人，认为实用AI渗透经济的速度可能比行业乐观预期更慢。微软今年计划投入约1900亿美元资本支出，主要用于数据中心。微软AI负责人穆斯塔法·苏莱曼修正此前\"大多数白领工作18个月内自动化\"的说法，表示仅指AI执行单项任务的能力。上月微软CFO艾米·胡德在杜克大学演讲全程未提AI，未遭嘘声。",
-      "category": "tip",
       "score": 73,
       "selected": true,
       "interestTags": [
-        "creative",
-        "education",
-        "productivity"
+        "creative"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "9小时前"
     },
     {
-      "id": "cmq6090s803ymsl5i7zd3l79f",
-      "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
-      "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
-      "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-09T02:01:27.000Z",
-      "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmq5qlr8e01gjsl5i2dzdysvx",
-      "title": "OpenAI计划到2028年由AI主导研究",
-      "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
-      "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-08T21:25:46.000Z",
-      "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
+      "id": "cmq9mg2690d8hslldbkfxzrz7",
+      "title": "Claude Fable 5 一句话生成桌面台球游戏",
+      "title_en": "Claude Fable 5 一句话生成的桌面台球！ 念念不忘的蝗虫群梗彻底终结。 提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
+      "url": "https://x.com/vista8/status/2065079656324407345",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-06-11T14:32:12.000Z",
+      "summary": "Claude Fable 5 一句话生成的桌面台球！\n\n念念不忘的蝗虫群梗彻底终结。\n\n提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
       "category": "tip",
       "score": 79,
       "selected": true,
       "interestTags": [
-        "writing",
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmq9ljue40czuslldeag7dg21",
+      "title": "Runway与Lionsgate扩大战略合作",
+      "title_en": "Runway and Lionsgate Expand Partnership",
+      "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-11T14:31:51.811Z",
+      "summary": "全球内容巨头Lionsgate与生成式AI研究公司Runway今日宣布扩大战略合作。Lionsgate已取得Runway股权，双方将启动联合开发项目，共同创作并制作新IP，首推一部基于Lionsgate现有IP和Runway生成模型的短剧系列。此外，Lionsgate将作为主持伙伴参与6月举行的Runway AI电影节。这是双方继2024年9月首次合作后的深化，Lionsgate此前已在预可视化、故事板及最终帧制作中应用Runway工具。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmq9ip4u40c8eslldarnso34b",
+      "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
+      "title_en": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-11T13:12:25.934Z",
+      "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
+      "category": "industry",
+      "score": 61,
+      "selected": true,
+      "interestTags": [
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "11小时前"
     },
     {
-      "id": "cmq5j7nkn002fsl385mhl7d2d",
-      "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-      "title_en": "The sample efficiency black hole",
-      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-06-08T18:09:37.000Z",
-      "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
+      "id": "rss_1746974095",
+      "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
+      "title_en": null,
+      "url": "https://sspai.com/prime/story/home-made-beverages-1",
+      "source": "少数派",
+      "publishedAt": "2026-06-11T09:31:55+00:00",
+      "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-1\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
       "category": "tip",
-      "score": 69,
-      "selected": true,
       "interestTags": [
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "rss_3461983405",
+      "id": "rss_2932263149",
       "title": "线下活动｜周日到广州来，给你一张过去的 CD",
       "title_en": null,
       "url": "https://sspai.com/post/110911",
@@ -395,25 +372,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
-    },
-    {
-      "id": "rss_2901036424",
-      "title": "社区速递 144 | 听 AI 开「营养处方」、无感耳夹耳机与磁吸支架",
-      "title_en": null,
-      "url": "https://sspai.com/post/110907",
-      "source": "少数派",
-      "publishedAt": "2026-06-09T09:06:41+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/110907\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_2582870303",
+      "id": "rss_3320186044",
       "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
       "title_en": null,
       "url": "https://36kr.com/p/3847079661193733?f=rss",
@@ -425,7 +387,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_671943722",
+      "title": "“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3849440819844099?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-12T00:00:00+00:00",
+      "summary": "6月5日，国务院办公厅公布《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》（以下简称《指导意见》），其中明确提到，出台规范私募基金“对赌协议”的制度安排。虽然具体细则尚未公布，但也引发了一级市场的广泛关注和讨论。业内人士普遍认为，当前投资对赌协议有其存在的现实意义，但行业内也同时存在一些弊病和乱象。专门针对“对赌协议”的制度安排即将出炉，也是政策层面首次对这一投资细节的发声。释放出的信号是，投资对赌条款或将从“市场自��约定”的状态逐步纳入监管视野，未来相关协议的效力认定、履行边界和违约责任都将更加有理有据，有更清晰的指引。当“靠严苛条款保底”的路径被规范后，机构的竞争",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "rss_2759753524",
+      "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 11 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Thu, 11 Ju"
     }
   ]
 }
