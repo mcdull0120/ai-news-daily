@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T00:21:33.162597+00:00",
+  "generatedAt": "2026-06-13T00:22:07.969313+00:00",
   "totalSource": 160,
   "totalFiltered": 151,
   "totalSelected": 12,
@@ -11,60 +11,82 @@
   "grouped": {
     "app": [
       {
-        "id": "cmqa20ewf0hf8slldlq4bawrp",
-        "title": "Replit 专家级提示词技巧",
-        "title_en": "How to prompt like a pro with Replit 🤖 Vague prompts just mean more rewrites. Here's how to get Ag…",
-        "url": "https://x.com/Replit/status/2065192392718733327",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-06-11T22:00:10.000Z",
-        "summary": "如何像专家一样使用 Replit 进行提示 🤖\n\n模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。\n\n🧵 展开线程 ↓",
+        "id": "cmqb39p8x00o2sl9z85e1r79i",
+        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+        "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
+        "url": "https://www.ithome.com/0/963/725.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-12T15:33:19.000Z",
+        "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
+        "category": "ai-products",
+        "score": 74,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmqb6brwi0008sl5v981gsd10",
+        "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
+        "title_en": "New OpenAI Academy courses for the next era of work",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-06-12T10:00:00.000Z",
+        "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
         "category": "tip",
-        "score": 72,
+        "score": 67,
         "selected": true,
         "interestTags": [
           "app",
-          "writing"
+          "education",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "14小时前"
       },
       {
-        "id": "cmqa20ewf0hf9slldu9bj1rhz",
-        "title": "Replit 与 Databricks 集成升级，公开预览开放",
-        "title_en": "Replit and @databricks integration just leveled up. Build apps where every user sees only what they…",
-        "url": "https://x.com/Replit/status/2065189762365813089",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-06-11T21:49:43.000Z",
-        "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
-        "category": "ai-products",
-        "score": 68,
+        "id": "cmqae79010kohslldooq3h2gk",
+        "title": "小互开源公众号自动排版技能组合",
+        "title_en": "升级了下公众号排版技能 晚一点发布，还需要优化下 增加了一些主题和优化了预览和浏览页面的阅读体验",
+        "url": "https://x.com/xiaohu/status/2065278092441268246",
+        "source": "X：小互 (@xiaohu)",
+        "publishedAt": "2026-06-12T03:40:42.000Z",
+        "summary": "小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。",
+        "category": "tip",
+        "score": 75,
         "selected": true,
         "interestTags": [
           "app",
-          "writing"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmq9vker90fnyslldhowm7reb",
-        "title": "Replit Agent 新增自定义指令与技能功能",
-        "title_en": "AI agents are powerful， but they don't remember your preferences. So you end up repeating instructi…",
-        "url": "https://x.com/Replit/status/2065146579326271883",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-06-11T18:58:07.000Z",
-        "summary": "AI 智能体很强大，但它们不记得你的偏好。\n\n所以你总是重复指令--如何组织项目、你的品牌指南。\n\n现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。\n\n它会在每个项目中自动将这些考虑进去。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "20小时前"
       }
     ],
     "creative": [
+      {
+        "id": "cmqabcv2q0jvmslldd7my04uo",
+        "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+        "title_en": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
+        "url": "https://www.ithome.com/0/963/302.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-12T02:06:41.000Z",
+        "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
       {
         "id": "cmq9mtk1y0dbpslldlq5ewsuc",
         "title": "Krea 2 推出生成式滑块控制图像属性",
@@ -80,7 +102,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmq9mg2690d8hslldbkfxzrz7",
@@ -98,26 +120,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "cmq9ljue40czuslldeag7dg21",
-        "title": "Runway与Lionsgate扩大战略合作",
-        "title_en": "Runway and Lionsgate Expand Partnership",
-        "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-06-11T14:31:51.811Z",
-        "summary": "全球内容巨头Lionsgate与生成式AI研究公司Runway今日宣布扩大战略合作。Lionsgate已取得Runway股权，双方将启动联合开发项目，共同创作并制作新IP，首推一部基于Lionsgate现有IP和Runway生成模型的短剧系列。此外，Lionsgate将作为主持伙伴参与6月举行的Runway AI电影节。这是双方继2024年9月首次合作后的深化，Lionsgate此前已在预可视化、故事板及最终帧制作中应用Runway工具。",
-        "category": "industry",
-        "score": 72,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -136,12 +139,28 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "rss_1746974095",
+        "id": "rss_555099975",
+        "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
+        "title_en": null,
+        "url": "https://sspai.com/post/110329",
+        "source": "少数派",
+        "publishedAt": "2026-06-12T07:00:00+00:00",
+        "summary": "你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。<a href=\"https://sspai.com/post/110329\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "rss_83408452",
         "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
         "title_en": null,
         "url": "https://sspai.com/prime/story/home-made-beverages-1",
@@ -153,125 +172,132 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2932263149",
-        "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+        "id": "rss_820760561",
+        "title": "神了，世界杯第一天真按千问剧本踢了",
         "title_en": null,
-        "url": "https://sspai.com/post/110911",
-        "source": "少数派",
-        "publishedAt": "2026-06-10T09:30:00+00:00",
-        "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...<a href=\"https://sspai.com/post/110911\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/06/435321.html",
+        "source": "量子位",
+        "publishedAt": "2026-06-12T16:45:23+00:00",
+        "summary": "比分、红牌、绝杀全押中",
+        "category": "industry",
         "interestTags": [
           "writing"
         ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "techScore": 0,
+        "formattedTime": "7小时前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_3320186044",
-        "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+        "id": "rss_1689230587",
+        "title": "*ST国华：收到股票终止上市决定，6月23日复牌并进入退市整理期",
         "title_en": null,
-        "url": "https://36kr.com/p/3847079661193733?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-10T00:00:00+00:00",
-        "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3847048931936512\"><strong>瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长</strong></a></p>\n  <p>36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_671943722",
-        "title": "“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3849440819844099?f=rss",
+        "url": "https://36kr.com/newsflashes/3850170708939779?f=rss",
         "source": "36氪",
         "publishedAt": "2026-06-12T00:00:00+00:00",
-        "summary": "6月5日，国务院办公厅公布《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》（以下简称《指导意见》），其中明确提到，出台规范私募基金“对赌协议”的制度安排。虽然具体细则尚未公布，但也引发了一级市场的广泛关注和讨论。业内人士普遍认为，当前投资对赌协议有其存在的现实意义，但行业内也同时存在一些弊病和乱象。专门针对“对赌协议”的制度安排即将出炉，也是政策层面首次对这一投资细节的发声。释放出的信号是，投资对赌条款或将从“市场自��约定”的状态逐步纳入监管视野，未来相关协议的效力认定、履行边界和违约责任都将更加有理有据，有更清晰的指引。当“靠严苛条款保底”的路径被规范后，机构的竞争",
+        "summary": "36氪获悉，*ST国华公告，公司收到深交所股票终止上市决定，因公司2025年度经审计的扣非后净利润为-1622.39万元，扣除后营收为1.64亿元，且财务报告被出具保留意见及否定意见的内部控制审计报告，触及终止上市情形。公司股票将于2026年6月23日复牌并进入退市整理期，预计最后交易日为7月13日。",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2759753524",
-        "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
+        "id": "rss_2244763218",
+        "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+        "url": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
         "source": "InfoQ中文",
-        "publishedAt": "Thu, 11 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "publishedAt": "Fri, 12 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Thu, 11 Ju"
+        "formattedTime": "Fri, 12 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqa20ewf0hf8slldlq4bawrp",
-      "title": "Replit 专家级提示词技巧",
-      "title_en": "How to prompt like a pro with Replit 🤖 Vague prompts just mean more rewrites. Here's how to get Ag…",
-      "url": "https://x.com/Replit/status/2065192392718733327",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-11T22:00:10.000Z",
-      "summary": "如何像专家一样使用 Replit 进行提示 🤖\n\n模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。\n\n🧵 展开线程 ↓",
+      "id": "cmqb39p8x00o2sl9z85e1r79i",
+      "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+      "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
+      "url": "https://www.ithome.com/0/963/725.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-12T15:33:19.000Z",
+      "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmqb6brwi0008sl5v981gsd10",
+      "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
+      "title_en": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
       "category": "tip",
-      "score": 72,
+      "score": 67,
       "selected": true,
       "interestTags": [
         "app",
-        "writing"
+        "education",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "cmqa20ewf0hf9slldu9bj1rhz",
-      "title": "Replit 与 Databricks 集成升级，公开预览开放",
-      "title_en": "Replit and @databricks integration just leveled up. Build apps where every user sees only what they…",
-      "url": "https://x.com/Replit/status/2065189762365813089",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-11T21:49:43.000Z",
-      "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
-      "category": "ai-products",
-      "score": 68,
+      "id": "cmqae79010kohslldooq3h2gk",
+      "title": "小互开源公众号自动排版技能组合",
+      "title_en": "升级了下公众号排版技能 晚一点发布，还需要优化下 增加了一些主题和优化了预览和浏览页面的阅读体验",
+      "url": "https://x.com/xiaohu/status/2065278092441268246",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-06-12T03:40:42.000Z",
+      "summary": "小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。",
+      "category": "tip",
+      "score": 75,
       "selected": true,
       "interestTags": [
         "app",
-        "writing"
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "20小时前"
     },
     {
-      "id": "cmq9vker90fnyslldhowm7reb",
-      "title": "Replit Agent 新增自定义指令与技能功能",
-      "title_en": "AI agents are powerful， but they don't remember your preferences. So you end up repeating instructi…",
-      "url": "https://x.com/Replit/status/2065146579326271883",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-11T18:58:07.000Z",
-      "summary": "AI 智能体很强大，但它们不记得你的偏好。\n\n所以你总是重复指令--如何组织项目、你的品牌指南。\n\n现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。\n\n它会在每个项目中自动将这些考虑进去。",
+      "id": "cmqabcv2q0jvmslldd7my04uo",
+      "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+      "title_en": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
+      "url": "https://www.ithome.com/0/963/302.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-12T02:06:41.000Z",
+      "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
       "category": "ai-products",
-      "score": 65,
+      "score": 75,
       "selected": true,
       "interestTags": [
-        "app"
+        "creative",
+        "app",
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "22小时前"
     },
     {
       "id": "cmq9mtk1y0dbpslldlq5ewsuc",
@@ -288,7 +314,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq9mg2690d8hslldbkfxzrz7",
@@ -306,26 +332,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "cmq9ljue40czuslldeag7dg21",
-      "title": "Runway与Lionsgate扩大战略合作",
-      "title_en": "Runway and Lionsgate Expand Partnership",
-      "url": "https://runwayml.com/news/runway-and-lionsgate-expand-partnership",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-11T14:31:51.811Z",
-      "summary": "全球内容巨头Lionsgate与生成式AI研究公司Runway今日宣布扩大战略合作。Lionsgate已取得Runway股权，双方将启动联合开发项目，共同创作并制作新IP，首推一部基于Lionsgate现有IP和Runway生成模型的短剧系列。此外，Lionsgate将作为主持伙伴参与6月举行的Runway AI电影节。这是双方继2024年9月首次合作后的深化，Lionsgate此前已在预可视化、故事板及最终帧制作中应用Runway工具。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmq9ip4u40c8eslldarnso34b",
@@ -342,10 +349,26 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1746974095",
+      "id": "rss_555099975",
+      "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
+      "title_en": null,
+      "url": "https://sspai.com/post/110329",
+      "source": "少数派",
+      "publishedAt": "2026-06-12T07:00:00+00:00",
+      "summary": "你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。<a href=\"https://sspai.com/post/110329\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "rss_83408452",
       "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
       "title_en": null,
       "url": "https://sspai.com/prime/story/home-made-beverages-1",
@@ -357,67 +380,52 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2932263149",
-      "title": "线下活动｜周日到广州来，给你一张过去的 CD",
+      "id": "rss_1689230587",
+      "title": "*ST国华：收到股票终止上市决定，6月23日复牌并进入退市整理期",
       "title_en": null,
-      "url": "https://sspai.com/post/110911",
-      "source": "少数派",
-      "publishedAt": "2026-06-10T09:30:00+00:00",
-      "summary": "故事的开端今年因为和飞傲合作多功能便携CD音箱一体机BeatBox，我们对CD以及CD文化的了解也加深了不少，也因此认识不少真正的CD、唱片收藏大佬，谢江川川哥就是其中一位。川哥是一家唱片店的老板，从 ...<a href=\"https://sspai.com/post/110911\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "url": "https://36kr.com/newsflashes/3850170708939779?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-12T00:00:00+00:00",
+      "summary": "36氪获悉，*ST国华公告，公司收到深交所股票终止上市决定，因公司2025年度经审计的扣非后净利润为-1622.39万元，扣除后营收为1.64亿元，且财务报告被出具保留意见及否定意见的内部控制审计报告，触及终止上市情形。公司股票将于2026年6月23日复牌并进入退市整理期，预计最后交易日为7月13日。",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_3320186044",
-      "title": "氪星晚报｜韩IT巨头Kakao工会史上首次启动局部罢工；三星考虑新建先进芯片封装厂，以满足全球芯片需求；SK海力士最早将于8月在美国上市",
+      "id": "rss_2244763218",
+      "title": "我们如何利用 Cortex Code 将财务差异分析转变为实时智能工作流 ｜ 技术趋势",
       "title_en": null,
-      "url": "https://36kr.com/p/3847079661193733?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-10T00:00:00+00:00",
-      "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3847048931936512\"><strong>瑞斯康达：董事长李月杰因个人原因辞职，选举韩猛为新任董事长</strong></a></p>\n  <p>36氪获悉，瑞斯康达公告，董事长李月杰因个人原因辞职，自2026年6月9日起生效。公司第六届董事会第十二次会议选举韩猛为新任董事长，任期至第六届董事会届满。韩猛自2025年7月起代行董事长及法定代表",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_671943722",
-      "title": "“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3849440819844099?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-12T00:00:00+00:00",
-      "summary": "6月5日，国务院办公厅公布《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》（以下简称《指导意见》），其中明确提到，出台规范私募基金“对赌协议”的制度安排。虽然具体细则尚未公布，但也引发了一级市场的广泛关注和讨论。业内人士普遍认为，当前投资对赌协议有其存在的现实意义，但行业内也同时存在一些弊病和乱象。专门针对“对赌协议”的制度安排即将出炉，也是政策层面首次对这一投资细节的发声。释放出的信号是，投资对赌条款或将从“市场自��约定”的状态逐步纳入监管视野，未来相关协议的效力认定、履行边界和违约责任都将更加有理有据，有更清晰的指引。当“靠严苛条款保底”的路径被规范后，机构的竞争",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "rss_2759753524",
-      "title": "Omni Cache：以内存为中心的KV管理与推理加速｜AICon上海",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Thu, 11 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/ouEuzmbM0dXLfO0pbNpt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Fri, 12 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/AdDpLjkICT8EFS8tRgvM?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Thu, 11 Ju"
+      "formattedTime": "Fri, 12 Ju"
+    },
+    {
+      "id": "rss_820760561",
+      "title": "神了，世界杯第一天真按千问剧本踢了",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/06/435321.html",
+      "source": "量子位",
+      "publishedAt": "2026-06-12T16:45:23+00:00",
+      "summary": "比分、红牌、绝杀全押中",
+      "category": "industry",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 0,
+      "formattedTime": "7小时前"
     }
   ]
 }
