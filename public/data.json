@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-14T00:13:00.340560+00:00",
+  "generatedAt": "2026-06-15T00:16:52.528614+00:00",
   "totalSource": 160,
-  "totalFiltered": 148,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,61 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmqegnuc40214slunxe96pbiy",
+        "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
+        "title_en": "Introducing the OpenAI Partner Network",
+        "url": "https://openai.com/index/introducing-openai-partner-network",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-06-14T17:00:00.000Z",
+        "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
+        "category": "industry",
+        "score": 59,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmqc5usi000cbslt49vfrpgge",
+        "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+        "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
+        "url": "https://www.ithome.com/0/963/888.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-13T08:40:39.000Z",
+        "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
+        "category": "industry",
+        "score": 80,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmqb39p8x00o2sl9z85e1r79i",
+        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
+        "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
+        "url": "https://www.ithome.com/0/963/725.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-12T15:33:19.000Z",
+        "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
+        "category": "ai-products",
+        "score": 74,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
     "creative": [
       {
         "id": "cmqcoyrfo00ieslttjd60zi3a",
@@ -25,7 +80,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqabcv2q0jvmslldd7my04uo",
@@ -44,7 +99,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmq9mtk1y0dbpslldlq5ewsuc",
@@ -61,63 +116,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmqc5usi000cbslt49vfrpgge",
-        "title": "谷歌Android安全负责人因反对军事AI合作辞职",
-        "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
-        "url": "https://www.ithome.com/0/963/888.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-13T08:40:39.000Z",
-        "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
-        "category": "industry",
-        "score": 80,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "15小时前"
-      },
-      {
-        "id": "cmqb39p8x00o2sl9z85e1r79i",
-        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-        "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
-        "url": "https://www.ithome.com/0/963/725.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-12T15:33:19.000Z",
-        "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqb6brwi0008sl5v981gsd10",
-        "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
-        "title_en": "New OpenAI Academy courses for the next era of work",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-12T10:00:00.000Z",
-        "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "3天前"
       }
     ],
     "education": [
@@ -136,44 +135,27 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2513119691",
-        "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-13T00:00:00+00:00",
-        "summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_756193863",
-        "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
-        "title_en": null,
-        "url": "https://sspai.com/post/110973",
-        "source": "少数派",
-        "publishedAt": "2026-06-13T02:37:12+00:00",
-        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_3240072519",
+        "id": "rss_1644009455",
+        "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+        "title_en": null,
+        "url": "https://sspai.com/post/111045",
+        "source": "少数派",
+        "publishedAt": "2026-06-14T23:09:35+00:00",
+        "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美互诉专利侵权</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111045\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "rss_1357367297",
         "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
         "title_en": null,
         "url": "https://sspai.com/post/110329",
@@ -186,10 +168,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_2935070803",
+        "id": "rss_2721023999",
         "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
         "title_en": null,
         "url": "https://sspai.com/prime/story/home-made-beverages-1",
@@ -201,26 +183,61 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "3天前"
+      }
+    ],
+    "productivity": [
       {
-        "id": "rss_1729684049",
-        "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+        "id": "rss_1783431358",
+        "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3851524397536515?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-13T00:00:00+00:00",
-        "summary": "在HDC 2026鸿蒙生态商业化峰会及面向多行业的系列分论坛上，鲸鸿动能围绕主动式营销框架展开系统拆解，该框架通过数据科学洞察广告主痛点，聚合全场景生态资源，构建AI加持的行业及客户解决方案，实现广告主的确定性增长，已在汽车、金融、文旅、快消、大健康等五大行业形成差异化解决方案。",
-        "category": "industry",
+        "url": "https://sspai.com/post/110973",
+        "source": "少数派",
+        "publishedAt": "2026-06-13T02:37:12+00:00",
+        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_3542338369",
+        "title": "中国生物制药：董事会决议通过总额不超20亿港元股份购买计划",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3853680161936643?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-15T00:00:00+00:00",
+        "summary": "36氪获悉，中国生物制药在港交所公告，公司董事会于6月12日议决通过一项股份购买计划，据此，公司将视乎市场情况于未来12个月以不超过20亿港元总代价在公开市场上根据于股东周年大会上获授的股份购回授权，并受其条款及细则所规限，回购股份及根据公司于2018年1月5日采纳的限制性股份奖励计划，指示负责管理股份奖励计划的受托人购买股份。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmqegnuc40214slunxe96pbiy",
+      "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
+      "title_en": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-14T17:00:00.000Z",
+      "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
+      "category": "industry",
+      "score": 59,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
     {
       "id": "cmqcoyrfo00ieslttjd60zi3a",
       "title": "Suno 音轨分离：从零生成更纯净",
@@ -236,7 +253,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqc5usi000cbslt49vfrpgge",
@@ -253,7 +270,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqb39p8x00o2sl9z85e1r79i",
@@ -271,26 +288,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqb6brwi0008sl5v981gsd10",
-      "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
-      "title_en": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
-      "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqabcv2q0jvmslldd7my04uo",
@@ -309,7 +307,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmq9mtk1y0dbpslldlq5ewsuc",
@@ -326,7 +324,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmq9ip4u40c8eslldarnso34b",
@@ -343,10 +341,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_756193863",
+      "id": "rss_1644009455",
+      "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
+      "title_en": null,
+      "url": "https://sspai.com/post/111045",
+      "source": "少数派",
+      "publishedAt": "2026-06-14T23:09:35+00:00",
+      "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美互诉专利侵权</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111045\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "rss_1783431358",
       "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
       "title_en": null,
       "url": "https://sspai.com/post/110973",
@@ -358,10 +371,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3240072519",
+      "id": "rss_1357367297",
       "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
       "title_en": null,
       "url": "https://sspai.com/post/110329",
@@ -374,10 +387,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2935070803",
+      "id": "rss_2721023999",
       "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
       "title_en": null,
       "url": "https://sspai.com/prime/story/home-made-beverages-1",
@@ -389,37 +402,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_1729684049",
-      "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+      "id": "rss_3542338369",
+      "title": "中国生物制药：董事会决议通过总额不超20亿港元股份购买计划",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3851524397536515?f=rss",
+      "url": "https://36kr.com/newsflashes/3853680161936643?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-06-13T00:00:00+00:00",
-      "summary": "在HDC 2026鸿蒙生态商业化峰会及面向多行业的系列分论坛上，鲸鸿动能围绕主动式营销框架展开系统拆解，该框架通过数据科学洞察广告主痛点，聚合全场景生态资源，构建AI加持的行业及客户解决方案，实现广告主的确定性增长，已在汽车、金融、文旅、快消、大健康等五大行业形成差异化解决方案。",
+      "publishedAt": "2026-06-15T00:00:00+00:00",
+      "summary": "36氪获悉，中国生物制药在港交所公告，公司董事会于6月12日议决通过一项股份购买计划，据此，公司将视乎市场情况于未来12个月以不超过20亿港元总代价在公开市场上根据于股东周年大会上获授的股份购回授权，并受其条款及细则所规限，回购股份及根据公司于2018年1月5日采纳的限制性股份奖励计划，指示负责管理股份奖励计划的受托人购买股份。",
       "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2513119691",
-      "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-13T00:00:00+00:00",
-      "summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "刚刚"
     }
   ]
 }
