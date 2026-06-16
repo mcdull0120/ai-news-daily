@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-15T00:16:52.528614+00:00",
+  "generatedAt": "2026-06-16T01:43:02.493131+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 142,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,62 +9,25 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cmqegnuc40214slunxe96pbiy",
-        "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
-        "title_en": "Introducing the OpenAI Partner Network",
-        "url": "https://openai.com/index/introducing-openai-partner-network",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-14T17:00:00.000Z",
-        "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
-        "category": "industry",
-        "score": 59,
+        "id": "cmqfjwpb500o2slq8vbryuxyg",
+        "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
+        "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-15T18:30:58.000Z",
+        "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
+        "category": "ai-products",
+        "score": 71,
         "selected": true,
         "interestTags": [
-          "app",
-          "education"
+          "creative",
+          "app"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
       },
-      {
-        "id": "cmqc5usi000cbslt49vfrpgge",
-        "title": "谷歌Android安全负责人因反对军事AI合作辞职",
-        "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
-        "url": "https://www.ithome.com/0/963/888.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-13T08:40:39.000Z",
-        "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
-        "category": "industry",
-        "score": 80,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqb39p8x00o2sl9z85e1r79i",
-        "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-        "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
-        "url": "https://www.ithome.com/0/963/725.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-12T15:33:19.000Z",
-        "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "creative": [
       {
         "id": "cmqcoyrfo00ieslttjd60zi3a",
         "title": "Suno 音轨分离：从零生成更纯净",
@@ -80,7 +43,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqabcv2q0jvmslldd7my04uo",
@@ -99,24 +62,62 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmqfc38a1005fsl2a21dido83",
+        "title": "Salesforce以36亿美元收购AI客服平台Fin",
+        "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-15T14:34:45.000Z",
+        "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
+        "category": "industry",
+        "score": 73,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
       },
       {
-        "id": "cmq9mtk1y0dbpslldlq5ewsuc",
-        "title": "Krea 2 推出生成式滑块控制图像属性",
-        "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
-        "url": "https://x.com/krea_ai/status/2065086662166901114",
-        "source": "X：Krea AI (@krea_ai)",
-        "publishedAt": "2026-06-11T15:00:02.000Z",
-        "summary": "推出生成式滑块。\n现在您可以控制使用 Krea 2 生成的任何图像的强度、复杂度和运动。\n你希望看到哪些新控制？👇",
+        "id": "cmqfb02ix003tsl4r1htgwwqr",
+        "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
+        "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
+        "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-06-15T14:00:00.000Z",
+        "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "cmqfffwsj012psl2aw73zvioe",
+        "title": "Grok Build 推出 Agent Dashboard 管理多个编码会话",
+        "title_en": "Agent Dashboard in Grok Build Jun 15， 2026 # Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing， reply to the ones that need you， and dispatch new work. Read More",
+        "url": "https://x.ai/news/agent-dashboard",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-06-15T00:00:00.000Z",
+        "summary": "xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\\` 打开，关闭后会话继续运行，重新打开即可恢复。",
         "category": "ai-products",
         "score": 73,
         "selected": true,
         "interestTags": [
-          "creative"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -135,12 +136,42 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "rss_2237574963",
+        "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 15 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "Mon, 15 Ju"
       }
     ],
     "writing": [
       {
-        "id": "rss_1644009455",
+        "id": "rss_4234080896",
+        "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+        "title_en": null,
+        "url": "https://sspai.com/post/111003",
+        "source": "少数派",
+        "publishedAt": "2026-06-15T08:04:25+00:00",
+        "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。<a href=\"https://sspai.com/post/111003\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "rss_3121793286",
         "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
         "title_en": null,
         "url": "https://sspai.com/post/111045",
@@ -152,43 +183,12 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "rss_1357367297",
-        "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
-        "title_en": null,
-        "url": "https://sspai.com/post/110329",
-        "source": "少数派",
-        "publishedAt": "2026-06-12T07:00:00+00:00",
-        "summary": "你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。<a href=\"https://sspai.com/post/110329\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2721023999",
-        "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/home-made-beverages-1",
-        "source": "少数派",
-        "publishedAt": "2026-06-11T09:31:55+00:00",
-        "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-1\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1783431358",
+        "id": "rss_3094643628",
         "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
         "title_en": null,
         "url": "https://sspai.com/post/110973",
@@ -200,43 +200,96 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_3542338369",
-        "title": "中国生物制药：董事会决议通过总额不超20亿港元股份购买计划",
+        "id": "rss_2116999252",
+        "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3853680161936643?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-15T00:00:00+00:00",
-        "summary": "36氪获悉，中国生物制药在港交所公告，公司董事会于6月12日议决通过一项股份购买计划，据此，公司将视乎市场情况于未来12个月以不超过20亿港元总代价在公开市场上根据于股东周年大会上获授的股份购回授权，并受其条款及细则所规限，回购股份及根据公司于2018年1月5日采纳的限制性股份奖励计划，指示负责管理股份奖励计划的受托人购买股份。",
-        "category": "industry",
+        "url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 15 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "Mon, 15 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqegnuc40214slunxe96pbiy",
-      "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
-      "title_en": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-14T17:00:00.000Z",
-      "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
-      "category": "industry",
-      "score": 59,
+      "id": "cmqfjwpb500o2slq8vbryuxyg",
+      "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
+      "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
+      "category": "ai-products",
+      "score": 71,
       "selected": true,
       "interestTags": [
-        "app",
-        "education"
+        "creative",
+        "app"
       ],
       "techScore": -1,
       "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmqfc38a1005fsl2a21dido83",
+      "title": "Salesforce以36亿美元收购AI客服平台Fin",
+      "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-15T14:34:45.000Z",
+      "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmqfb02ix003tsl4r1htgwwqr",
+      "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
+      "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
+      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-06-15T14:00:00.000Z",
+      "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmqfffwsj012psl2aw73zvioe",
+      "title": "Grok Build 推出 Agent Dashboard 管理多个编码会话",
+      "title_en": "Agent Dashboard in Grok Build Jun 15， 2026 # Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing， reply to the ones that need you， and dispatch new work. Read More",
+      "url": "https://x.ai/news/agent-dashboard",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "summary": "xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\\` 打开，关闭后会话继续运行，重新打开即可恢复。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqcoyrfo00ieslttjd60zi3a",
@@ -251,41 +304,6 @@
       "selected": true,
       "interestTags": [
         "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqc5usi000cbslt49vfrpgge",
-      "title": "谷歌Android安全负责人因反对军事AI合作辞职",
-      "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
-      "url": "https://www.ithome.com/0/963/888.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-13T08:40:39.000Z",
-      "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqb39p8x00o2sl9z85e1r79i",
-      "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-      "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
-      "url": "https://www.ithome.com/0/963/725.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-12T15:33:19.000Z",
-      "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -307,23 +325,6 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmq9mtk1y0dbpslldlq5ewsuc",
-      "title": "Krea 2 推出生成式滑块控制图像属性",
-      "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
-      "url": "https://x.com/krea_ai/status/2065086662166901114",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-06-11T15:00:02.000Z",
-      "summary": "推出生成式滑块。\n现在您可以控制使用 Krea 2 生成的任何图像的强度、复杂度和运动。\n你希望看到哪些新控制？👇",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
       "formattedTime": "3天前"
     },
     {
@@ -341,10 +342,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_1644009455",
+      "id": "rss_4234080896",
+      "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+      "title_en": null,
+      "url": "https://sspai.com/post/111003",
+      "source": "少数派",
+      "publishedAt": "2026-06-15T08:04:25+00:00",
+      "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。<a href=\"https://sspai.com/post/111003\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "rss_3121793286",
       "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
       "title_en": null,
       "url": "https://sspai.com/post/111045",
@@ -356,10 +372,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1783431358",
+      "id": "rss_3094643628",
       "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
       "title_en": null,
       "url": "https://sspai.com/post/110973",
@@ -371,53 +387,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_1357367297",
-      "title": "Level Read：让英语学习从「读得懂」开始，每天都进步一点点",
-      "title_en": null,
-      "url": "https://sspai.com/post/110329",
-      "source": "少数派",
-      "publishedAt": "2026-06-12T07:00:00+00:00",
-      "summary": "你不需要一开始就读最难的内容，不需要把英语变成一件很痛苦的任务。每天读一篇适合自己难度的英文新闻，听一听、查几个词、慢慢积累。<a href=\"https://sspai.com/post/110329\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "education"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "rss_2721023999",
-      "title": "家庭饮品 DIY 指南（一）：工欲善其事，必先利其器",
+      "id": "rss_2237574963",
+      "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
       "title_en": null,
-      "url": "https://sspai.com/prime/story/home-made-beverages-1",
-      "source": "少数派",
-      "publishedAt": "2026-06-11T09:31:55+00:00",
-      "summary": "前言其实开始喝咖啡以后，就对各种饮品的制作自然而然的来了兴趣，经过几年的积累，略有心得，感觉可以拿来跟大家分享一下。这次的主题家庭饮品DIY。通过简单的设备、物料以及简单的制作方法，教大家如何在家做饮 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-1\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+      "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 15 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
-        "writing"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "Mon, 15 Ju"
     },
     {
-      "id": "rss_3542338369",
-      "title": "中国生物制药：董事会决议通过总额不超20亿港元股份购买计划",
+      "id": "rss_2116999252",
+      "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3853680161936643?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-15T00:00:00+00:00",
-      "summary": "36氪获悉，中国生物制药在港交所公告，公司董事会于6月12日议决通过一项股份购买计划，据此，公司将视乎市场情况于未来12个月以不超过20亿港元总代价在公开市场上根据于股东周年大会上获授的股份购回授权，并受其条款及细则所规限，回购股份及根据公司于2018年1月5日采纳的限制性股份奖励计划，指示负责管理股份奖励计划的受托人购买股份。",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 15 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "Mon, 15 Ju"
     }
   ]
 }
