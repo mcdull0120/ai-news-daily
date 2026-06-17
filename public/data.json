@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T01:43:02.493131+00:00",
+  "generatedAt": "2026-06-17T00:21:36.641442+00:00",
   "totalSource": 160,
-  "totalFiltered": 142,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,7 +9,78 @@
     "bilibili": 0
   },
   "grouped": {
+    "writing": [
+      {
+        "id": "cmqh9tq4602bvsle1zonzmrg9",
+        "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
+        "title_en": null,
+        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-16T23:09:29.793Z",
+        "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmqh02ula025kslpus6x0agms",
+        "title": "Meta 解散工程部门引发热议",
+        "title_en": "Meta为什么要解散其工程部门？",
+        "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-16T18:37:24.744Z",
+        "summary": "6月16日，一篇标题为\"Why is Meta destroying its engineering organization？\"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。",
+        "category": "tip",
+        "score": 80,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmqgvsb7s00z8slpu7p31yn17",
+        "title": "Fable 遭美国政府封禁，TechCrunch 质疑真正原因并非模型越狱",
+        "title_en": "《Fable》的封禁从来就不是因为越狱吗？",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-16T16:45:18.627Z",
+        "summary": "美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的\"模型越狱\"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。",
+        "category": "industry",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
     "creative": [
+      {
+        "id": "cmqh78bnl01mrsle11gmghtv0",
+        "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
+        "title_en": "Draft mode for V8.1 and new feature previews",
+        "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
+        "source": "Midjourney：Updates（RSS）",
+        "publishedAt": "2026-06-16T22:04:29.000Z",
+        "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
       {
         "id": "cmqfjwpb500o2slq8vbryuxyg",
         "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
@@ -26,120 +97,119 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmqcoyrfo00ieslttjd60zi3a",
-        "title": "Suno 音轨分离：从零生成更纯净",
-        "title_en": "Major update： Stem separation on Suno just got a massive level up. 🚀 We're now regenerating stems …",
-        "url": "https://x.com/suno/status/2065862499765821916",
-        "source": "X：Suno (@suno)",
-        "publishedAt": "2026-06-13T18:22:56.000Z",
-        "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
-        "category": "ai-products",
-        "score": 70,
+        "id": "cmqe01h4c01klslrdw4s96n1z",
+        "title": "不，并不是每个人都在所有事情上都使用人工智能",
+        "title_en": null,
+        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-14T16:14:04.686Z",
+        "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
+        "category": "tip",
+        "score": 71,
         "selected": true,
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqabcv2q0jvmslldd7my04uo",
-        "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
-        "title_en": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
-        "url": "https://www.ithome.com/0/963/302.htm",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-12T02:06:41.000Z",
-        "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
-        "category": "ai-products",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
       }
     ],
     "app": [
       {
-        "id": "cmqfc38a1005fsl2a21dido83",
-        "title": "Salesforce以36亿美元收购AI客服平台Fin",
-        "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-06-15T14:34:45.000Z",
-        "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
-        "category": "industry",
-        "score": 73,
+        "id": "cmqh1kwnx002asle1lo0di435",
+        "title": "Anthropic：智能体编码中专业知识回报持续存在",
+        "title_en": "Agentic coding and persistent returns to expertise",
+        "url": "https://www.anthropic.com/research/claude-code-expertise",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-06-16T19:35:22.252Z",
+        "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
+        "category": "paper",
+        "score": 76,
         "selected": true,
         "interestTags": [
           "app",
+          "writing",
+          "education",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmqfb02ix003tsl4r1htgwwqr",
-        "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
-        "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
-        "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-06-15T14:00:00.000Z",
-        "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
-        "category": "tip",
-        "score": 70,
+        "id": "cmqh269tl004esle1vztceb34",
+        "title": "公开聊天数据能否预测真实世界AI失调？",
+        "title_en": "Can public chat data predict real-world AI misalignments？",
+        "url": "https://alignment.openai.com/validating-public-evals",
+        "source": "OpenAI：Alignment 研究博客（RSS）",
+        "publishedAt": "2026-06-16T18:00:00.000Z",
+        "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
+        "category": "paper",
+        "score": 73,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmqfffwsj012psl2aw73zvioe",
-        "title": "Grok Build 推出 Agent Dashboard 管理多个编码会话",
-        "title_en": "Agent Dashboard in Grok Build Jun 15， 2026 # Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing， reply to the ones that need you， and dispatch new work. Read More",
-        "url": "https://x.ai/news/agent-dashboard",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-06-15T00:00:00.000Z",
-        "summary": "xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\\` 打开，关闭后会话继续运行，重新打开即可恢复。",
+        "id": "cmqguowxx00nuslpuulayglav",
+        "title": "Copilot Cowork 全球正式可用，支持多模型",
+        "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
+        "url": "https://x.com/satyanadella/status/2066911399494963335",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "publishedAt": "2026-06-16T15:50:53.000Z",
+        "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
         "category": "ai-products",
-        "score": 73,
+        "score": 70,
         "selected": true,
         "interestTags": [
           "app",
+          "education",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "8小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "rss_1423460064",
+        "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
+        "title_en": null,
+        "url": "https://sspai.com/post/111030",
+        "source": "少数派",
+        "publishedAt": "2026-06-16T09:30:00+00:00",
+        "summary": "macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。<a href=\"https://sspai.com/post/111030\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
+      {
+        "id": "rss_2807400352",
+        "title": "IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 16 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Tue, 16 Ju"
       }
     ],
     "education": [
       {
-        "id": "cmq9ip4u40c8eslldarnso34b",
-        "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
-        "title_en": "Introducing Claude Corps",
-        "url": "https://www.anthropic.com/news/claude-corps",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-06-11T13:12:25.934Z",
-        "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
-        "category": "industry",
-        "score": 61,
-        "selected": true,
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_2237574963",
+        "id": "rss_2882866909",
         "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
         "title_en": null,
         "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
@@ -153,73 +223,134 @@
         "techScore": -1,
         "formattedTime": "Mon, 15 Ju"
       }
-    ],
-    "writing": [
-      {
-        "id": "rss_4234080896",
-        "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
-        "title_en": null,
-        "url": "https://sspai.com/post/111003",
-        "source": "少数派",
-        "publishedAt": "2026-06-15T08:04:25+00:00",
-        "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。<a href=\"https://sspai.com/post/111003\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "17小时前"
-      },
-      {
-        "id": "rss_3121793286",
-        "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
-        "title_en": null,
-        "url": "https://sspai.com/post/111045",
-        "source": "少数派",
-        "publishedAt": "2026-06-14T23:09:35+00:00",
-        "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美互诉专利侵权</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111045\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_3094643628",
-        "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
-        "title_en": null,
-        "url": "https://sspai.com/post/110973",
-        "source": "少数派",
-        "publishedAt": "2026-06-13T02:37:12+00:00",
-        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2116999252",
-        "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 15 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Mon, 15 Ju"
-      }
     ]
   },
   "items": [
+    {
+      "id": "cmqh9tq4602bvsle1zonzmrg9",
+      "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
+      "title_en": null,
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T23:09:29.793Z",
+      "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmqh78bnl01mrsle11gmghtv0",
+      "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
+      "title_en": "Draft mode for V8.1 and new feature previews",
+      "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-06-16T22:04:29.000Z",
+      "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqh1kwnx002asle1lo0di435",
+      "title": "Anthropic：智能体编码中专业知识回报持续存在",
+      "title_en": "Agentic coding and persistent returns to expertise",
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-16T19:35:22.252Z",
+      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmqh02ula025kslpus6x0agms",
+      "title": "Meta 解散工程部门引发热议",
+      "title_en": "Meta为什么要解散其工程部门？",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T18:37:24.744Z",
+      "summary": "6月16日，一篇标题为\"Why is Meta destroying its engineering organization？\"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmqh269tl004esle1vztceb34",
+      "title": "公开聊天数据能否预测真实世界AI失调？",
+      "title_en": "Can public chat data predict real-world AI misalignments？",
+      "url": "https://alignment.openai.com/validating-public-evals",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmqgvsb7s00z8slpu7p31yn17",
+      "title": "Fable 遭美国政府封禁，TechCrunch 质疑真正原因并非模型越狱",
+      "title_en": "《Fable》的封禁从来就不是因为越狱吗？",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T16:45:18.627Z",
+      "summary": "美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的\"模型越狱\"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmqguowxx00nuslpuulayglav",
+      "title": "Copilot Cowork 全球正式可用，支持多模型",
+      "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
+      "url": "https://x.com/satyanadella/status/2066911399494963335",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-06-16T15:50:53.000Z",
+      "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
     {
       "id": "cmqfjwpb500o2slq8vbryuxyg",
       "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
@@ -236,71 +367,18 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmqfc38a1005fsl2a21dido83",
-      "title": "Salesforce以36亿美元收购AI客服平台Fin",
-      "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T14:34:45.000Z",
-      "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmqfb02ix003tsl4r1htgwwqr",
-      "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
-      "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-15T14:00:00.000Z",
-      "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmqfffwsj012psl2aw73zvioe",
-      "title": "Grok Build 推出 Agent Dashboard 管理多个编码会话",
-      "title_en": "Agent Dashboard in Grok Build Jun 15， 2026 # Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing， reply to the ones that need you， and dispatch new work. Read More",
-      "url": "https://x.ai/news/agent-dashboard",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-15T00:00:00.000Z",
-      "summary": "xAI 为 Grok Build 推出 Agent Dashboard，提供单一屏幕管理多个编码会话。仪表板按状态分组（等待输入、工作中、空闲），每行显示状态标记、名称、分支、权限模式和当前操作。选中会话可打开 peek 面板查看最新输出并直接回复，等待输入的会话支持用箭头键或数字键选择选项。底部输入框用于分派新会话，支持设置模型、启动计划模式或自动批准编辑。通过 `grok dashboard`、`/dashboard` 或 `Ctrl+\\` 打开，关闭后会话继续运行，重新打开即可恢复。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmqcoyrfo00ieslttjd60zi3a",
-      "title": "Suno 音轨分离：从零生成更纯净",
-      "title_en": "Major update： Stem separation on Suno just got a massive level up. 🚀 We're now regenerating stems …",
-      "url": "https://x.com/suno/status/2065862499765821916",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-06-13T18:22:56.000Z",
-      "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
-      "category": "ai-products",
-      "score": 70,
+      "id": "cmqe01h4c01klslrdw4s96n1z",
+      "title": "不，并不是每个人都在所有事情上都使用人工智能",
+      "title_en": null,
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-14T16:14:04.686Z",
+      "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
+      "category": "tip",
+      "score": 71,
       "selected": true,
       "interestTags": [
         "creative"
@@ -309,88 +387,37 @@
       "formattedTime": "2天前"
     },
     {
-      "id": "cmqabcv2q0jvmslldd7my04uo",
-      "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
-      "title_en": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
-      "url": "https://www.ithome.com/0/963/302.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-12T02:06:41.000Z",
-      "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmq9ip4u40c8eslldarnso34b",
-      "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
-      "title_en": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-11T13:12:25.934Z",
-      "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
-      "category": "industry",
-      "score": 61,
-      "selected": true,
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_4234080896",
-      "title": "具透 | 思考、打磨、加速：iPadOS 27 首个开发者测试版中值得关注的新内容",
+      "id": "rss_1423460064",
+      "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
       "title_en": null,
-      "url": "https://sspai.com/post/111003",
+      "url": "https://sspai.com/post/111030",
       "source": "少数派",
-      "publishedAt": "2026-06-15T08:04:25+00:00",
-      "summary": "除了可以自定义的 Liquid Glass 透明度，iPadOS 27 还有这 12 项细节变化。<a href=\"https://sspai.com/post/111003\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "rss_3121793286",
-      "title": "派早报：Fable 5 和 Mythos 5 模型因美国商务部禁令下线",
-      "title_en": null,
-      "url": "https://sspai.com/post/111045",
-      "source": "少数派",
-      "publishedAt": "2026-06-14T23:09:35+00:00",
-      "summary": "<p>Fable 5 和 Mythos 5 模型因美国商务部禁令下线</p><p>SpaceX 挂牌，市值达 2.1 万亿美元</p><p>《广告引证内容执法指南》出台</p><p>华为推出 HarmonyOS 7</p><p>英伟达开始接受中国客户下单 Vera CPU</p><p>大疆与影石在美互诉专利侵权</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/111045\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_3094643628",
-      "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
-      "title_en": null,
-      "url": "https://sspai.com/post/110973",
-      "source": "少数派",
-      "publishedAt": "2026-06-13T02:37:12+00:00",
-      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/110973\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-06-16T09:30:00+00:00",
+      "summary": "macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。<a href=\"https://sspai.com/post/111030\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "rss_2237574963",
+      "id": "rss_2807400352",
+      "title": "IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 16 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Tue, 16 Ju"
+    },
+    {
+      "id": "rss_2882866909",
       "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
       "title_en": null,
       "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
@@ -400,21 +427,6 @@
       "category": "tip",
       "interestTags": [
         "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 15 Ju"
-    },
-    {
-      "id": "rss_2116999252",
-      "title": "写代码可以 Vibe Coding 了，为什么办公还不能 Vibe Officing？",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 15 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/QNqAczK6XHEsNRrh3L92?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "Mon, 15 Ju"
