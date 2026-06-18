@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-17T00:21:36.641442+00:00",
+  "generatedAt": "2026-06-18T00:18:26.895715+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,168 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmqiotxxz02vfsl5wx32nujv2",
+        "title": "库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已\"不可避免\"",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/965/694.htm",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-17T22:41:15.000Z",
+        "summary": "苹果CEO库克确认，AI热潮导致存储芯片严重短缺和价格暴涨，苹果产品涨价已\"不可避免\"。库克未透露涨价具体细节。华尔街日报指出，全球AI巨头大幅增加资本开支，高带宽内存需求激增，挤压消费电子芯片供应。自2024年以来内存和存储芯片价格已翻四倍，涨势预计延续至2027年。研究机构估算，下一代iPhone 18 Pro售价或需增加约270美元。苹果已在上月提高Mac Mini起售价。摩根士丹利预测，今年美国智能手机和PC价格将上涨15%。",
+        "category": "industry",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmqi9mvca06wuslf0gcpfh1hv",
+        "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
+        "title_en": "Announcing the Agentic Resource Discovery specification",
+        "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-06-17T16:08:36.794Z",
+        "summary": "Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布、发现和验证AI工具、技能与智能体。它基于两个原语：组织在其自有域名下托管catalog描述可用能力，registry作为搜索引擎索引catalog并响应发现请求。ARD支持加密验证，使客户端与端点连接前确认发布者身份，然后直接通过原生协议调用能力。Google Cloud的Gemini Enterprise Agent Platform通过Agent Registry提供企业级支持，包括URN命名、出站策略、工具固定和基于Agent Identity的信任验证。该规范现已发布，开发者可通过托管`ai-catalog.json`文件使其服务可发现。",
+        "category": "industry",
+        "score": 63,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmqi8ygw106qpslf0farqmsq7",
+        "title": "Omnigent开源：AI智能体团队元框架",
+        "title_en": "The future of coding is not one agent. It's a whole AI team. Omnigent lets you run a team of agents…",
+        "url": "https://x.com/Yuchenj_UW/status/2067273020352380950",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "publishedAt": "2026-06-17T15:47:50.000Z",
+        "summary": "编程的未来不是单一智能体，而是一个完整的AI团队。\n\nOmnigent让你在一个实时会话中运行一个智能体团队：Claude Code、Codex、Cursor、Pi，以及你自己的智能体。\n\n它是一个面向AI智能体的元框架，基于我们内部的Databricks开发工具构建，现已开源给所有人。\n\n由传奇人物@matei_zaharia和Databricks AI团队打造。没错，Matei仍然编写大量代码，包括Omnigent和我们产品的前端代码。",
+        "category": "ai-products",
+        "score": 77,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmqihbkcr00xcsl5wavwez5ua",
+        "title": "Claude Design与Replit联动，设计变应用",
+        "title_en": "Design in Claude. Build in Replit You can now send your design from Claude Design to Replit to turn…",
+        "url": "https://x.com/Replit/status/2067328501003497684",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-06-17T19:28:18.000Z",
+        "summary": "在Claude中设计。在Replit中构建。\n\n你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmqiah1xh073zslf07pwru4ui",
+        "title": "Google发布99美元Gemini智能音箱",
+        "title_en": "Google bets on Gemini to reinvent the smart home speaker",
+        "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-17T16:30:09.000Z",
+        "summary": "Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价99.99美元。支持自然语言请求和多步指令，可在说话中途纠正，并具备连续对话功能。内置10种新声音。高级AI功能需订阅Google Home Premium（月费10美元或年费100美元），包括Gemini Live自由对话、Nest摄像头活动摘要等。即日起预售，本月发货。",
+        "category": "ai-products",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmqhjhcgy04ybsle119py0l6t",
+        "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
+        "title_en": "Wolfram 语言和 Mathematica 15 版、AI 助手、符号音乐等",
+        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-17T03:25:14.439Z",
+        "summary": "在 Mathematica 诞生近 38 年后，Wolfram 语言与 Mathematica 发布 Version 15。每个笔记本内置 AI 助手，支持从 AI 环境中直接调用 Wolfram 技术。新增符号音乐系统、大规模时间序列与事件序列处理、分类数据计算、模型拟合超函数 ModelFit。笔记本支持千兆字节级大小与实时查找，首次引入侧边栏、视觉主题及弃用功能样式。强化了表格连接、多点可视化、图形刻度绘制与轨道运行计算等功能。DSolve 拐角处获得 AI 方法辅助，支持偏微分方程曲线坐标求解。扩充了矩阵分解、多元 zeta 函数与调和数、流线型部分分式分解。强化了 WebSocket 实时连接、Python 交互改进，支持 CUDA 内核作为外部函数，Wolfram Compute Services 新增 GPU 支持。",
+        "category": "ai-products",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmqiewg85009zsl5w0gbt6hbe",
+        "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
+        "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
+        "url": "https://x.com/kimmonismus/status/2067310431669223425",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-06-17T18:16:30.000Z",
+        "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
+        "category": "industry",
+        "score": 79,
+        "selected": true,
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "rss_1057198311",
+        "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
+        "title_en": null,
+        "url": "https://sspai.com/post/111030",
+        "source": "少数派",
+        "publishedAt": "2026-06-16T09:30:00+00:00",
+        "summary": "macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。<a href=\"https://sspai.com/post/111030\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmqgz178201wfslpu25xb10dm",
+        "title": "微软考虑为 Copilot Cowork 集成 DeepSeek V4",
+        "title_en": "Axios reports that Microsoft is considering a Microsoft-hosted version of DeepSeek V4 as a cheaper m…",
+        "url": "https://x.com/kimmonismus/status/2066946013026263110",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-06-16T18:08:26.000Z",
+        "summary": "微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。",
+        "category": "industry",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "昨天"
+      }
+    ],
     "writing": [
       {
         "id": "cmqh9tq4602bvsle1zonzmrg9",
@@ -26,7 +188,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqh02ula025kslpus6x0agms",
@@ -43,7 +205,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqgvsb7s00z8slpu7p31yn17",
@@ -60,172 +222,135 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmqh78bnl01mrsle11gmghtv0",
-        "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
-        "title_en": "Draft mode for V8.1 and new feature previews",
-        "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
-        "source": "Midjourney：Updates（RSS）",
-        "publishedAt": "2026-06-16T22:04:29.000Z",
-        "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmqfjwpb500o2slq8vbryuxyg",
-        "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
-        "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
-        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-06-15T18:30:58.000Z",
-        "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqe01h4c01klslrdw4s96n1z",
-        "title": "不，并不是每个人都在所有事情上都使用人工智能",
-        "title_en": null,
-        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-14T16:14:04.686Z",
-        "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmqh1kwnx002asle1lo0di435",
-        "title": "Anthropic：智能体编码中专业知识回报持续存在",
-        "title_en": "Agentic coding and persistent returns to expertise",
-        "url": "https://www.anthropic.com/research/claude-code-expertise",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-06-16T19:35:22.252Z",
-        "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
-        "category": "paper",
-        "score": 76,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "writing",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmqh269tl004esle1vztceb34",
-        "title": "公开聊天数据能否预测真实世界AI失调？",
-        "title_en": "Can public chat data predict real-world AI misalignments？",
-        "url": "https://alignment.openai.com/validating-public-evals",
-        "source": "OpenAI：Alignment 研究博客（RSS）",
-        "publishedAt": "2026-06-16T18:00:00.000Z",
-        "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
-        "category": "paper",
-        "score": 73,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmqguowxx00nuslpuulayglav",
-        "title": "Copilot Cowork 全球正式可用，支持多模型",
-        "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
-        "url": "https://x.com/satyanadella/status/2066911399494963335",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "publishedAt": "2026-06-16T15:50:53.000Z",
-        "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
-        "category": "ai-products",
-        "score": 70,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_1423460064",
-        "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
-        "title_en": null,
-        "url": "https://sspai.com/post/111030",
-        "source": "少数派",
-        "publishedAt": "2026-06-16T09:30:00+00:00",
-        "summary": "macOS Golden Gate 27 首个开发者测试版更新，我们整理了你所关心的所有细节。<a href=\"https://sspai.com/post/111030\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_2807400352",
-        "title": "IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 16 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Tue, 16 Ju"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_2882866909",
-        "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 15 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "Mon, 15 Ju"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmqiotxxz02vfsl5wx32nujv2",
+      "title": "库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已\"不可避免\"",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/965/694.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-17T22:41:15.000Z",
+      "summary": "苹果CEO库克确认，AI热潮导致存储芯片严重短缺和价格暴涨，苹果产品涨价已\"不可避免\"。库克未透露涨价具体细节。华尔街日报指出，全球AI巨头大幅增加资本开支，高带宽内存需求激增，挤压消费电子芯片供应。自2024年以来内存和存储芯片价格已翻四倍，涨势预计延续至2027年。研究机构估算，下一代iPhone 18 Pro售价或需增加约270美元。苹果已在上月提高Mac Mini起售价。摩根士丹利预测，今年美国智能手机和PC价格将上涨15%。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmqihbkcr00xcsl5wavwez5ua",
+      "title": "Claude Design与Replit联动，设计变应用",
+      "title_en": "Design in Claude. Build in Replit You can now send your design from Claude Design to Replit to turn…",
+      "url": "https://x.com/Replit/status/2067328501003497684",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-17T19:28:18.000Z",
+      "summary": "在Claude中设计。在Replit中构建。\n\n你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmqiewg85009zsl5w0gbt6hbe",
+      "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
+      "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
+      "url": "https://x.com/kimmonismus/status/2067310431669223425",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-06-17T18:16:30.000Z",
+      "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmqiah1xh073zslf07pwru4ui",
+      "title": "Google发布99美元Gemini智能音箱",
+      "title_en": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-17T16:30:09.000Z",
+      "summary": "Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价99.99美元。支持自然语言请求和多步指令，可在说话中途纠正，并具备连续对话功能。内置10种新声音。高级AI功能需订阅Google Home Premium（月费10美元或年费100美元），包括Gemini Live自由对话、Nest摄像头活动摘要等。即日起预售，本月发货。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmqi9mvca06wuslf0gcpfh1hv",
+      "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
+      "title_en": "Announcing the Agentic Resource Discovery specification",
+      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-06-17T16:08:36.794Z",
+      "summary": "Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布、发现和验证AI工具、技能与智能体。它基于两个原语：组织在其自有域名下托管catalog描述可用能力，registry作为搜索引擎索引catalog并响应发现请求。ARD支持加密验证，使客户端与端点连接前确认发布者身份，然后直接通过原生协议调用能力。Google Cloud的Gemini Enterprise Agent Platform通过Agent Registry提供企业级支持，包括URN命名、出站策略、工具固定和基于Agent Identity的信任验证。该规范现已发布，开发者可通过托管`ai-catalog.json`文件使其服务可发现。",
+      "category": "industry",
+      "score": 63,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmqi8ygw106qpslf0farqmsq7",
+      "title": "Omnigent开源：AI智能体团队元框架",
+      "title_en": "The future of coding is not one agent. It's a whole AI team. Omnigent lets you run a team of agents…",
+      "url": "https://x.com/Yuchenj_UW/status/2067273020352380950",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-06-17T15:47:50.000Z",
+      "summary": "编程的未来不是单一智能体，而是一个完整的AI团队。\n\nOmnigent让你在一个实时会话中运行一个智能体团队：Claude Code、Codex、Cursor、Pi，以及你自己的智能体。\n\n它是一个面向AI智能体的元框架，基于我们内部的Databricks开发工具构建，现已开源给所有人。\n\n由传奇人物@matei_zaharia和Databricks AI团队打造。没错，Matei仍然编写大量代码，包括Omnigent和我们产品的前端代码。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmqhjhcgy04ybsle119py0l6t",
+      "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
+      "title_en": "Wolfram 语言和 Mathematica 15 版、AI 助手、符号音乐等",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-17T03:25:14.439Z",
+      "summary": "在 Mathematica 诞生近 38 年后，Wolfram 语言与 Mathematica 发布 Version 15。每个笔记本内置 AI 助手，支持从 AI 环境中直接调用 Wolfram 技术。新增符号音乐系统、大规模时间序列与事件序列处理、分类数据计算、模型拟合超函数 ModelFit。笔记本支持千兆字节级大小与实时查找，首次引入侧边栏、视觉主题及弃用功能样式。强化了表格连接、多点可视化、图形刻度绘制与轨道运行计算等功能。DSolve 拐角处获得 AI 方法辅助，支持偏微分方程曲线坐标求解。扩充了矩阵分解、多元 zeta 函数与调和数、流线型部分分式分解。强化了 WebSocket 实时连接、Python 交互改进，支持 CUDA 内核作为外部函数，Wolfram Compute Services 新增 GPU 支持。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
     {
       "id": "cmqh9tq4602bvsle1zonzmrg9",
       "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
@@ -242,44 +367,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmqh78bnl01mrsle11gmghtv0",
-      "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
-      "title_en": "Draft mode for V8.1 and new feature previews",
-      "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-06-16T22:04:29.000Z",
-      "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmqh1kwnx002asle1lo0di435",
-      "title": "Anthropic：智能体编码中专业知识回报持续存在",
-      "title_en": "Agentic coding and persistent returns to expertise",
-      "url": "https://www.anthropic.com/research/claude-code-expertise",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-16T19:35:22.252Z",
-      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqh02ula025kslpus6x0agms",
@@ -296,24 +384,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmqh269tl004esle1vztceb34",
-      "title": "公开聊天数据能否预测真实世界AI失调？",
-      "title_en": "Can public chat data predict real-world AI misalignments？",
-      "url": "https://alignment.openai.com/validating-public-evals",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "publishedAt": "2026-06-16T18:00:00.000Z",
-      "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqgvsb7s00z8slpu7p31yn17",
@@ -330,64 +401,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmqguowxx00nuslpuulayglav",
-      "title": "Copilot Cowork 全球正式可用，支持多模型",
-      "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
-      "url": "https://x.com/satyanadella/status/2066911399494963335",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-06-16T15:50:53.000Z",
-      "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmqfjwpb500o2slq8vbryuxyg",
-      "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
-      "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
-      "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmqe01h4c01klslrdw4s96n1z",
-      "title": "不，并不是每个人都在所有事情上都使用人工智能",
-      "title_en": null,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-14T16:14:04.686Z",
-      "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1423460064",
+      "id": "rss_1057198311",
       "title": "具透 | macOS 27 首个开发者测试版来了，这些是值得你关注的新特性",
       "title_en": null,
       "url": "https://sspai.com/post/111030",
@@ -399,37 +416,24 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2807400352",
-      "title": "IBM Vault Enterprise 2.0 为企业身份安全带来自动化 LDAP 密钥管理",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 16 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/opKi68pYLdwYETCOzR4t?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "cmqgz178201wfslpu25xb10dm",
+      "title": "微软考虑为 Copilot Cowork 集成 DeepSeek V4",
+      "title_en": "Axios reports that Microsoft is considering a Microsoft-hosted version of DeepSeek V4 as a cheaper m…",
+      "url": "https://x.com/kimmonismus/status/2066946013026263110",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-06-16T18:08:26.000Z",
+      "summary": "微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
       "interestTags": [
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Tue, 16 Ju"
-    },
-    {
-      "id": "rss_2882866909",
-      "title": "Swiggy通过实时机器学习排序提升搜索自动补全效果",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 15 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/WeSfARjdEkQpMaFYOb3s?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 15 Ju"
+      "techScore": 1,
+      "formattedTime": "昨天"
     }
   ]
 }
