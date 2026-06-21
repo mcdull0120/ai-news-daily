@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-20T00:13:42.549266+00:00",
+  "generatedAt": "2026-06-21T00:12:45.257053+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
+  "totalFiltered": 147,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -26,7 +26,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqk6htvg03g1slhi1nagpabj",
@@ -44,7 +44,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqk5umoz03d0slhi4qnma1r3",
@@ -64,7 +64,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -84,7 +84,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqkxgxrb003oslu7irf0vf59",
@@ -103,7 +103,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqkhbjf5069eslhiepqm55gr",
@@ -121,7 +121,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -141,7 +141,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqh9tq4602bvsle1zonzmrg9",
@@ -159,10 +159,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_2389363743",
+        "id": "rss_2304774010",
         "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
         "title_en": null,
         "url": "https://sspai.com/post/111198",
@@ -174,7 +174,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -193,7 +193,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -210,7 +210,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -227,7 +227,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ]
   },
@@ -248,7 +248,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqkzxdp0009eslcw0jlr6pvl",
@@ -266,7 +266,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqkxgxrb003oslu7irf0vf59",
@@ -285,7 +285,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqkhbjf5069eslhiepqm55gr",
@@ -303,7 +303,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -321,7 +321,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqk6htvg03g1slhi1nagpabj",
@@ -339,7 +339,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqk5umoz03d0slhi4qnma1r3",
@@ -359,7 +359,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqjgpxud036hslmhb8vvzvs7",
@@ -376,7 +376,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -393,7 +393,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -410,7 +410,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqh9tq4602bvsle1zonzmrg9",
@@ -428,10 +428,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_2389363743",
+      "id": "rss_2304774010",
       "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
       "title_en": null,
       "url": "https://sspai.com/post/111198",
@@ -443,7 +443,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     }
   ]
 }
