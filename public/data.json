@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T00:12:45.257053+00:00",
+  "generatedAt": "2026-06-22T00:16:09.872302+00:00",
   "totalSource": 160,
   "totalFiltered": 147,
   "totalSelected": 12,
@@ -11,10 +11,29 @@
   "grouped": {
     "app": [
       {
+        "id": "cmqnokdyn007jsl4nxazzzxp1",
+        "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+        "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
+        "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+        "permalink": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "publishedAt": "2026-06-21T10:11:21.000Z",
+        "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+        "category": "ai-products",
+        "score": 78,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
+      {
         "id": "cmqldpkuw0012slf9dif29msc",
         "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
         "title_en": "OpenRouter vs LiteLLM： Which LLM Gateway Fits Your Stack？",
         "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
+        "permalink": "https://aihot.virxact.com/items/cmqldpkuw0012slf9dif29msc",
         "source": "OpenRouter：Announcements（RSS）",
         "publishedAt": "2026-06-19T15:00:00.000Z",
         "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。",
@@ -26,13 +45,14 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqk6htvg03g1slhi1nagpabj",
         "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
         "title_en": null,
         "url": "https://www.ithome.com/0/966/295.htm",
+        "permalink": "https://aihot.virxact.com/items/cmqk6htvg03g1slhi1nagpabj",
         "source": "IT之家（RSS）",
         "publishedAt": "2026-06-18T23:56:08.000Z",
         "summary": "商务部等8部门近日印发《关于加快\"人工智能 + 消费\"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。",
@@ -44,27 +64,65 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmqnbj6i202ndsl8hb9fghqqf",
+        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+        "title_en": "你好，20岁的老爸",
+        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+        "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+        "source": "公众号：腾讯元宝",
+        "publishedAt": "2026-06-21T04:51:10.000Z",
+        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
+        "category": "tip",
+        "score": 64,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
       },
       {
-        "id": "cmqk5umoz03d0slhi4qnma1r3",
-        "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
-        "title_en": "Viktor grew a $20M annualized revenue run rate outside Microsoft Teams. Now it works inside Teams. …",
-        "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-18T23:45:03.000Z",
-        "summary": "AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。",
-        "category": "ai-products",
+        "id": "cmqkc8a7h0515slhis4sq6oxb",
+        "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+        "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
+        "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+        "permalink": "https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb",
+        "source": "MarkTechPost（RSS）",
+        "publishedAt": "2026-06-19T02:44:12.000Z",
+        "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
+        "category": "tip",
         "score": 75,
         "selected": true,
         "interestTags": [
-          "app",
           "writing",
-          "education",
           "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
+      },
+      {
+        "id": "cmqh9tq4602bvsle1zonzmrg9",
+        "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
+        "title_en": null,
+        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+        "permalink": "https://aihot.virxact.com/items/cmqh9tq4602bvsle1zonzmrg9",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-16T23:09:29.793Z",
+        "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "interestTags": [
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
       }
     ],
     "creative": [
@@ -73,6 +131,7 @@
         "title": "Cloudflare 为 AI 智能体推出临时账户",
         "title_en": "Temporary Cloudflare Accounts for AI agents",
         "url": "https://blog.cloudflare.com/temporary-accounts",
+        "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
         "source": "Cloudflare Blog",
         "publishedAt": "2026-06-19T13:00:00.000Z",
         "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
@@ -84,13 +143,14 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqkxgxrb003oslu7irf0vf59",
         "title": "/youtube-notetaker：YT 视频转 Artifacts",
         "title_en": "YT Videos -&gt； Aritfacts Watch how I use my new /youtube-notetaker skill to generate artifacts fro…",
         "url": "https://x.com/omarsar0/status/2067952726282031411",
+        "permalink": "https://aihot.virxact.com/items/cmqkxgxrb003oslu7irf0vf59",
         "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "publishedAt": "2026-06-19T12:48:45.000Z",
         "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
@@ -103,13 +163,14 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqkhbjf5069eslhiepqm55gr",
         "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
         "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
         "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
+        "permalink": "https://aihot.virxact.com/items/cmqkhbjf5069eslhiepqm55gr",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "publishedAt": "2026-06-19T04:49:25.000Z",
         "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
@@ -121,59 +182,6 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmqkc8a7h0515slhis4sq6oxb",
-        "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
-        "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
-        "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
-        "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-06-19T02:44:12.000Z",
-        "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqh9tq4602bvsle1zonzmrg9",
-        "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
-        "title_en": null,
-        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-16T23:09:29.793Z",
-        "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_2304774010",
-        "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
-        "title_en": null,
-        "url": "https://sspai.com/post/111198",
-        "source": "少数派",
-        "publishedAt": "2026-06-18T03:30:00+00:00",
-        "summary": "新环境、弧形窗口，visionOS 27 中值得关系的新内容。<a href=\"https://sspai.com/post/111198\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       }
     ],
@@ -183,6 +191,7 @@
         "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
         "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
         "url": "https://www.ithome.com/0/966/233.htm",
+        "permalink": "https://aihot.virxact.com/items/cmqjgpxud036hslmhb8vvzvs7",
         "source": "IT之家（RSS）",
         "publishedAt": "2026-06-18T12:11:32.000Z",
         "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
@@ -193,13 +202,14 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmqjmtwvi04vqslmh55vbp7oh",
         "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
         "title_en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
         "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "permalink": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh",
         "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "publishedAt": "2026-06-18T08:00:00.000Z",
         "summary": "波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。",
@@ -210,13 +220,14 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmqiewg85009zsl5w0gbt6hbe",
         "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
         "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
         "url": "https://x.com/kimmonismus/status/2067310431669223425",
+        "permalink": "https://aihot.virxact.com/items/cmqiewg85009zsl5w0gbt6hbe",
         "source": "X：Kim (@kimmonismus)",
         "publishedAt": "2026-06-17T18:16:30.000Z",
         "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
@@ -227,16 +238,53 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
     {
+      "id": "cmqnokdyn007jsl4nxazzzxp1",
+      "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+      "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
+      "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+      "permalink": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-21T10:11:21.000Z",
+      "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "cmqnbj6i202ndsl8hb9fghqqf",
+      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+      "title_en": "你好，20岁的老爸",
+      "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+      "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+      "source": "公众号：腾讯元宝",
+      "publishedAt": "2026-06-21T04:51:10.000Z",
+      "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
       "id": "cmqldpkuw0012slf9dif29msc",
       "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
       "title_en": "OpenRouter vs LiteLLM： Which LLM Gateway Fits Your Stack？",
       "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
+      "permalink": "https://aihot.virxact.com/items/cmqldpkuw0012slf9dif29msc",
       "source": "OpenRouter：Announcements（RSS）",
       "publishedAt": "2026-06-19T15:00:00.000Z",
       "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。",
@@ -248,13 +296,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqkzxdp0009eslcw0jlr6pvl",
       "title": "Cloudflare 为 AI 智能体推出临时账户",
       "title_en": "Temporary Cloudflare Accounts for AI agents",
       "url": "https://blog.cloudflare.com/temporary-accounts",
+      "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
       "source": "Cloudflare Blog",
       "publishedAt": "2026-06-19T13:00:00.000Z",
       "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
@@ -266,13 +315,14 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqkxgxrb003oslu7irf0vf59",
       "title": "/youtube-notetaker：YT 视频转 Artifacts",
       "title_en": "YT Videos -&gt； Aritfacts Watch how I use my new /youtube-notetaker skill to generate artifacts fro…",
       "url": "https://x.com/omarsar0/status/2067952726282031411",
+      "permalink": "https://aihot.virxact.com/items/cmqkxgxrb003oslu7irf0vf59",
       "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
       "publishedAt": "2026-06-19T12:48:45.000Z",
       "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
@@ -285,13 +335,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqkhbjf5069eslhiepqm55gr",
       "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
       "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
       "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
+      "permalink": "https://aihot.virxact.com/items/cmqkhbjf5069eslhiepqm55gr",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "publishedAt": "2026-06-19T04:49:25.000Z",
       "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
@@ -303,13 +354,14 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
       "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
       "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
       "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+      "permalink": "https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb",
       "source": "MarkTechPost（RSS）",
       "publishedAt": "2026-06-19T02:44:12.000Z",
       "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
@@ -321,13 +373,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqk6htvg03g1slhi1nagpabj",
       "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
       "title_en": null,
       "url": "https://www.ithome.com/0/966/295.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqk6htvg03g1slhi1nagpabj",
       "source": "IT之家（RSS）",
       "publishedAt": "2026-06-18T23:56:08.000Z",
       "summary": "商务部等8部门近日印发《关于加快\"人工智能 + 消费\"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。",
@@ -339,33 +392,14 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmqk5umoz03d0slhi4qnma1r3",
-      "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
-      "title_en": "Viktor grew a $20M annualized revenue run rate outside Microsoft Teams. Now it works inside Teams. …",
-      "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-18T23:45:03.000Z",
-      "summary": "AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqjgpxud036hslmhb8vvzvs7",
       "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
       "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
       "url": "https://www.ithome.com/0/966/233.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqjgpxud036hslmhb8vvzvs7",
       "source": "IT之家（RSS）",
       "publishedAt": "2026-06-18T12:11:32.000Z",
       "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
@@ -376,13 +410,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqjmtwvi04vqslmh55vbp7oh",
       "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
       "title_en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "permalink": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "publishedAt": "2026-06-18T08:00:00.000Z",
       "summary": "波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。",
@@ -393,13 +428,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqiewg85009zsl5w0gbt6hbe",
       "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
       "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
       "url": "https://x.com/kimmonismus/status/2067310431669223425",
+      "permalink": "https://aihot.virxact.com/items/cmqiewg85009zsl5w0gbt6hbe",
       "source": "X：Kim (@kimmonismus)",
       "publishedAt": "2026-06-17T18:16:30.000Z",
       "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
@@ -410,13 +446,14 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqh9tq4602bvsle1zonzmrg9",
       "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
       "title_en": null,
       "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+      "permalink": "https://aihot.virxact.com/items/cmqh9tq4602bvsle1zonzmrg9",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "publishedAt": "2026-06-16T23:09:29.793Z",
       "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
@@ -428,22 +465,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_2304774010",
-      "title": "具透 | visionOS 27 首个开发者测试版中值得关注的新内容",
-      "title_en": null,
-      "url": "https://sspai.com/post/111198",
-      "source": "少数派",
-      "publishedAt": "2026-06-18T03:30:00+00:00",
-      "summary": "新环境、弧形窗口，visionOS 27 中值得关系的新内容。<a href=\"https://sspai.com/post/111198\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "5天前"
     }
   ]
 }
