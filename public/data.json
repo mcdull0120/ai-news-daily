@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-22T00:16:09.872302+00:00",
+  "generatedAt": "2026-06-23T00:11:35.888207+00:00",
   "totalSource": 160,
-  "totalFiltered": 147,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,7 +9,107 @@
     "bilibili": 0
   },
   "grouped": {
+    "creative": [
+      {
+        "id": "cmqpu6z9y03w3slp59okauzsw",
+        "title": "Aleph 2.0 现已集成到 Figma Weave",
+        "title_en": "Aleph 2.0 Is Now in Figma Weave",
+        "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+        "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-06-22T23:18:22.492Z",
+        "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
+        "category": "ai-products",
+        "score": 59,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmqpbc21e08laslx6gica1m67",
+        "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
+        "title_en": "聊聊我刚刚拿到测试的微信Agent。",
+        "url": "https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA",
+        "permalink": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-06-22T13:34:14.000Z",
+        "summary": "微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的\"问小微\"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置\"小工具\"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。",
+        "category": "ai-products",
+        "score": 72,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "cmqkzxdp0009eslcw0jlr6pvl",
+        "title": "Cloudflare 为 AI 智能体推出临时账户",
+        "title_en": "Temporary Cloudflare Accounts for AI agents",
+        "url": "https://blog.cloudflare.com/temporary-accounts",
+        "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
+        "source": "Cloudflare Blog",
+        "publishedAt": "2026-06-19T13:00:00.000Z",
+        "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
+        "category": "ai-products",
+        "score": 62,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      }
+    ],
     "app": [
+      {
+        "id": "cmqppyj5702txslp5d7ahupmr",
+        "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+        "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
+        "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+        "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-06-22T21:19:56.013Z",
+        "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
+        "category": "ai-products",
+        "score": 55,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmqpl4smd01j1slp5npj3krmn",
+        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+        "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
+        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
+        "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-22T18:49:44.000Z",
+        "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
+        "category": "industry",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
       {
         "id": "cmqnokdyn007jsl4nxazzzxp1",
         "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
@@ -26,45 +126,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "cmqldpkuw0012slf9dif29msc",
-        "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
-        "title_en": "OpenRouter vs LiteLLM： Which LLM Gateway Fits Your Stack？",
-        "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
-        "permalink": "https://aihot.virxact.com/items/cmqldpkuw0012slf9dif29msc",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-06-19T15:00:00.000Z",
-        "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。",
-        "category": "tip",
-        "score": 68,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqk6htvg03g1slhi1nagpabj",
-        "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/966/295.htm",
-        "permalink": "https://aihot.virxact.com/items/cmqk6htvg03g1slhi1nagpabj",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-18T23:56:08.000Z",
-        "summary": "商务部等8部门近日印发《关于加快\"人工智能 + 消费\"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。",
-        "category": "industry",
-        "score": 76,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -84,7 +146,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -103,7 +165,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmqh9tq4602bvsle1zonzmrg9",
@@ -122,67 +184,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmqkzxdp0009eslcw0jlr6pvl",
-        "title": "Cloudflare 为 AI 智能体推出临时账户",
-        "title_en": "Temporary Cloudflare Accounts for AI agents",
-        "url": "https://blog.cloudflare.com/temporary-accounts",
-        "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
-        "source": "Cloudflare Blog",
-        "publishedAt": "2026-06-19T13:00:00.000Z",
-        "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqkxgxrb003oslu7irf0vf59",
-        "title": "/youtube-notetaker：YT 视频转 Artifacts",
-        "title_en": "YT Videos -&gt； Aritfacts Watch how I use my new /youtube-notetaker skill to generate artifacts fro…",
-        "url": "https://x.com/omarsar0/status/2067952726282031411",
-        "permalink": "https://aihot.virxact.com/items/cmqkxgxrb003oslu7irf0vf59",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "publishedAt": "2026-06-19T12:48:45.000Z",
-        "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqkhbjf5069eslhiepqm55gr",
-        "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
-        "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
-        "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
-        "permalink": "https://aihot.virxact.com/items/cmqkhbjf5069eslhiepqm55gr",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-06-19T04:49:25.000Z",
-        "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
-        "category": "ai-products",
-        "score": 79,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "6天前"
       }
     ],
     "productivity": [
@@ -202,7 +204,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -220,7 +222,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -238,11 +240,90 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmqpu6z9y03w3slp59okauzsw",
+      "title": "Aleph 2.0 现已集成到 Figma Weave",
+      "title_en": "Aleph 2.0 Is Now in Figma Weave",
+      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-22T23:18:22.492Z",
+      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
+      "category": "ai-products",
+      "score": 59,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmqppyj5702txslp5d7ahupmr",
+      "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+      "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
+      "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+      "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-22T21:19:56.013Z",
+      "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqpl4smd01j1slp5npj3krmn",
+      "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+      "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
+      "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-22T18:49:44.000Z",
+      "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmqpbc21e08laslx6gica1m67",
+      "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
+      "title_en": "聊聊我刚刚拿到测试的微信Agent。",
+      "url": "https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA",
+      "permalink": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-22T13:34:14.000Z",
+      "summary": "微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的\"问小微\"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置\"小工具\"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
     {
       "id": "cmqnokdyn007jsl4nxazzzxp1",
       "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
@@ -259,7 +340,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqnbj6i202ndsl8hb9fghqqf",
@@ -277,26 +358,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmqldpkuw0012slf9dif29msc",
-      "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
-      "title_en": "OpenRouter vs LiteLLM： Which LLM Gateway Fits Your Stack？",
-      "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
-      "permalink": "https://aihot.virxact.com/items/cmqldpkuw0012slf9dif29msc",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-19T15:00:00.000Z",
-      "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqkzxdp0009eslcw0jlr6pvl",
@@ -315,46 +377,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmqkxgxrb003oslu7irf0vf59",
-      "title": "/youtube-notetaker：YT 视频转 Artifacts",
-      "title_en": "YT Videos -&gt； Aritfacts Watch how I use my new /youtube-notetaker skill to generate artifacts fro…",
-      "url": "https://x.com/omarsar0/status/2067952726282031411",
-      "permalink": "https://aihot.virxact.com/items/cmqkxgxrb003oslu7irf0vf59",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-06-19T12:48:45.000Z",
-      "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmqkhbjf5069eslhiepqm55gr",
-      "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
-      "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
-      "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
-      "permalink": "https://aihot.virxact.com/items/cmqkhbjf5069eslhiepqm55gr",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-19T04:49:25.000Z",
-      "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -371,25 +394,6 @@
       "interestTags": [
         "writing",
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmqk6htvg03g1slhi1nagpabj",
-      "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/966/295.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqk6htvg03g1slhi1nagpabj",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T23:56:08.000Z",
-      "summary": "商务部等8部门近日印发《关于加快\"人工智能 + 消费\"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "education"
       ],
       "techScore": -1,
       "formattedTime": "3天前"
@@ -410,7 +414,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -428,7 +432,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -446,7 +450,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqh9tq4602bvsle1zonzmrg9",
@@ -465,7 +469,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     }
   ]
 }
