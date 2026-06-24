@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-23T00:11:35.888207+00:00",
+  "generatedAt": "2026-06-24T00:02:33.702654+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 140,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,26 +9,80 @@
     "bilibili": 0
   },
   "grouped": {
-    "creative": [
+    "app": [
       {
-        "id": "cmqpu6z9y03w3slp59okauzsw",
-        "title": "Aleph 2.0 现已集成到 Figma Weave",
-        "title_en": "Aleph 2.0 Is Now in Figma Weave",
-        "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-        "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-06-22T23:18:22.492Z",
-        "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-        "category": "ai-products",
-        "score": 59,
+        "id": "cmqr73j5g0h1nslp5g9y52k0v",
+        "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+        "title_en": null,
+        "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+        "permalink": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-23T21:48:25.964Z",
+        "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
+        "category": "paper",
+        "score": 71,
         "selected": true,
         "interestTags": [
-          "creative",
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmqqjmqyn0afsslp5fgdp81yv",
+        "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+        "title_en": null,
+        "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
+        "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+        "source": "公众号：千问APP（阿里）",
+        "publishedAt": "2026-06-23T10:54:49.000Z",
+        "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
+        "category": "ai-products",
+        "score": 60,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
+      {
+        "id": "cmqpl4smd01j1slp5npj3krmn",
+        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+        "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
+        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
+        "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-06-22T18:49:44.000Z",
+        "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
+        "category": "industry",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmqr6bnad0gw8slp5xmrffynm",
+        "title": "Runway推出Seedance 4K等三款新模型",
+        "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
+        "url": "https://x.com/runwayml/status/2069535148450705517",
+        "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+        "source": "X：Runway (@runwayml)",
+        "publishedAt": "2026-06-23T21:36:44.000Z",
+        "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
+        "category": "ai-products",
+        "score": 72,
+        "selected": true,
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
       },
       {
         "id": "cmqpbc21e08laslx6gica1m67",
@@ -49,81 +103,44 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmqkzxdp0009eslcw0jlr6pvl",
-        "title": "Cloudflare 为 AI 智能体推出临时账户",
-        "title_en": "Temporary Cloudflare Accounts for AI agents",
-        "url": "https://blog.cloudflare.com/temporary-accounts",
-        "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
-        "source": "Cloudflare Blog",
-        "publishedAt": "2026-06-19T13:00:00.000Z",
-        "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
+        "id": "cmqpu6z9y03w3slp59okauzsw",
+        "title": "Aleph 2.0 现已集成到 Figma Weave",
+        "title_en": "Aleph 2.0 Is Now in Figma Weave",
+        "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+        "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-06-21T16:00:00.000Z",
+        "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
         "category": "ai-products",
-        "score": 62,
+        "score": 59,
         "selected": true,
         "interestTags": [
           "creative",
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "2天前"
       }
     ],
-    "app": [
+    "education": [
       {
-        "id": "cmqppyj5702txslp5d7ahupmr",
-        "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
-        "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
-        "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-        "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-06-22T21:19:56.013Z",
-        "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
-        "category": "ai-products",
-        "score": 55,
+        "id": "cmqr02j580f8oslp5i6wajucu",
+        "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
+        "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
+        "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
+        "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
+        "source": "Apple Machine Learning Research（RSS）",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
+        "category": "paper",
+        "score": 68,
         "selected": true,
         "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmqpl4smd01j1slp5npj3krmn",
-        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-        "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
-        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
-        "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-06-22T18:49:44.000Z",
-        "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
-        "category": "industry",
-        "score": 70,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmqnokdyn007jsl4nxazzzxp1",
-        "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
-        "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
-        "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
-        "permalink": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-06-21T10:11:21.000Z",
-        "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
-        "category": "ai-products",
-        "score": 78,
-        "selected": true,
-        "interestTags": [
-          "app"
+          "education"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -146,7 +163,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -165,26 +182,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmqh9tq4602bvsle1zonzmrg9",
-        "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
-        "title_en": null,
-        "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-        "permalink": "https://aihot.virxact.com/items/cmqh9tq4602bvsle1zonzmrg9",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-16T23:09:29.793Z",
-        "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -204,7 +202,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -222,7 +220,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -240,50 +238,82 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqpu6z9y03w3slp59okauzsw",
-      "title": "Aleph 2.0 现已集成到 Figma Weave",
-      "title_en": "Aleph 2.0 Is Now in Figma Weave",
-      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-22T23:18:22.492Z",
-      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-      "category": "ai-products",
-      "score": 59,
+      "id": "cmqr73j5g0h1nslp5g9y52k0v",
+      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+      "title_en": null,
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "permalink": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-23T21:48:25.964Z",
+      "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
+      "category": "paper",
+      "score": 71,
       "selected": true,
       "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmqppyj5702txslp5d7ahupmr",
-      "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
-      "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
-      "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-      "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-22T21:19:56.013Z",
-      "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
+        "app"
       ],
       "techScore": -1,
       "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqr6bnad0gw8slp5xmrffynm",
+      "title": "Runway推出Seedance 4K等三款新模型",
+      "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
+      "url": "https://x.com/runwayml/status/2069535148450705517",
+      "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-06-23T21:36:44.000Z",
+      "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqqjmqyn0afsslp5fgdp81yv",
+      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
+      "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-06-23T10:54:49.000Z",
+      "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
+    {
+      "id": "cmqr02j580f8oslp5i6wajucu",
+      "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
+      "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
+      "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
+      "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
+      "category": "paper",
+      "score": 68,
+      "selected": true,
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqpl4smd01j1slp5npj3krmn",
@@ -301,7 +331,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqpbc21e08laslx6gica1m67",
@@ -322,25 +352,27 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmqnokdyn007jsl4nxazzzxp1",
-      "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
-      "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
-      "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
-      "permalink": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-21T10:11:21.000Z",
-      "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+      "id": "cmqpu6z9y03w3slp59okauzsw",
+      "title": "Aleph 2.0 现已集成到 Figma Weave",
+      "title_en": "Aleph 2.0 Is Now in Figma Weave",
+      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-21T16:00:00.000Z",
+      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
       "category": "ai-products",
-      "score": 78,
+      "score": 59,
       "selected": true,
       "interestTags": [
-        "app"
+        "creative",
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqnbj6i202ndsl8hb9fghqqf",
@@ -358,26 +390,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqkzxdp0009eslcw0jlr6pvl",
-      "title": "Cloudflare 为 AI 智能体推出临时账户",
-      "title_en": "Temporary Cloudflare Accounts for AI agents",
-      "url": "https://blog.cloudflare.com/temporary-accounts",
-      "permalink": "https://aihot.virxact.com/items/cmqkzxdp0009eslcw0jlr6pvl",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-06-19T13:00:00.000Z",
-      "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -396,7 +409,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqjgpxud036hslmhb8vvzvs7",
@@ -414,7 +427,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -432,7 +445,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqiewg85009zsl5w0gbt6hbe",
@@ -448,25 +461,6 @@
       "selected": true,
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmqh9tq4602bvsle1zonzmrg9",
-      "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
-      "title_en": null,
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-      "permalink": "https://aihot.virxact.com/items/cmqh9tq4602bvsle1zonzmrg9",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T23:09:29.793Z",
-      "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "interestTags": [
-        "writing",
-        "education"
       ],
       "techScore": -1,
       "formattedTime": "6天前"
