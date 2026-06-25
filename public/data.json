@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-24T00:02:33.702654+00:00",
+  "generatedAt": "2026-06-25T00:17:13.075067+00:00",
   "totalSource": 160,
-  "totalFiltered": 140,
+  "totalFiltered": 144,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,61 +11,87 @@
   "grouped": {
     "app": [
       {
-        "id": "cmqr73j5g0h1nslp5g9y52k0v",
-        "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-        "title_en": null,
-        "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-        "permalink": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-23T21:48:25.964Z",
-        "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
-        "category": "paper",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmqqjmqyn0afsslp5fgdp81yv",
-        "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-        "title_en": null,
-        "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
-        "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-        "source": "公众号：千问APP（阿里）",
-        "publishedAt": "2026-06-23T10:54:49.000Z",
-        "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
+        "id": "cmqshf6dl0354slfug4vof984",
+        "title": "Perplexity推出Computer for Counsel",
+        "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
+        "url": "https://x.com/perplexity_ai/status/2069866668671766804",
+        "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
+        "source": "X：Perplexity (@perplexity_ai)",
+        "publishedAt": "2026-06-24T19:34:04.000Z",
+        "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
         "category": "ai-products",
-        "score": 60,
+        "score": 65,
         "selected": true,
         "interestTags": [
-          "app"
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmqpl4smd01j1slp5npj3krmn",
-        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-        "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
-        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
-        "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-06-22T18:49:44.000Z",
-        "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
-        "category": "industry",
-        "score": 70,
+        "id": "cmqs319vw0qkcslp52gzwr77q",
+        "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
+        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-06-24T06:00:00.000Z",
+        "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
+        "category": "ai-products",
+        "score": 55,
         "selected": true,
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "18小时前"
+      },
+      {
+        "id": "cmqrdmylf0iyeslp50lteppvq",
+        "title": "今天，豆包正式推出专业版",
+        "title_en": null,
+        "url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
+        "permalink": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq",
+        "source": "公众号：豆包（字节）",
+        "publishedAt": "2026-06-24T01:00:00.000Z",
+        "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
+        "category": "ai-products",
+        "score": 77,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
       }
     ],
     "creative": [
+      {
+        "id": "cmqsbrhhm01o1slfu2kei9qhy",
+        "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
+        "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+        "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
+        "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-06-24T16:49:01.000Z",
+        "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
+        "category": "ai-products",
+        "score": 74,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmqr6bnad0gw8slp5xmrffynm",
         "title": "Runway推出Seedance 4K等三款新模型",
@@ -82,7 +108,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqpbc21e08laslx6gica1m67",
@@ -101,26 +127,6 @@
           "app",
           "writing",
           "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqpu6z9y03w3slp59okauzsw",
-        "title": "Aleph 2.0 现已集成到 Figma Weave",
-        "title_en": "Aleph 2.0 Is Now in Figma Weave",
-        "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-        "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-06-21T16:00:00.000Z",
-        "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-        "category": "ai-products",
-        "score": 59,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -143,7 +149,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -163,7 +169,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -182,7 +188,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
+      },
+      {
+        "id": "rss_1900436627",
+        "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+        "title_en": null,
+        "url": "https://sspai.com/post/111410",
+        "source": "少数派",
+        "publishedAt": "2026-06-23T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
@@ -202,7 +223,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
         "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -220,46 +241,90 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "cmqiewg85009zsl5w0gbt6hbe",
-        "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
-        "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
-        "url": "https://x.com/kimmonismus/status/2067310431669223425",
-        "permalink": "https://aihot.virxact.com/items/cmqiewg85009zsl5w0gbt6hbe",
-        "source": "X：Kim (@kimmonismus)",
-        "publishedAt": "2026-06-17T18:16:30.000Z",
-        "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
-        "category": "industry",
-        "score": 79,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "6天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqr73j5g0h1nslp5g9y52k0v",
-      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
-      "title_en": null,
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-      "permalink": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-23T21:48:25.964Z",
-      "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
-      "category": "paper",
-      "score": 71,
+      "id": "cmqshf6dl0354slfug4vof984",
+      "title": "Perplexity推出Computer for Counsel",
+      "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
+      "url": "https://x.com/perplexity_ai/status/2069866668671766804",
+      "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-06-24T19:34:04.000Z",
+      "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
+      "category": "ai-products",
+      "score": 65,
       "selected": true,
       "interestTags": [
-        "app"
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmqsbrhhm01o1slfu2kei9qhy",
+      "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
+      "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+      "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
+      "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-24T16:49:01.000Z",
+      "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmqs319vw0qkcslp52gzwr77q",
+      "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
+      "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-24T06:00:00.000Z",
+      "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
+    {
+      "id": "cmqrdmylf0iyeslp50lteppvq",
+      "title": "今天，豆包正式推出专业版",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
+      "permalink": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq",
+      "source": "公众号：豆包（字节）",
+      "publishedAt": "2026-06-24T01:00:00.000Z",
+      "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     },
     {
       "id": "cmqr6bnad0gw8slp5xmrffynm",
@@ -277,25 +342,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmqqjmqyn0afsslp5fgdp81yv",
-      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
-      "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-06-23T10:54:49.000Z",
-      "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqr02j580f8oslp5i6wajucu",
@@ -313,25 +360,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqpl4smd01j1slp5npj3krmn",
-      "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
-      "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
-      "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-22T18:49:44.000Z",
-      "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqpbc21e08laslx6gica1m67",
@@ -352,26 +381,6 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqpu6z9y03w3slp59okauzsw",
-      "title": "Aleph 2.0 现已集成到 Figma Weave",
-      "title_en": "Aleph 2.0 Is Now in Figma Weave",
-      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-21T16:00:00.000Z",
-      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
@@ -390,7 +399,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
@@ -409,7 +418,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqjgpxud036hslmhb8vvzvs7",
@@ -427,7 +436,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmqjmtwvi04vqslmh55vbp7oh",
@@ -445,25 +454,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "cmqiewg85009zsl5w0gbt6hbe",
-      "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
-      "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
-      "url": "https://x.com/kimmonismus/status/2067310431669223425",
-      "permalink": "https://aihot.virxact.com/items/cmqiewg85009zsl5w0gbt6hbe",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-06-17T18:16:30.000Z",
-      "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
+      "id": "rss_1900436627",
+      "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+      "title_en": null,
+      "url": "https://sspai.com/post/111410",
+      "source": "少数派",
+      "publishedAt": "2026-06-23T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "昨天"
     }
   ]
 }
