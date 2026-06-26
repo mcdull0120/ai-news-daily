@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-25T00:17:13.075067+00:00",
+  "generatedAt": "2026-06-26T00:13:50.903243+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,66 +11,82 @@
   "grouped": {
     "app": [
       {
-        "id": "cmqshf6dl0354slfug4vof984",
-        "title": "Perplexity推出Computer for Counsel",
-        "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
-        "url": "https://x.com/perplexity_ai/status/2069866668671766804",
-        "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
-        "source": "X：Perplexity (@perplexity_ai)",
-        "publishedAt": "2026-06-24T19:34:04.000Z",
-        "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
+        "id": "cmqu24x8v00lssl8065rajmsy",
+        "title": "Claude Code v2.1.193 发布",
+        "title_en": "v2.1.193",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+        "permalink": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "publishedAt": "2026-06-25T21:45:57.000Z",
+        "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmqu0cbyl006isl80rufd707u",
+        "title": "Codex 在 ChatGPT 移动 App 正式可用",
+        "title_en": "Codex in the ChatGPT mobile app is now generally available. Connect your phone and computer more se…",
+        "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
+        "permalink": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-06-25T21:15:18.000Z",
+        "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmqtp5syl05k5sl0ec5cvuedt",
+        "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
+        "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
+        "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
+        "permalink": "https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-06-25T16:04:32.000Z",
+        "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
+        "category": "tip",
+        "score": 73,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmqtun7jv06zvsl0ejc2rnrpp",
+        "title": "Runway发布Agent 2.0",
+        "title_en": "Introducing Agent 2.0",
+        "url": "https://runwayml.com/news/introducing-agent-2",
+        "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-06-25T18:41:58.502Z",
+        "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
         "category": "ai-products",
         "score": 65,
         "selected": true,
         "interestTags": [
+          "creative",
           "app",
-          "writing",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "5小时前"
       },
-      {
-        "id": "cmqs319vw0qkcslp52gzwr77q",
-        "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
-        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-24T06:00:00.000Z",
-        "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
-        "category": "ai-products",
-        "score": 55,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "18小时前"
-      },
-      {
-        "id": "cmqrdmylf0iyeslp50lteppvq",
-        "title": "今天，豆包正式推出专业版",
-        "title_en": null,
-        "url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
-        "permalink": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq",
-        "source": "公众号：豆包（字节）",
-        "publishedAt": "2026-06-24T01:00:00.000Z",
-        "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
-        "category": "ai-products",
-        "score": 77,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      }
-    ],
-    "creative": [
       {
         "id": "cmqsbrhhm01o1slfu2kei9qhy",
         "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
@@ -90,43 +106,77 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmqr6bnad0gw8slp5xmrffynm",
-        "title": "Runway推出Seedance 4K等三款新模型",
-        "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
-        "url": "https://x.com/runwayml/status/2069535148450705517",
-        "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-        "source": "X：Runway (@runwayml)",
-        "publishedAt": "2026-06-23T21:36:44.000Z",
-        "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
-        "category": "ai-products",
-        "score": 72,
-        "selected": true,
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
       },
       {
-        "id": "cmqpbc21e08laslx6gica1m67",
-        "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-        "title_en": "聊聊我刚刚拿到测试的微信Agent。",
-        "url": "https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA",
-        "permalink": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-06-22T13:34:14.000Z",
-        "summary": "微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的\"问小微\"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置\"小工具\"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。",
+        "id": "cmqs319vw0qkcslp52gzwr77q",
+        "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
+        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-06-24T06:00:00.000Z",
+        "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
         "category": "ai-products",
-        "score": 72,
+        "score": 61,
         "selected": true,
         "interestTags": [
           "creative",
-          "app",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmqtu9a7r06x3sl0exw2blt0o",
+        "title": "赫库兰尼姆古卷首次被完整虚拟解读",
+        "title_en": "赫库兰尼姆的一卷古卷首次被解读",
+        "url": "https://scrollprize.org/firstscroll",
+        "permalink": "https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-06-25T18:03:58.685Z",
+        "summary": "研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。",
+        "category": "paper",
+        "score": 79,
+        "selected": true,
+        "interestTags": [
           "writing",
-          "productivity"
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmqnbj6i202ndsl8hb9fghqqf",
+        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+        "title_en": "你好，20岁的老爸",
+        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+        "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
+        "source": "公众号：腾讯元宝",
+        "publishedAt": "2026-06-21T04:51:10.000Z",
+        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
+        "category": "tip",
+        "score": 64,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "rss_811896971",
+        "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+        "title_en": null,
+        "url": "https://sspai.com/post/111410",
+        "source": "少数派",
+        "publishedAt": "2026-06-23T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -149,122 +199,139 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmqnbj6i202ndsl8hb9fghqqf",
-        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
-        "title_en": "你好，20岁的老爸",
-        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
-        "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
-        "source": "公众号：腾讯元宝",
-        "publishedAt": "2026-06-21T04:51:10.000Z",
-        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "3天前"
-      },
-      {
-        "id": "cmqkc8a7h0515slhis4sq6oxb",
-        "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
-        "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
-        "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
-        "permalink": "https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb",
-        "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-06-19T02:44:12.000Z",
-        "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_1900436627",
-        "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
-        "title_en": null,
-        "url": "https://sspai.com/post/111410",
-        "source": "少数派",
-        "publishedAt": "2026-06-23T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
       }
     ],
     "productivity": [
       {
-        "id": "cmqjgpxud036hslmhb8vvzvs7",
-        "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
-        "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
-        "url": "https://www.ithome.com/0/966/233.htm",
-        "permalink": "https://aihot.virxact.com/items/cmqjgpxud036hslmhb8vvzvs7",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-18T12:11:32.000Z",
-        "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
+        "id": "rss_2227172369",
+        "title": "必和必拓任命Jessica Farrell为北美区总裁，自7月1日起生效",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3869236511265792?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-26T00:00:00+00:00",
+        "summary": "6月26日，必和必拓宣布任命Jessica Farrell为北美区总裁，自2026年7月1日起生效。据介绍，Farrell现任创新副总裁，此前曾任西澳大利亚镍矿资产总裁。其还将兼任南美区总裁一职，直至该职位的招聘工作完成。  此外，必和必拓表示，现任首席运营官Edgar Basto将继续留在行政领导团队，担任首席企业绩效官，并向首席执行官汇报，自9月1日起生效。  （界面）",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmqjmtwvi04vqslmh55vbp7oh",
-        "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
-        "title_en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "permalink": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-18T08:00:00.000Z",
-        "summary": "波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。",
-        "category": "paper",
-        "score": 72,
+        "id": "cmqs68cgx0090slfuumt36jny",
+        "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
+        "title_en": null,
+        "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
+        "permalink": "https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny",
+        "source": "公众号：火山引擎",
+        "publishedAt": "2026-06-24T14:02:42.000Z",
+        "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
+        "category": "tip",
+        "score": 74,
         "selected": true,
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "techScore": 1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqshf6dl0354slfug4vof984",
-      "title": "Perplexity推出Computer for Counsel",
-      "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
-      "url": "https://x.com/perplexity_ai/status/2069866668671766804",
-      "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "publishedAt": "2026-06-24T19:34:04.000Z",
-      "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
+      "id": "cmqu24x8v00lssl8065rajmsy",
+      "title": "Claude Code v2.1.193 发布",
+      "title_en": "v2.1.193",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+      "permalink": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-06-25T21:45:57.000Z",
+      "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqu0cbyl006isl80rufd707u",
+      "title": "Codex 在 ChatGPT 移动 App 正式可用",
+      "title_en": "Codex in the ChatGPT mobile app is now generally available. Connect your phone and computer more se…",
+      "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
+      "permalink": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-25T21:15:18.000Z",
+      "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
+      "title": "Runway发布Agent 2.0",
+      "title_en": "Introducing Agent 2.0",
+      "url": "https://runwayml.com/news/introducing-agent-2",
+      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-25T18:41:58.502Z",
+      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
       "category": "ai-products",
       "score": 65,
       "selected": true,
       "interestTags": [
+        "creative",
         "app",
-        "writing",
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmqtu9a7r06x3sl0exw2blt0o",
+      "title": "赫库兰尼姆古卷首次被完整虚拟解读",
+      "title_en": "赫库兰尼姆的一卷古卷首次被解读",
+      "url": "https://scrollprize.org/firstscroll",
+      "permalink": "https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-25T18:03:58.685Z",
+      "summary": "研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "interestTags": [
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmqtp5syl05k5sl0ec5cvuedt",
+      "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
+      "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
+      "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
+      "permalink": "https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-25T16:04:32.000Z",
+      "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
     },
     {
       "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -285,61 +352,23 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
-      "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
+      "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
       "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "publishedAt": "2026-06-24T06:00:00.000Z",
-      "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
+      "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
       "category": "ai-products",
-      "score": 55,
+      "score": 61,
       "selected": true,
       "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "cmqrdmylf0iyeslp50lteppvq",
-      "title": "今天，豆包正式推出专业版",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
-      "permalink": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq",
-      "source": "公众号：豆包（字节）",
-      "publishedAt": "2026-06-24T01:00:00.000Z",
-      "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "cmqr6bnad0gw8slp5xmrffynm",
-      "title": "Runway推出Seedance 4K等三款新模型",
-      "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
-      "url": "https://x.com/runwayml/status/2069535148450705517",
-      "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-06-23T21:36:44.000Z",
-      "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "creative"
+        "creative",
+        "app"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -360,28 +389,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmqpbc21e08laslx6gica1m67",
-      "title": "微信Agent小微灰度内测：主入口发消息红包，子入口可读聊天记录",
-      "title_en": "聊聊我刚刚拿到测试的微信Agent。",
-      "url": "https://mp.weixin.qq.com/s/qVdfx01e9C9r5mGi0jh2BA",
-      "permalink": "https://aihot.virxact.com/items/cmqpbc21e08laslx6gica1m67",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-22T13:34:14.000Z",
-      "summary": "微信Agent小微灰度内测已开始，主入口位于微信首页左上角，支持给好友发消息和红包（需确认），但无法读取聊天记录或向群聊发消息。群聊和私聊的\"问小微\"子入口则可读取聊天记录并支持群发。小微可创建日程提醒、待办、总结朋友圈，打通公众号和视频号进行问答。收藏仅可读取小微自建笔记。内置\"小工具\"功能，支持语音创建简易小程序（暂不可发布），还可调用第三方小程序。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqnbj6i202ndsl8hb9fghqqf",
@@ -399,65 +407,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "cmqkc8a7h0515slhis4sq6oxb",
-      "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
-      "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
-      "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
-      "permalink": "https://aihot.virxact.com/items/cmqkc8a7h0515slhis4sq6oxb",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-19T02:44:12.000Z",
-      "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmqjgpxud036hslmhb8vvzvs7",
-      "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
-      "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
-      "url": "https://www.ithome.com/0/966/233.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqjgpxud036hslmhb8vvzvs7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T12:11:32.000Z",
-      "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "cmqjmtwvi04vqslmh55vbp7oh",
-      "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
-      "title_en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "permalink": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-18T08:00:00.000Z",
-      "summary": "波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_1900436627",
+      "id": "rss_811896971",
       "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
       "title_en": null,
       "url": "https://sspai.com/post/111410",
@@ -469,6 +422,39 @@
         "writing"
       ],
       "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_2227172369",
+      "title": "必和必拓任命Jessica Farrell为北美区总裁，自7月1日起生效",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3869236511265792?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-26T00:00:00+00:00",
+      "summary": "6月26日，必和必拓宣布任命Jessica Farrell为北美区总裁，自2026年7月1日起生效。据介绍，Farrell现任创新副总裁，此前曾任西澳大利亚镍矿资产总裁。其还将兼任南美区总裁一职，直至该职位的招聘工作完成。  此外，必和必拓表示，现任首席运营官Edgar Basto将继续留在行政领导团队，担任首席企业绩效官，并向首席执行官汇报，自9月1日起生效。  （界面）",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmqs68cgx0090slfuumt36jny",
+      "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
+      "permalink": "https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-24T14:02:42.000Z",
+      "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
       "formattedTime": "昨天"
     }
   ]
