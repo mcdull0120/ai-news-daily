@@ -1,15 +1,34 @@
 {
-  "generatedAt": "2026-06-26T00:13:50.903243+00:00",
-  "totalSource": 160,
-  "totalFiltered": 143,
+  "generatedAt": "2026-06-27T00:12:35.546923+00:00",
+  "totalSource": 159,
+  "totalFiltered": 139,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 99,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmqv2tn1509khsl80vpek6zqe",
+        "title": "Anthropic Economic Index 报告：使用节奏",
+        "title_en": "Anthropic Economic Index report： Cadences",
+        "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+        "permalink": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-06-26T15:18:56.294Z",
+        "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
+        "category": "paper",
+        "score": 55,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
       {
         "id": "cmqu24x8v00lssl8065rajmsy",
         "title": "Claude Code v2.1.193 发布",
@@ -26,7 +45,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqu0cbyl006isl80rufd707u",
@@ -45,25 +64,42 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
       {
-        "id": "cmqtp5syl05k5sl0ec5cvuedt",
-        "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
-        "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
-        "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
-        "permalink": "https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-06-25T16:04:32.000Z",
-        "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
-        "category": "tip",
-        "score": 73,
+        "id": "cmquitk6o04qnsl805yictrvb",
+        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/968/894.htm",
+        "permalink": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-26T05:40:52.000Z",
+        "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
+        "category": "industry",
+        "score": 70,
         "selected": true,
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "18小时前"
+      },
+      {
+        "id": "rss_870062159",
+        "title": "万通发展：选举王薇为董事长",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3869958921917440?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-26T00:00:00+00:00",
+        "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
@@ -85,7 +121,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -106,7 +142,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -125,7 +161,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -146,7 +182,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqnbj6i202ndsl8hb9fghqqf",
@@ -164,22 +200,23 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_811896971",
-        "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+        "id": "rss_2519473759",
+        "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
         "title_en": null,
-        "url": "https://sspai.com/post/111410",
+        "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
         "source": "少数派",
-        "publishedAt": "2026-06-23T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-06-26T08:29:05+00:00",
+        "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-webview-in-shortcuts\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "15小时前"
       }
     ],
     "education": [
@@ -199,46 +236,48 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_2227172369",
-        "title": "必和必拓任命Jessica Farrell为北美区总裁，自7月1日起生效",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3869236511265792?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-26T00:00:00+00:00",
-        "summary": "6月26日，必和必拓宣布任命Jessica Farrell为北美区总裁，自2026年7月1日起生效。据介绍，Farrell现任创新副总裁，此前曾任西澳大利亚镍矿资产总裁。其还将兼任南美区总裁一职，直至该职位的招聘工作完成。  此外，必和必拓表示，现任首席运营官Edgar Basto将继续留在行政领导团队，担任首席企业绩效官，并向首席执行官汇报，自9月1日起生效。  （界面）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmqs68cgx0090slfuumt36jny",
-        "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
-        "title_en": null,
-        "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
-        "permalink": "https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny",
-        "source": "公众号：火山引擎",
-        "publishedAt": "2026-06-24T14:02:42.000Z",
-        "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
-        "category": "tip",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmqv2tn1509khsl80vpek6zqe",
+      "title": "Anthropic Economic Index 报告：使用节奏",
+      "title_en": "Anthropic Economic Index report： Cadences",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "permalink": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-26T15:18:56.294Z",
+      "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
+      "category": "paper",
+      "score": 55,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmquitk6o04qnsl805yictrvb",
+      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/968/894.htm",
+      "permalink": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-26T05:40:52.000Z",
+      "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
     {
       "id": "cmqu24x8v00lssl8065rajmsy",
       "title": "Claude Code v2.1.193 发布",
@@ -255,7 +294,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqu0cbyl006isl80rufd707u",
@@ -274,7 +313,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqtun7jv06zvsl0ejc2rnrpp",
@@ -294,7 +333,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
@@ -313,25 +352,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmqtp5syl05k5sl0ec5cvuedt",
-      "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
-      "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
-      "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
-      "permalink": "https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-25T16:04:32.000Z",
-      "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -352,7 +373,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -371,7 +392,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqr02j580f8oslp5i6wajucu",
@@ -389,7 +410,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqnbj6i202ndsl8hb9fghqqf",
@@ -407,54 +428,37 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_811896971",
-      "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+      "id": "rss_2519473759",
+      "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
       "title_en": null,
-      "url": "https://sspai.com/post/111410",
+      "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
       "source": "少数派",
-      "publishedAt": "2026-06-23T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111410\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-06-26T08:29:05+00:00",
+      "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-webview-in-shortcuts\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
       "category": "tip",
       "interestTags": [
-        "writing"
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "15小时前"
     },
     {
-      "id": "rss_2227172369",
-      "title": "必和必拓任命Jessica Farrell为北美区总裁，自7月1日起生效",
+      "id": "rss_870062159",
+      "title": "万通发展：选举王薇为董事长",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3869236511265792?f=rss",
+      "url": "https://36kr.com/newsflashes/3869958921917440?f=rss",
       "source": "36氪",
       "publishedAt": "2026-06-26T00:00:00+00:00",
-      "summary": "6月26日，必和必拓宣布任命Jessica Farrell为北美区总裁，自2026年7月1日起生效。据介绍，Farrell现任创新副总裁，此前曾任西澳大利亚镍矿资产总裁。其还将兼任南美区总裁一职，直至该职位的招聘工作完成。  此外，必和必拓表示，现任首席运营官Edgar Basto将继续留在行政领导团队，担任首席企业绩效官，并向首席执行官汇报，自9月1日起生效。  （界面）",
+      "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmqs68cgx0090slfuumt36jny",
-      "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
-      "permalink": "https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-24T14:02:42.000Z",
-      "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
       "formattedTime": "昨天"
     }
   ]
