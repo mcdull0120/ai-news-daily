@@ -1,70 +1,107 @@
 {
-  "generatedAt": "2026-06-27T00:12:35.546923+00:00",
-  "totalSource": 159,
-  "totalFiltered": 139,
+  "generatedAt": "2026-06-28T00:06:30.327810+00:00",
+  "totalSource": 150,
+  "totalFiltered": 130,
   "totalSelected": 12,
   "sources": {
-    "aihot": 99,
-    "rss": 60,
+    "aihot": 100,
+    "rss": 50,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmqv2tn1509khsl80vpek6zqe",
-        "title": "Anthropic Economic Index 报告：使用节奏",
-        "title_en": "Anthropic Economic Index report： Cadences",
-        "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-        "permalink": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-06-26T15:18:56.294Z",
-        "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
-        "category": "paper",
-        "score": 55,
+        "id": "cmqwub84n008jslp0ael13807",
+        "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
+        "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
+        "url": "https://x.com/cb_doge/status/2070973276562530507",
+        "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
+        "source": "X：cb_doge (@cb_doge)",
+        "publishedAt": "2026-06-27T20:51:20.000Z",
+        "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmqwmotnk01tasly021bf38i5",
+        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+        "title_en": "刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月…",
+        "url": "https://x.com/berryxia/status/2070916520822321292",
+        "permalink": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+        "source": "X：Berry Xia (@berryxia)",
+        "publishedAt": "2026-06-27T17:05:48.000Z",
+        "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmqvtzehe0g65sl800jrc1x17",
+        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+        "title_en": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+        "url": "https://www.ithome.com/0/969/334.htm",
+        "permalink": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-27T03:39:06.000Z",
+        "summary": "阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。",
+        "category": "ai-products",
+        "score": 73,
         "selected": true,
         "interestTags": [
           "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
-      },
+        "formattedTime": "20小时前"
+      }
+    ],
+    "education": [
       {
-        "id": "cmqu24x8v00lssl8065rajmsy",
-        "title": "Claude Code v2.1.193 发布",
-        "title_en": "v2.1.193",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
-        "permalink": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-06-25T21:45:57.000Z",
-        "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
-        "category": "ai-products",
-        "score": 61,
+        "id": "cmqwclgpa00a0slfd8mlysoe8",
+        "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+        "title_en": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+        "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
+        "permalink": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-06-27T12:25:21.000Z",
+        "summary": "前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利\"Raise Us\"，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。Amazon、Anthropic、Microsoft、OpenAI等支持，引发独立性质疑。将在阿肯色、康涅狄格、马里兰、犹他四州试点，包括AI职业导航、服务年计划扩展、工资保险等。工作分州合作、雇主联盟、教育培训、政策实验室四大支柱。此前美国工人再培训效果不佳，计划能否成功尚待观察。",
+        "category": "industry",
+        "score": 70,
         "selected": true,
         "interestTags": [
-          "app"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "11小时前"
       },
       {
-        "id": "cmqu0cbyl006isl80rufd707u",
-        "title": "Codex 在 ChatGPT 移动 App 正式可用",
-        "title_en": "Codex in the ChatGPT mobile app is now generally available. Connect your phone and computer more se…",
-        "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
-        "permalink": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-06-25T21:15:18.000Z",
-        "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
-        "category": "ai-products",
-        "score": 66,
+        "id": "cmqr02j580f8oslp5i6wajucu",
+        "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
+        "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
+        "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
+        "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
+        "source": "Apple Machine Learning Research（RSS）",
+        "publishedAt": "2026-06-23T00:00:00.000Z",
+        "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
+        "category": "paper",
+        "score": 68,
         "selected": true,
         "interestTags": [
-          "app",
-          "writing"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
@@ -84,84 +121,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "18小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_870062159",
-        "title": "万通发展：选举王薇为董事长",
+        "id": "rss_2129250540",
+        "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3869958921917440?f=rss",
+        "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
         "source": "36氪",
-        "publishedAt": "2026-06-26T00:00:00+00:00",
-        "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
+        "publishedAt": "2026-06-27T00:00:00+00:00",
+        "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-        "title": "Runway发布Agent 2.0",
-        "title_en": "Introducing Agent 2.0",
-        "url": "https://runwayml.com/news/introducing-agent-2",
-        "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-06-25T18:41:58.502Z",
-        "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqsbrhhm01o1slfu2kei9qhy",
-        "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
-        "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
-        "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
-        "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-06-24T16:49:01.000Z",
-        "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqs319vw0qkcslp52gzwr77q",
-        "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
-        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-24T06:00:00.000Z",
-        "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -182,28 +157,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmqnbj6i202ndsl8hb9fghqqf",
-        "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
-        "title_en": "你好，20岁的老爸",
-        "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
-        "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
-        "source": "公众号：腾讯元宝",
-        "publishedAt": "2026-06-21T04:51:10.000Z",
-        "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_2519473759",
+        "id": "rss_1021203400",
         "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
         "title_en": null,
         "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -216,49 +173,145 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       }
     ],
-    "education": [
+    "creative": [
       {
-        "id": "cmqr02j580f8oslp5i6wajucu",
-        "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
-        "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
-        "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
-        "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
-        "source": "Apple Machine Learning Research（RSS）",
-        "publishedAt": "2026-06-23T00:00:00.000Z",
-        "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
-        "category": "paper",
-        "score": 68,
+        "id": "cmqsbrhhm01o1slfu2kei9qhy",
+        "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
+        "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+        "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
+        "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-06-24T16:49:01.000Z",
+        "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
+        "category": "ai-products",
+        "score": 74,
         "selected": true,
         "interestTags": [
-          "education"
+          "creative",
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmqtun7jv06zvsl0ejc2rnrpp",
+        "title": "Runway发布Agent 2.0",
+        "title_en": "Introducing Agent 2.0",
+        "url": "https://runwayml.com/news/introducing-agent-2",
+        "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-06-24T16:00:00.000Z",
+        "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmqs319vw0qkcslp52gzwr77q",
+        "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
+        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-06-24T06:00:00.000Z",
+        "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqv2tn1509khsl80vpek6zqe",
-      "title": "Anthropic Economic Index 报告：使用节奏",
-      "title_en": "Anthropic Economic Index report： Cadences",
-      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-      "permalink": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-26T15:18:56.294Z",
-      "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
-      "category": "paper",
-      "score": 55,
+      "id": "cmqwub84n008jslp0ael13807",
+      "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
+      "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
+      "url": "https://x.com/cb_doge/status/2070973276562530507",
+      "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-06-27T20:51:20.000Z",
+      "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmqwmotnk01tasly021bf38i5",
+      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
+      "title_en": "刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月…",
+      "url": "https://x.com/berryxia/status/2070916520822321292",
+      "permalink": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-06-27T17:05:48.000Z",
+      "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmqwclgpa00a0slfd8mlysoe8",
+      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+      "title_en": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+      "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
+      "permalink": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-27T12:25:21.000Z",
+      "summary": "前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利\"Raise Us\"，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。Amazon、Anthropic、Microsoft、OpenAI等支持，引发独立性质疑。将在阿肯色、康涅狄格、马里兰、犹他四州试点，包括AI职业导航、服务年计划扩展、工资保险等。工作分州合作、雇主联盟、教育培训、政策实验室四大支柱。此前美国工人再培训效果不佳，计划能否成功尚待观察。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmqvtzehe0g65sl800jrc1x17",
+      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
+      "title_en": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
+      "url": "https://www.ithome.com/0/969/334.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-27T03:39:06.000Z",
+      "summary": "阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。",
+      "category": "ai-products",
+      "score": 73,
       "selected": true,
       "interestTags": [
         "app",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "20小时前"
     },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
@@ -274,63 +327,6 @@
       "selected": true,
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "cmqu24x8v00lssl8065rajmsy",
-      "title": "Claude Code v2.1.193 发布",
-      "title_en": "v2.1.193",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
-      "permalink": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-06-25T21:45:57.000Z",
-      "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqu0cbyl006isl80rufd707u",
-      "title": "Codex 在 ChatGPT 移动 App 正式可用",
-      "title_en": "Codex in the ChatGPT mobile app is now generally available. Connect your phone and computer more se…",
-      "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
-      "permalink": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-25T21:15:18.000Z",
-      "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-      "title": "Runway发布Agent 2.0",
-      "title_en": "Introducing Agent 2.0",
-      "url": "https://runwayml.com/news/introducing-agent-2",
-      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-25T18:41:58.502Z",
-      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -352,7 +348,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -373,7 +369,27 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
+    },
+    {
+      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
+      "title": "Runway发布Agent 2.0",
+      "title_en": "Introducing Agent 2.0",
+      "url": "https://runwayml.com/news/introducing-agent-2",
+      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -392,7 +408,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqr02j580f8oslp5i6wajucu",
@@ -410,28 +426,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmqnbj6i202ndsl8hb9fghqqf",
-      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
-      "title_en": "你好，20岁的老爸",
-      "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
-      "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
-      "source": "公众号：腾讯元宝",
-      "publishedAt": "2026-06-21T04:51:10.000Z",
-      "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "rss_2519473759",
+      "id": "rss_1021203400",
       "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
       "title_en": null,
       "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -444,16 +442,16 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_870062159",
-      "title": "万通发展：选举王薇为董事长",
+      "id": "rss_2129250540",
+      "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3869958921917440?f=rss",
+      "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-06-26T00:00:00+00:00",
-      "summary": "36氪获悉，万通发展公告，因个人原因，王忆会辞去公司董事、董事长及董事会战略委员会主任委员、提名委员会委员职务。根据相关规定，王忆会的辞呈自送达公司董事会之日起生效。公司于6月26日召开第九届董事会第二十八次临时会议，选举董事王薇为董事长，根据《公司章程》规定，法定代表人变更为王薇。董事长的任期自本次董事会审议通过之日起至第九届董事会任期届满之日止。",
+      "publishedAt": "2026-06-27T00:00:00+00:00",
+      "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
       "category": "industry",
       "interestTags": [
         "productivity"
