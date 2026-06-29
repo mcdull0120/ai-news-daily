@@ -1,15 +1,33 @@
 {
-  "generatedAt": "2026-06-28T00:06:30.327810+00:00",
-  "totalSource": 150,
-  "totalFiltered": 130,
+  "generatedAt": "2026-06-29T00:12:29.254342+00:00",
+  "totalSource": 160,
+  "totalFiltered": 142,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
-    "rss": 50,
+    "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmqx7behn03g3slp0pzrofqz9",
+        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+        "title_en": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
+        "url": "https://www.ithome.com/0/969/570.htm",
+        "permalink": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-28T02:45:16.000Z",
+        "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
       {
         "id": "cmqwub84n008jslp0ael13807",
         "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
@@ -26,7 +44,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqwmotnk01tasly021bf38i5",
@@ -44,26 +62,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmqvtzehe0g65sl800jrc1x17",
-        "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-        "title_en": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-        "url": "https://www.ithome.com/0/969/334.htm",
-        "permalink": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-27T03:39:06.000Z",
-        "summary": "阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。",
-        "category": "ai-products",
-        "score": 73,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -83,7 +82,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqr02j580f8oslp5i6wajucu",
@@ -101,7 +100,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "productivity": [
@@ -121,22 +120,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_2129250540",
-        "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-27T00:00:00+00:00",
-        "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -157,10 +141,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_1021203400",
+        "id": "rss_1883718549",
         "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
         "title_en": null,
         "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -173,7 +157,25 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmqv67led0aejsl80grsdthsq",
+        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+        "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
+        "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+        "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-06-26T16:51:17.000Z",
+        "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 0,
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -196,7 +198,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmqtun7jv06zvsl0ejc2rnrpp",
@@ -216,7 +218,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -235,11 +237,29 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmqx7behn03g3slp0pzrofqz9",
+      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+      "title_en": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
+      "url": "https://www.ithome.com/0/969/570.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-28T02:45:16.000Z",
+      "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
+    },
     {
       "id": "cmqwub84n008jslp0ael13807",
       "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
@@ -256,7 +276,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqwmotnk01tasly021bf38i5",
@@ -274,7 +294,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -292,26 +312,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmqvtzehe0g65sl800jrc1x17",
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-      "title_en": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-      "url": "https://www.ithome.com/0/969/334.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-27T03:39:06.000Z",
-      "summary": "阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
@@ -329,7 +330,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
@@ -348,7 +349,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -369,7 +370,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqtun7jv06zvsl0ejc2rnrpp",
@@ -389,7 +390,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -408,7 +409,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqr02j580f8oslp5i6wajucu",
@@ -426,10 +427,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_1021203400",
+      "id": "rss_1883718549",
       "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
       "title_en": null,
       "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -442,22 +443,25 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2129250540",
-      "title": "因利润腰斩，梅赛德斯-奔驰推迟9万名德国员工奖金并谋求无薪延长工时",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3871212322706690?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-27T00:00:00+00:00",
-      "summary": "6月27日，据报道，由于利润大幅下滑，梅赛德斯-奔驰正被迫采取严厉的紧缩措施。公司已决定将约9万名加入工会的德国员工原定于2026年7月发放的“转型奖金”（相当于月薪的18.4%）推迟9个月至2027年4月发放，并保留在业务未见好转时完全取消该奖金的权利。此外，管理层还在公开探讨将每周工作时间从35小时延长至40小时且不支付额外加班费。梅赛德斯-奔驰今年2月公布的财报显示，2025年净利润从2024年的104亿欧元骤降至53亿欧元，降幅近50%。（界面新闻）",
-      "category": "industry",
+      "id": "cmqv67led0aejsl80grsdthsq",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
+      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+      "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-26T16:51:17.000Z",
+      "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
       "interestTags": [
-        "productivity"
+        "writing"
       ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "techScore": 0,
+      "formattedTime": "2天前"
     }
   ]
 }
