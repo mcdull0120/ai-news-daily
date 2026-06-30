@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-29T00:12:29.254342+00:00",
+  "generatedAt": "2026-06-30T00:09:19.471604+00:00",
   "totalSource": 160,
-  "totalFiltered": 142,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,61 +11,80 @@
   "grouped": {
     "app": [
       {
-        "id": "cmqx7behn03g3slp0pzrofqz9",
-        "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-        "title_en": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
-        "url": "https://www.ithome.com/0/969/570.htm",
-        "permalink": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-28T02:45:16.000Z",
-        "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
-        "category": "tip",
-        "score": 76,
+        "id": "cmqzvz1fm01ktslkiufrzy1jg",
+        "title": "Meta发布无创脑机接口Brain2Qwerty v2，字词准确率达61%",
+        "title_en": "Meta 发布 Brain2Qwerty v2 你帮你脑子里在想的什么，实时转换成文字 不需要任何植入，仅需佩戴 MEG（脑磁图）头盔就能把你大脑产生的磁信号实时解码成连贯句子，全程不需要任何手术…",
+        "url": "https://x.com/xiaohu/status/2071743157465993461",
+        "permalink": "https://aihot.virxact.com/items/cmqzvz1fm01ktslkiufrzy1jg",
+        "source": "X：小互 (@xiaohu)",
+        "publishedAt": "2026-06-29T23:50:34.000Z",
+        "summary": "Meta 发布 Brain2Qwerty v2，无需手术植入，仅佩戴 MEG（脑磁图）头盔即可将大脑磁信号实时解码为连贯句子。字词准确率达 61%，约为其他无创脑机接口方法（8%）的 7.6 倍；最佳参与者达 78%，超半数句子只差一个词。Meta 称这是目前性能最高的非侵入式脑机接口系统。",
+        "category": "paper",
+        "score": 75,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmqwub84n008jslp0ael13807",
-        "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
-        "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
-        "url": "https://x.com/cb_doge/status/2070973276562530507",
-        "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
-        "source": "X：cb_doge (@cb_doge)",
-        "publishedAt": "2026-06-27T20:51:20.000Z",
-        "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
-        "category": "industry",
-        "score": 76,
+        "id": "cmqzo4q2o005oslkhjl7jdtoc",
+        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+        "title_en": "OpenClaw is now on iOS + Android 🦞 📱 Native mobile apps， finally 💬 Agents in your pocket 🔔 Chan…",
+        "url": "https://x.com/openclaw/status/2071688039114342592",
+        "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+        "source": "X：OpenClaw (@openclaw)",
+        "publishedAt": "2026-06-29T20:11:33.000Z",
+        "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
+        "category": "ai-products",
+        "score": 71,
         "selected": true,
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmqwmotnk01tasly021bf38i5",
-        "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-        "title_en": "刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月…",
-        "url": "https://x.com/berryxia/status/2070916520822321292",
-        "permalink": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+        "id": "cmqzdby9m00o8sltjugcnx002",
+        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+        "title_en": "Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部…",
+        "url": "https://x.com/berryxia/status/2071610700213191075",
+        "permalink": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
         "source": "X：Berry Xia (@berryxia)",
-        "publishedAt": "2026-06-27T17:05:48.000Z",
-        "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
-        "category": "industry",
-        "score": 76,
+        "publishedAt": "2026-06-29T15:04:14.000Z",
+        "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+        "category": "tip",
+        "score": 77,
         "selected": true,
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "9小时前"
       }
     ],
     "education": [
+      {
+        "id": "cmqz1tatr01doslxsae6mpoyv",
+        "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+        "title_en": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+        "url": "https://www.ithome.com/0/970/097.htm",
+        "permalink": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-06-29T09:27:36.000Z",
+        "summary": "国务院日前印发《教育发展\"十五五\"规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。规划明确完善科学教育体系，强化科技教育与人文教育协同，加强青少年科学素养、批判性思维和创新能力培养。同时实施学生体质强健计划、心理健康促进行动，加大拔尖创新人才自主培养力度，推动学科交叉融合，扩大优质本科招生规模。目标到2030年高质量教育体系基本建成。",
+        "category": "industry",
+        "score": 80,
+        "selected": true,
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
       {
         "id": "cmqwclgpa00a0slfd8mlysoe8",
         "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
@@ -82,25 +101,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmqr02j580f8oslp5i6wajucu",
-        "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
-        "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
-        "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
-        "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
-        "source": "Apple Machine Learning Research（RSS）",
-        "publishedAt": "2026-06-23T00:00:00.000Z",
-        "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
-        "category": "paper",
-        "score": 68,
-        "selected": true,
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -120,7 +121,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_3789375186",
+        "title": "消金行业密集补充资本金，合规转型步入深水区",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3874907446072578?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-06-30T00:00:00+00:00",
+        "summary": "近日，晋商银行与晋商消金签订股份认购协议，前者拟斥资7.3亿元认购后者5亿股新发行股份。增资完成后，晋商消金注册资本将由5亿元增至10亿元，晋商银行对其持股比例将从40%升至70%。这次增资的原因指向2024年4月实施的《消费金融公司管理办法》。根据办法，消金公司注册资本最低限额从3亿元提升至10亿元，主要出资人持股比例不低于50%。近年来，北银消金、河北幸福消金等机构纷纷开启增资工作。不过，放眼整个消金行业，仍有少数机构注册资本未迈过10亿元门槛。（中证网）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ],
     "writing": [
@@ -141,10 +157,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_1883718549",
+        "id": "rss_3041045799",
         "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
         "title_en": null,
         "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -157,25 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmqv67led0aejsl80grsdthsq",
-        "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-        "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
-        "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-        "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-06-26T16:51:17.000Z",
-        "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 0,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "creative": [
@@ -198,7 +196,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmqtun7jv06zvsl0ejc2rnrpp",
@@ -218,7 +216,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -237,64 +235,83 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqx7behn03g3slp0pzrofqz9",
-      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-      "title_en": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
-      "url": "https://www.ithome.com/0/969/570.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-28T02:45:16.000Z",
-      "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
-      "category": "tip",
-      "score": 76,
+      "id": "cmqzvz1fm01ktslkiufrzy1jg",
+      "title": "Meta发布无创脑机接口Brain2Qwerty v2，字词准确率达61%",
+      "title_en": "Meta 发布 Brain2Qwerty v2 你帮你脑子里在想的什么，实时转换成文字 不需要任何植入，仅需佩戴 MEG（脑磁图）头盔就能把你大脑产生的磁信号实时解码成连贯句子，全程不需要任何手术…",
+      "url": "https://x.com/xiaohu/status/2071743157465993461",
+      "permalink": "https://aihot.virxact.com/items/cmqzvz1fm01ktslkiufrzy1jg",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-06-29T23:50:34.000Z",
+      "summary": "Meta 发布 Brain2Qwerty v2，无需手术植入，仅佩戴 MEG（脑磁图）头盔即可将大脑磁信号实时解码为连贯句子。字词准确率达 61%，约为其他无创脑机接口方法（8%）的 7.6 倍；最佳参与者达 78%，超半数句子只差一个词。Meta 称这是目前性能最高的非侵入式脑机接口系统。",
+      "category": "paper",
+      "score": 75,
       "selected": true,
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmqwub84n008jslp0ael13807",
-      "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
-      "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
-      "url": "https://x.com/cb_doge/status/2070973276562530507",
-      "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-06-27T20:51:20.000Z",
-      "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
-      "category": "industry",
-      "score": 76,
+      "id": "cmqzo4q2o005oslkhjl7jdtoc",
+      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+      "title_en": "OpenClaw is now on iOS + Android 🦞 📱 Native mobile apps， finally 💬 Agents in your pocket 🔔 Chan…",
+      "url": "https://x.com/openclaw/status/2071688039114342592",
+      "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "source": "X：OpenClaw (@openclaw)",
+      "publishedAt": "2026-06-29T20:11:33.000Z",
+      "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
+      "category": "ai-products",
+      "score": 71,
       "selected": true,
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "cmqwmotnk01tasly021bf38i5",
-      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-      "title_en": "刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月…",
-      "url": "https://x.com/berryxia/status/2070916520822321292",
-      "permalink": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
+      "id": "cmqzdby9m00o8sltjugcnx002",
+      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+      "title_en": "Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部…",
+      "url": "https://x.com/berryxia/status/2071610700213191075",
+      "permalink": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
       "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-27T17:05:48.000Z",
-      "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
-      "category": "industry",
-      "score": 76,
+      "publishedAt": "2026-06-29T15:04:14.000Z",
+      "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+      "category": "tip",
+      "score": 77,
       "selected": true,
       "interestTags": [
-        "app"
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmqz1tatr01doslxsae6mpoyv",
+      "title": "国务院印发《教育发展\"十五五\"规划》，推进人工智能全学段教育",
+      "title_en": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+      "url": "https://www.ithome.com/0/970/097.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqz1tatr01doslxsae6mpoyv",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-29T09:27:36.000Z",
+      "summary": "国务院日前印发《教育发展\"十五五\"规划》，要求推进人工智能全学段教育，提升学生人工智能素养及提出问题、解决问题的能力。规划明确完善科学教育体系，强化科技教育与人文教育协同，加强青少年科学素养、批判性思维和创新能力培养。同时实施学生体质强健计划、心理健康促进行动，加大拔尖创新人才自主培养力度，推动学科交叉融合，扩大优质本科招生规模。目标到2030年高质量教育体系基本建成。",
+      "category": "industry",
+      "score": 80,
+      "selected": true,
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
     },
     {
       "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -312,7 +329,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
@@ -330,7 +347,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
@@ -349,7 +366,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqsbrhhm01o1slfu2kei9qhy",
@@ -370,7 +387,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqtun7jv06zvsl0ejc2rnrpp",
@@ -390,7 +407,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
@@ -409,28 +426,10 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmqr02j580f8oslp5i6wajucu",
-      "title": "九位评委，两个有效投票：相关错误削弱LLM评审面板",
-      "title_en": "Nine Judges， Two Effective Votes： Correlated Errors Undermine LLM Evaluation Panels",
-      "url": "https://machinelearning.apple.com/research/correlated-llm-evaluation-panels",
-      "permalink": "https://aihot.virxact.com/items/cmqr02j580f8oslp5i6wajucu",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-06-23T00:00:00.000Z",
-      "summary": "苹果机器学习研究团队发现，LLM-as-a-judge面板因模型间高度相关而严重受限。对7个模型家族的9个前沿大语言模型在3个自然语言推理数据集上的测试表明，9位评委实际仅提供约2个独立投票的信息量，面板准确率比独立投票理想值低8-22个百分点，最佳单一模型的表现已匹敌或超越整个面板。增加评委数量或改进聚合算法收效甚微，即使允许算法获取正确答案也仅能缩小至多11%的差距。该结论在多种提示变体、温度设置及偏好任务中均得到验证，瓶颈在于评委间的相关性而非聚合算法。",
-      "category": "paper",
-      "score": 68,
-      "selected": true,
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_1883718549",
+      "id": "rss_3041045799",
       "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
       "title_en": null,
       "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
@@ -443,25 +442,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmqv67led0aejsl80grsdthsq",
-      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-      "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
-      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-      "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-26T16:51:17.000Z",
-      "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
+      "id": "rss_3789375186",
+      "title": "消金行业密集补充资本金，合规转型步入深水区",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3874907446072578?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-06-30T00:00:00+00:00",
+      "summary": "近日，晋商银行与晋商消金签订股份认购协议，前者拟斥资7.3亿元认购后者5亿股新发行股份。增资完成后，晋商消金注册资本将由5亿元增至10亿元，晋商银行对其持股比例将从40%升至70%。这次增资的原因指向2024年4月实施的《消费金融公司管理办法》。根据办法，消金公司注册资本最低限额从3亿元提升至10亿元，主要出资人持股比例不低于50%。近年来，北银消金、河北幸福消金等机构纷纷开启增资工作。不过，放眼整个消金行业，仍有少数机构注册资本未迈过10亿元门槛。（中证网）",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
-      "techScore": 0,
-      "formattedTime": "2天前"
+      "techScore": -1,
+      "formattedTime": "刚刚"
     }
   ]
 }
