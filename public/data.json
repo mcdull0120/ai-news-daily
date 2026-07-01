@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-30T00:09:19.471604+00:00",
+  "generatedAt": "2026-07-01T00:11:21.302390+00:00",
   "totalSource": 160,
-  "totalFiltered": 141,
+  "totalFiltered": 144,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,61 +9,122 @@
     "bilibili": 0
   },
   "grouped": {
+    "creative": [
+      {
+        "id": "cmr12g90k00zlsldxyyr0fmt3",
+        "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+        "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
+        "url": "https://x.com/NotebookLM/status/2072043680442245276",
+        "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+        "source": "X：NotebookLM (@NotebookLM)",
+        "publishedAt": "2026-06-30T19:44:44.000Z",
+        "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmr0xc7sg0040slb3yenz5k02",
+        "title": "Claude Science 科研工作台正式上线",
+        "title_en": "Claude Science， an AI workbench for scientists， is now available",
+        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+        "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-06-30T17:32:06.724Z",
+        "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmr0x8nxp002gslb33ixw5j4z",
+        "title": "Apple Creator Studio 更新：更智能、更快速、更互联",
+        "title_en": "Apple Creator Studio gets smarter， faster， and more connected",
+        "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
+        "permalink": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-06-30T16:59:24.233Z",
+        "summary": "Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-device AI 驱动的 Generate Captions（自动转录音频生成字幕）和 Edit Detection（自动检测剪辑点）。Mac 版加入 Auto Mask（自动识别皮肤、天空等主体）、增强的 Match Color 和 Advanced Trimming。支持将帧发送至 Pixelmator Pro 编辑，并在 Keynote、Pages、Numbers 中直接调用 Pixelmator Pro 修改图片。Logic Pro 新增 Grammy 制作人制作的 Producer Project 及 Chord ID 改进。订阅价 $12.99/月或 $129/年，新用户免费试用一个月，教育用户 $2.99/月。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
     "app": [
       {
-        "id": "cmqzvz1fm01ktslkiufrzy1jg",
-        "title": "Meta发布无创脑机接口Brain2Qwerty v2，字词准确率达61%",
-        "title_en": "Meta 发布 Brain2Qwerty v2 你帮你脑子里在想的什么，实时转换成文字 不需要任何植入，仅需佩戴 MEG（脑磁图）头盔就能把你大脑产生的磁信号实时解码成连贯句子，全程不需要任何手术…",
-        "url": "https://x.com/xiaohu/status/2071743157465993461",
-        "permalink": "https://aihot.virxact.com/items/cmqzvz1fm01ktslkiufrzy1jg",
-        "source": "X：小互 (@xiaohu)",
-        "publishedAt": "2026-06-29T23:50:34.000Z",
-        "summary": "Meta 发布 Brain2Qwerty v2，无需手术植入，仅佩戴 MEG（脑磁图）头盔即可将大脑磁信号实时解码为连贯句子。字词准确率达 61%，约为其他无创脑机接口方法（8%）的 7.6 倍；最佳参与者达 78%，超半数句子只差一个词。Meta 称这是目前性能最高的非侵入式脑机接口系统。",
-        "category": "paper",
-        "score": 75,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmqzo4q2o005oslkhjl7jdtoc",
-        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-        "title_en": "OpenClaw is now on iOS + Android 🦞 📱 Native mobile apps， finally 💬 Agents in your pocket 🔔 Chan…",
-        "url": "https://x.com/openclaw/status/2071688039114342592",
-        "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-        "source": "X：OpenClaw (@openclaw)",
-        "publishedAt": "2026-06-29T20:11:33.000Z",
-        "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmqzdby9m00o8sltjugcnx002",
-        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-        "title_en": "Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部…",
-        "url": "https://x.com/berryxia/status/2071610700213191075",
-        "permalink": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
-        "source": "X：Berry Xia (@berryxia)",
-        "publishedAt": "2026-06-29T15:04:14.000Z",
-        "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+        "id": "cmr0x7y97001yslb3tyb8w4ce",
+        "title": "Claude Code 入门：智能体循环",
+        "title_en": "Getting started with loops",
+        "url": "https://claude.com/blog/getting-started-with-loops",
+        "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-06-30T17:28:28.530Z",
+        "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
         "category": "tip",
-        "score": 77,
+        "score": 72,
         "selected": true,
         "interestTags": [
           "app",
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmr0wupt4007gsl403t7s6dbn",
+        "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
+        "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
+        "url": "https://developers.googleblog.com/announcing-adk-go-20",
+        "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-06-30T17:17:40.302Z",
+        "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmr0v1pn7009kslatrt4gncmj",
+        "title": "Claude Desktop 推出 Linux 公测版",
+        "title_en": "Claude Desktop is now available on Linux （Ubuntu and Debian） in beta. Alongside the browser and ter…",
+        "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+        "permalink": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-06-30T16:06:59.000Z",
+        "summary": "Claude Desktop 现已在 Linux（Ubuntu 和 Debian）上推出测试版。\n\n除了浏览器和终端，你现在可以在所有付费计划中获得一流的桌面体验，包括 Claude Code、Claude Cowork 和聊天。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
       }
     ],
     "education": [
@@ -83,7 +144,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -101,7 +162,25 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmr00f9t902pgslkiofzqdgx2",
+        "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
+        "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
+        "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
+        "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-06-30T01:58:00.000Z",
+        "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 0,
+        "formattedTime": "22小时前"
       }
     ],
     "productivity": [
@@ -121,22 +200,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "rss_3789375186",
-        "title": "消金行业密集补充资本金，合规转型步入深水区",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3874907446072578?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-06-30T00:00:00+00:00",
-        "summary": "近日，晋商银行与晋商消金签订股份认购协议，前者拟斥资7.3亿元认购后者5亿股新发行股份。增资完成后，晋商消金注册资本将由5亿元增至10亿元，晋商银行对其持股比例将从40%升至70%。这次增资的原因指向2024年4月实施的《消费金融公司管理办法》。根据办法，消金公司注册资本最低限额从3亿元提升至10亿元，主要出资人持股比例不低于50%。近年来，北银消金、河北幸福消金等机构纷纷开启增资工作。不过，放眼整个消金行业，仍有少数机构注册资本未迈过10亿元门槛。（中证网）",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "4天前"
       }
     ],
     "writing": [
@@ -157,143 +221,139 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_3041045799",
-        "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
-        "source": "少数派",
-        "publishedAt": "2026-06-26T08:29:05+00:00",
-        "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-webview-in-shortcuts\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmqsbrhhm01o1slfu2kei9qhy",
-        "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
-        "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
-        "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
-        "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-06-24T16:49:01.000Z",
-        "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "5天前"
       },
       {
-        "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-        "title": "Runway发布Agent 2.0",
-        "title_en": "Introducing Agent 2.0",
-        "url": "https://runwayml.com/news/introducing-agent-2",
-        "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-06-24T16:00:00.000Z",
-        "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
+        "id": "rss_3899699109",
+        "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
+        "title_en": null,
+        "url": "https://sspai.com/post/111744",
+        "source": "少数派",
+        "publishedAt": "2026-06-30T09:02:26+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111744\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "creative",
-          "app",
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "cmqs319vw0qkcslp52gzwr77q",
-        "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
-        "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-        "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-06-24T06:00:00.000Z",
-        "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "15小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmqzvz1fm01ktslkiufrzy1jg",
-      "title": "Meta发布无创脑机接口Brain2Qwerty v2，字词准确率达61%",
-      "title_en": "Meta 发布 Brain2Qwerty v2 你帮你脑子里在想的什么，实时转换成文字 不需要任何植入，仅需佩戴 MEG（脑磁图）头盔就能把你大脑产生的磁信号实时解码成连贯句子，全程不需要任何手术…",
-      "url": "https://x.com/xiaohu/status/2071743157465993461",
-      "permalink": "https://aihot.virxact.com/items/cmqzvz1fm01ktslkiufrzy1jg",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-29T23:50:34.000Z",
-      "summary": "Meta 发布 Brain2Qwerty v2，无需手术植入，仅佩戴 MEG（脑磁图）头盔即可将大脑磁信号实时解码为连贯句子。字词准确率达 61%，约为其他无创脑机接口方法（8%）的 7.6 倍；最佳参与者达 78%，超半数句子只差一个词。Meta 称这是目前性能最高的非侵入式脑机接口系统。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmqzo4q2o005oslkhjl7jdtoc",
-      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-      "title_en": "OpenClaw is now on iOS + Android 🦞 📱 Native mobile apps， finally 💬 Agents in your pocket 🔔 Chan…",
-      "url": "https://x.com/openclaw/status/2071688039114342592",
-      "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-      "source": "X：OpenClaw (@openclaw)",
-      "publishedAt": "2026-06-29T20:11:33.000Z",
-      "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
+      "id": "cmr12g90k00zlsldxyyr0fmt3",
+      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+      "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
+      "url": "https://x.com/NotebookLM/status/2072043680442245276",
+      "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-30T19:44:44.000Z",
+      "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
       "category": "ai-products",
-      "score": 71,
+      "score": 68,
       "selected": true,
       "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmqzdby9m00o8sltjugcnx002",
-      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-      "title_en": "Margot Van Laar是Anthropic应用AI团队的工程师。 她在Code with Claude大会上做了一场关于提示词工程实战的分享。 核心观点只有一个：我们很少从零写提示词，大部…",
-      "url": "https://x.com/berryxia/status/2071610700213191075",
-      "permalink": "https://aihot.virxact.com/items/cmqzdby9m00o8sltjugcnx002",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-29T15:04:14.000Z",
-      "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+      "id": "cmr0xc7sg0040slb3yenz5k02",
+      "title": "Claude Science 科研工作台正式上线",
+      "title_en": "Claude Science， an AI workbench for scientists， is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-30T17:32:06.724Z",
+      "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmr0x7y97001yslb3tyb8w4ce",
+      "title": "Claude Code 入门：智能体循环",
+      "title_en": "Getting started with loops",
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-30T17:28:28.530Z",
+      "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
       "category": "tip",
-      "score": 77,
+      "score": 72,
       "selected": true,
       "interestTags": [
         "app",
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmr0wupt4007gsl403t7s6dbn",
+      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
+      "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
+      "url": "https://developers.googleblog.com/announcing-adk-go-20",
+      "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-06-30T17:17:40.302Z",
+      "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmr0x8nxp002gslb33ixw5j4z",
+      "title": "Apple Creator Studio 更新：更智能、更快速、更互联",
+      "title_en": "Apple Creator Studio gets smarter， faster， and more connected",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
+      "permalink": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-30T16:59:24.233Z",
+      "summary": "Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-device AI 驱动的 Generate Captions（自动转录音频生成字幕）和 Edit Detection（自动检测剪辑点）。Mac 版加入 Auto Mask（自动识别皮肤、天空等主体）、增强的 Match Color 和 Advanced Trimming。支持将帧发送至 Pixelmator Pro 编辑，并在 Keynote、Pages、Numbers 中直接调用 Pixelmator Pro 修改图片。Logic Pro 新增 Grammy 制作人制作的 Producer Project 及 Chord ID 改进。订阅价 $12.99/月或 $129/年，新用户免费试用一个月，教育用户 $2.99/月。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmr0v1pn7009kslatrt4gncmj",
+      "title": "Claude Desktop 推出 Linux 公测版",
+      "title_en": "Claude Desktop is now available on Linux （Ubuntu and Debian） in beta. Alongside the browser and ter…",
+      "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+      "permalink": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-06-30T16:06:59.000Z",
+      "summary": "Claude Desktop 现已在 Linux（Ubuntu 和 Debian）上推出测试版。\n\n除了浏览器和终端，你现在可以在所有付费计划中获得一流的桌面体验，包括 Claude Code、Claude Cowork 和聊天。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
     },
     {
       "id": "cmqz1tatr01doslxsae6mpoyv",
@@ -311,7 +371,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -329,7 +389,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
@@ -347,7 +407,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
@@ -366,98 +426,40 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmqsbrhhm01o1slfu2kei9qhy",
-      "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
-      "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
-      "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
-      "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-24T16:49:01.000Z",
-      "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-      "title": "Runway发布Agent 2.0",
-      "title_en": "Introducing Agent 2.0",
-      "url": "https://runwayml.com/news/introducing-agent-2",
-      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-24T16:00:00.000Z",
-      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
+      "id": "rss_3899699109",
+      "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
+      "title_en": null,
+      "url": "https://sspai.com/post/111744",
+      "source": "少数派",
+      "publishedAt": "2026-06-30T09:02:26+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111744\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "creative",
-        "app",
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "15小时前"
     },
     {
-      "id": "cmqs319vw0qkcslp52gzwr77q",
-      "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
-      "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
-      "category": "ai-products",
-      "score": 61,
+      "id": "cmr00f9t902pgslkiofzqdgx2",
+      "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
+      "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
+      "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
+      "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-30T01:58:00.000Z",
+      "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
+      "category": "tip",
+      "score": 67,
       "selected": true,
       "interestTags": [
-        "creative",
-        "app"
+        "education"
       ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_3041045799",
-      "title": "探索快捷指令的上限：用网页视图创建丰富界面与交互",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/create-webview-in-shortcuts",
-      "source": "少数派",
-      "publishedAt": "2026-06-26T08:29:05+00:00",
-      "summary": "从锁屏按钮、锁屏小组件、负一屏小组件，到桌面小组件、控制中心、Siri、自动化触发……iPhone的快捷指令有着超级多的打开方式，我们也可以为自己写的或从网络上获取的实用快捷指令设置一种最顺手的。与之 ...<a href=\"https://sspai.com/prime/story/create-webview-in-shortcuts\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_3789375186",
-      "title": "消金行业密集补充资本金，合规转型步入深水区",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3874907446072578?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-06-30T00:00:00+00:00",
-      "summary": "近日，晋商银行与晋商消金签订股份认购协议，前者拟斥资7.3亿元认购后者5亿股新发行股份。增资完成后，晋商消金注册资本将由5亿元增至10亿元，晋商银行对其持股比例将从40%升至70%。这次增资的原因指向2024年4月实施的《消费金融公司管理办法》。根据办法，消金公司注册资本最低限额从3亿元提升至10亿元，主要出资人持股比例不低于50%。近年来，北银消金、河北幸福消金等机构纷纷开启增资工作。不过，放眼整个消金行业，仍有少数机构注册资本未迈过10亿元门槛。（中证网）",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "techScore": 0,
+      "formattedTime": "22小时前"
     }
   ]
 }
