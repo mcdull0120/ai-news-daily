@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-01T00:11:21.302390+00:00",
+  "generatedAt": "2026-07-02T00:12:39.916856+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,63 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmr259c3104wjsl8z81g6p5op",
+        "title": "Meta效仿SpaceX，将过剩AI算力变现",
+        "title_en": "Meta， like SpaceX， looks to turn excess AI compute into cash",
+        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+        "permalink": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-07-01T13:43:07.000Z",
+        "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"definitely on the table\"。",
+        "category": "industry",
+        "score": 72,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "cmr1qbf1w012isl8zibrcgm2h",
+        "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/971/071.htm",
+        "permalink": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-01T06:57:42.000Z",
+        "summary": "亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。",
+        "category": "industry",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "cmr1bxokg01eoslnlem278yfq",
+        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+        "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+        "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-07-01T00:11:00.000Z",
+        "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
+        "category": "industry",
+        "score": 84,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
     "creative": [
       {
         "id": "cmr12g90k00zlsldxyyr0fmt3",
@@ -27,26 +84,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmr0xc7sg0040slb3yenz5k02",
-        "title": "Claude Science 科研工作台正式上线",
-        "title_en": "Claude Science， an AI workbench for scientists， is now available",
-        "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-        "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-06-30T17:32:06.724Z",
-        "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmr0x8nxp002gslb33ixw5j4z",
@@ -66,65 +104,26 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmr0x7y97001yslb3tyb8w4ce",
-        "title": "Claude Code 入门：智能体循环",
-        "title_en": "Getting started with loops",
-        "url": "https://claude.com/blog/getting-started-with-loops",
-        "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-06-30T17:28:28.530Z",
-        "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
-        "category": "tip",
-        "score": 72,
-        "selected": true,
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmr0wupt4007gsl403t7s6dbn",
-        "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-        "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
-        "url": "https://developers.googleblog.com/announcing-adk-go-20",
-        "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-06-30T17:17:40.302Z",
-        "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
+        "id": "cmr0wwa6g0085sl40xkkzeruy",
+        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+        "title_en": "Have your agent record video demos of its work with shot-scraper video",
+        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+        "permalink": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-06-30T16:54:26.000Z",
+        "summary": "shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml 文件定义操作步骤，并利用 Playwright 录制浏览器视频。演示视频展示了 Datasette 中从粘贴的 CSV/TSV/JSON 数据创建新表的功能。该功能依赖 Playwright 1.61.0 新增的 screencast 机制，解决了此前视频开头白帧、宽度固定 800px 等问题。开发者 Simon Willison 强调，将 --help 输出设计得足够详细，可使编码 Agent 直接利用该命令生成演示视频。",
         "category": "ai-products",
-        "score": 67,
+        "score": 73,
         "selected": true,
         "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmr0v1pn7009kslatrt4gncmj",
-        "title": "Claude Desktop 推出 Linux 公测版",
-        "title_en": "Claude Desktop is now available on Linux （Ubuntu and Debian） in beta. Alongside the browser and ter…",
-        "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-        "permalink": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-06-30T16:06:59.000Z",
-        "summary": "Claude Desktop 现已在 Linux（Ubuntu 和 Debian）上推出测试版。\n\n除了浏览器和终端，你现在可以在所有付费计划中获得一流的桌面体验，包括 Claude Code、Claude Cowork 和聊天。",
-        "category": "ai-products",
-        "score": 67,
-        "selected": true,
-        "interestTags": [
+          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -144,7 +143,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -162,25 +161,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmr00f9t902pgslkiofzqdgx2",
-        "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-        "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
-        "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-        "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-06-30T01:58:00.000Z",
-        "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 0,
-        "formattedTime": "22小时前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -200,7 +181,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "writing": [
@@ -221,10 +202,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_3899699109",
+        "id": "rss_341526553",
         "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
         "title_en": null,
         "url": "https://sspai.com/post/111744",
@@ -236,11 +217,81 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_1395764640",
+        "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+        "title_en": null,
+        "url": "https://36kr.com/p/3877109751803904?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-01T00:00:00+00:00",
+        "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。</p>\n  <p>故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。</p>\n  <p>这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：</p>\n  <p>Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmr259c3104wjsl8z81g6p5op",
+      "title": "Meta效仿SpaceX，将过剩AI算力变现",
+      "title_en": "Meta， like SpaceX， looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "permalink": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-01T13:43:07.000Z",
+      "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"definitely on the table\"。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmr1qbf1w012isl8zibrcgm2h",
+      "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/971/071.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-01T06:57:42.000Z",
+      "summary": "亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "cmr1bxokg01eoslnlem278yfq",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-01T00:11:00.000Z",
+      "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmr12g90k00zlsldxyyr0fmt3",
       "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
@@ -258,64 +309,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmr0xc7sg0040slb3yenz5k02",
-      "title": "Claude Science 科研工作台正式上线",
-      "title_en": "Claude Science， an AI workbench for scientists， is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-30T17:32:06.724Z",
-      "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmr0x7y97001yslb3tyb8w4ce",
-      "title": "Claude Code 入门：智能体循环",
-      "title_en": "Getting started with loops",
-      "url": "https://claude.com/blog/getting-started-with-loops",
-      "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-30T17:28:28.530Z",
-      "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmr0wupt4007gsl403t7s6dbn",
-      "title": "ADK Go 2.0 发布：构建可靠的多智能体应用，新增基于图的工作流引擎、人工参与循环与动态编排",
-      "title_en": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine， built-in human-in-the-loop， and dynamic orchestration",
-      "url": "https://developers.googleblog.com/announcing-adk-go-20",
-      "permalink": "https://aihot.virxact.com/items/cmr0wupt4007gsl403t7s6dbn",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-06-30T17:17:40.302Z",
-      "summary": "Agent Development Kit （ADK） for Go 2.0 发布，引入了一类基于图的工作流引擎，用于组合复杂多智能体应用。新版本内置人工参与循环（HITL）编排、使用纯 Go 代码的动态执行、以及指数退避重试等自动弹性特性。统一执行模型后，单智能体应用与复杂图均运行在同一运行时上，简化了遥测与状态持久化。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmr0x8nxp002gslb33ixw5j4z",
@@ -335,25 +329,26 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmr0v1pn7009kslatrt4gncmj",
-      "title": "Claude Desktop 推出 Linux 公测版",
-      "title_en": "Claude Desktop is now available on Linux （Ubuntu and Debian） in beta. Alongside the browser and ter…",
-      "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
-      "permalink": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-06-30T16:06:59.000Z",
-      "summary": "Claude Desktop 现已在 Linux（Ubuntu 和 Debian）上推出测试版。\n\n除了浏览器和终端，你现在可以在所有付费计划中获得一流的桌面体验，包括 Claude Code、Claude Cowork 和聊天。",
+      "id": "cmr0wwa6g0085sl40xkkzeruy",
+      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
+      "title_en": "Have your agent record video demos of its work with shot-scraper video",
+      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
+      "permalink": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-06-30T16:54:26.000Z",
+      "summary": "shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml 文件定义操作步骤，并利用 Playwright 录制浏览器视频。演示视频展示了 Datasette 中从粘贴的 CSV/TSV/JSON 数据创建新表的功能。该功能依赖 Playwright 1.61.0 新增的 screencast 机制，解决了此前视频开头白帧、宽度固定 800px 等问题。开发者 Simon Willison 强调，将 --help 输出设计得足够详细，可使编码 Agent 直接利用该命令生成演示视频。",
       "category": "ai-products",
-      "score": 67,
+      "score": 73,
       "selected": true,
       "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmqz1tatr01doslxsae6mpoyv",
@@ -371,7 +366,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -389,7 +384,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
@@ -407,7 +402,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
@@ -426,10 +421,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_3899699109",
+      "id": "rss_341526553",
       "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
       "title_en": null,
       "url": "https://sspai.com/post/111744",
@@ -441,25 +436,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmr00f9t902pgslkiofzqdgx2",
-      "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-      "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
-      "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-      "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-30T01:58:00.000Z",
-      "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
+      "id": "rss_1395764640",
+      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "title_en": null,
+      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-01T00:00:00+00:00",
+      "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。</p>\n  <p>故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。</p>\n  <p>这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：</p>\n  <p>Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同",
+      "category": "industry",
       "interestTags": [
-        "education"
+        "writing"
       ],
-      "techScore": 0,
-      "formattedTime": "22小时前"
+      "techScore": -1,
+      "formattedTime": "昨天"
     }
   ]
 }
