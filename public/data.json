@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-02T00:12:39.916856+00:00",
+  "generatedAt": "2026-07-03T00:10:35.963217+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 146,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,119 +11,170 @@
   "grouped": {
     "app": [
       {
-        "id": "cmr259c3104wjsl8z81g6p5op",
-        "title": "Meta效仿SpaceX，将过剩AI算力变现",
-        "title_en": "Meta， like SpaceX， looks to turn excess AI compute into cash",
-        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-        "permalink": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-07-01T13:43:07.000Z",
-        "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"definitely on the table\"。",
-        "category": "industry",
-        "score": 72,
-        "selected": true,
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "10小时前"
-      },
-      {
-        "id": "cmr1qbf1w012isl8zibrcgm2h",
-        "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/971/071.htm",
-        "permalink": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-01T06:57:42.000Z",
-        "summary": "亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。",
-        "category": "industry",
+        "id": "cmr3zye9z00qfslw2sg1izmks",
+        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+        "title_en": "Meet Alibaba's Page Agent： A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+        "permalink": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+        "source": "MarkTechPost（RSS）",
+        "publishedAt": "2026-07-02T20:51:39.000Z",
+        "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，适合在自有应用内构建 AI 副驾、智能表单填充或无障碍控制等场景，但限于单页面范围，风险操作仍需服务端验证。",
+        "category": "ai-products",
         "score": 70,
         "selected": true,
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "17小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmr1bxokg01eoslnlem278yfq",
-        "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-        "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-        "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-        "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-07-01T00:11:00.000Z",
-        "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
+        "id": "cmr3pz3hx00w5sl7lk3qk71x5",
+        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+        "title_en": "Anthropic's Pentagon fight was less about access to Claude than control over how the military can us…",
+        "url": "https://x.com/kimmonismus/status/2072718147279335507",
+        "permalink": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-07-02T16:24:50.000Z",
+        "summary": "WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿\"强行推动\"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操作中已有三分之二切换至其他AI工具。",
         "category": "industry",
-        "score": 84,
+        "score": 75,
         "selected": true,
         "interestTags": [
           "app",
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmr3hyp3j0139sllxjjc2fk8h",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "title_en": "AI agents can now complete 16 percent of freelance jobs at pro quality， up from 2.5 percent eight months ago",
+        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+        "permalink": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-02T12:37:49.000Z",
+        "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现（GPT-5.5 评分偏高近三倍），仍需人类评估员打开专业软件（如 Blender）检验几何模型等细节。测试环境为虚拟 Linux 机，配备 30 余款专业应用，每项目最多 24 小时计算时间。尽管自动化率快速攀升，多数项目仍无法达到专业质量。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmr12g90k00zlsldxyyr0fmt3",
-        "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-        "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
-        "url": "https://x.com/NotebookLM/status/2072043680442245276",
-        "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "publishedAt": "2026-06-30T19:44:44.000Z",
-        "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
-        "category": "ai-products",
+        "id": "cmr3wzycy008tslnxrw3opnfn",
+        "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+        "title_en": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6，000 AI engineers inside enterprise clients",
+        "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+        "permalink": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-02T19:18:29.000Z",
+        "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmr3fluhr00i3sllxli2a5uko",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "title_en": "AI 视频剪辑 Skill 分享「video-use」 https://github.com/browser-use/video-use @browser_use 团队推出的开源 Skill，定位为…",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "permalink": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+        "source": "X：邵猛 (@shao__meng)",
+        "publishedAt": "2026-07-02T11:33:01.000Z",
+        "summary": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PNG 帧图。技术流水线包括转写、打包、生成 JSON 格式 EDL、ffmpeg 渲染及最多 3 轮自评估。渲染关键细节：分段提取 + `-c copy` 拼接、30ms 音频淡入淡出、PTS 时移、字幕最后叠加、HDR 自动映射、竖屏缩放、两-pass loudnorm。动画支持 HyperFrames、Remotion、Manim 等引擎。项目附带 12 条硬规则确保生产正确性。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "cmr3fmggw00ihsllxizuvjt33",
+        "title": "谷歌AI建设导致2025年用电量增长37%",
+        "title_en": "Google's AI buildout drove 37% increase in electricity use in 2025",
+        "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+        "permalink": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+        "source": "Ars Technica：AI（RSS）",
+        "publishedAt": "2026-07-02T11:15:49.000Z",
+        "summary": "2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过电网脱碳速度，但仍致力于扩大全球清洁电力规模，并通过技术创新降低运营排放。2024年谷歌用电量增幅为27%。",
+        "category": "industry",
+        "score": 70,
+        "selected": true,
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmr3tdz1t01t0sl7lztwzlcaj",
+        "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
+        "title_en": "Rube Goldberg machine built with Fable 5， for $4.44 👀 Prompt available here： https://www.reddit.co...",
+        "url": "https://x.com/OpenRouter/status/2072738704922439689",
+        "permalink": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-07-02T17:46:31.000Z",
+        "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
+        "category": "tip",
         "score": 68,
         "selected": true,
         "interestTags": [
-          "creative",
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmr0x8nxp002gslb33ixw5j4z",
-        "title": "Apple Creator Studio 更新：更智能、更快速、更互联",
-        "title_en": "Apple Creator Studio gets smarter， faster， and more connected",
-        "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
-        "permalink": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-06-30T16:59:24.233Z",
-        "summary": "Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-device AI 驱动的 Generate Captions（自动转录音频生成字幕）和 Edit Detection（自动检测剪辑点）。Mac 版加入 Auto Mask（自动识别皮肤、天空等主体）、增强的 Match Color 和 Advanced Trimming。支持将帧发送至 Pixelmator Pro 编辑，并在 Keynote、Pages、Numbers 中直接调用 Pixelmator Pro 修改图片。Logic Pro 新增 Grammy 制作人制作的 Producer Project 及 Chord ID 改进。订阅价 $12.99/月或 $129/年，新用户免费试用一个月，教育用户 $2.99/月。",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
+        "id": "rss_2928381278",
+        "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
+        "title_en": null,
+        "url": "https://sspai.com/post/111763",
+        "source": "少数派",
+        "publishedAt": "2026-07-02T04:16:09+00:00",
+        "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...<a href=\"https://sspai.com/post/111763\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "creative",
-          "app",
-          "education"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "19小时前"
       },
       {
-        "id": "cmr0wwa6g0085sl40xkkzeruy",
-        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-        "title_en": "Have your agent record video demos of its work with shot-scraper video",
-        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-        "permalink": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-06-30T16:54:26.000Z",
-        "summary": "shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml 文件定义操作步骤，并利用 Playwright 录制浏览器视频。演示视频展示了 Datasette 中从粘贴的 CSV/TSV/JSON 数据创建新表的功能。该功能依赖 Playwright 1.61.0 新增的 screencast 机制，解决了此前视频开头白帧、宽度固定 800px 等问题。开发者 Simon Willison 强调，将 --help 输出设计得足够详细，可使编码 Agent 直接利用该命令生成演示视频。",
-        "category": "ai-products",
-        "score": 73,
-        "selected": true,
+        "id": "rss_89732463",
+        "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
+        "title_en": null,
+        "url": "https://sspai.com/post/111744",
+        "source": "少数派",
+        "publishedAt": "2026-06-30T09:02:26+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111744\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "creative",
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "education": [
@@ -143,7 +194,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -161,194 +212,159 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
       {
-        "id": "cmquitk6o04qnsl805yictrvb",
-        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+        "id": "rss_2529951947",
+        "title": "关停“杠杆炒金”通道，银行拧紧个人贵金属业务风险阀门",
         "title_en": null,
-        "url": "https://www.ithome.com/0/968/894.htm",
-        "permalink": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-06-26T05:40:52.000Z",
-        "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
+        "url": "https://36kr.com/newsflashes/3879157022093312?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-03T00:00:00+00:00",
+        "summary": "6月以来，包括交通银行、招商银行、工商银行在内的多家国有大行、股份制银行密集“踩刹车”——宣布将于7月停办代理上海黄金交易所个人贵金属交易业务。在业内人士看来，这是银行主动进行风险管理的举措，通过提前压缩高风险投机业务，防范极端行情下的客户违约风险、声誉风险，同时帮助投资者规避贵金属价格波动带来的资金损失。（中证网）",
         "category": "industry",
-        "score": 70,
-        "selected": true,
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmqtu9a7r06x3sl0exw2blt0o",
-        "title": "赫库兰尼姆古卷首次被完整虚拟解读",
-        "title_en": "赫库兰尼姆的一卷古卷首次被解读",
-        "url": "https://scrollprize.org/firstscroll",
-        "permalink": "https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-06-25T18:03:58.685Z",
-        "summary": "研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。",
-        "category": "paper",
-        "score": 79,
-        "selected": true,
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_341526553",
-        "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
-        "title_en": null,
-        "url": "https://sspai.com/post/111744",
-        "source": "少数派",
-        "publishedAt": "2026-06-30T09:02:26+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/111744\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_1395764640",
-        "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
-        "title_en": null,
-        "url": "https://36kr.com/p/3877109751803904?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-01T00:00:00+00:00",
-        "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。</p>\n  <p>故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。</p>\n  <p>这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：</p>\n  <p>Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmr259c3104wjsl8z81g6p5op",
-      "title": "Meta效仿SpaceX，将过剩AI算力变现",
-      "title_en": "Meta， like SpaceX， looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
-      "permalink": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-01T13:43:07.000Z",
-      "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"definitely on the table\"。",
-      "category": "industry",
-      "score": 72,
+      "id": "cmr3zye9z00qfslw2sg1izmks",
+      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+      "title_en": "Meet Alibaba's Page Agent： A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "permalink": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-02T20:51:39.000Z",
+      "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，适合在自有应用内构建 AI 副驾、智能表单填充或无障碍控制等场景，但限于单页面范围，风险操作仍需服务端验证。",
+      "category": "ai-products",
+      "score": 70,
       "selected": true,
       "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmr3wzycy008tslnxrw3opnfn",
+      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+      "title_en": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6，000 AI engineers inside enterprise clients",
+      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+      "permalink": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-02T19:18:29.000Z",
+      "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmr1qbf1w012isl8zibrcgm2h",
-      "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/971/071.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-01T06:57:42.000Z",
-      "summary": "亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。",
+      "id": "cmr3tdz1t01t0sl7lztwzlcaj",
+      "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
+      "title_en": "Rube Goldberg machine built with Fable 5， for $4.44 👀 Prompt available here： https://www.reddit.co...",
+      "url": "https://x.com/OpenRouter/status/2072738704922439689",
+      "permalink": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-07-02T17:46:31.000Z",
+      "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmr3pz3hx00w5sl7lk3qk71x5",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "title_en": "Anthropic's Pentagon fight was less about access to Claude than control over how the military can us…",
+      "url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "permalink": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-07-02T16:24:50.000Z",
+      "summary": "WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿\"强行推动\"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操作中已有三分之二切换至其他AI工具。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmr3hyp3j0139sllxjjc2fk8h",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "title_en": "AI agents can now complete 16 percent of freelance jobs at pro quality， up from 2.5 percent eight months ago",
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "permalink": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-02T12:37:49.000Z",
+      "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，Fable 5 仅完成 218/240 个项目评估，最坏情况仍达 14.6%。Gemini 3 Pro 仅 1.25%，落后于更老模型。AI 裁判会高估模型表现（GPT-5.5 评分偏高近三倍），仍需人类评估员打开专业软件（如 Blender）检验几何模型等细节。测试环境为虚拟 Linux 机，配备 30 余款专业应用，每项目最多 24 小时计算时间。尽管自动化率快速攀升，多数项目仍无法达到专业质量。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmr3fluhr00i3sllxli2a5uko",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "title_en": "AI 视频剪辑 Skill 分享「video-use」 https://github.com/browser-use/video-use @browser_use 团队推出的开源 Skill，定位为…",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "permalink": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-02T11:33:01.000Z",
+      "summary": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PNG 帧图。技术流水线包括转写、打包、生成 JSON 格式 EDL、ffmpeg 渲染及最多 3 轮自评估。渲染关键细节：分段提取 + `-c copy` 拼接、30ms 音频淡入淡出、PTS 时移、字幕最后叠加、HDR 自动映射、竖屏缩放、两-pass loudnorm。动画支持 HyperFrames、Remotion、Manim 等引擎。项目附带 12 条硬规则确保生产正确性。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmr3fmggw00ihsllxizuvjt33",
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "title_en": "Google's AI buildout drove 37% increase in electricity use in 2025",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+      "permalink": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-07-02T11:15:49.000Z",
+      "summary": "2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过电网脱碳速度，但仍致力于扩大全球清洁电力规模，并通过技术创新降低运营排放。2024年谷歌用电量增幅为27%。",
       "category": "industry",
       "score": 70,
       "selected": true,
       "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "cmr1bxokg01eoslnlem278yfq",
-      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-      "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
-      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-      "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-01T00:11:00.000Z",
-      "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmr12g90k00zlsldxyyr0fmt3",
-      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-      "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
-      "url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-30T19:44:44.000Z",
-      "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmr0x8nxp002gslb33ixw5j4z",
-      "title": "Apple Creator Studio 更新：更智能、更快速、更互联",
-      "title_en": "Apple Creator Studio gets smarter， faster， and more connected",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected",
-      "permalink": "https://aihot.virxact.com/items/cmr0x8nxp002gslb33ixw5j4z",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-06-30T16:59:24.233Z",
-      "summary": "Apple Creator Studio 推出多项 AI 增强更新。Final Cut Pro 新增 on-device AI 驱动的 Generate Captions（自动转录音频生成字幕）和 Edit Detection（自动检测剪辑点）。Mac 版加入 Auto Mask（自动识别皮肤、天空等主体）、增强的 Match Color 和 Advanced Trimming。支持将帧发送至 Pixelmator Pro 编辑，并在 Keynote、Pages、Numbers 中直接调用 Pixelmator Pro 修改图片。Logic Pro 新增 Grammy 制作人制作的 Producer Project 及 Chord ID 改进。订阅价 $12.99/月或 $129/年，新用户免费试用一个月，教育用户 $2.99/月。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmr0wwa6g0085sl40xkkzeruy",
-      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-      "title_en": "Have your agent record video demos of its work with shot-scraper video",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "permalink": "https://aihot.virxact.com/items/cmr0wwa6g0085sl40xkkzeruy",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-06-30T16:54:26.000Z",
-      "summary": "shot-scraper 1.10 新增 shot-scraper video 命令，支持通过 storyboard.yml 文件定义操作步骤，并利用 Playwright 录制浏览器视频。演示视频展示了 Datasette 中从粘贴的 CSV/TSV/JSON 数据创建新表的功能。该功能依赖 Playwright 1.61.0 新增的 screencast 机制，解决了此前视频开头白帧、宽度固定 800px 等问题。开发者 Simon Willison 强调，将 --help 输出设计得足够详细，可使编码 Agent 直接利用该命令生成演示视频。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "12小时前"
     },
     {
       "id": "cmqz1tatr01doslxsae6mpoyv",
@@ -366,7 +382,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmqwclgpa00a0slfd8mlysoe8",
@@ -384,47 +400,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmquitk6o04qnsl805yictrvb",
-      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/968/894.htm",
-      "permalink": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-26T05:40:52.000Z",
-      "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "cmqtu9a7r06x3sl0exw2blt0o",
-      "title": "赫库兰尼姆古卷首次被完整虚拟解读",
-      "title_en": "赫库兰尼姆的一卷古卷首次被解读",
-      "url": "https://scrollprize.org/firstscroll",
-      "permalink": "https://aihot.virxact.com/items/cmqtu9a7r06x3sl0exw2blt0o",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-25T18:03:58.685Z",
-      "summary": "研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲洛德穆《论诸神》第八卷。所有数据与代码已公开。",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
+      "id": "rss_2928381278",
+      "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
+      "title_en": null,
+      "url": "https://sspai.com/post/111763",
+      "source": "少数派",
+      "publishedAt": "2026-07-02T04:16:09+00:00",
+      "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...<a href=\"https://sspai.com/post/111763\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "writing",
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "19小时前"
     },
     {
-      "id": "rss_341526553",
+      "id": "rss_89732463",
       "title": "社区速递 147 | 派友的五月好物盘点、测评乱象热议和安伯尼克复古掌机",
       "title_en": null,
       "url": "https://sspai.com/post/111744",
@@ -436,22 +430,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_1395764640",
-      "title": "独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签",
+      "id": "rss_2529951947",
+      "title": "关停“杠杆炒金”通道，银行拧紧个人贵金属业务风险阀门",
       "title_en": null,
-      "url": "https://36kr.com/p/3877109751803904?f=rss",
+      "url": "https://36kr.com/newsflashes/3879157022093312?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-07-01T00:00:00+00:00",
-      "summary": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。</p>\n  <p>故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。</p>\n  <p>这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文：</p>\n  <p>Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同",
+      "publishedAt": "2026-07-03T00:00:00+00:00",
+      "summary": "6月以来，包括交通银行、招商银行、工商银行在内的多家国有大行、股份制银行密集“踩刹车”——宣布将于7月停办代理上海黄金交易所个人贵金属交易业务。在业内人士看来，这是银行主动进行风险管理的举措，通过提前压缩高风险投机业务，防范极端行情下的客户违约风险、声誉风险，同时帮助投资者规避贵金属价格波动带来的资金损失。（中证网）",
       "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "刚刚"
     }
   ]
 }
