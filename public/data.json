@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-06T00:10:48.746880+00:00",
+  "generatedAt": "2026-07-07T00:12:51.482623+00:00",
   "totalSource": 160,
-  "totalFiltered": 143,
+  "totalFiltered": 144,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,71 +11,140 @@
   "grouped": {
     "creative": [
       {
-        "id": "cmr83ashr0189sl04hhietwtx",
-        "title": "三周前，我不小心创办了一家小公司",
-        "title_en": null,
-        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-        "permalink": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-05T17:43:57.442Z",
-        "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。",
+        "id": "cmr9u1olo002sihdbunnazaoz",
+        "title": "Claude Code v2.1.202 发布",
+        "title_en": "v2.1.202",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+        "permalink": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "publishedAt": "2026-07-06T22:51:16.000Z",
+        "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review <pr>` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmr9lm48z00u7ihe85tjkvn5t",
+        "title": "Claude Code 团队详解四种智能体循环类型",
+        "title_en": "http://x.com/i/article/2074204645845839872",
+        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+        "permalink": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-07-06T19:08:45.000Z",
+        "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复杂循环。",
         "category": "tip",
         "score": 70,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx"
+          "canonical": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t"
         },
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "5小时前"
       },
       {
-        "id": "cmr4wyzef05r3sll5oxo52f8j",
-        "title": "藏师傅PPT与Pencil结合使用技巧",
-        "title_en": "藏师傅的 PPT Skill 再配上 Pencil 太爽了！ 昨天评论里有个朋友分享给了我启发： 把藏师傅的 PPT 配上 Pencil，就可以直接在 Pencil 里一次性看到所有生成的 PPT…",
-        "url": "https://x.com/op7418/status/2073020264083050811",
-        "permalink": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-        "source": "X：歸藏 (@op7418)",
-        "publishedAt": "2026-07-03T12:25:20.000Z",
-        "summary": "用户将藏师傅的AI生成PPT导入Pencil设计软件，可在Pencil中一次性浏览所有页面并手动调整AI常见的排版问题，如元素重叠、对齐不准、字体错误。Pencil提供比PPT更强的编辑能力（对齐、嵌套、打组），支持导出网页和编辑文件，也可导出PNG后直接放入PPT演示。这种工作流昨天经朋友分享验证，大幅提升AI生成内容的可编辑性。",
-        "category": "tip",
-        "score": 75,
+        "id": "cmr8yq2xv01phsllsc7sv9v5u",
+        "title": "Runway 宣布设立巴黎办公室",
+        "title_en": "Announcing our Paris Office",
+        "url": "https://runwayml.com/news/announcing-our-paris-office",
+        "permalink": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-07-06T08:33:02.716Z",
+        "summary": "原文正文仅包含网站 Cookie 设置说明，未提供关于巴黎办公室的部门、规模、职能或开业时间等具体信息。",
+        "category": "industry",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j"
+          "canonical": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
         },
         "interestTags": [
           "creative",
           "app",
-          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "15小时前"
+      }
+    ],
+    "app": [
       {
-        "id": "cmr4psupf03zwsll57yggswsf",
-        "title": "Wan Video 推出\"音乐伴舞\"新功能",
-        "title_en": "New feature on Wan Video： **Music to Dance** 💃 Upload a character， add a song， and let Wan Video ge…",
-        "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-        "permalink": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "publishedAt": "2026-07-03T08:55:57.000Z",
-        "summary": "Wan Video 新功能：**音乐伴舞** 💃\n上传一个角色，添加一首歌曲，让 Wan Video 生成与节奏同步的舞蹈视频。\n可用舞种：\n• 街舞\n• 踢踏舞\n• 拉丁舞\n• K-Pop\n• 中国古典舞\n从节拍至动作，你的角色随音乐起舞。\n\n前往 wan.video 体验音乐伴舞 👉 https://int.alibabacloud.com/m/1000412428/",
+        "id": "cmr9jbw7a0085ihe85luucw73",
+        "title": "OpenClaw 登陆 HuggingFace 本地应用",
+        "title_en": "OpenClaw landed on @huggingface local apps 🦞🤝🤗 1. Pick any GGUF/MLX model on hf 2. Copy the open…",
+        "url": "https://x.com/openclaw/status/2074187998602871212",
+        "permalink": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
+        "source": "X：OpenClaw (@openclaw)",
+        "publishedAt": "2026-07-06T17:45:30.000Z",
+        "summary": "OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗\n\n1. 在 hf 上挑任意 GGUF/MLX 模型\n2. 复制 openclaw onboard 设置\n3. Voila，你得到一个完全本地的工具调用智能体。无云端、无密钥、无人监控。\n\n让你的 claw 本地化到极致。抵抗是徒劳的 🦞",
         "category": "ai-products",
-        "score": 77,
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf"
+          "canonical": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73"
         },
         "interestTags": [
-          "creative"
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmr8j82w402k0sl0ddfe6f7zv",
+        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/972/896.htm",
+        "permalink": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-06T01:09:29.000Z",
+        "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
+        "category": "industry",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "cmr5wizx2067eslc7xynzcf9y",
+        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
+        "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
+        "url": "https://www.ithome.com/0/972/526.htm",
+        "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-04T05:01:02.000Z",
+        "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
+        "category": "paper",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y"
+        },
+        "interestTags": [
+          "app"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -102,113 +171,30 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmr00f9t902pgslkiofzqdgx2",
-        "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-        "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
-        "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-        "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-06-30T01:58:00.000Z",
-        "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 0,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_2254363188",
-        "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/442964.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-05T06:52:17+00:00",
-        "summary": "迈向持续学习的世界模型",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 0,
-        "formattedTime": "17小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmr5wizx2067eslc7xynzcf9y",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
-        "url": "https://www.ithome.com/0/972/526.htm",
-        "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-04T05:01:02.000Z",
-        "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
-        "category": "paper",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmr53w14307lfsll5fo2cq53p",
-        "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-        "title_en": "谁还没个理想型？JoyAI App上线UGC数字人，快来\"捏\"出你的专属玩伴",
-        "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-        "permalink": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-        "source": "公众号：京东JoyAI",
-        "publishedAt": "2026-07-03T10:03:25.000Z",
-        "summary": "JoyAI App 近日上线 UGC 数字人功能，用户只需上传一张照片即可生成专属虚拟数字分身，支持一键复刻写实形象或通过模板重塑为卡通风格，搭配用户自己的语音即可解锁专属陪伴。该功能复用\"万能博士\"技术底座，集成 JoyAI 语言、语音、数字人大模型，实现行业领先的全双工对话，支持随时打断、自然接话。数字人兼具情绪陪伴与全能助手属性，可提供点外卖、金融咨询、学英语、规划行程等生活服务。",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       },
       {
-        "id": "cmr4s179804l5sll5u47j7031",
-        "title": "面向 Web 开发者的 Safari MCP 服务器",
-        "title_en": null,
-        "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-        "permalink": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-03T09:59:42.679Z",
-        "summary": "Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用\"远程自动化与外部智能体\"选项，即可通过命令接入，减少窗口切换。",
-        "category": "ai-products",
-        "score": 72,
+        "id": "cmr0vkch300f5slate2n251dm",
+        "title": "Grant Sanderson 谈 AI 与数学的未来",
+        "title_en": "Grant Sanderson - AI and the future of math",
+        "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+        "permalink": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-06-30T15:53:19.000Z",
+        "summary": "3Blue1Brown 创办人 Grant Sanderson 正在制作记录 AI 在数学领域进展的新项目。他在与 Dwarkesh Patel 的对谈中指出，AI 在 IMO 获金牌并不等于 AGI，只是又一个被攻克的基准。即使 AI 未来解决千禧年大奖难题，仍可能存在大量人类任务无法被自动化。对话还探讨了概念突破验证周期可长达一个世纪、Riemann 假设的 AI 证明能否被人类理解、AI 能否在已有文献间发现隐藏联系，以及现实经济任务难以套用强化学习环境等话题。",
+        "category": "tip",
+        "score": 61,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031"
+          "canonical": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm"
         },
         "interestTags": [
-          "app",
+          "education",
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "techScore": 1,
+        "formattedTime": "6天前"
       }
     ],
     "writing": [
@@ -232,10 +218,25 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_238741751",
+        "id": "rss_2503809304",
+        "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
+        "title_en": null,
+        "url": "https://sspai.com/post/111702",
+        "source": "少数派",
+        "publishedAt": "2026-07-06T03:30:41+00:00",
+        "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。<a href=\"https://sspai.com/post/111702\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "rss_2644197348",
         "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
         "title_en": null,
         "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
@@ -247,48 +248,142 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "3天前"
+      }
+    ],
+    "productivity": [
       {
-        "id": "rss_859381754",
-        "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
+        "id": "rss_3766231325",
+        "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
         "title_en": null,
-        "url": "https://sspai.com/post/111763",
-        "source": "少数派",
-        "publishedAt": "2026-07-02T04:16:09+00:00",
-        "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...<a href=\"https://sspai.com/post/111763\" target=\"_blank\">查看全文</a>",
+        "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 06 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "Mon, 06 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmr83ashr0189sl04hhietwtx",
-      "title": "三周前，我不小心创办了一家小公司",
-      "title_en": null,
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "permalink": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-05T17:43:57.442Z",
-      "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。",
+      "id": "cmr9u1olo002sihdbunnazaoz",
+      "title": "Claude Code v2.1.202 发布",
+      "title_en": "v2.1.202",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+      "permalink": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-06T22:51:16.000Z",
+      "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review <pr>` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmr9lm48z00u7ihe85tjkvn5t",
+      "title": "Claude Code 团队详解四种智能体循环类型",
+      "title_en": "http://x.com/i/article/2074204645845839872",
+      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+      "permalink": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-07-06T19:08:45.000Z",
+      "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复杂循环。",
       "category": "tip",
       "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx"
+        "canonical": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t"
       },
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmr9jbw7a0085ihe85luucw73",
+      "title": "OpenClaw 登陆 HuggingFace 本地应用",
+      "title_en": "OpenClaw landed on @huggingface local apps 🦞🤝🤗 1. Pick any GGUF/MLX model on hf 2. Copy the open…",
+      "url": "https://x.com/openclaw/status/2074187998602871212",
+      "permalink": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
+      "source": "X：OpenClaw (@openclaw)",
+      "publishedAt": "2026-07-06T17:45:30.000Z",
+      "summary": "OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗\n\n1. 在 hf 上挑任意 GGUF/MLX 模型\n2. 复制 openclaw onboard 设置\n3. Voila，你得到一个完全本地的工具调用智能体。无云端、无密钥、无人监控。\n\n让你的 claw 本地化到极致。抵抗是徒劳的 🦞",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
       "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmr8yq2xv01phsllsc7sv9v5u",
+      "title": "Runway 宣布设立巴黎办公室",
+      "title_en": "Announcing our Paris Office",
+      "url": "https://runwayml.com/news/announcing-our-paris-office",
+      "permalink": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-07-06T08:33:02.716Z",
+      "summary": "原文正文仅包含网站 Cookie 设置说明，未提供关于巴黎办公室的部门、规模、职能或开业时间等具体信息。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "15小时前"
+    },
+    {
+      "id": "cmr8j82w402k0sl0ddfe6f7zv",
+      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/972/896.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-06T01:09:29.000Z",
+      "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     },
     {
       "id": "cmr65ieko002tslf0xiomac0c",
@@ -310,7 +405,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmr5wizx2067eslc7xynzcf9y",
@@ -330,98 +425,6 @@
       },
       "interestTags": [
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmr4wyzef05r3sll5oxo52f8j",
-      "title": "藏师傅PPT与Pencil结合使用技巧",
-      "title_en": "藏师傅的 PPT Skill 再配上 Pencil 太爽了！ 昨天评论里有个朋友分享给了我启发： 把藏师傅的 PPT 配上 Pencil，就可以直接在 Pencil 里一次性看到所有生成的 PPT…",
-      "url": "https://x.com/op7418/status/2073020264083050811",
-      "permalink": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j",
-      "source": "X：歸藏 (@op7418)",
-      "publishedAt": "2026-07-03T12:25:20.000Z",
-      "summary": "用户将藏师傅的AI生成PPT导入Pencil设计软件，可在Pencil中一次性浏览所有页面并手动调整AI常见的排版问题，如元素重叠、对齐不准、字体错误。Pencil提供比PPT更强的编辑能力（对齐、嵌套、打组），支持导出网页和编辑文件，也可导出PNG后直接放入PPT演示。这种工作流昨天经朋友分享验证，大幅提升AI生成内容的可编辑性。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4wyzef05r3sll5oxo52f8j"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmr53w14307lfsll5fo2cq53p",
-      "title": "JoyAI App 上线 UGC 数字人功能，用户可\"捏\"出专属虚拟玩伴",
-      "title_en": "谁还没个理想型？JoyAI App上线UGC数字人，快来\"捏\"出你的专属玩伴",
-      "url": "https://mp.weixin.qq.com/s/XfpxdblzNWa5HxahRoT9pg",
-      "permalink": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p",
-      "source": "公众号：京东JoyAI",
-      "publishedAt": "2026-07-03T10:03:25.000Z",
-      "summary": "JoyAI App 近日上线 UGC 数字人功能，用户只需上传一张照片即可生成专属虚拟数字分身，支持一键复刻写实形象或通过模板重塑为卡通风格，搭配用户自己的语音即可解锁专属陪伴。该功能复用\"万能博士\"技术底座，集成 JoyAI 语言、语音、数字人大模型，实现行业领先的全双工对话，支持随时打断、自然接话。数字人兼具情绪陪伴与全能助手属性，可提供点外卖、金融咨询、学英语、规划行程等生活服务。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr53w14307lfsll5fo2cq53p"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmr4s179804l5sll5u47j7031",
-      "title": "面向 Web 开发者的 Safari MCP 服务器",
-      "title_en": null,
-      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
-      "permalink": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-03T09:59:42.679Z",
-      "summary": "Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用\"远程自动化与外部智能体\"选项，即可通过命令接入，减少窗口切换。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmr4psupf03zwsll57yggswsf",
-      "title": "Wan Video 推出\"音乐伴舞\"新功能",
-      "title_en": "New feature on Wan Video： **Music to Dance** 💃 Upload a character， add a song， and let Wan Video ge…",
-      "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-      "permalink": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-07-03T08:55:57.000Z",
-      "summary": "Wan Video 新功能：**音乐伴舞** 💃\n上传一个角色，添加一首歌曲，让 Wan Video 生成与节奏同步的舞蹈视频。\n可用舞种：\n• 街舞\n• 踢踏舞\n• 拉丁舞\n• K-Pop\n• 中国古典舞\n从节拍至动作，你的角色随音乐起舞。\n\n前往 wan.video 体验音乐伴舞 👉 https://int.alibabacloud.com/m/1000412428/",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf"
-      },
-      "interestTags": [
-        "creative"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -446,10 +449,25 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_238741751",
+      "id": "rss_2503809304",
+      "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
+      "title_en": null,
+      "url": "https://sspai.com/post/111702",
+      "source": "少数派",
+      "publishedAt": "2026-07-06T03:30:41+00:00",
+      "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。<a href=\"https://sspai.com/post/111702\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "rss_2644197348",
       "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
       "title_en": null,
       "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
@@ -461,59 +479,45 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_859381754",
-      "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
-      "title_en": null,
-      "url": "https://sspai.com/post/111763",
-      "source": "少数派",
-      "publishedAt": "2026-07-02T04:16:09+00:00",
-      "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在经历八个月的等待之后，SteamMach ...<a href=\"https://sspai.com/post/111763\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "3天前"
     },
     {
-      "id": "cmr00f9t902pgslkiofzqdgx2",
-      "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-      "title_en": "给机器人打工了一天，我们体验上了AI时代最魔幻的工作。",
-      "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-      "permalink": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-30T01:58:00.000Z",
-      "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
+      "id": "rss_3766231325",
+      "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 06 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
-      "score": 67,
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Mon, 06 Ju"
+    },
+    {
+      "id": "cmr0vkch300f5slate2n251dm",
+      "title": "Grant Sanderson 谈 AI 与数学的未来",
+      "title_en": "Grant Sanderson - AI and the future of math",
+      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "permalink": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-30T15:53:19.000Z",
+      "summary": "3Blue1Brown 创办人 Grant Sanderson 正在制作记录 AI 在数学领域进展的新项目。他在与 Dwarkesh Patel 的对谈中指出，AI 在 IMO 获金牌并不等于 AGI，只是又一个被攻克的基准。即使 AI 未来解决千禧年大奖难题，仍可能存在大量人类任务无法被自动化。对话还探讨了概念突破验证周期可长达一个世纪、Riemann 假设的 AI 证明能否被人类理解、AI 能否在已有文献间发现隐藏联系，以及现实经济任务难以套用强化学习环境等话题。",
+      "category": "tip",
+      "score": 61,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr00f9t902pgslkiofzqdgx2"
+        "canonical": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm"
       },
       "interestTags": [
-        "education"
+        "education",
+        "productivity"
       ],
-      "techScore": 0,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_2254363188",
-      "title": "刚刚，LeCun团队让世界模型学会持续学习！",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/442964.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-05T06:52:17+00:00",
-      "summary": "迈向持续学习的世界模型",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 0,
-      "formattedTime": "17小时前"
+      "techScore": 1,
+      "formattedTime": "6天前"
     }
   ]
 }
