@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-07T00:12:51.482623+00:00",
+  "generatedAt": "2026-07-10T00:09:06.825141+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,515 +9,531 @@
     "bilibili": 0
   },
   "grouped": {
-    "creative": [
+    "writing": [
       {
-        "id": "cmr9u1olo002sihdbunnazaoz",
-        "title": "Claude Code v2.1.202 发布",
-        "title_en": "v2.1.202",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-        "permalink": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-07-06T22:51:16.000Z",
-        "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review <pr>` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。",
-        "category": "ai-products",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmr9lm48z00u7ihe85tjkvn5t",
-        "title": "Claude Code 团队详解四种智能体循环类型",
-        "title_en": "http://x.com/i/article/2074204645845839872",
-        "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-        "permalink": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-07-06T19:08:45.000Z",
-        "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复杂循环。",
+        "id": "cmre2mjan00msihwkpuxq0462",
+        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-09T21:46:29.789Z",
+        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
         "category": "tip",
-        "score": 70,
+        "score": 72,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t"
+          "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmr8yq2xv01phsllsc7sv9v5u",
-        "title": "Runway 宣布设立巴黎办公室",
-        "title_en": "Announcing our Paris Office",
-        "url": "https://runwayml.com/news/announcing-our-paris-office",
-        "permalink": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-07-06T08:33:02.716Z",
-        "summary": "原文正文仅包含网站 Cookie 设置说明，未提供关于巴黎办公室的部门、规模、职能或开业时间等具体信息。",
-        "category": "industry",
-        "score": 65,
+        "id": "cmr9wgeoh00hvih9kcga5y5uj",
+        "title": "Gemini Spark 可智能追踪话题实时反应",
+        "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
+        "url": "https://x.com/GeminiApp/status/2074280473581572600",
+        "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-07-06T23:52:57.000Z",
+        "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
+        "category": "ai-products",
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
+          "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
         },
         "interestTags": [
-          "creative",
-          "app",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_3949359845",
+        "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
+        "title_en": null,
+        "url": "https://sspai.com/post/112017",
+        "source": "少数派",
+        "publishedAt": "2026-07-07T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112017\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       }
     ],
     "app": [
       {
-        "id": "cmr9jbw7a0085ihe85luucw73",
-        "title": "OpenClaw 登陆 HuggingFace 本地应用",
-        "title_en": "OpenClaw landed on @huggingface local apps 🦞🤝🤗 1. Pick any GGUF/MLX model on hf 2. Copy the open…",
-        "url": "https://x.com/openclaw/status/2074187998602871212",
-        "permalink": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-        "source": "X：OpenClaw (@openclaw)",
-        "publishedAt": "2026-07-06T17:45:30.000Z",
-        "summary": "OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗\n\n1. 在 hf 上挑任意 GGUF/MLX 模型\n2. 复制 openclaw onboard 设置\n3. Voila，你得到一个完全本地的工具调用智能体。无云端、无密钥、无人监控。\n\n让你的 claw 本地化到极致。抵抗是徒劳的 🦞",
+        "id": "cmre1bxqr00bhihwk8z3bz5qs",
+        "title": "ChatGPT Sites将创意变可发布网站",
+        "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
+        "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
+        "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-07-09T21:27:27.000Z",
+        "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
         "category": "ai-products",
-        "score": 65,
+        "score": 68,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73"
+          "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmr8j82w402k0sl0ddfe6f7zv",
-        "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/972/896.htm",
-        "permalink": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-06T01:09:29.000Z",
-        "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
-        "category": "industry",
-        "score": 71,
+        "id": "cmrdlxidv0522ih4b6xv8iolk",
+        "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
+        "title_en": "Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record-versioned， owned， and traceable. July 9， 2026 By Mistral",
+        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+        "permalink": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk",
+        "source": "Mistral AI：News（网页）",
+        "publishedAt": "2026-07-09T14:33:44.761Z",
+        "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
+        "category": "ai-products",
+        "score": 55,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
+          "canonical": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
         },
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "9小时前"
       },
       {
-        "id": "cmr5wizx2067eslc7xynzcf9y",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
-        "url": "https://www.ithome.com/0/972/526.htm",
-        "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-04T05:01:02.000Z",
-        "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
-        "category": "paper",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmr65ieko002tslf0xiomac0c",
-        "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-        "title_en": "A 26，000-student study shows AI's hidden learning cost takes two full years to surface",
-        "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
-        "permalink": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-04T09:08:41.000Z",
-        "summary": "一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。",
-        "category": "tip",
+        "id": "cmrdk0zfw04ixih4b84colsmb",
+        "title": "Claude 推出反思功能（Beta）",
+        "title_en": "Introducing a way to reflect on how you use Claude",
+        "url": "https://www.anthropic.com/news/reflect-with-claude",
+        "permalink": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-07-09T13:40:30.163Z",
+        "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
+        "category": "ai-products",
         "score": 73,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c"
+          "canonical": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
         },
         "interestTags": [
-          "education"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "10小时前"
+      }
+    ],
+    "creative": [
       {
-        "id": "cmr0vkch300f5slate2n251dm",
-        "title": "Grant Sanderson 谈 AI 与数学的未来",
-        "title_en": "Grant Sanderson - AI and the future of math",
-        "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
-        "permalink": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-06-30T15:53:19.000Z",
-        "summary": "3Blue1Brown 创办人 Grant Sanderson 正在制作记录 AI 在数学领域进展的新项目。他在与 Dwarkesh Patel 的对谈中指出，AI 在 IMO 获金牌并不等于 AGI，只是又一个被攻克的基准。即使 AI 未来解决千禧年大奖难题，仍可能存在大量人类任务无法被自动化。对话还探讨了概念突破验证周期可长达一个世纪、Riemann 假设的 AI 证明能否被人类理解、AI 能否在已有文献间发现隐藏联系，以及现实经济任务难以套用强化学习环境等话题。",
-        "category": "tip",
-        "score": 61,
+        "id": "cmre0j0vj002sihwk71qvktk7",
+        "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
+        "title_en": "LiteRT.js， Google's high performance Web AI Inference",
+        "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
+        "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-07-09T21:21:08.292Z",
+        "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
+        "category": "ai-products",
+        "score": 62,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm"
+          "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmrcn8mlw02k5ihx5risshcr3",
+        "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+        "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
+        "url": "https://x.com/runwayml/status/2074982268175630814",
+        "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
+        "source": "X：Runway (@runwayml)",
+        "publishedAt": "2026-07-08T22:21:38.000Z",
+        "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
+        },
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmrbc048n02j2ihl1all0ymge",
+        "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+        "title_en": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
+        "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+        "permalink": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-07-08T00:12:06.000Z",
+        "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmrdqgmkj067pih4b2dbg61ml",
+        "title": "Anthropic长期利益信托任命本·伯南克为受托人",
+        "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+        "url": "https://www.anthropic.com/news/ben-bernanke",
+        "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-07-09T16:40:37.929Z",
+        "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
+        "category": "industry",
+        "score": 56,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmraxmzfq01y0ihog3h7t344t",
+        "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+        "title_en": "The $10B FDE Boom",
+        "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+        "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
+        "source": "Tomer Tunguz 博客（VC 分析）",
+        "publishedAt": "2026-07-07T00:00:00.000Z",
+        "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
+        "category": "tip",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
         },
         "interestTags": [
           "education",
           "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmr3tdz1t01t0sl7lztwzlcaj",
-        "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-        "title_en": "Rube Goldberg machine built with Fable 5， for $4.44 👀 Prompt available here： https://www.reddit.co...",
-        "url": "https://x.com/OpenRouter/status/2072738704922439689",
-        "permalink": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-07-02T17:46:31.000Z",
-        "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
-        "category": "tip",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_2503809304",
-        "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
-        "title_en": null,
-        "url": "https://sspai.com/post/111702",
-        "source": "少数派",
-        "publishedAt": "2026-07-06T03:30:41+00:00",
-        "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。<a href=\"https://sspai.com/post/111702\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "20小时前"
-      },
-      {
-        "id": "rss_2644197348",
-        "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
-        "source": "少数派",
-        "publishedAt": "2026-07-03T09:44:33+00:00",
-        "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...<a href=\"https://sspai.com/prime/story/how-to-design-a-rental-living-room\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
         "techScore": -1,
         "formattedTime": "3天前"
-      }
-    ],
-    "productivity": [
+      },
       {
-        "id": "rss_3766231325",
-        "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
+        "id": "rss_3648546287",
+        "title": "A股注册制包容性改革驱动，港股科创企业掀起“回A”热潮",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 06 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "url": "https://36kr.com/newsflashes/3889061995100936?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-10T00:00:00+00:00",
+        "summary": "2026年以来，在A股注册制包容性改革驱动下，港股人工智能、创新药领域科创企业掀起回A热潮。目前已有超10家港股公司启动A股IPO（首次上市募资）申报或上市辅导，其中越疆科技、智谱、MiniMax、映恩生物等多数企业尚未实现盈利。科创板“1+6”改革、创业板第四套上市标准落地，打通了未盈利港股企业回A的合规通道。这一趋势不仅令科创企业兼顾国际融资与内地产业深耕，也将加速沪深港三个市场规则、估值体系与信息披露的互联互通。（证券时报）",
+        "category": "industry",
         "interestTags": [
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "Mon, 06 Ju"
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmr9u1olo002sihdbunnazaoz",
-      "title": "Claude Code v2.1.202 发布",
-      "title_en": "v2.1.202",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-      "permalink": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-06T22:51:16.000Z",
-      "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review <pr>` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。",
+      "id": "cmre2mjan00msihwkpuxq0462",
+      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+      "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:29.789Z",
+      "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmre1bxqr00bhihwk8z3bz5qs",
+      "title": "ChatGPT Sites将创意变可发布网站",
+      "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
+      "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
+      "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-07-09T21:27:27.000Z",
+      "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
       "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9u1olo002sihdbunnazaoz"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmr9lm48z00u7ihe85tjkvn5t",
-      "title": "Claude Code 团队详解四种智能体循环类型",
-      "title_en": "http://x.com/i/article/2074204645845839872",
-      "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-      "permalink": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-07-06T19:08:45.000Z",
-      "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复杂循环。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9lm48z00u7ihe85tjkvn5t"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmr9jbw7a0085ihe85luucw73",
-      "title": "OpenClaw 登陆 HuggingFace 本地应用",
-      "title_en": "OpenClaw landed on @huggingface local apps 🦞🤝🤗 1. Pick any GGUF/MLX model on hf 2. Copy the open…",
-      "url": "https://x.com/openclaw/status/2074187998602871212",
-      "permalink": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73",
-      "source": "X：OpenClaw (@openclaw)",
-      "publishedAt": "2026-07-06T17:45:30.000Z",
-      "summary": "OpenClaw 登陆 @huggingface 本地应用 🦞🤝🤗\n\n1. 在 hf 上挑任意 GGUF/MLX 模型\n2. 复制 openclaw onboard 设置\n3. Voila，你得到一个完全本地的工具调用智能体。无云端、无密钥、无人监控。\n\n让你的 claw 本地化到极致。抵抗是徒劳的 🦞",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9jbw7a0085ihe85luucw73"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmr8yq2xv01phsllsc7sv9v5u",
-      "title": "Runway 宣布设立巴黎办公室",
-      "title_en": "Announcing our Paris Office",
-      "url": "https://runwayml.com/news/announcing-our-paris-office",
-      "permalink": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-07-06T08:33:02.716Z",
-      "summary": "原文正文仅包含网站 Cookie 设置说明，未提供关于巴黎办公室的部门、规模、职能或开业时间等具体信息。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr8yq2xv01phsllsc7sv9v5u"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "15小时前"
-    },
-    {
-      "id": "cmr8j82w402k0sl0ddfe6f7zv",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-06T01:09:29.000Z",
-      "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "cmr65ieko002tslf0xiomac0c",
-      "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-      "title_en": "A 26，000-student study shows AI's hidden learning cost takes two full years to surface",
-      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
-      "permalink": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-04T09:08:41.000Z",
-      "summary": "一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmr5wizx2067eslc7xynzcf9y",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
-      "url": "https://www.ithome.com/0/972/526.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-04T05:01:02.000Z",
-      "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmr3tdz1t01t0sl7lztwzlcaj",
-      "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-      "title_en": "Rube Goldberg machine built with Fable 5， for $4.44 👀 Prompt available here： https://www.reddit.co...",
-      "url": "https://x.com/OpenRouter/status/2072738704922439689",
-      "permalink": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-02T17:46:31.000Z",
-      "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
-      "category": "tip",
       "score": 68,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj"
+        "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
       },
       "interestTags": [
-        "writing"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "rss_2503809304",
-      "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
-      "title_en": null,
-      "url": "https://sspai.com/post/111702",
-      "source": "少数派",
-      "publishedAt": "2026-07-06T03:30:41+00:00",
-      "summary": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。<a href=\"https://sspai.com/post/111702\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "id": "cmre0j0vj002sihwk71qvktk7",
+      "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
+      "title_en": "LiteRT.js， Google's high performance Web AI Inference",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
+      "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-09T21:21:08.292Z",
+      "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+      },
       "interestTags": [
-        "writing"
+        "creative",
+        "app",
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "rss_2644197348",
-      "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
-      "source": "少数派",
-      "publishedAt": "2026-07-03T09:44:33+00:00",
-      "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章中我已经提到，对我们很多人来说，客厅可能 ...<a href=\"https://sspai.com/prime/story/how-to-design-a-rental-living-room\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_3766231325",
-      "title": "亚马逊云科技推出 Workload Credentials Provider，用于自动化证书和密钥管理",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 06 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/cE3cUpHYPN0IjSuIgcsh?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "cmrdqgmkj067pih4b2dbg61ml",
+      "title": "Anthropic长期利益信托任命本·伯南克为受托人",
+      "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-09T16:40:37.929Z",
+      "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
+      "category": "industry",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
+      },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Mon, 06 Ju"
+      "formattedTime": "7小时前"
     },
     {
-      "id": "cmr0vkch300f5slate2n251dm",
-      "title": "Grant Sanderson 谈 AI 与数学的未来",
-      "title_en": "Grant Sanderson - AI and the future of math",
-      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
-      "permalink": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-06-30T15:53:19.000Z",
-      "summary": "3Blue1Brown 创办人 Grant Sanderson 正在制作记录 AI 在数学领域进展的新项目。他在与 Dwarkesh Patel 的对谈中指出，AI 在 IMO 获金牌并不等于 AGI，只是又一个被攻克的基准。即使 AI 未来解决千禧年大奖难题，仍可能存在大量人类任务无法被自动化。对话还探讨了概念突破验证周期可长达一个世纪、Riemann 假设的 AI 证明能否被人类理解、AI 能否在已有文献间发现隐藏联系，以及现实经济任务难以套用强化学习环境等话题。",
-      "category": "tip",
-      "score": 61,
+      "id": "cmrdlxidv0522ih4b6xv8iolk",
+      "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
+      "title_en": "Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record-versioned， owned， and traceable. July 9， 2026 By Mistral",
+      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+      "permalink": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-07-09T14:33:44.761Z",
+      "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
+      "category": "ai-products",
+      "score": 55,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm"
+        "canonical": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmrdk0zfw04ixih4b84colsmb",
+      "title": "Claude 推出反思功能（Beta）",
+      "title_en": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "permalink": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-09T13:40:30.163Z",
+      "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmrcn8mlw02k5ihx5risshcr3",
+      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+      "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
+      "url": "https://x.com/runwayml/status/2074982268175630814",
+      "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-07-08T22:21:38.000Z",
+      "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
+      },
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmrbc048n02j2ihl1all0ymge",
+      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
+      "title_en": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
+      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
+      "permalink": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-08T00:12:06.000Z",
+      "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmraxmzfq01y0ihog3h7t344t",
+      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+      "title_en": "The $10B FDE Boom",
+      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+      "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
       },
       "interestTags": [
         "education",
         "productivity"
       ],
-      "techScore": 1,
-      "formattedTime": "6天前"
+      "techScore": -1,
+      "formattedTime": "3天前"
+    },
+    {
+      "id": "cmr9wgeoh00hvih9kcga5y5uj",
+      "title": "Gemini Spark 可智能追踪话题实时反应",
+      "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
+      "url": "https://x.com/GeminiApp/status/2074280473581572600",
+      "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-07-06T23:52:57.000Z",
+      "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
+      },
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3天前"
+    },
+    {
+      "id": "rss_3949359845",
+      "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
+      "title_en": null,
+      "url": "https://sspai.com/post/112017",
+      "source": "少数派",
+      "publishedAt": "2026-07-07T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112017\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_3648546287",
+      "title": "A股注册制包容性改革驱动，港股科创企业掀起“回A”热潮",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3889061995100936?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-10T00:00:00+00:00",
+      "summary": "2026年以来，在A股注册制包容性改革驱动下，港股人工智能、创新药领域科创企业掀起回A热潮。目前已有超10家港股公司启动A股IPO（首次上市募资）申报或上市辅导，其中越疆科技、智谱、MiniMax、映恩生物等多数企业尚未实现盈利。科创板“1+6”改革、创业板第四套上市标准落地，打通了未盈利港股企业回A的合规通道。这一趋势不仅令科创企业兼顾国际融资与内地产业深耕，也将加速沪深港三个市场规则、估值体系与信息披露的互联互通。（证券时报）",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
     }
   ]
 }
