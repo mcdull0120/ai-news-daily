@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T00:02:06.745655+00:00",
+  "generatedAt": "2026-07-11T23:59:38.454527+00:00",
   "totalSource": 160,
   "totalFiltered": 141,
   "totalSelected": 12,
@@ -9,7 +9,101 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmrfoggdz01o7ihjl1exdh1qt",
+        "title": "Claude Code v2.1.207 发布",
+        "title_en": "v2.1.207",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+        "permalink": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "publishedAt": "2026-07-11T00:52:10.000Z",
+        "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS 默认切换为 Claude Opus 4.8。Auto 模式不再从 `.claude/settings.local.json` 读取 `autoMode`，改为使用 `~/.claude/settings.json`。修复了 Windows 上 AWS 凭证解析卡住时无限挂起的问题，60 秒超时保护现在生效。",
+        "category": "ai-products",
+        "score": 56,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "cmremehbx0246ihclothaz1km",
+        "title": "马斯克承认Anthropic是当前AI领导者",
+        "title_en": "This is Anthropic's strongest flex",
+        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+        "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-07-10T07:20:46.000Z",
+        "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmre1bxqr00bhihwk8z3bz5qs",
+        "title": "ChatGPT Sites将创意变可发布网站",
+        "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
+        "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
+        "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-07-09T21:27:27.000Z",
+        "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
     "creative": [
+      {
+        "id": "cmrflz3sd00x5ihjlndy4k7rn",
+        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+        "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "permalink": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-07-10T23:49:50.000Z",
+        "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmrfiocpi0035ihjlcm4qu8af",
         "title": "博科圣地如何利用前沿AI技术",
@@ -32,7 +126,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrf8177m007bihprf4zml1hn",
@@ -55,98 +149,6 @@
           "app",
           "writing",
           "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmrema2b4022bihcleaow4j8v",
-        "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
-        "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
-        "url": "https://x.com/elonmusk/status/2075478792273842370",
-        "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "publishedAt": "2026-07-10T07:14:39.000Z",
-        "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
-        "category": "tip",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmremehbx0246ihclothaz1km",
-        "title": "马斯克承认Anthropic是当前AI领导者",
-        "title_en": "This is Anthropic's strongest flex",
-        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-        "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-07-10T07:20:46.000Z",
-        "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      },
-      {
-        "id": "cmre1bxqr00bhihwk8z3bz5qs",
-        "title": "ChatGPT Sites将创意变可发布网站",
-        "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
-        "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
-        "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-07-09T21:27:27.000Z",
-        "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrdlxidv0522ih4b6xv8iolk",
-        "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
-        "title_en": "Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record-versioned， owned， and traceable. July 9， 2026 By Mistral",
-        "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
-        "permalink": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk",
-        "source": "Mistral AI：News（网页）",
-        "publishedAt": "2026-07-09T14:33:44.761Z",
-        "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
-        "category": "ai-products",
-        "score": 55,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
-        },
-        "interestTags": [
-          "app",
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -173,30 +175,23 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmr9wgeoh00hvih9kcga5y5uj",
-        "title": "Gemini Spark 可智能追踪话题实时反应",
-        "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
-        "url": "https://x.com/GeminiApp/status/2074280473581572600",
-        "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-07-06T23:52:57.000Z",
-        "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
-        },
+        "id": "rss_1099148419",
+        "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+        "title_en": null,
+        "url": "https://sspai.com/post/68024",
+        "source": "少数派",
+        "publishedAt": "2026-07-11T07:05:21+00:00",
+        "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。<a href=\"https://sspai.com/post/68024\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "writing",
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "16小时前"
       }
     ],
     "productivity": [
@@ -220,22 +215,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_2395212756",
-        "title": "凌云光：拟择机出售不超过33.48万股智谱股票",
+        "id": "rss_2290255471",
+        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3889775596043013?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-10T00:00:00+00:00",
-        "summary": "36氪获悉，凌云光公告，公司董事会审议通过议案，拟授权管理层择机出售凌云光国际所持有的部分智谱股票，合计不超过33.48万股，授权期限自股东会审议通过之日起12个月内。该议案尚需提交股东会审议。",
-        "category": "industry",
+        "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Sat, 11 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "Sat, 11 Ju"
       }
     ],
     "education": [
@@ -263,31 +258,78 @@
         "formattedTime": "4天前"
       },
       {
-        "id": "cmra67abw003vihup3mg75wsc",
-        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-        "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
-        "url": "https://x.com/emollick/status/2074348274136346871",
-        "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-        "source": "X：Ethan Mollick (@emollick)",
-        "publishedAt": "2026-07-07T04:22:22.000Z",
-        "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
-        "category": "ai-products",
-        "score": 75,
+        "id": "cmrgmylg702eaih2e1e9hhfe4",
+        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+        "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+        "permalink": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-11T17:04:28.000Z",
+        "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+        "category": "industry",
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+          "canonical": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4"
         },
         "interestTags": [
-          "education",
-          "productivity"
+          "education"
         ],
         "techScore": 0,
-        "formattedTime": "3天前"
+        "formattedTime": "6小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmrfoggdz01o7ihjl1exdh1qt",
+      "title": "Claude Code v2.1.207 发布",
+      "title_en": "v2.1.207",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "permalink": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-11T00:52:10.000Z",
+      "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS 默认切换为 Claude Opus 4.8。Auto 模式不再从 `.claude/settings.local.json` 读取 `autoMode`，改为使用 `~/.claude/settings.json`。修复了 Windows 上 AWS 凭证解析卡住时无限挂起的问题，60 秒超时保护现在生效。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "cmrflz3sd00x5ihjlndy4k7rn",
+      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+      "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "permalink": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-07-10T23:49:50.000Z",
+      "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmrfiocpi0035ihjlcm4qu8af",
       "title": "博科圣地如何利用前沿AI技术",
@@ -310,7 +352,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrf8177m007bihprf4zml1hn",
@@ -335,7 +377,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmremehbx0246ihclothaz1km",
@@ -357,30 +399,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "cmrema2b4022bihcleaow4j8v",
-      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
-      "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
-      "url": "https://x.com/elonmusk/status/2075478792273842370",
-      "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-10T07:14:39.000Z",
-      "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmre2mjan00msihwkpuxq0462",
@@ -402,7 +421,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmre1bxqr00bhihwk8z3bz5qs",
@@ -424,30 +443,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrdlxidv0522ih4b6xv8iolk",
-      "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
-      "title_en": "Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record-versioned， owned， and traceable. July 9， 2026 By Mistral",
-      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
-      "permalink": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-07-09T14:33:44.761Z",
-      "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrdqgmkj067pih4b2dbg61ml",
@@ -469,7 +465,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmraxmzfq01y0ihog3h7t344t",
@@ -495,65 +491,57 @@
       "formattedTime": "4天前"
     },
     {
-      "id": "cmr9wgeoh00hvih9kcga5y5uj",
-      "title": "Gemini Spark 可智能追踪话题实时反应",
-      "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
-      "url": "https://x.com/GeminiApp/status/2074280473581572600",
-      "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-07-06T23:52:57.000Z",
-      "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
-      },
+      "id": "rss_1099148419",
+      "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+      "title_en": null,
+      "url": "https://sspai.com/post/68024",
+      "source": "少数派",
+      "publishedAt": "2026-07-11T07:05:21+00:00",
+      "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。<a href=\"https://sspai.com/post/68024\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
         "writing",
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "rss_2395212756",
-      "title": "凌云光：拟择机出售不超过33.48万股智谱股票",
+      "id": "rss_2290255471",
+      "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3889775596043013?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-10T00:00:00+00:00",
-      "summary": "36氪获悉，凌云光公告，公司董事会审议通过议案，拟授权管理层择机出售凌云光国际所持有的部分智谱股票，合计不超过33.48万股，授权期限自股东会审议通过之日起12个月内。该议案尚需提交股东会审议。",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Sat, 11 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "Sat, 11 Ju"
     },
     {
-      "id": "cmra67abw003vihup3mg75wsc",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
-      "url": "https://x.com/emollick/status/2074348274136346871",
-      "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-07-07T04:22:22.000Z",
-      "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
-      "category": "ai-products",
-      "score": 75,
+      "id": "cmrgmylg702eaih2e1e9hhfe4",
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+      "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "permalink": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-11T17:04:28.000Z",
+      "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+      "category": "industry",
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+        "canonical": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4"
       },
       "interestTags": [
-        "education",
-        "productivity"
+        "education"
       ],
       "techScore": 0,
-      "formattedTime": "3天前"
+      "formattedTime": "6小时前"
     }
   ]
 }
