@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-10T00:09:06.825141+00:00",
+  "generatedAt": "2026-07-11T00:02:06.745655+00:00",
   "totalSource": 160,
-  "totalFiltered": 143,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,69 +9,103 @@
     "bilibili": 0
   },
   "grouped": {
-    "writing": [
+    "creative": [
       {
-        "id": "cmre2mjan00msihwkpuxq0462",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+        "id": "cmrfiocpi0035ihjlcm4qu8af",
+        "title": "博科圣地如何利用前沿AI技术",
+        "title_en": "恐怖组织\"博科圣地\"如何利用前沿人工智能技术",
+        "url": "https://casp.ac/reports/ai-enabled-terrorism",
+        "permalink": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-09T21:46:29.789Z",
-        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
-        "category": "tip",
-        "score": 72,
+        "publishedAt": "2026-07-10T22:07:19.177Z",
+        "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+        "category": "paper",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
+          "canonical": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af"
         },
         "interestTags": [
-          "writing"
+          "creative",
+          "app",
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "1小时前"
       },
       {
-        "id": "cmr9wgeoh00hvih9kcga5y5uj",
-        "title": "Gemini Spark 可智能追踪话题实时反应",
-        "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
-        "url": "https://x.com/GeminiApp/status/2074280473581572600",
-        "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-07-06T23:52:57.000Z",
-        "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
+        "id": "cmrf8177m007bihprf4zml1hn",
+        "title": "Claude Code桌面版新增应用内浏览器",
+        "title_en": "Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…",
+        "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
+        "permalink": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-07-10T17:36:29.000Z",
+        "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
         "category": "ai-products",
-        "score": 69,
+        "score": 70,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
+          "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
         },
         "interestTags": [
+          "creative",
+          "app",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "rss_3949359845",
-        "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
-        "title_en": null,
-        "url": "https://sspai.com/post/112017",
-        "source": "少数派",
-        "publishedAt": "2026-07-07T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112017\" target=\"_blank\">查看全文</a>",
+        "id": "cmrema2b4022bihcleaow4j8v",
+        "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+        "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+        "url": "https://x.com/elonmusk/status/2075478792273842370",
+        "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "publishedAt": "2026-07-10T07:14:39.000Z",
+        "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
         "category": "tip",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
+        },
         "interestTags": [
-          "writing"
+          "creative",
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "16小时前"
       }
     ],
     "app": [
+      {
+        "id": "cmremehbx0246ihclothaz1km",
+        "title": "马斯克承认Anthropic是当前AI领导者",
+        "title_en": "This is Anthropic's strongest flex",
+        "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+        "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-07-10T07:20:46.000Z",
+        "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
       {
         "id": "cmre1bxqr00bhihwk8z3bz5qs",
         "title": "ChatGPT Sites将创意变可发布网站",
@@ -92,7 +126,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrdlxidv0522ih4b6xv8iolk",
@@ -115,101 +149,54 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "cmrdk0zfw04ixih4b84colsmb",
-        "title": "Claude 推出反思功能（Beta）",
-        "title_en": "Introducing a way to reflect on how you use Claude",
-        "url": "https://www.anthropic.com/news/reflect-with-claude",
-        "permalink": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-07-09T13:40:30.163Z",
-        "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
-        "category": "ai-products",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
       }
     ],
-    "creative": [
+    "writing": [
       {
-        "id": "cmre0j0vj002sihwk71qvktk7",
-        "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
-        "title_en": "LiteRT.js， Google's high performance Web AI Inference",
-        "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
-        "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-07-09T21:21:08.292Z",
-        "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
-        "category": "ai-products",
-        "score": 62,
+        "id": "cmre2mjan00msihwkpuxq0462",
+        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-09T21:46:29.789Z",
+        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+        "category": "tip",
+        "score": 72,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+          "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
         },
         "interestTags": [
-          "creative",
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmrcn8mlw02k5ihx5risshcr3",
-        "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
-        "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
-        "url": "https://x.com/runwayml/status/2074982268175630814",
-        "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
-        "source": "X：Runway (@runwayml)",
-        "publishedAt": "2026-07-08T22:21:38.000Z",
-        "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
-        },
-        "interestTags": [
-          "creative",
           "writing"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
       },
       {
-        "id": "cmrbc048n02j2ihl1all0ymge",
-        "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-        "title_en": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
-        "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-        "permalink": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-07-08T00:12:06.000Z",
-        "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
-        "category": "tip",
-        "score": 75,
+        "id": "cmr9wgeoh00hvih9kcga5y5uj",
+        "title": "Gemini Spark 可智能追踪话题实时反应",
+        "title_en": "Gemini Spark can now intelligently track topics and react to events in real time. Try the prompt i…",
+        "url": "https://x.com/GeminiApp/status/2074280473581572600",
+        "permalink": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-07-06T23:52:57.000Z",
+        "summary": "Gemini Spark 现在可以智能追踪话题并实时反应事件。\n\n试试下一篇帖子中的提示词，在你支持的球队比赛结束后，获取定制化的比赛分析邮件。",
+        "category": "ai-products",
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge"
+          "canonical": "https://aihot.virxact.com/items/cmr9wgeoh00hvih9kcga5y5uj"
         },
         "interestTags": [
-          "creative"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -220,7 +207,7 @@
         "url": "https://www.anthropic.com/news/ben-bernanke",
         "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
         "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-07-09T16:40:37.929Z",
+        "publishedAt": "2026-07-08T16:00:00.000Z",
         "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
         "category": "industry",
         "score": 56,
@@ -233,7 +220,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_2395212756",
+        "title": "凌云光：拟择机出售不超过33.48万股智谱股票",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3889775596043013?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-10T00:00:00+00:00",
+        "summary": "36氪获悉，凌云光公告，公司董事会审议通过议案，拟授权管理层择机出售凌云光国际所持有的部分智谱股票，合计不超过33.48万股，授权期限自股东会审议通过之日起12个月内。该议案尚需提交股东会审议。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -258,26 +260,128 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_3648546287",
-        "title": "A股注册制包容性改革驱动，港股科创企业掀起“回A”热潮",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3889061995100936?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-10T00:00:00+00:00",
-        "summary": "2026年以来，在A股注册制包容性改革驱动下，港股人工智能、创新药领域科创企业掀起回A热潮。目前已有超10家港股公司启动A股IPO（首次上市募资）申报或上市辅导，其中越疆科技、智谱、MiniMax、映恩生物等多数企业尚未实现盈利。科创板“1+6”改革、创业板第四套上市标准落地，打通了未盈利港股企业回A的合规通道。这一趋势不仅令科创企业兼顾国际融资与内地产业深耕，也将加速沪深港三个市场规则、估值体系与信息披露的互联互通。（证券时报）",
-        "category": "industry",
+        "id": "cmra67abw003vihup3mg75wsc",
+        "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+        "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
+        "url": "https://x.com/emollick/status/2074348274136346871",
+        "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+        "source": "X：Ethan Mollick (@emollick)",
+        "publishedAt": "2026-07-07T04:22:22.000Z",
+        "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+        },
         "interestTags": [
-          "education"
+          "education",
+          "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "techScore": 0,
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmrfiocpi0035ihjlcm4qu8af",
+      "title": "博科圣地如何利用前沿AI技术",
+      "title_en": "恐怖组织\"博科圣地\"如何利用前沿人工智能技术",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "permalink": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-10T22:07:19.177Z",
+      "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmrf8177m007bihprf4zml1hn",
+      "title": "Claude Code桌面版新增应用内浏览器",
+      "title_en": "Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…",
+      "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
+      "permalink": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-07-10T17:36:29.000Z",
+      "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmremehbx0246ihclothaz1km",
+      "title": "马斯克承认Anthropic是当前AI领导者",
+      "title_en": "This is Anthropic's strongest flex",
+      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-10T07:20:46.000Z",
+      "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
+    {
+      "id": "cmrema2b4022bihcleaow4j8v",
+      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+      "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+      "url": "https://x.com/elonmusk/status/2075478792273842370",
+      "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-10T07:14:39.000Z",
+      "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
     {
       "id": "cmre2mjan00msihwkpuxq0462",
       "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
@@ -298,7 +402,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmre1bxqr00bhihwk8z3bz5qs",
@@ -320,53 +424,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmre0j0vj002sihwk71qvktk7",
-      "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
-      "title_en": "LiteRT.js， Google's high performance Web AI Inference",
-      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
-      "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-09T21:21:08.292Z",
-      "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmrdqgmkj067pih4b2dbg61ml",
-      "title": "Anthropic长期利益信托任命本·伯南克为受托人",
-      "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-09T16:40:37.929Z",
-      "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
-      "category": "industry",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrdlxidv0522ih4b6xv8iolk",
@@ -389,75 +447,29 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmrdk0zfw04ixih4b84colsmb",
-      "title": "Claude 推出反思功能（Beta）",
-      "title_en": "Introducing a way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "permalink": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb",
+      "id": "cmrdqgmkj067pih4b2dbg61ml",
+      "title": "Anthropic长期利益信托任命本·伯南克为受托人",
+      "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
       "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-09T13:40:30.163Z",
-      "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
-      "category": "ai-products",
-      "score": 73,
+      "publishedAt": "2026-07-08T16:00:00.000Z",
+      "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
+      "category": "industry",
+      "score": 56,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
+        "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
       },
       "interestTags": [
-        "app",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmrcn8mlw02k5ihx5risshcr3",
-      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
-      "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
-      "url": "https://x.com/runwayml/status/2074982268175630814",
-      "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-08T22:21:38.000Z",
-      "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
-      },
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrbc048n02j2ihl1all0ymge",
-      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-      "title_en": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
-      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-      "permalink": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-08T00:12:06.000Z",
-      "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmraxmzfq01y0ihog3h7t344t",
@@ -480,7 +492,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmr9wgeoh00hvih9kcga5y5uj",
@@ -503,37 +515,45 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_3949359845",
-      "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
+      "id": "rss_2395212756",
+      "title": "凌云光：拟择机出售不超过33.48万股智谱股票",
       "title_en": null,
-      "url": "https://sspai.com/post/112017",
-      "source": "少数派",
-      "publishedAt": "2026-07-07T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112017\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_3648546287",
-      "title": "A股注册制包容性改革驱动，港股科创企业掀起“回A”热潮",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3889061995100936?f=rss",
+      "url": "https://36kr.com/newsflashes/3889775596043013?f=rss",
       "source": "36氪",
       "publishedAt": "2026-07-10T00:00:00+00:00",
-      "summary": "2026年以来，在A股注册制包容性改革驱动下，港股人工智能、创新药领域科创企业掀起回A热潮。目前已有超10家港股公司启动A股IPO（首次上市募资）申报或上市辅导，其中越疆科技、智谱、MiniMax、映恩生物等多数企业尚未实现盈利。科创板“1+6”改革、创业板第四套上市标准落地，打通了未盈利港股企业回A的合规通道。这一趋势不仅令科创企业兼顾国际融资与内地产业深耕，也将加速沪深港三个市场规则、估值体系与信息披露的互联互通。（证券时报）",
+      "summary": "36氪获悉，凌云光公告，公司董事会审议通过议案，拟授权管理层择机出售凌云光国际所持有的部分智谱股票，合计不超过33.48万股，授权期限自股东会审议通过之日起12个月内。该议案尚需提交股东会审议。",
       "category": "industry",
       "interestTags": [
-        "education"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmra67abw003vihup3mg75wsc",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
+      "url": "https://x.com/emollick/status/2074348274136346871",
+      "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-07T04:22:22.000Z",
+      "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+      },
+      "interestTags": [
+        "education",
+        "productivity"
+      ],
+      "techScore": 0,
+      "formattedTime": "3天前"
     }
   ]
 }
