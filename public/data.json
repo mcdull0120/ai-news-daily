@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-11T23:59:38.454527+00:00",
+  "generatedAt": "2026-07-12T23:59:27.548667+00:00",
   "totalSource": 160,
-  "totalFiltered": 141,
+  "totalFiltered": 140,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -10,6 +10,29 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmrh4d5cj009ubir7yazlez7q",
+        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+        "title_en": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+        "url": "https://www.ithome.com/0/975/646.htm",
+        "permalink": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-12T00:44:43.000Z",
+        "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+        "category": "paper",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
       {
         "id": "cmrfoggdz01o7ihjl1exdh1qt",
         "title": "Claude Code v2.1.207 发布",
@@ -32,7 +55,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmremehbx0246ihclothaz1km",
@@ -49,28 +72,6 @@
         "attribution": {
           "source": "AI HOT",
           "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmre1bxqr00bhihwk8z3bz5qs",
-        "title": "ChatGPT Sites将创意变可发布网站",
-        "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
-        "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
-        "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-07-09T21:27:27.000Z",
-        "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
         },
         "interestTags": [
           "app"
@@ -102,7 +103,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrfiocpi0035ihjlcm4qu8af",
@@ -126,7 +127,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrf8177m007bihprf4zml1hn",
@@ -151,7 +152,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -175,10 +176,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_1099148419",
+        "id": "rss_1238290625",
         "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
         "title_en": null,
         "url": "https://sspai.com/post/68024",
@@ -191,7 +192,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
@@ -215,10 +216,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_2290255471",
+        "id": "rss_2499605458",
         "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
         "title_en": null,
         "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
@@ -234,29 +235,6 @@
       }
     ],
     "education": [
-      {
-        "id": "cmraxmzfq01y0ihog3h7t344t",
-        "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-        "title_en": "The $10B FDE Boom",
-        "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-        "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "publishedAt": "2026-07-07T00:00:00.000Z",
-        "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
-        "category": "tip",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
-        },
-        "interestTags": [
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
       {
         "id": "cmrgmylg702eaih2e1e9hhfe4",
         "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
@@ -277,11 +255,49 @@
           "education"
         ],
         "techScore": 0,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_1509314884",
+        "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+        "title_en": null,
+        "url": "https://36kr.com/p/3892027841362694?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-12T00:00:00+00:00",
+        "summary": "<p>林方舟 发自 凹非寺</p>\n  <p>在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。</p>\n  <p>首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge）</p>\n  <p>具身数采类似的“花活”还有不少：有的为了采数据免费上门保洁（欢迎来我家），有的把数采做成VR游戏，还有的把机器人接入互联网，采集员不用跑到数采工厂，远程就能“云操控”。</p>\n  <p class",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 0,
+        "formattedTime": "23小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmrh4d5cj009ubir7yazlez7q",
+      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+      "title_en": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+      "url": "https://www.ithome.com/0/975/646.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-12T00:44:43.000Z",
+      "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
     {
       "id": "cmrfoggdz01o7ihjl1exdh1qt",
       "title": "Claude Code v2.1.207 发布",
@@ -304,7 +320,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrflz3sd00x5ihjlndy4k7rn",
@@ -328,7 +344,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrfiocpi0035ihjlcm4qu8af",
@@ -352,7 +368,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrf8177m007bihprf4zml1hn",
@@ -377,7 +393,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmremehbx0246ihclothaz1km",
@@ -399,7 +415,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmre2mjan00msihwkpuxq0462",
@@ -421,29 +437,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmre1bxqr00bhihwk8z3bz5qs",
-      "title": "ChatGPT Sites将创意变可发布网站",
-      "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
-      "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
-      "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-07-09T21:27:27.000Z",
-      "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrdqgmkj067pih4b2dbg61ml",
@@ -465,33 +459,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmraxmzfq01y0ihog3h7t344t",
-      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-      "title_en": "The $10B FDE Boom",
-      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-      "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
-      },
-      "interestTags": [
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "4天前"
     },
     {
-      "id": "rss_1099148419",
+      "id": "rss_1238290625",
       "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
       "title_en": null,
       "url": "https://sspai.com/post/68024",
@@ -504,10 +475,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2290255471",
+      "id": "rss_2499605458",
       "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
       "title_en": null,
       "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
@@ -541,7 +512,22 @@
         "education"
       ],
       "techScore": 0,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_1509314884",
+      "title": "近百名玩家涌入具身数据 : 一年融资44.7亿，谁能真靠“卖数据”赚钱？",
+      "title_en": null,
+      "url": "https://36kr.com/p/3892027841362694?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-12T00:00:00+00:00",
+      "summary": "<p>林方舟 发自 凹非寺</p>\n  <p>在湖南郴州，一家中国移动营业厅挂牌“具身数据采集5S店”，普通顾客领一套夹爪、手套和头戴相机，经过简单培训，就能边做家务，边采集机器人训练数据。</p>\n  <p>首期投放的1000套设备，满产状态下每年能采集100万小时数据。我仿佛听到了商家心里打的小算盘：既采了数据，又赚了眼球，4A广告公司都应该来学学。（doge）</p>\n  <p>具身数采类似的“花活”还有不少：有的为了采数据免费上门保洁（欢迎来我家），有的把数采做成VR游戏，还有的把机器人接入互联网，采集员不用跑到数采工厂，远程就能“云操控”。</p>\n  <p class",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": 0,
+      "formattedTime": "23小时前"
     }
   ]
 }
