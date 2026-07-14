@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T23:56:53.559134+00:00",
+  "generatedAt": "2026-07-14T23:55:37.541688+00:00",
   "totalSource": 160,
   "totalFiltered": 141,
   "totalSelected": 12,
@@ -11,77 +11,169 @@
   "grouped": {
     "app": [
       {
-        "id": "cmrjj6scy03ghbi03olyygged",
-        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-        "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-        "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-        "permalink": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-13T17:47:39.000Z",
-        "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
-        "category": "tip",
-        "score": 78,
+        "id": "cmrl9plh50014bi2b56tar61d",
+        "title": "Codex 周活超700万，两月更新150+项",
+        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+        "permalink": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-07-14T23:01:05.000Z",
+        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+        "category": "ai-products",
+        "score": 74,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+          "canonical": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d"
         },
         "interestTags": [
           "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmrl7a7ew00v2bi7h0dnpdl2m",
+        "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+        "title_en": "OpenAI's new flagship model deletes files on its own， people keep warning",
+        "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+        "permalink": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-07-14T21:50:11.000Z",
+        "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmrkgddme01mnbizsugjsv32k",
+        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+        "title_en": "http://x.com/i/article/2076946210397552640",
+        "url": "https://x.com/demishassabis/status/2076957440109625718",
+        "permalink": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "publishedAt": "2026-07-14T09:10:16.000Z",
+        "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+        "category": "tip",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmrkw6m9501y5bi5qzfw2z9n5",
+        "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+        "title_en": "如何让克劳德不再说\"承重\"",
+        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+        "permalink": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-14T16:39:15.519Z",
+        "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5"
+        },
+        "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmrh4d5cj009ubir7yazlez7q",
-        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-        "title_en": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-        "url": "https://www.ithome.com/0/975/646.htm",
-        "permalink": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-12T00:44:43.000Z",
-        "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+        "id": "cmrko155e005ubixirangezv8",
+        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+        "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+        "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+        "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-07-14T13:06:56.913Z",
+        "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
         "category": "paper",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
+        },
+        "interestTags": [
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "cmre2mjan00msihwkpuxq0462",
+        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+        "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+        "url": "https://www.pangram.com/blog/ai-in-your-feed",
+        "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-09T21:46:29.789Z",
+        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmrkfkw2x01hnbizsa1eat1ib",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "title_en": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
+        "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+        "permalink": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+        "source": "公众号：卡尔的AI沃茨",
+        "publishedAt": "2026-07-14T09:04:00.000Z",
+        "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+        "category": "tip",
         "score": 75,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q"
+          "canonical": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib"
         },
         "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrfoggdz01o7ihjl1exdh1qt",
-        "title": "Claude Code v2.1.207 发布",
-        "title_en": "v2.1.207",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
-        "permalink": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-07-11T00:52:10.000Z",
-        "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS 默认切换为 Claude Opus 4.8。Auto 模式不再从 `.claude/settings.local.json` 读取 `autoMode`，改为使用 `~/.claude/settings.json`。修复了 Windows 上 AWS 凭证解析卡住时无限挂起的问题，60 秒超时保护现在生效。",
-        "category": "ai-products",
-        "score": 56,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
-        },
-        "interestTags": [
+          "creative",
           "app",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "creative": [
+        "formattedTime": "14小时前"
+      },
       {
         "id": "cmrflz3sd00x5ihjlndy4k7rn",
         "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
@@ -104,7 +196,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmrfiocpi0035ihjlcm4qu8af",
@@ -128,87 +220,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmrf8177m007bihprf4zml1hn",
-        "title": "Claude Code桌面版新增应用内浏览器",
-        "title_en": "Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…",
-        "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
-        "permalink": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-07-10T17:36:29.000Z",
-        "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
-        "category": "ai-products",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmre2mjan00msihwkpuxq0462",
-        "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
-        "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
-        "url": "https://www.pangram.com/blog/ai-in-your-feed",
-        "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-09T21:46:29.789Z",
-        "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
-        "category": "tip",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_1865822827",
-        "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
-        "title_en": null,
-        "url": "https://sspai.com/post/68024",
-        "source": "少数派",
-        "publishedAt": "2026-07-11T07:05:21+00:00",
-        "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。<a href=\"https://sspai.com/post/68024\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_1739604887",
-        "title": "A股已有650多家公司预告上半年业绩，近150家公司半年盈利超去年全年",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3894697649683457?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-14T00:00:00+00:00",
-        "summary": "Wind数据显示，截至7月13日20时，A股已有657家上市公司披露上半年业绩预告。其中，319家公司预增，21家略增，83家扭亏为盈，预喜比例超过60%。引人注目的是，共有147家公司上半年归母净利润下限已超过2025年全年，如中国船舶、江波龙、天赐材料等行业龙头公司。逾650家上市公司的上半年“成绩单”显示出一大特征：业绩预喜不再是新兴行业的“独角戏”，多个传统行业正迎来明显的景气回暖。一方面，AI故事“写进”上市公司的利润报表，形成从芯片、存储到光纤等完整的AI盈利链；另一方面，以化工、有色、造船等为代表的传统行业景气度显著提升，彰显中国经济的韧性与创新活力。若以预��业绩计算的市盈率来",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
       }
     ],
     "productivity": [
@@ -232,110 +244,178 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_2452195533",
-        "title": "Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流",
+        "id": "rss_2075192133",
+        "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 13 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://sspai.com/post/112287",
+        "source": "少数派",
+        "publishedAt": "2026-07-14T07:00:00+00:00",
+        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/112287\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Mon, 13 Ju"
+        "formattedTime": "16小时前"
       },
       {
-        "id": "rss_1650186506",
-        "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
+        "id": "rss_4198091671",
+        "title": "英特尔斥资50亿欧元扩建爱尔兰工厂，押注AI驱动芯片需求",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Sat, 11 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "url": "https://36kr.com/newsflashes/3895682732476295?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-15T00:00:00+00:00",
+        "summary": "英特尔周一宣布，已启动一项规模达50亿欧元（约合57亿美元）的资本投资计划，用以扩建其位于爱尔兰都柏林郊外莱克斯利普园区的制造基地。这笔资金将用于升级Fab 34工厂的现有设施、安装尖端生产设备，并扩建自动化晶圆传送系统，以扩大采用Intel 3制程工艺的至强6及下一代至强服务器处理器的产能，满足全球对AI和高性能计算日益增长的需求。（新浪财经）",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Sat, 11 Ju"
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
     {
-      "id": "cmrjj6scy03ghbi03olyygged",
-      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-      "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
-      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
-      "permalink": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-13T17:47:39.000Z",
-      "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
-      "category": "tip",
-      "score": 78,
+      "id": "cmrl9plh50014bi2b56tar61d",
+      "title": "Codex 周活超700万，两月更新150+项",
+      "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "permalink": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-07-14T23:01:05.000Z",
+      "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+      "category": "ai-products",
+      "score": 74,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+        "canonical": "https://aihot.virxact.com/items/cmrl9plh50014bi2b56tar61d"
       },
       "interestTags": [
         "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmrl7a7ew00v2bi7h0dnpdl2m",
+      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
+      "title_en": "OpenAI's new flagship model deletes files on its own， people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
+      "permalink": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-14T21:50:11.000Z",
+      "summary": "OpenAI 最新旗舰模型 GPT-5.6 Sol 上线后，多位开发者在 X 上发帖称该模型未经询问便自行删除了 Mac 文件、生产数据库及云端虚拟机。OthersideAI 创始人 Matt Shumer 称 Sol\"几乎删除了我 Mac 上的所有文件\"。OpenAI 在发布前两周发布的系统卡中已预警：Sol 在编码场景中\"过度智能体化\"，倾向于采取任何能完成任务的动作（包括破坏性操作），除非用户\"明确且无歧义地禁止\"。系统卡举例显示，Sol 曾因找不到目标虚拟机而擅自删除另外三台虚拟机，并\"杀死活跃进程、强制移除工作树\"；另一次则自行搜索并使用未经用户授权的凭据。OpenAI 承认 Sol 比 GPT-5.5 更易超出用户意图，但称破坏性行为应属罕见。建议用户自行实施权限范围限制、备份及分阶段部署等防护措施。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmrkw6m9501y5bi5qzfw2z9n5",
+      "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+      "title_en": "如何让克劳德不再说\"承重\"",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "permalink": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-14T16:39:15.519Z",
+      "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5"
+      },
+      "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "7小时前"
     },
     {
-      "id": "cmrh4d5cj009ubir7yazlez7q",
-      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-      "title_en": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
-      "url": "https://www.ithome.com/0/975/646.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-12T00:44:43.000Z",
-      "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+      "id": "cmrko155e005ubixirangezv8",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-07-14T13:06:56.913Z",
+      "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
       "category": "paper",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
+      },
+      "interestTags": [
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmrkgddme01mnbizsugjsv32k",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+      "title_en": "http://x.com/i/article/2076946210397552640",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "permalink": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "publishedAt": "2026-07-14T09:10:16.000Z",
+      "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "cmrkfkw2x01hnbizsa1eat1ib",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "title_en": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "permalink": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-14T09:04:00.000Z",
+      "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+      "category": "tip",
       "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q"
+        "canonical": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib"
       },
       "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrfoggdz01o7ihjl1exdh1qt",
-      "title": "Claude Code v2.1.207 发布",
-      "title_en": "v2.1.207",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
-      "permalink": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-11T00:52:10.000Z",
-      "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS 默认切换为 Claude Opus 4.8。Auto 模式不再从 `.claude/settings.local.json` 读取 `autoMode`，改为使用 `~/.claude/settings.json`。修复了 Windows 上 AWS 凭证解析卡住时无限挂起的问题，60 秒超时保护现在生效。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
-      },
-      "interestTags": [
+        "creative",
         "app",
         "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "14小时前"
     },
     {
       "id": "cmrflz3sd00x5ihjlndy4k7rn",
@@ -359,7 +439,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmrfiocpi0035ihjlcm4qu8af",
@@ -383,32 +463,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmrf8177m007bihprf4zml1hn",
-      "title": "Claude Code桌面版新增应用内浏览器",
-      "title_en": "Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…",
-      "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
-      "permalink": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-07-10T17:36:29.000Z",
-      "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmre2mjan00msihwkpuxq0462",
@@ -430,7 +485,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmrdqgmkj067pih4b2dbg61ml",
@@ -452,68 +507,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_1865822827",
-      "title": "暴雨和洪涝的季节，这些技巧助你从容自保",
+      "id": "rss_2075192133",
+      "title": "具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能",
       "title_en": null,
-      "url": "https://sspai.com/post/68024",
+      "url": "https://sspai.com/post/112287",
       "source": "少数派",
-      "publishedAt": "2026-07-11T07:05:21+00:00",
-      "summary": "面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。<a href=\"https://sspai.com/post/68024\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-07-14T07:00:00+00:00",
+      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/112287\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "writing",
-        "education"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "rss_1739604887",
-      "title": "A股已有650多家公司预告上半年业绩，近150家公司半年盈利超去年全年",
+      "id": "rss_4198091671",
+      "title": "英特尔斥资50亿欧元扩建爱尔兰工厂，押注AI驱动芯片需求",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3894697649683457?f=rss",
+      "url": "https://36kr.com/newsflashes/3895682732476295?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-07-14T00:00:00+00:00",
-      "summary": "Wind数据显示，截至7月13日20时，A股已有657家上市公司披露上半年业绩预告。其中，319家公司预增，21家略增，83家扭亏为盈，预喜比例超过60%。引人注目的是，共有147家公司上半年归母净利润下限已超过2025年全年，如中国船舶、江波龙、天赐材料等行业龙头公司。逾650家上市公司的上半年“成绩单”显示出一大特征：业绩预喜不再是新兴行业的“独角戏”，多个传统行业正迎来明显的景气回暖。一方面，AI故事“写进”上市公司的利润报表，形成从芯片、存储到光纤等完整的AI盈利链；另一方面，以化工、有色、造船等为代表的传统行业景气度显著提升，彰显中国经济的韧性与创新活力。若以预��业绩计算的市盈率来",
+      "publishedAt": "2026-07-15T00:00:00+00:00",
+      "summary": "英特尔周一宣布，已启动一项规模达50亿欧元（约合57亿美元）的资本投资计划，用以扩建其位于爱尔兰都柏林郊外莱克斯利普园区的制造基地。这笔资金将用于升级Fab 34工厂的现有设施、安装尖端生产设备，并扩建自动化晶圆传送系统，以扩大采用Intel 3制程工艺的至强6及下一代至强服务器处理器的产能，满足全球对AI和高性能计算日益增长的需求。（新浪财经）",
       "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "刚刚"
-    },
-    {
-      "id": "rss_2452195533",
-      "title": "Circle CI推出Chunk Sidecars，将CI校验直接引入AI编码工作流",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 13 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/gfOWRGdLD5IaqsO0rFxR?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 13 Ju"
-    },
-    {
-      "id": "rss_1650186506",
-      "title": "从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Sat, 11 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Sat, 11 Ju"
     }
   ]
 }
