@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T00:01:45.697171+00:00",
+  "generatedAt": "2026-07-17T23:55:39.795184+00:00",
   "totalSource": 160,
-  "totalFiltered": 140,
-  "totalSelected": 11,
+  "totalFiltered": 143,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -11,98 +11,98 @@
   "grouped": {
     "app": [
       {
-        "id": "cmro185e3011jbij2ond4t12b",
-        "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-        "title_en": "Automations in Grok",
-        "url": "https://x.ai/news/grok-automations",
-        "permalink": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-07-16T21:39:40.165Z",
-        "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-        "category": "ai-products",
-        "score": 85,
+        "id": "cmrp7cwpv0ay9bitoudhrgt7k",
+        "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+        "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+        "permalink": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "publishedAt": "2026-07-17T17:11:19.000Z",
+        "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+        "category": "tip",
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
+          "canonical": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
         },
         "interestTags": [
-          "app",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmrnrc11901tnbizz2dlcio3z",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-        "source": "VentureBeat：AI（RSS）",
-        "publishedAt": "2026-07-16T16:40:48.000Z",
-        "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+        "id": "cmrp5pfjw0af6bitoudv35oqk",
+        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+        "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+        "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-07-17T16:32:51.023Z",
+        "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
         "category": "tip",
-        "score": 72,
+        "score": 64,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
+          "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
         },
         "interestTags": [
-          "app",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
       },
       {
-        "id": "cmrnhly4m0007bii5zd6dhl1p",
-        "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-        "title_en": "秒哒3.5： 全球首发iOS App 无代码开发、多端共享后端",
-        "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-        "permalink": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p",
-        "source": "公众号：百度智能云（文心）",
-        "publishedAt": "2026-07-16T12:17:11.000Z",
-        "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-        "category": "ai-products",
-        "score": 67,
+        "id": "cmrp0qw3s090ybitorwj6diwi",
+        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+        "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+        "permalink": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+        "source": "X：美团 LongCat (@Meituan_LongCat)",
+        "publishedAt": "2026-07-17T14:08:29.000Z",
+        "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+        "category": "paper",
+        "score": 75,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p"
+          "canonical": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
         },
         "interestTags": [
           "app",
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "9小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmrnvwztt01bebixyznbje716",
-        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-        "title_en": "PerceptionBench",
-        "url": "https://www.kimi.com/blog/perception-bench",
-        "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
-        "source": "Moonshot AI：Kimi Blog",
-        "publishedAt": "2026-07-16T19:11:01.192Z",
-        "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-        "category": "paper",
-        "score": 70,
+        "id": "cmrorbywu06cebitoixzgpb5l",
+        "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+        "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
+        "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
+        "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+        "source": "公众号：通义实验室（千问）",
+        "publishedAt": "2026-07-17T09:41:25.000Z",
+        "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
+        "category": "tip",
+        "score": 74,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
+          "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
         },
         "interestTags": [
           "creative",
-          "app"
+          "app",
+          "education",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "14小时前"
       },
       {
         "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -126,7 +126,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -149,7 +149,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -174,7 +174,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -196,7 +196,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmrko155e005ubixirangezv8",
@@ -220,97 +220,149 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmrgmylg702eaih2e1e9hhfe4",
-        "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-        "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-        "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-        "permalink": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-11T17:04:28.000Z",
-        "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
-        "category": "industry",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 0,
-        "formattedTime": "5天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_3113516185",
-        "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+        "id": "rss_399061326",
+        "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
         "title_en": null,
-        "url": "https://36kr.com/p/3897553391978371?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-16T00:00:00+00:00",
-        "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>澳洲将设AI办公室，限制数据中心能源消耗</p>\n  <p>巴菲特宣布8年内清仓伯克希尔股票</p>\n  <p>前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队</p>\n  <p>长鑫科技：上市后仍将保持无实际控制人的控制权架构</p>\n  <p>谷歌参与建设美国最大太阳能项目，总规模达2.5GW</p>\n  <h2><strong>TOP 3大新闻</strong></h2>\n  <p><strong>阿里、百度分别为苹果智能提供AI相关能力支撑</strong></p>\n  <p>36氪获悉，网信办公",
+        "url": "https://www.qbitai.com/2026/07/453084.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-17T10:17:23+00:00",
+        "summary": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
+      {
+        "id": "rss_2358157667",
+        "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+        "title_en": null,
+        "url": "https://36kr.com/p/3899439565325953?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-17T00:00:00+00:00",
+        "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "rss_2375923639",
+        "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3899707200505734?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-17T00:00:00+00:00",
+        "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmro185e3011jbij2ond4t12b",
-      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-      "title_en": "Automations in Grok",
-      "url": "https://x.ai/news/grok-automations",
-      "permalink": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-16T21:39:40.165Z",
-      "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-      "category": "ai-products",
-      "score": 85,
+      "id": "cmrp7cwpv0ay9bitoudhrgt7k",
+      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+      "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "permalink": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-07-17T17:11:19.000Z",
+      "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+      "category": "tip",
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
+        "canonical": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
       },
       "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmrnvwztt01bebixyznbje716",
-      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-      "title_en": "PerceptionBench",
-      "url": "https://www.kimi.com/blog/perception-bench",
-      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
-      "source": "Moonshot AI：Kimi Blog",
-      "publishedAt": "2026-07-16T19:11:01.192Z",
-      "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
-      },
-      "interestTags": [
-        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmrp5pfjw0af6bitoudv35oqk",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-17T16:32:51.023Z",
+      "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmrp0qw3s090ybitorwj6diwi",
+      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+      "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "permalink": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "publishedAt": "2026-07-17T14:08:29.000Z",
+      "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
+      },
+      "interestTags": [
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmrorbywu06cebitoixzgpb5l",
+      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+      "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
+      "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
+      "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-07-17T09:41:25.000Z",
+      "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -333,30 +385,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmrnrc11901tnbizz2dlcio3z",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-      "source": "VentureBeat：AI（RSS）",
-      "publishedAt": "2026-07-16T16:40:48.000Z",
-      "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -380,7 +409,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -403,30 +432,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "cmrnhly4m0007bii5zd6dhl1p",
-      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-      "title_en": "秒哒3.5： 全球首发iOS App 无代码开发、多端共享后端",
-      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "permalink": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-16T12:17:11.000Z",
-      "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -448,7 +454,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrko155e005ubixirangezv8",
@@ -472,44 +478,52 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmrgmylg702eaih2e1e9hhfe4",
-      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
-      "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
-      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
-      "permalink": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-11T17:04:28.000Z",
-      "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 0,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_3113516185",
-      "title": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+      "id": "rss_399061326",
+      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
       "title_en": null,
-      "url": "https://36kr.com/p/3897553391978371?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-16T00:00:00+00:00",
-      "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>澳洲将设AI办公室，限制数据中心能源消耗</p>\n  <p>巴菲特宣布8年内清仓伯克希尔股票</p>\n  <p>前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队</p>\n  <p>长鑫科技：上市后仍将保持无实际控制人的控制权架构</p>\n  <p>谷歌参与建设美国最大太阳能项目，总规模达2.5GW</p>\n  <h2><strong>TOP 3大新闻</strong></h2>\n  <p><strong>阿里、百度分别为苹果智能提供AI相关能力支撑</strong></p>\n  <p>36氪获悉，网信办公",
+      "url": "https://www.qbitai.com/2026/07/453084.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-17T10:17:23+00:00",
+      "summary": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
-      "techScore": 1,
-      "formattedTime": "昨天"
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
+    {
+      "id": "rss_2358157667",
+      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+      "title_en": null,
+      "url": "https://36kr.com/p/3899439565325953?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-17T00:00:00+00:00",
+      "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "rss_2375923639",
+      "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3899707200505734?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-17T00:00:00+00:00",
+      "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     }
   ]
 }
