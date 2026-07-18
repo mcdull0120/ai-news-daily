@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-17T23:55:39.795184+00:00",
-  "totalSource": 160,
-  "totalFiltered": 143,
+  "generatedAt": "2026-07-18T23:57:31.587131+00:00",
+  "totalSource": 157,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 97,
     "rss": 60,
     "bilibili": 0
   },
@@ -30,29 +30,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmrp5pfjw0af6bitoudv35oqk",
-        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
-        "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-        "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-        "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-07-17T16:32:51.023Z",
-        "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrp0qw3s090ybitorwj6diwi",
@@ -75,7 +53,30 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmrnrc11901tnbizz2dlcio3z",
+        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+        "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
+        "source": "VentureBeat：AI（RSS）",
+        "publishedAt": "2026-07-16T16:40:48.000Z",
+        "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -102,7 +103,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -126,7 +127,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -149,7 +150,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -174,7 +175,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -196,7 +197,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmrko155e005ubixirangezv8",
@@ -220,27 +221,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_399061326",
-        "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/453084.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-17T10:17:23+00:00",
-        "summary": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "13小时前"
-      },
-      {
-        "id": "rss_2358157667",
+        "id": "rss_1060686193",
         "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
         "title_en": null,
         "url": "https://36kr.com/p/3899439565325953?f=rss",
@@ -252,19 +238,36 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2375923639",
-        "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
+        "id": "rss_4256680842",
+        "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3899707200505734?f=rss",
+        "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
         "source": "36氪",
-        "publishedAt": "2026-07-17T00:00:00+00:00",
-        "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
+        "publishedAt": "2026-07-18T00:00:00+00:00",
+        "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
         "category": "industry",
         "interestTags": [
           "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "rss_4063195221",
+        "title": "国家数据局：全国已建成高质量数据集12万个",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-18T00:00:00+00:00",
+        "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相���于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给",
+        "category": "industry",
+        "interestTags": [
+          "education"
         ],
         "techScore": -1,
         "formattedTime": "23小时前"
@@ -292,29 +295,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmrp5pfjw0af6bitoudv35oqk",
-      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
-      "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-      "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-17T16:32:51.023Z",
-      "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrp0qw3s090ybitorwj6diwi",
@@ -337,7 +318,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrorbywu06cebitoixzgpb5l",
@@ -362,7 +343,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -385,7 +366,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "cmrnrc11901tnbizz2dlcio3z",
+      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
+      "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
+      "source": "VentureBeat：AI（RSS）",
+      "publishedAt": "2026-07-16T16:40:48.000Z",
+      "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -409,7 +413,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -432,7 +436,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -454,7 +458,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmrko155e005ubixirangezv8",
@@ -478,25 +482,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_399061326",
-      "title": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/453084.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-17T10:17:23+00:00",
-      "summary": "上海制造，AI入魂：央国企率先“重用”大模型，自动化设备被换下",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
-    },
-    {
-      "id": "rss_2358157667",
+      "id": "rss_1060686193",
       "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
       "title_en": null,
       "url": "https://36kr.com/p/3899439565325953?f=rss",
@@ -508,19 +497,34 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2375923639",
-      "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
+      "id": "rss_4256680842",
+      "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3899707200505734?f=rss",
+      "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-07-17T00:00:00+00:00",
-      "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
+      "publishedAt": "2026-07-18T00:00:00+00:00",
+      "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
       "category": "industry",
       "interestTags": [
         "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "rss_4063195221",
+      "title": "国家数据局：全国已建成高质量数据集12万个",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-18T00:00:00+00:00",
+      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相���于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给",
+      "category": "industry",
+      "interestTags": [
+        "education"
       ],
       "techScore": -1,
       "formattedTime": "23小时前"
