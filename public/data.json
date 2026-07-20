@@ -1,85 +1,61 @@
 {
-  "generatedAt": "2026-07-20T00:01:09.722559+00:00",
-  "totalSource": 153,
-  "totalFiltered": 139,
-  "totalSelected": 10,
+  "generatedAt": "2026-07-20T23:59:21.637711+00:00",
+  "totalSource": 160,
+  "totalFiltered": 145,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 93,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "cmrrd5bjb00cfbikihob9drtj",
-        "title": "AI 热潮正在瓦解全球决策机制",
-        "title_en": "人工智能热潮正在瓦解全球决策机制",
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-        "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-19T05:13:24.607Z",
-        "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "18小时前"
-      },
-      {
-        "id": "cmrraq5dk03p5bi18vyrt83kp",
-        "title": "ChatGPT Work 功能：建站、邮件、文档处理",
-        "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
-        "url": "https://x.com/thsottiaux/status/2078697631019303273",
-        "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
-        "source": "X：Tibo (@thsottiaux)",
-        "publishedAt": "2026-07-19T04:25:10.000Z",
-        "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
-        "category": "ai-products",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "19小时前"
-      },
-      {
-        "id": "cmrr7sdid02ybbi18afm9lr2i",
-        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-        "title_en": "Transcribe.cpp",
-        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "permalink": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-19T02:49:15.657Z",
-        "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
-        "category": "ai-products",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "21小时前"
-      }
-    ],
     "creative": [
+      {
+        "id": "cmrtirgkp3n0ybitlf25zqtwv",
+        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+        "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+        "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+        "permalink": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-20T17:32:41.000Z",
+        "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
+        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+        "title_en": "从\"会说\"走向\"会创作\"| Seed Audio 1.0 音频创作模型发布",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+        "permalink": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
+        "publishedAt": "2026-07-19T16:00:00.000Z",
+        "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
+        "category": "ai-products",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmrorbywu06cebitoixzgpb5l",
         "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
@@ -103,54 +79,76 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "3天前"
+      }
+    ],
+    "app": [
       {
-        "id": "cmrnq8ryq01d5bizzarqvm3y1",
-        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-        "title_en": "Create， edit and star in videos with two Google Vids updates",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-        "permalink": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-07-16T16:00:00.000Z",
-        "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
+        "id": "cmrtfkakm2undbitla364sgej",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "title_en": "Grok for Excel",
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-07-20T16:19:52.655Z",
+        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
         "category": "ai-products",
-        "score": 60,
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1"
+          "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
         },
         "interestTags": [
-          "creative",
           "app",
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmrnlyzl3006sbi8v0f80nbaz",
-        "title": "在 Claude Cowork 中使用 Claude Fable 5",
-        "title_en": "Working with Claude Fable 5 in Claude Cowork",
-        "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-        "permalink": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-07-16T14:32:22.664Z",
-        "summary": "Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。",
+        "id": "cmrtfjet52udzbitl7n6bqkqj",
+        "title": "Replit 新统一工具栏集成数据库与双因素认证",
+        "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+        "url": "https://x.com/Replit/status/2079235154485109114",
+        "permalink": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-07-20T16:01:05.000Z",
+        "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
         "category": "ai-products",
-        "score": 64,
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz"
+          "canonical": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj"
         },
         "interestTags": [
-          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmrrd5bjb00cfbikihob9drtj",
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "title_en": "人工智能热潮正在瓦解全球决策机制",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+        "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-19T05:13:24.607Z",
+        "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -175,7 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -197,7 +195,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
         "id": "cmrko155e005ubixirangezv8",
@@ -221,28 +219,149 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
-    "productivity": [
+    "education": [
       {
-        "id": "rss_398163247",
-        "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+        "id": "rss_3852587268",
+        "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
         "title_en": null,
-        "url": "https://36kr.com/p/3899439565325953?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-17T00:00:00+00:00",
-        "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试",
+        "url": "https://www.qbitai.com/2026/07/455596.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-20T09:03:23+00:00",
+        "summary": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
         "category": "industry",
         "interestTags": [
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "14小时前"
+      },
+      {
+        "id": "rss_3821270022",
+        "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+        "title_en": null,
+        "url": "https://36kr.com/p/3903756643255940?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-20T00:00:00+00:00",
+        "summary": "<p>硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。</p>\n  <p>两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。</p>\n  <p>两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。</p>\n  <p>作为",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "rss_2453046449",
+        "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/07/455730.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-20T09:21:30+00:00",
+        "summary": "从理论探索到体系构建",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 0,
+        "formattedTime": "14小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmrtirgkp3n0ybitlf25zqtwv",
+      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+      "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "permalink": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-20T17:32:41.000Z",
+      "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmrtfkakm2undbitla364sgej",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+      "title_en": "Grok for Excel",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-20T16:19:52.655Z",
+      "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmrtfjet52udzbitl7n6bqkqj",
+      "title": "Replit 新统一工具栏集成数据库与双因素认证",
+      "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
+      "url": "https://x.com/Replit/status/2079235154485109114",
+      "permalink": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-20T16:01:05.000Z",
+      "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
+      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+      "title_en": "从\"会说\"走向\"会创作\"| Seed Audio 1.0 音频创作模型发布",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+      "permalink": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmrrd5bjb00cfbikihob9drtj",
       "title": "AI 热潮正在瓦解全球决策机制",
@@ -263,53 +382,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "cmrraq5dk03p5bi18vyrt83kp",
-      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
-      "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
-      "url": "https://x.com/thsottiaux/status/2078697631019303273",
-      "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-07-19T04:25:10.000Z",
-      "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmrr7sdid02ybbi18afm9lr2i",
-      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-      "title_en": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "permalink": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-19T02:49:15.657Z",
-      "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrorbywu06cebitoixzgpb5l",
@@ -334,7 +407,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -357,54 +430,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmrnq8ryq01d5bizzarqvm3y1",
-      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-      "title_en": "Create， edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "permalink": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmrnlyzl3006sbi8v0f80nbaz",
-      "title": "在 Claude Cowork 中使用 Claude Fable 5",
-      "title_en": "Working with Claude Fable 5 in Claude Cowork",
-      "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "permalink": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-16T14:32:22.664Z",
-      "summary": "Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -426,7 +452,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmrko155e005ubixirangezv8",
@@ -450,22 +476,52 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_398163247",
-      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+      "id": "rss_3852587268",
+      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
       "title_en": null,
-      "url": "https://36kr.com/p/3899439565325953?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-17T00:00:00+00:00",
-      "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试",
+      "url": "https://www.qbitai.com/2026/07/455596.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-20T09:03:23+00:00",
+      "summary": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
       "category": "industry",
       "interestTags": [
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "rss_3821270022",
+      "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
+      "title_en": null,
+      "url": "https://36kr.com/p/3903756643255940?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-20T00:00:00+00:00",
+      "summary": "<p>硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。</p>\n  <p>两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。</p>\n  <p>两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。</p>\n  <p>作为",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "rss_2453046449",
+      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/455730.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-20T09:21:30+00:00",
+      "summary": "从理论探索到体系构建",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": 0,
+      "formattedTime": "14小时前"
     }
   ]
 }
