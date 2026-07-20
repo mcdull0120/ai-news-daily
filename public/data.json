@@ -1,82 +1,82 @@
 {
-  "generatedAt": "2026-07-18T23:57:31.587131+00:00",
-  "totalSource": 157,
-  "totalFiltered": 141,
-  "totalSelected": 12,
+  "generatedAt": "2026-07-20T00:01:09.722559+00:00",
+  "totalSource": 153,
+  "totalFiltered": 139,
+  "totalSelected": 10,
   "sources": {
-    "aihot": 97,
+    "aihot": 93,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmrp7cwpv0ay9bitoudhrgt7k",
-        "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-        "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-        "permalink": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "publishedAt": "2026-07-17T17:11:19.000Z",
-        "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+        "id": "cmrrd5bjb00cfbikihob9drtj",
+        "title": "AI 热潮正在瓦解全球决策机制",
+        "title_en": "人工智能热潮正在瓦解全球决策机制",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+        "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-19T05:13:24.607Z",
+        "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
         "category": "tip",
-        "score": 76,
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
+          "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "18小时前"
       },
       {
-        "id": "cmrp0qw3s090ybitorwj6diwi",
-        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-        "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-        "permalink": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
-        "publishedAt": "2026-07-17T14:08:29.000Z",
-        "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-        "category": "paper",
+        "id": "cmrraq5dk03p5bi18vyrt83kp",
+        "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+        "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
+        "url": "https://x.com/thsottiaux/status/2078697631019303273",
+        "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+        "source": "X：Tibo (@thsottiaux)",
+        "publishedAt": "2026-07-19T04:25:10.000Z",
+        "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+        "category": "ai-products",
         "score": 75,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
+          "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
         },
         "interestTags": [
           "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrnrc11901tnbizz2dlcio3z",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-        "source": "VentureBeat：AI（RSS）",
-        "publishedAt": "2026-07-16T16:40:48.000Z",
-        "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-        "category": "tip",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
-        },
-        "interestTags": [
-          "app",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "19小时前"
+      },
+      {
+        "id": "cmrr7sdid02ybbi18afm9lr2i",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "title_en": "Transcribe.cpp",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "permalink": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-19T02:49:15.657Z",
+        "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+        "category": "ai-products",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
       }
     ],
     "creative": [
@@ -103,7 +103,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -127,7 +127,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -150,7 +150,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
@@ -175,7 +175,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -197,7 +197,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmrko155e005ubixirangezv8",
@@ -221,12 +221,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1060686193",
+        "id": "rss_398163247",
         "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
         "title_en": null,
         "url": "https://36kr.com/p/3899439565325953?f=rss",
@@ -238,87 +238,78 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_4256680842",
-        "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-18T00:00:00+00:00",
-        "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_4063195221",
-        "title": "国家数据局：全国已建成高质量数据集12万个",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-18T00:00:00+00:00",
-        "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相���于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmrp7cwpv0ay9bitoudhrgt7k",
-      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
-      "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
-      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
-      "permalink": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-17T17:11:19.000Z",
-      "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+      "id": "cmrrd5bjb00cfbikihob9drtj",
+      "title": "AI 热潮正在瓦解全球决策机制",
+      "title_en": "人工智能热潮正在瓦解全球决策机制",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+      "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-19T05:13:24.607Z",
+      "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
       "category": "tip",
-      "score": 76,
+      "score": 71,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
+        "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "18小时前"
     },
     {
-      "id": "cmrp0qw3s090ybitorwj6diwi",
-      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-      "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "permalink": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "publishedAt": "2026-07-17T14:08:29.000Z",
-      "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-      "category": "paper",
+      "id": "cmrraq5dk03p5bi18vyrt83kp",
+      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+      "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
+      "url": "https://x.com/thsottiaux/status/2078697631019303273",
+      "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-07-19T04:25:10.000Z",
+      "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+      "category": "ai-products",
       "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
+        "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
       },
       "interestTags": [
         "app",
-        "education"
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "cmrr7sdid02ybbi18afm9lr2i",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "title_en": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "permalink": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-19T02:49:15.657Z",
+      "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
     },
     {
       "id": "cmrorbywu06cebitoixzgpb5l",
@@ -343,7 +334,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -366,30 +357,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmrnrc11901tnbizz2dlcio3z",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-      "source": "VentureBeat：AI（RSS）",
-      "publishedAt": "2026-07-16T16:40:48.000Z",
-      "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrnq8ryq01d5bizzarqvm3y1",
@@ -413,7 +381,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrnlyzl3006sbi8v0f80nbaz",
@@ -436,7 +404,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrkw6m9501y5bi5qzfw2z9n5",
@@ -458,7 +426,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmrko155e005ubixirangezv8",
@@ -482,10 +450,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_1060686193",
+      "id": "rss_398163247",
       "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
       "title_en": null,
       "url": "https://36kr.com/p/3899439565325953?f=rss",
@@ -497,37 +465,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_4256680842",
-      "title": "福特在美召回近39万辆Aviator和Explorer车型，涉及座椅部件安全问题",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3900845248415362?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-18T00:00:00+00:00",
-      "summary": "美国国家公路交通安全管理局（NHTSA）7月18日公布，福特汽车公司正在召回部分2020至2027款Aviator和2020至2026款Explorer车型，涉及约38.8万辆汽车。由于二排外侧座椅便捷进入功能开关可能出现卡滞，导致座椅解锁、倾斜或滑动，车辆发生碰撞时可能无法有效约束乘员，增加受伤风险。",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "rss_4063195221",
-      "title": "国家数据局：全国已建成高质量数据集12万个",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3900807486293892?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-18T00:00:00+00:00",
-      "summary": "记者今天从国家数据局了解到，我国持续加大优质数据供给，已建成高质量数据集12万个。截至今年6月底，全国已建成科学研究、工业制造、医疗卫生、教育教学等行业领域的高质量数据集总体量超1565拍字节（PB），较一季度末增长超60%，现有体量相���于中国国家图书馆数字资源总量的547倍左右，为人工智能发展提供有力支撑。与此同时，我国数据标注产业加快发展，有效支撑高质量数据集建设。截至今年6月底，四川成都、辽宁沈阳、安徽合肥、湖南长沙、海南海口、河北保定、山西大同七个数据标注先行先试城市标注规模超119拍字节（PB），数据标注从业人员达14万人。下一步，国家数据局将深化构建服务人工智能的高质量数据供给",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "3天前"
     }
   ]
 }
