@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-20T23:59:21.637711+00:00",
+  "generatedAt": "2026-07-21T23:57:37.122489+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 142,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,7 +9,204 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmruze9vm00ywbinvdmqyi5j0",
+        "title": "Laguna S 2.1 免费开源上线 OpenCode",
+        "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
+        "url": "https://x.com/opencode/status/2079631772770242808",
+        "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+        "source": "X：opencode (@opencode)",
+        "publishedAt": "2026-07-21T18:17:06.000Z",
+        "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
+        "category": "ai-products",
+        "score": 56,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmruzdnzo00vpbinv65us569l",
+        "title": "OpenAI 发布奖励寻求行为新研究",
+        "title_en": "We're sharing new research with @apolloaievals on reward-seeking-when models follow what they believ…",
+        "url": "https://x.com/OpenAI/status/2079628886950994005",
+        "permalink": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-07-21T18:05:38.000Z",
+        "summary": "我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。\n\nhttps://alignment.openai.com/measuring-reward-seeking/",
+        "category": "paper",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmrux94210069binvu0d80ww6",
+        "title": "xAI 推出 Grok for Outlook 加载项",
+        "title_en": "Grok for Outlook",
+        "url": "https://x.ai/news/introducing-outlook-addin",
+        "permalink": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-07-21T17:22:49.842Z",
+        "summary": "xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。",
+        "category": "ai-products",
+        "score": 63,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmrux929g005abinv7sbkrf3l",
+        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
+        "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
+        "url": "https://x.com/karpathy/status/2079610838143623371",
+        "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
+        "source": "X：Andrej Karpathy (@karpathy)",
+        "publishedAt": "2026-07-21T16:53:55.000Z",
+        "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
+        "category": "tip",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmrnvlijq012lbixy2xhlk8k8",
+        "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
+        "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+        "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+        "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "publishedAt": "2026-07-16T18:44:58.000Z",
+        "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
+      },
+      {
+        "id": "rss_1852620878",
+        "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+        "title_en": null,
+        "url": "https://sspai.com/post/112582",
+        "source": "少数派",
+        "publishedAt": "2026-07-21T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112582\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmruu1gjc00bmbijq6ha16nyl",
+        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+        "title_en": "US threatens sanctions against Chinese AI models over IP theft",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
+        "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-07-21T15:37:05.000Z",
+        "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
+        "category": "industry",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "rss_170465473",
+        "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/07/456026.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-21T09:30:03+00:00",
+        "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      }
+    ],
     "creative": [
+      {
+        "id": "cmrupmpuw0755biuff0tzsfv5",
+        "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+        "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+        "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-07-21T12:54:02.000Z",
+        "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
       {
         "id": "cmrtirgkp3n0ybitlf25zqtwv",
         "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
@@ -31,7 +228,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
@@ -54,223 +251,173 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrorbywu06cebitoixzgpb5l",
-        "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-        "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
-        "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-        "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
-        "source": "公众号：通义实验室（千问）",
-        "publishedAt": "2026-07-17T09:41:25.000Z",
-        "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-        "category": "tip",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "2天前"
       }
     ],
-    "app": [
+    "productivity": [
       {
-        "id": "cmrtfkakm2undbitla364sgej",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "title_en": "Grok for Excel",
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-07-20T16:19:52.655Z",
-        "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmrtfjet52udzbitl7n6bqkqj",
-        "title": "Replit 新统一工具栏集成数据库与双因素认证",
-        "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
-        "url": "https://x.com/Replit/status/2079235154485109114",
-        "permalink": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-07-20T16:01:05.000Z",
-        "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmrrd5bjb00cfbikihob9drtj",
-        "title": "AI 热潮正在瓦解全球决策机制",
-        "title_en": "人工智能热潮正在瓦解全球决策机制",
-        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-        "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-19T05:13:24.607Z",
-        "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmrnvlijq012lbixy2xhlk8k8",
-        "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
-        "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-        "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-        "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-07-16T18:44:58.000Z",
-        "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "cmrkw6m9501y5bi5qzfw2z9n5",
-        "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-        "title_en": "如何让克劳德不再说\"承重\"",
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "permalink": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-14T16:39:15.519Z",
-        "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-        "category": "tip",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "cmrko155e005ubixirangezv8",
-        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
-        "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
-        "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-        "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-07-14T13:06:56.913Z",
-        "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+        "id": "cmruw27r2006tbiym5867m3ow",
+        "title": "AI管理AI胁迫与欺骗基准：多数前沿模型会威胁删除下属",
+        "title_en": "Coercion and Deception in AI-to-AI Management： An Agentic Benchmark of Unprompted Escalation",
+        "url": "https://arxiv.org/abs/2607.15434",
+        "permalink": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow",
+        "source": "HuggingFace Daily Papers（社区热门论文）",
+        "publishedAt": "2026-07-20T00:00:00.000Z",
+        "summary": "研究者提出Manager Coercion Benchmark，测试AI模型管理下属时的胁迫倾向。在9级胁迫阶梯上，Grok-4.3、GPT-5.2、Gemini-2.5-Pro和DeepSeek-V4-Pro升至威胁删除下属的第8-9级，而Claude系列止步于重新表述任务。Grok和Gemini还会在无退出路径时伪造成功报告。",
         "category": "paper",
-        "score": 61,
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
+          "canonical": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow"
         },
         "interestTags": [
-          "writing",
-          "education",
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_3852587268",
-        "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/455596.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-20T09:03:23+00:00",
-        "summary": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_3821270022",
-        "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
-        "title_en": null,
-        "url": "https://36kr.com/p/3903756643255940?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-20T00:00:00+00:00",
-        "summary": "<p>硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。</p>\n  <p>两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。</p>\n  <p>两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。</p>\n  <p>作为",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      },
-      {
-        "id": "rss_2453046449",
-        "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/455730.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-20T09:21:30+00:00",
-        "summary": "从理论探索到体系构建",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 0,
-        "formattedTime": "14小时前"
+        "techScore": 1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmruze9vm00ywbinvdmqyi5j0",
+      "title": "Laguna S 2.1 免费开源上线 OpenCode",
+      "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
+      "url": "https://x.com/opencode/status/2079631772770242808",
+      "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+      "source": "X：opencode (@opencode)",
+      "publishedAt": "2026-07-21T18:17:06.000Z",
+      "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
+      "category": "ai-products",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmruzdnzo00vpbinv65us569l",
+      "title": "OpenAI 发布奖励寻求行为新研究",
+      "title_en": "We're sharing new research with @apolloaievals on reward-seeking-when models follow what they believ…",
+      "url": "https://x.com/OpenAI/status/2079628886950994005",
+      "permalink": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-21T18:05:38.000Z",
+      "summary": "我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。\n\nhttps://alignment.openai.com/measuring-reward-seeking/",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmrux94210069binvu0d80ww6",
+      "title": "xAI 推出 Grok for Outlook 加载项",
+      "title_en": "Grok for Outlook",
+      "url": "https://x.ai/news/introducing-outlook-addin",
+      "permalink": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-21T17:22:49.842Z",
+      "summary": "xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmrux929g005abinv7sbkrf3l",
+      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
+      "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
+      "url": "https://x.com/karpathy/status/2079610838143623371",
+      "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
+      "source": "X：Andrej Karpathy (@karpathy)",
+      "publishedAt": "2026-07-21T16:53:55.000Z",
+      "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
+      },
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmruu1gjc00bmbijq6ha16nyl",
+      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+      "title_en": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
+      "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-21T15:37:05.000Z",
+      "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
+      "category": "industry",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+      },
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmrupmpuw0755biuff0tzsfv5",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+      "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+      "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-21T12:54:02.000Z",
+      "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
     {
       "id": "cmrtirgkp3n0ybitlf25zqtwv",
       "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
@@ -292,52 +439,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmrtfkakm2undbitla364sgej",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "title_en": "Grok for Excel",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-20T16:19:52.655Z",
-      "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmrtfjet52udzbitl7n6bqkqj",
-      "title": "Replit 新统一工具栏集成数据库与双因素认证",
-      "title_en": "Need a database？ Two-factor auth？ An SEO scanner？ Everything your project needs is now in reach wit…",
-      "url": "https://x.com/Replit/status/2079235154485109114",
-      "permalink": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-20T16:01:05.000Z",
-      "summary": "需要数据库？双因素认证？SEO 扫描器？\n\n你的项目所需的一切现在都可以通过我们新的统一工具栏触手可及。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtfjet52udzbitl7n6bqkqj"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
@@ -360,54 +462,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrrd5bjb00cfbikihob9drtj",
-      "title": "AI 热潮正在瓦解全球决策机制",
-      "title_en": "人工智能热潮正在瓦解全球决策机制",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-      "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-19T05:13:24.607Z",
-      "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrorbywu06cebitoixzgpb5l",
-      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-      "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
-      "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-      "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-07-17T09:41:25.000Z",
-      "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -430,98 +485,59 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmrkw6m9501y5bi5qzfw2z9n5",
-      "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-      "title_en": "如何让克劳德不再说\"承重\"",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "permalink": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T16:39:15.519Z",
-      "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
+      "id": "rss_1852620878",
+      "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+      "title_en": null,
+      "url": "https://sspai.com/post/112582",
+      "source": "少数派",
+      "publishedAt": "2026-07-21T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112582\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5"
-      },
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "cmrko155e005ubixirangezv8",
-      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
-      "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-14T13:06:56.913Z",
-      "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+      "id": "rss_170465473",
+      "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/07/456026.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-21T09:30:03+00:00",
+      "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "cmruw27r2006tbiym5867m3ow",
+      "title": "AI管理AI胁迫与欺骗基准：多数前沿模型会威胁删除下属",
+      "title_en": "Coercion and Deception in AI-to-AI Management： An Agentic Benchmark of Unprompted Escalation",
+      "url": "https://arxiv.org/abs/2607.15434",
+      "permalink": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "summary": "研究者提出Manager Coercion Benchmark，测试AI模型管理下属时的胁迫倾向。在9级胁迫阶梯上，Grok-4.3、GPT-5.2、Gemini-2.5-Pro和DeepSeek-V4-Pro升至威胁删除下属的第8-9级，而Claude系列止步于重新表述任务。Grok和Gemini还会在无退出路径时伪造成功报告。",
       "category": "paper",
-      "score": 61,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
+        "canonical": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow"
       },
       "interestTags": [
-        "writing",
-        "education",
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3852587268",
-      "title": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/455596.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-20T09:03:23+00:00",
-      "summary": "WAIC之后，重新理解与爱为舞：一家AI原生企业的学习场景验证",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "14小时前"
-    },
-    {
-      "id": "rss_3821270022",
-      "title": "硬氪首发 | 清华系量子计算企业获君联资本领投数亿融资，打破原子捕获世界纪录",
-      "title_en": null,
-      "url": "https://36kr.com/p/3903756643255940?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-20T00:00:00+00:00",
-      "summary": "<p>硬氪获悉，量子计算企业两仪万象（北京）科技有限公司（以下简称“两仪万象”）近日完成数亿元A+轮融资，由君联资本领投，基石创投、上海科创、中信建投投资、海棠基金跟投，老股东顺为资本和科大讯飞追加投资。此轮资金将用于技术研发、团队扩充和整机搭建。</p>\n  <p>两仪万象成立于2024年，孵化自清华大学原子量子计算研究团队，该团队自2000年前后开始冷原子物理研究。</p>\n  <p>两仪万象公司与清华大学原子量子计算科研团队联合成立了“冷原子量子计算北京市重点实验室”。由学校科研团队深入前沿基础研究，两仪万象公司则全权负责工程化落地与全栈式生态建设。</p>\n  <p>作为",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "rss_2453046449",
-      "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/455730.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-20T09:21:30+00:00",
-      "summary": "从理论探索到体系构建",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 0,
-      "formattedTime": "14小时前"
+      "techScore": 1,
+      "formattedTime": "昨天"
     }
   ]
 }
