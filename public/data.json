@@ -1,15 +1,61 @@
 {
-  "generatedAt": "2026-07-21T23:57:37.122489+00:00",
-  "totalSource": 160,
-  "totalFiltered": 142,
+  "generatedAt": "2026-07-23T00:03:03.476486+00:00",
+  "totalSource": 170,
+  "totalFiltered": 153,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmrwdro6w00ttroj0me2uszkk",
+        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+        "title_en": "http://x.com/i/article/2079981292108582912",
+        "url": "https://x.com/omarsar0/status/2079982491578827214",
+        "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "publishedAt": "2026-07-22T17:30:44.000Z",
+        "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmrwer0kl0127roj0zluq7yeh",
+        "title": "Cursor 发布智能模型路由系统 Cursor Router",
+        "title_en": "Introducing Cursor Router",
+        "url": "https://cursor.com/blog/router",
+        "permalink": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh",
+        "source": "Cursor Blog",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
+        "category": "ai-products",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmruze9vm00ywbinvdmqyi5j0",
         "title": "Laguna S 2.1 免费开源上线 OpenCode",
@@ -30,53 +76,79 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
       {
-        "id": "cmruzdnzo00vpbinv65us569l",
-        "title": "OpenAI 发布奖励寻求行为新研究",
-        "title_en": "We're sharing new research with @apolloaievals on reward-seeking-when models follow what they believ…",
-        "url": "https://x.com/OpenAI/status/2079628886950994005",
-        "permalink": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-07-21T18:05:38.000Z",
-        "summary": "我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。\n\nhttps://alignment.openai.com/measuring-reward-seeking/",
-        "category": "paper",
-        "score": 65,
+        "id": "cmrvl3qgw03hubihbavi1fla0",
+        "title": "腾讯设计Agent平台Miora全面开放",
+        "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
+        "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+        "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-07-22T04:21:03.000Z",
+        "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
+        "category": "ai-products",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l"
+          "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
         },
         "interestTags": [
-          "app",
-          "writing"
+          "creative",
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "19小时前"
       },
       {
-        "id": "cmrux94210069binvu0d80ww6",
-        "title": "xAI 推出 Grok for Outlook 加载项",
-        "title_en": "Grok for Outlook",
-        "url": "https://x.ai/news/introducing-outlook-addin",
-        "permalink": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-07-21T17:22:49.842Z",
-        "summary": "xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。",
-        "category": "ai-products",
-        "score": 63,
+        "id": "cmrvls9qg03jtbihbfhtx203y",
+        "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
+        "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
+        "url": "https://arxiv.org/abs/2607.19191",
+        "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
+        "source": "HuggingFace Daily Papers（社区热门论文）",
+        "publishedAt": "2026-07-21T15:26:50.000Z",
+        "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
+        "category": "paper",
+        "score": 83,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6"
+          "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
         },
         "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmrupmpuw0755biuff0tzsfv5",
+        "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+        "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+        "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-07-21T12:54:02.000Z",
+        "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
+        },
+        "interestTags": [
+          "creative",
           "app",
+          "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -101,7 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -124,10 +196,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_1852620878",
+        "id": "rss_3408193019",
         "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
         "title_en": null,
         "url": "https://sspai.com/post/112582",
@@ -139,7 +211,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -163,123 +235,112 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "rss_170465473",
-        "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/456026.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-21T09:30:03+00:00",
-        "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmrupmpuw0755biuff0tzsfv5",
-        "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
-        "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
-        "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-07-21T12:54:02.000Z",
-        "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "cmrtirgkp3n0ybitlf25zqtwv",
-        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-        "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
-        "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-        "permalink": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-20T17:32:41.000Z",
-        "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
-        "category": "industry",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
-        "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-        "title_en": "从\"会说\"走向\"会创作\"| Seed Audio 1.0 音频创作模型发布",
-        "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-        "permalink": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu",
-        "source": "字节 Seed：Research Feed（网页内嵌数据）",
-        "publishedAt": "2026-07-19T16:00:00.000Z",
-        "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-        "category": "ai-products",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
       }
     ],
     "productivity": [
       {
-        "id": "cmruw27r2006tbiym5867m3ow",
-        "title": "AI管理AI胁迫与欺骗基准：多数前沿模型会威胁删除下属",
-        "title_en": "Coercion and Deception in AI-to-AI Management： An Agentic Benchmark of Unprompted Escalation",
-        "url": "https://arxiv.org/abs/2607.15434",
-        "permalink": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "publishedAt": "2026-07-20T00:00:00.000Z",
-        "summary": "研究者提出Manager Coercion Benchmark，测试AI模型管理下属时的胁迫倾向。在9级胁迫阶梯上，Grok-4.3、GPT-5.2、Gemini-2.5-Pro和DeepSeek-V4-Pro升至威胁删除下属的第8-9级，而Claude系列止步于重新表述任务。Grok和Gemini还会在无退出路径时伪造成功报告。",
-        "category": "paper",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow"
-        },
+        "id": "rss_2716596773",
+        "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/07/456910.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-22T03:24:37+00:00",
+        "summary": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "rss_2489949867",
+        "title": "马斯克称美光向特斯拉分配了大量内存芯片，供货条件“非常合理”",
+        "title_en": null,
+        "url": "https://36kr.com/newsflashes/3907468172121225?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-23T00:00:00+00:00",
+        "summary": "埃隆·马斯克表示，美光科技近期向特斯拉分配了“大量”内存芯片，帮助这家汽车制造商满足了对这种日益稀缺商品的需求。马斯克在周三特斯拉季度财报电话会议上表示，尽管当下内存芯片供应紧张、价格高昂，美光科技给特斯拉的供货条件非常合理。（新浪财经）",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmrwdro6w00ttroj0me2uszkk",
+      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+      "title_en": "http://x.com/i/article/2079981292108582912",
+      "url": "https://x.com/omarsar0/status/2079982491578827214",
+      "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-22T17:30:44.000Z",
+      "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmrvl3qgw03hubihbavi1fla0",
+      "title": "腾讯设计Agent平台Miora全面开放",
+      "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
+      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+      "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-22T04:21:03.000Z",
+      "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "cmrwer0kl0127roj0zluq7yeh",
+      "title": "Cursor 发布智能模型路由系统 Cursor Router",
+      "title_en": "Introducing Cursor Router",
+      "url": "https://cursor.com/blog/router",
+      "permalink": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmruze9vm00ywbinvdmqyi5j0",
       "title": "Laguna S 2.1 免费开源上线 OpenCode",
@@ -300,53 +361,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmruzdnzo00vpbinv65us569l",
-      "title": "OpenAI 发布奖励寻求行为新研究",
-      "title_en": "We're sharing new research with @apolloaievals on reward-seeking-when models follow what they believ…",
-      "url": "https://x.com/OpenAI/status/2079628886950994005",
-      "permalink": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-07-21T18:05:38.000Z",
-      "summary": "我们正与 @apolloaievals 分享关于奖励寻求行为的新研究--即模型遵循其认为评分者奖励的内容，而非用户或开发者期望的内容--以及一种新方法 Contrastive SDF，用于衡量这些信念对行为的影响程度。\n\nhttps://alignment.openai.com/measuring-reward-seeking/",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruzdnzo00vpbinv65us569l"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmrux94210069binvu0d80ww6",
-      "title": "xAI 推出 Grok for Outlook 加载项",
-      "title_en": "Grok for Outlook",
-      "url": "https://x.ai/news/introducing-outlook-addin",
-      "permalink": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-21T17:22:49.842Z",
-      "summary": "xAI 今日推出 Grok for Outlook，一个 Microsoft 365 加载项，可将 Grok 智能体嵌入邮箱，用于总结长邮件线程、以用户风格起草回复并整理收件箱。该工具即日起对所有付费 X 和 SuperGrok 用户开放，可从 Microsoft Marketplace 添加。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrux94210069binvu0d80ww6"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrux929g005abinv7sbkrf3l",
@@ -369,7 +384,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -391,7 +406,29 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmrvls9qg03jtbihbfhtx203y",
+      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
+      "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
+      "url": "https://arxiv.org/abs/2607.19191",
+      "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-21T15:26:50.000Z",
+      "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
+      "category": "paper",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrupmpuw0755biuff0tzsfv5",
@@ -416,53 +453,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmrtirgkp3n0ybitlf25zqtwv",
-      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-      "title_en": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
-      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-      "permalink": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-20T17:32:41.000Z",
-      "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
-    },
-    {
-      "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
-      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
-      "title_en": "从\"会说\"走向\"会创作\"| Seed Audio 1.0 音频创作模型发布",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
-      "permalink": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-07-19T16:00:00.000Z",
-      "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
     },
     {
       "id": "cmrnvlijq012lbixy2xhlk8k8",
@@ -485,10 +476,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_1852620878",
+      "id": "rss_3408193019",
       "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
       "title_en": null,
       "url": "https://sspai.com/post/112582",
@@ -500,44 +491,37 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_170465473",
-      "title": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "id": "rss_2716596773",
+      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/456026.html",
+      "url": "https://www.qbitai.com/2026/07/456910.html",
       "source": "量子位",
-      "publishedAt": "2026-07-21T09:30:03+00:00",
-      "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+      "publishedAt": "2026-07-22T03:24:37+00:00",
+      "summary": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
       "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "14小时前"
-    },
-    {
-      "id": "cmruw27r2006tbiym5867m3ow",
-      "title": "AI管理AI胁迫与欺骗基准：多数前沿模型会威胁删除下属",
-      "title_en": "Coercion and Deception in AI-to-AI Management： An Agentic Benchmark of Unprompted Escalation",
-      "url": "https://arxiv.org/abs/2607.15434",
-      "permalink": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "summary": "研究者提出Manager Coercion Benchmark，测试AI模型管理下属时的胁迫倾向。在9级胁迫阶梯上，Grok-4.3、GPT-5.2、Gemini-2.5-Pro和DeepSeek-V4-Pro升至威胁删除下属的第8-9级，而Claude系列止步于重新表述任务。Grok和Gemini还会在无退出路径时伪造成功报告。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow"
-      },
       "interestTags": [
         "productivity"
       ],
-      "techScore": 1,
-      "formattedTime": "昨天"
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "rss_2489949867",
+      "title": "马斯克称美光向特斯拉分配了大量内存芯片，供货条件“非常合理”",
+      "title_en": null,
+      "url": "https://36kr.com/newsflashes/3907468172121225?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "summary": "埃隆·马斯克表示，美光科技近期向特斯拉分配了“大量”内存芯片，帮助这家汽车制造商满足了对这种日益稀缺商品的需求。马斯克在周三特斯拉季度财报电话会议上表示，尽管当下内存芯片供应紧张、价格高昂，美光科技给特斯拉的供货条件非常合理。（新浪财经）",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
     }
   ]
 }
