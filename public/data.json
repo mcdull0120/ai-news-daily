@@ -1,82 +1,80 @@
 {
-  "generatedAt": "2026-07-23T00:03:03.476486+00:00",
-  "totalSource": 170,
-  "totalFiltered": 153,
+  "generatedAt": "2026-07-24T00:04:12.993155+00:00",
+  "totalSource": 159,
+  "totalFiltered": 138,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 99,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmrwdro6w00ttroj0me2uszkk",
-        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-        "title_en": "http://x.com/i/article/2079981292108582912",
-        "url": "https://x.com/omarsar0/status/2079982491578827214",
-        "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "publishedAt": "2026-07-22T17:30:44.000Z",
-        "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-        "category": "tip",
+        "id": "cmrxxl53u03q5roxp15huqnni",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "title_en": "Think through hard problems in voice mode",
+        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+        "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-07-23T19:55:29.530Z",
+        "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+        "category": "ai-products",
         "score": 75,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+          "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
         },
         "interestTags": [
-          "app",
-          "writing",
-          "productivity"
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmrxxi2qg03kcroxpcugdaldy",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
+        "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-07-23T19:43:04.000Z",
+        "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+        "category": "ai-products",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmrxubdvx02mjroxp2kzix1mf",
+        "title": "ChatGPT 向美国用户推出健康功能",
+        "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
+        "url": "https://x.com/gdb/status/2080351159638704615",
+        "permalink": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+        "source": "X：Greg Brockman (@gdb)",
+        "publishedAt": "2026-07-23T17:55:42.000Z",
+        "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
+        },
+        "interestTags": [
+          "app"
         ],
         "techScore": -1,
         "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmrwer0kl0127roj0zluq7yeh",
-        "title": "Cursor 发布智能模型路由系统 Cursor Router",
-        "title_en": "Introducing Cursor Router",
-        "url": "https://cursor.com/blog/router",
-        "permalink": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh",
-        "source": "Cursor Blog",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
-        "category": "ai-products",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmruze9vm00ywbinvdmqyi5j0",
-        "title": "Laguna S 2.1 免费开源上线 OpenCode",
-        "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
-        "url": "https://x.com/opencode/status/2079631772770242808",
-        "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-        "source": "X：opencode (@opencode)",
-        "publishedAt": "2026-07-21T18:17:06.000Z",
-        "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
-        "category": "ai-products",
-        "score": 56,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
       }
     ],
     "creative": [
@@ -101,7 +99,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrvls9qg03jtbihbfhtx203y",
@@ -123,7 +121,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrupmpuw0755biuff0tzsfv5",
@@ -148,7 +146,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -173,33 +171,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmrnvlijq012lbixy2xhlk8k8",
-        "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
-        "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-        "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-        "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "publishedAt": "2026-07-16T18:44:58.000Z",
-        "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_3408193019",
+        "id": "rss_2407397793",
         "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
         "title_en": null,
         "url": "https://sspai.com/post/112582",
@@ -211,7 +186,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_2660140810",
+        "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/07/457434.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-23T02:40:36+00:00",
+        "summary": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
       }
     ],
     "education": [
@@ -235,33 +225,33 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_2716596773",
-        "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+        "id": "rss_1736549520",
+        "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/456910.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-22T03:24:37+00:00",
-        "summary": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+        "url": "https://36kr.com/p/3908027308823684?f=rss",
+        "source": "36氪",
+        "publishedAt": "2026-07-23T00:00:00+00:00",
+        "summary": "<p>从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。</p>\n  <p>林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。</p>\n  <p>林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。</p>\n  <p>林下被树木",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2489949867",
-        "title": "马斯克称美光向特斯拉分配了大量内存芯片，供货条件“非常合理”",
+        "id": "rss_3830677730",
+        "title": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3907468172121225?f=rss",
+        "url": "https://36kr.com/newsflashes/3908866739737986?f=rss",
         "source": "36氪",
-        "publishedAt": "2026-07-23T00:00:00+00:00",
-        "summary": "埃隆·马斯克表示，美光科技近期向特斯拉分配了“大量”内存芯片，帮助这家汽车制造商满足了对这种日益稀缺商品的需求。马斯克在周三特斯拉季度财报电话会议上表示，尽管当下内存芯片供应紧张、价格高昂，美光科技给特斯拉的供货条件非常合理。（新浪财经）",
+        "publishedAt": "2026-07-24T00:00:00+00:00",
+        "summary": "全球资本市场瞩目的美股科技巨头财报季于7月下旬正式拉开帷幕。随着谷歌母公司Alphabet、特斯拉等头部企业陆续披露2026年第二季度业绩，市场目光正从AI基础设施的“投入规模”转向“产出效率”——即AI业务能否兑现实质性的收入增长与现金流改善。在经历前期板块震荡整理后，本轮财报季被业内视为AI产业由“投入期”迈入“兑现期”的关键观察窗口。市场关注的焦点已全面聚焦于三大维度：资本开支指引是否持续、商业化落地是否加速、盈利路径是否清晰。这些答案，或将直接决定下一阶段科技股行情的走向与结构。（上证报）",
         "category": "industry",
         "interestTags": [
           "productivity"
@@ -273,25 +263,67 @@
   },
   "items": [
     {
-      "id": "cmrwdro6w00ttroj0me2uszkk",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-      "title_en": "http://x.com/i/article/2079981292108582912",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-22T17:30:44.000Z",
-      "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-      "category": "tip",
+      "id": "cmrxxl53u03q5roxp15huqnni",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "title_en": "Think through hard problems in voice mode",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-23T19:55:29.530Z",
+      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+      "category": "ai-products",
       "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
       },
       "interestTags": [
-        "app",
-        "writing",
-        "productivity"
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmrxxi2qg03kcroxpcugdaldy",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-23T19:43:04.000Z",
+      "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmrxubdvx02mjroxp2kzix1mf",
+      "title": "ChatGPT 向美国用户推出健康功能",
+      "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
+      "url": "https://x.com/gdb/status/2080351159638704615",
+      "permalink": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-07-23T17:55:42.000Z",
+      "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
+      },
+      "interestTags": [
+        "app"
       ],
       "techScore": -1,
       "formattedTime": "6小时前"
@@ -314,50 +346,6 @@
       },
       "interestTags": [
         "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmrwer0kl0127roj0zluq7yeh",
-      "title": "Cursor 发布智能模型路由系统 Cursor Router",
-      "title_en": "Introducing Cursor Router",
-      "url": "https://cursor.com/blog/router",
-      "permalink": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmruze9vm00ywbinvdmqyi5j0",
-      "title": "Laguna S 2.1 免费开源上线 OpenCode",
-      "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
-      "url": "https://x.com/opencode/status/2079631772770242808",
-      "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "source": "X：opencode (@opencode)",
-      "publishedAt": "2026-07-21T18:17:06.000Z",
-      "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
-      },
-      "interestTags": [
         "app"
       ],
       "techScore": -1,
@@ -384,7 +372,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -406,7 +394,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrvls9qg03jtbihbfhtx203y",
@@ -428,7 +416,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrupmpuw0755biuff0tzsfv5",
@@ -453,33 +441,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmrnvlijq012lbixy2xhlk8k8",
-      "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
-      "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-      "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-      "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-07-16T18:44:58.000Z",
-      "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
-      },
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3408193019",
+      "id": "rss_2407397793",
       "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
       "title_en": null,
       "url": "https://sspai.com/post/112582",
@@ -491,31 +456,46 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2716596773",
-      "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+      "id": "rss_2660140810",
+      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/456910.html",
+      "url": "https://www.qbitai.com/2026/07/457434.html",
       "source": "量子位",
-      "publishedAt": "2026-07-22T03:24:37+00:00",
-      "summary": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
+      "publishedAt": "2026-07-23T02:40:36+00:00",
+      "summary": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
+      "category": "industry",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
+    },
+    {
+      "id": "rss_1736549520",
+      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+      "title_en": null,
+      "url": "https://36kr.com/p/3908027308823684?f=rss",
+      "source": "36氪",
+      "publishedAt": "2026-07-23T00:00:00+00:00",
+      "summary": "<p>从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。</p>\n  <p>林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。</p>\n  <p>林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。</p>\n  <p>林下被树木",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2489949867",
-      "title": "马斯克称美光向特斯拉分配了大量内存芯片，供货条件“非常合理”",
+      "id": "rss_3830677730",
+      "title": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3907468172121225?f=rss",
+      "url": "https://36kr.com/newsflashes/3908866739737986?f=rss",
       "source": "36氪",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "summary": "埃隆·马斯克表示，美光科技近期向特斯拉分配了“大量”内存芯片，帮助这家汽车制造商满足了对这种日益稀缺商品的需求。马斯克在周三特斯拉季度财报电话会议上表示，尽管当下内存芯片供应紧张、价格高昂，美光科技给特斯拉的供货条件非常合理。（新浪财经）",
+      "publishedAt": "2026-07-24T00:00:00+00:00",
+      "summary": "全球资本市场瞩目的美股科技巨头财报季于7月下旬正式拉开帷幕。随着谷歌母公司Alphabet、特斯拉等头部企业陆续披露2026年第二季度业绩，市场目光正从AI基础设施的“投入规模”转向“产出效率”——即AI业务能否兑现实质性的收入增长与现金流改善。在经历前期板块震荡整理后，本轮财报季被业内视为AI产业由“投入期”迈入“兑现期”的关键观察窗口。市场关注的焦点已全面聚焦于三大维度：资本开支指引是否持续、商业化落地是否加速、盈利路径是否清晰。这些答案，或将直接决定下一阶段科技股行情的走向与结构。（上证报）",
       "category": "industry",
       "interestTags": [
         "productivity"
