@@ -1,83 +1,136 @@
 {
-  "generatedAt": "2026-07-24T00:04:12.993155+00:00",
-  "totalSource": 159,
-  "totalFiltered": 138,
+  "generatedAt": "2026-07-25T00:07:38.447891+00:00",
+  "totalSource": 160,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
-    "aihot": 99,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmrxxl53u03q5roxp15huqnni",
-        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-        "title_en": "Think through hard problems in voice mode",
-        "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-        "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+        "id": "cmrz7ov4300lfrox82ri8kia1",
+        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+        "title_en": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
         "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-07-23T19:55:29.530Z",
-        "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-        "category": "ai-products",
-        "score": 75,
+        "publishedAt": "2026-07-24T17:25:50.349Z",
+        "discoveredAt": "2026-07-24T17:25:50.349Z",
+        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+        "category": "tip",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
+          "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
         },
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmrxxi2qg03kcroxpcugdaldy",
-        "title": "ChatGPT 桌面版上线语音控制多智能体",
-        "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-        "url": "https://x.com/OpenAI/status/2080378182469857576",
-        "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-07-23T19:43:04.000Z",
-        "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-        "category": "ai-products",
+        "id": "cmryrjtlb04ehrolgi1zd6eqv",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-24T09:47:29.601Z",
+        "discoveredAt": "2026-07-24T09:54:16.034Z",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "category": "tip",
         "score": 79,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "14小时前"
       },
       {
-        "id": "cmrxubdvx02mjroxp2kzix1mf",
-        "title": "ChatGPT 向美国用户推出健康功能",
-        "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "url": "https://x.com/gdb/status/2080351159638704615",
-        "permalink": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-        "source": "X：Greg Brockman (@gdb)",
-        "publishedAt": "2026-07-23T17:55:42.000Z",
-        "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
+        "id": "cmryxzcmz06cbrolgm4zhtc1m",
+        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
+        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
+        "url": "https://openrouter.ai/blog/announcements/classifiers",
+        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "discoveredAt": "2026-07-24T12:54:17.832Z",
+        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
         "category": "ai-products",
-        "score": 69,
+        "score": 62,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
+          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
+      {
+        "id": "cmrz3eamm01jdroey6e0m62on",
+        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+        "title_en": "Project Pilot： Can AI control a drone？",
+        "url": "https://www.anthropic.com/research/project-pilot",
+        "permalink": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-07-24T15:25:45.300Z",
+        "discoveredAt": "2026-07-24T15:25:45.300Z",
+        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+        "category": "paper",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmrz07a8z00ksroey0zfjw3iq",
+        "title": "Runway Agent 推出自然语言工作流功能",
+        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+        "url": "https://x.com/runwayml/status/2080649234672439389",
+        "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+        "source": "X：Runway (@runwayml)",
+        "publishedAt": "2026-07-24T13:40:08.000Z",
+        "discoveredAt": "2026-07-24T13:56:25.978Z",
+        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+        "category": "ai-products",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
       {
         "id": "cmrvl3qgw03hubihbavi1fla0",
         "title": "腾讯设计Agent平台Miora全面开放",
@@ -86,6 +139,7 @@
         "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
         "source": "公众号：数字生命卡兹克",
         "publishedAt": "2026-07-22T04:21:03.000Z",
+        "discoveredAt": "2026-07-22T04:30:29.802Z",
         "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
         "category": "ai-products",
         "score": 77,
@@ -97,53 +151,6 @@
         "interestTags": [
           "creative",
           "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmrvls9qg03jtbihbfhtx203y",
-        "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-        "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
-        "url": "https://arxiv.org/abs/2607.19191",
-        "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "publishedAt": "2026-07-21T15:26:50.000Z",
-        "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
-        "category": "paper",
-        "score": 83,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmrupmpuw0755biuff0tzsfv5",
-        "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
-        "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-        "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
-        "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-07-21T12:54:02.000Z",
-        "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -158,6 +165,7 @@
         "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
         "source": "X：Andrej Karpathy (@karpathy)",
         "publishedAt": "2026-07-21T16:53:55.000Z",
+        "discoveredAt": "2026-07-21T17:22:47.564Z",
         "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
         "category": "tip",
         "score": 78,
@@ -171,37 +179,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_2407397793",
-        "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+        "id": "rss_1398988968",
+        "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
         "title_en": null,
-        "url": "https://sspai.com/post/112582",
+        "url": "https://sspai.com/post/112232",
         "source": "少数派",
-        "publishedAt": "2026-07-21T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112582\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
+        "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2660140810",
-        "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/457434.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-23T02:40:36+00:00",
-        "summary": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "17小时前"
       }
     ],
     "education": [
@@ -213,6 +206,7 @@
         "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
         "source": "TechCrunch：AI（RSS）",
         "publishedAt": "2026-07-21T15:37:05.000Z",
+        "discoveredAt": "2026-07-21T15:52:52.931Z",
         "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
         "category": "industry",
         "score": 74,
@@ -225,12 +219,27 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_399702302",
+        "title": "AI用23秒，学走了老师傅的判断",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 23 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "Thu, 23 Ju"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1736549520",
+        "id": "rss_1094097961",
         "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
         "title_en": null,
         "url": "https://36kr.com/p/3908027308823684?f=rss",
@@ -242,91 +251,144 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_3830677730",
-        "title": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
+        "id": "rss_2947301654",
+        "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3908866739737986?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-24T00:00:00+00:00",
-        "summary": "全球资本市场瞩目的美股科技巨头财报季于7月下旬正式拉开帷幕。随着谷歌母公司Alphabet、特斯拉等头部企业陆续披露2026年第二季度业绩，市场目光正从AI基础设施的“投入规模”转向“产出效率”——即AI业务能否兑现实质性的收入增长与现金流改善。在经历前期板块震荡整理后，本轮财报季被业内视为AI产业由“投入期”迈入“兑现期”的关键观察窗口。市场关注的焦点已全面聚焦于三大维度：资本开支指引是否持续、商业化落地是否加速、盈利路径是否清晰。这些答案，或将直接决定下一阶段科技股行情的走向与结构。（上证报）",
-        "category": "industry",
+        "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 23 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "Thu, 23 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cmrxxl53u03q5roxp15huqnni",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "title_en": "Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "id": "cmrz7ov4300lfrox82ri8kia1",
+      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+      "title_en": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
       "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-23T19:55:29.530Z",
-      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-      "category": "ai-products",
-      "score": 75,
+      "publishedAt": "2026-07-24T17:25:50.349Z",
+      "discoveredAt": "2026-07-24T17:25:50.349Z",
+      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+      "category": "tip",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
+        "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
       },
       "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmrz3eamm01jdroey6e0m62on",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+      "title_en": "Project Pilot： Can AI control a drone？",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "permalink": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-07-24T15:25:45.300Z",
+      "discoveredAt": "2026-07-24T15:25:45.300Z",
+      "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
+      },
+      "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "8小时前"
     },
     {
-      "id": "cmrxxi2qg03kcroxpcugdaldy",
-      "title": "ChatGPT 桌面版上线语音控制多智能体",
-      "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-      "url": "https://x.com/OpenAI/status/2080378182469857576",
-      "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-07-23T19:43:04.000Z",
-      "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+      "id": "cmrz07a8z00ksroey0zfjw3iq",
+      "title": "Runway Agent 推出自然语言工作流功能",
+      "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
+      "url": "https://x.com/runwayml/status/2080649234672439389",
+      "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-07-24T13:40:08.000Z",
+      "discoveredAt": "2026-07-24T13:56:25.978Z",
+      "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
       "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmryrjtlb04ehrolgi1zd6eqv",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T09:47:29.601Z",
+      "discoveredAt": "2026-07-24T09:54:16.034Z",
+      "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+      "category": "tip",
       "score": 79,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+        "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "cmrxubdvx02mjroxp2kzix1mf",
-      "title": "ChatGPT 向美国用户推出健康功能",
-      "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "permalink": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-07-23T17:55:42.000Z",
-      "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
+      "id": "cmryxzcmz06cbrolgm4zhtc1m",
+      "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
+      "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
+      "url": "https://openrouter.ai/blog/announcements/classifiers",
+      "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-07-24T00:00:00.000Z",
+      "discoveredAt": "2026-07-24T12:54:17.832Z",
+      "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
       "category": "ai-products",
-      "score": 69,
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
+        "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrvl3qgw03hubihbavi1fla0",
@@ -336,6 +398,7 @@
       "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
       "source": "公众号：数字生命卡兹克",
       "publishedAt": "2026-07-22T04:21:03.000Z",
+      "discoveredAt": "2026-07-22T04:30:29.802Z",
       "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
       "category": "ai-products",
       "score": 77,
@@ -349,7 +412,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrux929g005abinv7sbkrf3l",
@@ -359,6 +422,7 @@
       "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
       "source": "X：Andrej Karpathy (@karpathy)",
       "publishedAt": "2026-07-21T16:53:55.000Z",
+      "discoveredAt": "2026-07-21T17:22:47.564Z",
       "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
       "category": "tip",
       "score": 78,
@@ -372,7 +436,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -382,6 +446,7 @@
       "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
       "source": "TechCrunch：AI（RSS）",
       "publishedAt": "2026-07-21T15:37:05.000Z",
+      "discoveredAt": "2026-07-21T15:52:52.931Z",
       "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
       "category": "industry",
       "score": 74,
@@ -394,87 +459,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmrvls9qg03jtbihbfhtx203y",
-      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-      "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
-      "url": "https://arxiv.org/abs/2607.19191",
-      "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-21T15:26:50.000Z",
-      "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
-      "category": "paper",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmrupmpuw0755biuff0tzsfv5",
-      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
-      "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
-      "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-21T12:54:02.000Z",
-      "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2407397793",
-      "title": "社区速递 150｜派友热议磁吸配件、拯救呼吸通气鼻贴与国产三折叠自行车",
+      "id": "rss_1398988968",
+      "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
       "title_en": null,
-      "url": "https://sspai.com/post/112582",
+      "url": "https://sspai.com/post/112232",
       "source": "少数派",
-      "publishedAt": "2026-07-21T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112582\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-07-24T07:00:00+00:00",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "17小时前"
     },
     {
-      "id": "rss_2660140810",
-      "title": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/457434.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-23T02:40:36+00:00",
-      "summary": "贝壳财经启动“千帆竞发”计划，将征集百位优质创作者共建内容新生态",
-      "category": "industry",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "21小时前"
-    },
-    {
-      "id": "rss_1736549520",
+      "id": "rss_1094097961",
       "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
       "title_en": null,
       "url": "https://36kr.com/p/3908027308823684?f=rss",
@@ -486,22 +489,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_3830677730",
-      "title": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
+      "id": "rss_2947301654",
+      "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3908866739737986?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-24T00:00:00+00:00",
-      "summary": "全球资本市场瞩目的美股科技巨头财报季于7月下旬正式拉开帷幕。随着谷歌母公司Alphabet、特斯拉等头部企业陆续披露2026年第二季度业绩，市场目光正从AI基础设施的“投入规模”转向“产出效率”——即AI业务能否兑现实质性的收入增长与现金流改善。在经历前期板块震荡整理后，本轮财报季被业内视为AI产业由“投入期”迈入“兑现期”的关键观察窗口。市场关注的焦点已全面聚焦于三大维度：资本开支指引是否持续、商业化落地是否加速、盈利路径是否清晰。这些答案，或将直接决定下一阶段科技股行情的走向与结构。（上证报）",
-      "category": "industry",
+      "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 23 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "Thu, 23 Ju"
+    },
+    {
+      "id": "rss_399702302",
+      "title": "AI用23秒，学走了老师傅的判断",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 23 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "Thu, 23 Ju"
     }
   ]
 }
