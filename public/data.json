@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-25T00:07:38.447891+00:00",
+  "generatedAt": "2026-07-26T00:02:42.839254+00:00",
   "totalSource": 160,
-  "totalFiltered": 143,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,78 +9,6 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "cmrz7ov4300lfrox82ri8kia1",
-        "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-        "title_en": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-07-24T17:25:50.349Z",
-        "discoveredAt": "2026-07-24T17:25:50.349Z",
-        "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmryrjtlb04ehrolgi1zd6eqv",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-24T09:47:29.601Z",
-        "discoveredAt": "2026-07-24T09:54:16.034Z",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "category": "tip",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "cmryxzcmz06cbrolgm4zhtc1m",
-        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
-        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
-        "url": "https://openrouter.ai/blog/announcements/classifiers",
-        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "discoveredAt": "2026-07-24T12:54:17.832Z",
-        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
     "creative": [
       {
         "id": "cmrz3eamm01jdroey6e0m62on",
@@ -104,7 +32,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrz07a8z00ksroey0zfjw3iq",
@@ -129,7 +57,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmrvl3qgw03hubihbavi1fla0",
@@ -150,6 +78,77 @@
         },
         "interestTags": [
           "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmryrjtlb04ehrolgi1zd6eqv",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-24T09:47:29.601Z",
+        "discoveredAt": "2026-07-24T09:54:16.034Z",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmryxzcmz06cbrolgm4zhtc1m",
+        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
+        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
+        "url": "https://openrouter.ai/blog/announcements/classifiers",
+        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "discoveredAt": "2026-07-24T12:54:17.832Z",
+        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
+        "category": "ai-products",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmrxxi2qg03kcroxpcugdaldy",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
+        "url": "https://x.com/OpenAI/status/2080378182469857576",
+        "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-07-23T19:43:04.000Z",
+        "discoveredAt": "2026-07-23T19:53:05.984Z",
+        "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+        "category": "ai-products",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+        },
+        "interestTags": [
           "app"
         ],
         "techScore": -1,
@@ -179,10 +178,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_1398988968",
+        "id": "rss_1320792499",
         "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
         "title_en": null,
         "url": "https://sspai.com/post/112232",
@@ -194,7 +193,30 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "17小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmrx3dmt7001nro69xdxeq8dd",
+        "title": "RECAP：通过可解码性监督训练可验证的激活解释",
+        "title_en": "Train the Model， Not the Reader： Decodability Supervision for Verifiable Activation Explanations",
+        "url": "https://arxiv.org/abs/2607.20379",
+        "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd",
+        "source": "HuggingFace Daily Papers（社区热门论文）",
+        "publishedAt": "2026-07-22T00:00:00.000Z",
+        "discoveredAt": "2026-07-23T05:49:49.654Z",
+        "summary": "研究发现自然语言自编码器（NLA）的重建分数无法验证逐声明的忠实性，模型可能依赖\"私密代码\"而非真实依据。作者提出RECAP方法，在目标模型上联合训练线性头以保持指定内容可解码。在Pythia-160M上，独立探针能可靠区分真假声明（AUC 0.96），并在对抗编辑下仍能标记谎言（AUC 0.95）。",
+        "category": "paper",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 0,
+        "formattedTime": "4天前"
       }
     ],
     "education": [
@@ -219,42 +241,27 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "rss_399702302",
-        "title": "AI用23秒，学走了老师傅的判断",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Thu, 23 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "Thu, 23 Ju"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1094097961",
-        "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
+        "id": "rss_3937451893",
+        "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
         "title_en": null,
-        "url": "https://36kr.com/p/3908027308823684?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-23T00:00:00+00:00",
-        "summary": "<p>从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。</p>\n  <p>林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。</p>\n  <p>林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。</p>\n  <p>林下被树木",
-        "category": "industry",
+        "url": "https://sspai.com/post/112093",
+        "source": "少数派",
+        "publishedAt": "2026-07-25T03:09:49+00:00",
+        "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。<a href=\"https://sspai.com/post/112093\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "20小时前"
       },
       {
-        "id": "rss_2947301654",
+        "id": "rss_3560777661",
         "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
         "title_en": null,
         "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
@@ -271,30 +278,6 @@
     ]
   },
   "items": [
-    {
-      "id": "cmrz7ov4300lfrox82ri8kia1",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-      "title_en": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-24T17:25:50.349Z",
-      "discoveredAt": "2026-07-24T17:25:50.349Z",
-      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
     {
       "id": "cmrz3eamm01jdroey6e0m62on",
       "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
@@ -317,7 +300,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmrz07a8z00ksroey0zfjw3iq",
@@ -342,7 +325,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmryrjtlb04ehrolgi1zd6eqv",
@@ -365,7 +348,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmryxzcmz06cbrolgm4zhtc1m",
@@ -388,7 +371,30 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "cmrxxi2qg03kcroxpcugdaldy",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-23T19:43:04.000Z",
+      "discoveredAt": "2026-07-23T19:53:05.984Z",
+      "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrvl3qgw03hubihbavi1fla0",
@@ -412,7 +418,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrux929g005abinv7sbkrf3l",
@@ -436,7 +442,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -459,10 +465,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_1398988968",
+      "id": "rss_3937451893",
+      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
+      "title_en": null,
+      "url": "https://sspai.com/post/112093",
+      "source": "少数派",
+      "publishedAt": "2026-07-25T03:09:49+00:00",
+      "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。<a href=\"https://sspai.com/post/112093\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "rss_1320792499",
       "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
       "title_en": null,
       "url": "https://sspai.com/post/112232",
@@ -474,25 +495,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "17小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1094097961",
-      "title": "网格智算：“不堆算力”的AI大脑如何填补林下场景空白 | 水下项目",
-      "title_en": null,
-      "url": "https://36kr.com/p/3908027308823684?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-23T00:00:00+00:00",
-      "summary": "<p>从消费市场到工业赛道，一片“红海”的无人机市场早已挤满各路玩家，但仍有一块细分领域，即便行业头部厂商也鲜有布局——林下场景。</p>\n  <p>林下场景蕴藏的产业需求体量惊人：根据国家林草局数据，2025年我国森林蓄积量达209.88亿立方米，全国木材产量达1.4亿立方米；联合国粮农组织数据显示，全球圆木年采伐量约40亿立方米，这背后是伐区蓄积量核算、树木胸径测量等大量工作。</p>\n  <p>林下环境复杂，传统人工作业模式成本大、效率低且危险重重。虽然行业对自动化替代方案的呼声已久，但林下环境作为经典的拒止环境，使传统自动化方案始终难以落地。</p>\n  <p>林下被树木",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2947301654",
+      "id": "rss_3560777661",
       "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
       "title_en": null,
       "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
@@ -507,19 +513,27 @@
       "formattedTime": "Thu, 23 Ju"
     },
     {
-      "id": "rss_399702302",
-      "title": "AI用23秒，学走了老师傅的判断",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Thu, 23 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/TWXI9ulbiPjRYmPFTGST?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "cmrx3dmt7001nro69xdxeq8dd",
+      "title": "RECAP：通过可解码性监督训练可验证的激活解释",
+      "title_en": "Train the Model， Not the Reader： Decodability Supervision for Verifiable Activation Explanations",
+      "url": "https://arxiv.org/abs/2607.20379",
+      "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-22T00:00:00.000Z",
+      "discoveredAt": "2026-07-23T05:49:49.654Z",
+      "summary": "研究发现自然语言自编码器（NLA）的重建分数无法验证逐声明的忠实性，模型可能依赖\"私密代码\"而非真实依据。作者提出RECAP方法，在目标模型上联合训练线性头以保持指定内容可解码。在Pythia-160M上，独立探针能可靠区分真假声明（AUC 0.96），并在对抗编辑下仍能标记谎言（AUC 0.95）。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd"
+      },
       "interestTags": [
-        "education"
+        "writing"
       ],
-      "techScore": -1,
-      "formattedTime": "Thu, 23 Ju"
+      "techScore": 0,
+      "formattedTime": "4天前"
     }
   ]
 }
