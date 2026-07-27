@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-26T00:02:42.839254+00:00",
+  "generatedAt": "2026-07-27T00:02:56.825545+00:00",
   "totalSource": 160,
-  "totalFiltered": 141,
+  "totalFiltered": 138,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -10,6 +10,30 @@
   },
   "grouped": {
     "creative": [
+      {
+        "id": "cms24qise02adro9fp4xzdhyd",
+        "title": "Suno 推出多项新功能，含MIDI导出等",
+        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+        "url": "https://x.com/suno/status/2081443050312843765",
+        "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
+        "source": "X：Suno (@suno)",
+        "publishedAt": "2026-07-26T18:14:29.000Z",
+        "discoveredAt": "2026-07-26T18:26:42.298Z",
+        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
       {
         "id": "cmrz3eamm01jdroey6e0m62on",
         "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
@@ -32,7 +56,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrz07a8z00ksroey0zfjw3iq",
@@ -57,31 +81,55 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "2天前"
+      }
+    ],
+    "education": [
       {
-        "id": "cmrvl3qgw03hubihbavi1fla0",
-        "title": "腾讯设计Agent平台Miora全面开放",
-        "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
-        "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-        "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-07-22T04:21:03.000Z",
-        "discoveredAt": "2026-07-22T04:30:29.802Z",
-        "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-        "category": "ai-products",
-        "score": 77,
+        "id": "cms1ka4930059ro05h81rrc3q",
+        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+        "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+        "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-26T08:35:49.000Z",
+        "discoveredAt": "2026-07-26T08:54:01.338Z",
+        "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+        "category": "industry",
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
+          "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "15小时前"
+      },
+      {
+        "id": "cmruu1gjc00bmbijq6ha16nyl",
+        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+        "title_en": "US threatens sanctions against Chinese AI models over IP theft",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
+        "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-07-21T15:37:05.000Z",
+        "discoveredAt": "2026-07-21T15:52:52.931Z",
+        "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
+        "category": "industry",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
       }
     ],
     "app": [
@@ -106,7 +154,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmryxzcmz06cbrolgm4zhtc1m",
@@ -129,7 +177,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmrxxi2qg03kcroxpcugdaldy",
@@ -152,7 +200,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
@@ -178,10 +226,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_1320792499",
+        "id": "rss_1280591527",
         "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
         "title_en": null,
         "url": "https://sspai.com/post/112232",
@@ -193,7 +241,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmrx3dmt7001nro69xdxeq8dd",
@@ -216,37 +264,12 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "4天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmruu1gjc00bmbijq6ha16nyl",
-        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-        "title_en": "US threatens sanctions against Chinese AI models over IP theft",
-        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
-        "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-07-21T15:37:05.000Z",
-        "discoveredAt": "2026-07-21T15:52:52.931Z",
-        "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
-        "category": "industry",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_3937451893",
+        "id": "rss_2892447360",
         "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
         "title_en": null,
         "url": "https://sspai.com/post/112093",
@@ -258,26 +281,58 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
-      },
-      {
-        "id": "rss_3560777661",
-        "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
-        "title_en": null,
-        "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Thu, 23 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Thu, 23 Ju"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cms24qise02adro9fp4xzdhyd",
+      "title": "Suno 推出多项新功能，含MIDI导出等",
+      "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-07-26T18:14:29.000Z",
+      "discoveredAt": "2026-07-26T18:26:42.298Z",
+      "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cms1ka4930059ro05h81rrc3q",
+      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+      "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+      "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-26T08:35:49.000Z",
+      "discoveredAt": "2026-07-26T08:54:01.338Z",
+      "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
+      },
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "15小时前"
+    },
     {
       "id": "cmrz3eamm01jdroey6e0m62on",
       "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
@@ -300,7 +355,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrz07a8z00ksroey0zfjw3iq",
@@ -325,7 +380,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmryrjtlb04ehrolgi1zd6eqv",
@@ -348,7 +403,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmryxzcmz06cbrolgm4zhtc1m",
@@ -371,7 +426,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmrxxi2qg03kcroxpcugdaldy",
@@ -391,30 +446,6 @@
         "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
       },
       "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmrvl3qgw03hubihbavi1fla0",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-22T04:21:03.000Z",
-      "discoveredAt": "2026-07-22T04:30:29.802Z",
-      "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
-      },
-      "interestTags": [
-        "creative",
         "app"
       ],
       "techScore": -1,
@@ -442,7 +473,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -465,10 +496,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3937451893",
+      "id": "rss_2892447360",
       "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
       "title_en": null,
       "url": "https://sspai.com/post/112093",
@@ -480,10 +511,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1320792499",
+      "id": "rss_1280591527",
       "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
       "title_en": null,
       "url": "https://sspai.com/post/112232",
@@ -495,22 +526,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_3560777661",
-      "title": "WAIC现场探展：从 Coding 到办公，AI 新物种出现了吗？",
-      "title_en": null,
-      "url": "https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Thu, 23 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/video/foIhBcWJok2LdIfZ2qjw?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Thu, 23 Ju"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmrx3dmt7001nro69xdxeq8dd",
@@ -533,7 +549,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     }
   ]
 }
