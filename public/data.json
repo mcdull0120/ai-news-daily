@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T00:02:56.825545+00:00",
+  "generatedAt": "2026-07-28T00:05:34.839974+00:00",
   "totalSource": 160,
   "totalFiltered": 138,
   "totalSelected": 12,
@@ -9,7 +9,104 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cms3m8ubg001nrox37oixfg2e",
+        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+        "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-07-27T19:08:51.000Z",
+        "discoveredAt": "2026-07-27T19:24:35.867Z",
+        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmryrjtlb04ehrolgi1zd6eqv",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-24T09:47:29.601Z",
+        "discoveredAt": "2026-07-24T09:54:16.034Z",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmryxzcmz06cbrolgm4zhtc1m",
+        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
+        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
+        "url": "https://openrouter.ai/blog/announcements/classifiers",
+        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-07-24T00:00:00.000Z",
+        "discoveredAt": "2026-07-24T12:54:17.832Z",
+        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
+        "category": "ai-products",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
+      }
+    ],
     "creative": [
+      {
+        "id": "cms3lggqj00c0roskhu1r5f09",
+        "title": "Kimi 发布视觉感知基准 PerceptionBench",
+        "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+        "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "publishedAt": "2026-07-27T18:45:20.000Z",
+        "discoveredAt": "2026-07-27T19:02:32.798Z",
+        "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+        "category": "ai-products",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
       {
         "id": "cms24qise02adro9fp4xzdhyd",
         "title": "Suno 推出多项新功能，含MIDI导出等",
@@ -32,56 +129,97 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmrz3eamm01jdroey6e0m62on",
-        "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-        "title_en": "Project Pilot： Can AI control a drone？",
-        "url": "https://www.anthropic.com/research/project-pilot",
-        "permalink": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-07-24T15:25:45.300Z",
-        "discoveredAt": "2026-07-24T15:25:45.300Z",
-        "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-        "category": "paper",
-        "score": 73,
+        "id": "cms2xhfev05moro3ff9bjgnct",
+        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+        "title_en": "When Coding Stops Being the Bottleneck",
+        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+        "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
+        "publishedAt": "2026-07-25T16:00:00.000Z",
+        "discoveredAt": "2026-07-27T07:51:26.272Z",
+        "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+        "category": "tip",
+        "score": 64,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmrz07a8z00ksroey0zfjw3iq",
-        "title": "Runway Agent 推出自然语言工作流功能",
-        "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-        "url": "https://x.com/runwayml/status/2080649234672439389",
-        "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-        "source": "X：Runway (@runwayml)",
-        "publishedAt": "2026-07-24T13:40:08.000Z",
-        "discoveredAt": "2026-07-24T13:56:25.978Z",
-        "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+          "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
         },
         "interestTags": [
           "creative",
           "app",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cms2mylvu02nlro3f73afr69h",
+        "title": "用AI Skill自动生成可协作HTML PPT",
+        "title_en": "基于 bento PPT 改造了一个 Skill。 输入内容或主题，自动生成可编辑修改、在线演示，甚至可以发给别人协作的HTML PPT。 安装指令：npx skills add joeseesu…",
+        "url": "https://x.com/vista8/status/2081568902241513786",
+        "permalink": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h",
+        "source": "X：Vista (@vista8)",
+        "publishedAt": "2026-07-27T02:34:34.000Z",
+        "discoveredAt": "2026-07-27T02:56:52.589Z",
+        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
+      {
+        "id": "cmrux929g005abinv7sbkrf3l",
+        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
+        "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
+        "url": "https://x.com/karpathy/status/2079610838143623371",
+        "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
+        "source": "X：Andrej Karpathy (@karpathy)",
+        "publishedAt": "2026-07-21T16:53:55.000Z",
+        "discoveredAt": "2026-07-21T17:22:47.564Z",
+        "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
+        "category": "tip",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6天前"
+      },
+      {
+        "id": "rss_2056872774",
+        "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+        "title_en": null,
+        "url": "https://sspai.com/post/112232",
+        "source": "少数派",
+        "publishedAt": "2026-07-24T07:00:00+00:00",
+        "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
       }
     ],
     "education": [
@@ -106,7 +244,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -129,147 +267,12 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmryrjtlb04ehrolgi1zd6eqv",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-24T09:47:29.601Z",
-        "discoveredAt": "2026-07-24T09:54:16.034Z",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "category": "tip",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmryxzcmz06cbrolgm4zhtc1m",
-        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
-        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
-        "url": "https://openrouter.ai/blog/announcements/classifiers",
-        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "discoveredAt": "2026-07-24T12:54:17.832Z",
-        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmrxxi2qg03kcroxpcugdaldy",
-        "title": "ChatGPT 桌面版上线语音控制多智能体",
-        "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-        "url": "https://x.com/OpenAI/status/2080378182469857576",
-        "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-07-23T19:43:04.000Z",
-        "discoveredAt": "2026-07-23T19:53:05.984Z",
-        "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-        "category": "ai-products",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmrux929g005abinv7sbkrf3l",
-        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-        "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
-        "url": "https://x.com/karpathy/status/2079610838143623371",
-        "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-        "source": "X：Andrej Karpathy (@karpathy)",
-        "publishedAt": "2026-07-21T16:53:55.000Z",
-        "discoveredAt": "2026-07-21T17:22:47.564Z",
-        "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
-        "category": "tip",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_1280591527",
-        "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
-        "title_en": null,
-        "url": "https://sspai.com/post/112232",
-        "source": "少数派",
-        "publishedAt": "2026-07-24T07:00:00+00:00",
-        "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmrx3dmt7001nro69xdxeq8dd",
-        "title": "RECAP：通过可解码性监督训练可验证的激活解释",
-        "title_en": "Train the Model， Not the Reader： Decodability Supervision for Verifiable Activation Explanations",
-        "url": "https://arxiv.org/abs/2607.20379",
-        "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "publishedAt": "2026-07-22T00:00:00.000Z",
-        "discoveredAt": "2026-07-23T05:49:49.654Z",
-        "summary": "研究发现自然语言自编码器（NLA）的重建分数无法验证逐声明的忠实性，模型可能依赖\"私密代码\"而非真实依据。作者提出RECAP方法，在目标模型上联合训练线性头以保持指定内容可解码。在Pythia-160M上，独立探针能可靠区分真假声明（AUC 0.96），并在对抗编辑下仍能标记谎言（AUC 0.95）。",
-        "category": "paper",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 0,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_2892447360",
+        "id": "rss_3817808095",
         "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
         "title_en": null,
         "url": "https://sspai.com/post/112093",
@@ -281,11 +284,84 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cms3m8ubg001nrox37oixfg2e",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+      "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-27T19:08:51.000Z",
+      "discoveredAt": "2026-07-27T19:24:35.867Z",
+      "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cms3lggqj00c0roskhu1r5f09",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T18:45:20.000Z",
+      "discoveredAt": "2026-07-27T19:02:32.798Z",
+      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cms2mylvu02nlro3f73afr69h",
+      "title": "用AI Skill自动生成可协作HTML PPT",
+      "title_en": "基于 bento PPT 改造了一个 Skill。 输入内容或主题，自动生成可编辑修改、在线演示，甚至可以发给别人协作的HTML PPT。 安装指令：npx skills add joeseesu…",
+      "url": "https://x.com/vista8/status/2081568902241513786",
+      "permalink": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-27T02:34:34.000Z",
+      "discoveredAt": "2026-07-27T02:56:52.589Z",
+      "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h"
+      },
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
+    },
     {
       "id": "cms24qise02adro9fp4xzdhyd",
       "title": "Suno 推出多项新功能，含MIDI导出等",
@@ -308,7 +384,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms1ka4930059ro05h81rrc3q",
@@ -331,53 +407,29 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmrz3eamm01jdroey6e0m62on",
-      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-      "title_en": "Project Pilot： Can AI control a drone？",
-      "url": "https://www.anthropic.com/research/project-pilot",
-      "permalink": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-24T15:25:45.300Z",
-      "discoveredAt": "2026-07-24T15:25:45.300Z",
-      "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-      "category": "paper",
-      "score": 73,
+      "id": "cms2xhfev05moro3ff9bjgnct",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+      "title_en": "When Coding Stops Being the Bottleneck",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "publishedAt": "2026-07-25T16:00:00.000Z",
+      "discoveredAt": "2026-07-27T07:51:26.272Z",
+      "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+      "category": "tip",
+      "score": 64,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmrz07a8z00ksroey0zfjw3iq",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-24T13:40:08.000Z",
-      "discoveredAt": "2026-07-24T13:56:25.978Z",
-      "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
+        "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
       },
       "interestTags": [
         "creative",
         "app",
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -403,7 +455,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmryxzcmz06cbrolgm4zhtc1m",
@@ -426,30 +478,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmrxxi2qg03kcroxpcugdaldy",
-      "title": "ChatGPT 桌面版上线语音控制多智能体",
-      "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
-      "url": "https://x.com/OpenAI/status/2080378182469857576",
-      "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-07-23T19:43:04.000Z",
-      "discoveredAt": "2026-07-23T19:53:05.984Z",
-      "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmrux929g005abinv7sbkrf3l",
@@ -473,7 +502,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmruu1gjc00bmbijq6ha16nyl",
@@ -496,10 +525,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_2892447360",
+      "id": "rss_3817808095",
       "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
       "title_en": null,
       "url": "https://sspai.com/post/112093",
@@ -511,10 +540,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_1280591527",
+      "id": "rss_2056872774",
       "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
       "title_en": null,
       "url": "https://sspai.com/post/112232",
@@ -526,30 +555,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmrx3dmt7001nro69xdxeq8dd",
-      "title": "RECAP：通过可解码性监督训练可验证的激活解释",
-      "title_en": "Train the Model， Not the Reader： Decodability Supervision for Verifiable Activation Explanations",
-      "url": "https://arxiv.org/abs/2607.20379",
-      "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "discoveredAt": "2026-07-23T05:49:49.654Z",
-      "summary": "研究发现自然语言自编码器（NLA）的重建分数无法验证逐声明的忠实性，模型可能依赖\"私密代码\"而非真实依据。作者提出RECAP方法，在目标模型上联合训练线性头以保持指定内容可解码。在Pythia-160M上，独立探针能可靠区分真假声明（AUC 0.96），并在对抗编辑下仍能标记谎言（AUC 0.95）。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": 0,
-      "formattedTime": "5天前"
+      "formattedTime": "3天前"
     }
   ]
 }
