@@ -1,87 +1,112 @@
 {
-  "generatedAt": "2026-07-28T00:05:34.839974+00:00",
-  "totalSource": 160,
-  "totalFiltered": 138,
+  "generatedAt": "2026-07-29T00:00:40.144246+00:00",
+  "totalSource": 151,
+  "totalFiltered": 128,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 91,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cms3m8ubg001nrox37oixfg2e",
-        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-        "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-27T19:08:51.000Z",
-        "discoveredAt": "2026-07-27T19:24:35.867Z",
-        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-        "category": "tip",
+        "id": "cms588cro008aro7czwgcqs7e",
+        "title": "Anthropic 支持 AI 发展节奏请愿",
+        "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
+        "url": "https://x.com/AnthropicAI/status/2082228994653696371",
+        "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "publishedAt": "2026-07-28T22:17:32.000Z",
+        "discoveredAt": "2026-07-28T22:27:51.621Z",
+        "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
+        "category": "industry",
         "score": 70,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+          "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cms55zmt000i9roehhn1zqxw3",
+        "title": "OpenAI 呼吁为前沿AI发展设定节奏",
+        "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
+        "url": "https://x.com/OpenAI/status/2082208694142730340",
+        "permalink": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-07-28T20:56:52.000Z",
+        "discoveredAt": "2026-07-28T21:25:04.804Z",
+        "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
+        "category": "tip",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cms54eet30038roehcs33wqca",
+        "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
+        "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
+        "url": "https://x.com/AndrewYNg/status/2082199333920027009",
+        "permalink": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
+        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+        "publishedAt": "2026-07-28T20:19:41.000Z",
+        "discoveredAt": "2026-07-28T20:40:34.884Z",
+        "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca"
         },
         "interestTags": [
           "app",
-          "writing"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmryrjtlb04ehrolgi1zd6eqv",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-24T09:47:29.601Z",
-        "discoveredAt": "2026-07-24T09:54:16.034Z",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "category": "tip",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmryxzcmz06cbrolgm4zhtc1m",
-        "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
-        "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
-        "url": "https://openrouter.ai/blog/announcements/classifiers",
-        "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-07-24T00:00:00.000Z",
-        "discoveredAt": "2026-07-24T12:54:17.832Z",
-        "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "3小时前"
       }
     ],
     "creative": [
+      {
+        "id": "cms4oxr7h00aoroa1i8kboqrk",
+        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+        "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+        "permalink": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-07-28T13:00:00.000Z",
+        "discoveredAt": "2026-07-28T13:27:43.174Z",
+        "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
       {
         "id": "cms3lggqj00c0roskhu1r5f09",
         "title": "Kimi 发布视觉感知基准 PerceptionBench",
@@ -105,7 +130,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms24qise02adro9fp4xzdhyd",
@@ -127,31 +152,6 @@
         "interestTags": [
           "creative",
           "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cms2xhfev05moro3ff9bjgnct",
-        "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-        "title_en": "When Coding Stops Being the Bottleneck",
-        "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-        "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
-        "source": "Berkeley RDI：Blog（AI 安全与评测）",
-        "publishedAt": "2026-07-25T16:00:00.000Z",
-        "discoveredAt": "2026-07-27T07:51:26.272Z",
-        "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
@@ -180,46 +180,45 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmrux929g005abinv7sbkrf3l",
-        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-        "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
-        "url": "https://x.com/karpathy/status/2079610838143623371",
-        "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-        "source": "X：Andrej Karpathy (@karpathy)",
-        "publishedAt": "2026-07-21T16:53:55.000Z",
-        "discoveredAt": "2026-07-21T17:22:47.564Z",
-        "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
-        "category": "tip",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_2056872774",
-        "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
+        "id": "rss_2087468867",
+        "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
         "title_en": null,
-        "url": "https://sspai.com/post/112232",
+        "url": "https://sspai.com/post/112820",
         "source": "少数派",
-        "publishedAt": "2026-07-24T07:00:00+00:00",
-        "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-07-28T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112820\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "15小时前"
+      },
+      {
+        "id": "cms4b9e8401zrroepw4fw8oka",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+        "url": "https://www.ithome.com/0/982/520.htm",
+        "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-28T06:21:07.000Z",
+        "discoveredAt": "2026-07-28T07:04:51.393Z",
+        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+        "category": "industry",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 0,
+        "formattedTime": "17小时前"
       }
     ],
     "education": [
@@ -244,74 +243,151 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmruu1gjc00bmbijq6ha16nyl",
-        "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-        "title_en": "US threatens sanctions against Chinese AI models over IP theft",
-        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
-        "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-07-21T15:37:05.000Z",
-        "discoveredAt": "2026-07-21T15:52:52.931Z",
-        "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
-        "category": "industry",
-        "score": 74,
+        "id": "cms4t5zra01o1roa10b19hmbh",
+        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "title_en": null,
+        "url": "https://arxiv.org/abs/2510.26692",
+        "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-07-28T15:21:28.545Z",
+        "discoveredAt": "2026-07-28T15:26:05.731Z",
+        "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+        "category": "paper",
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+          "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
         },
         "interestTags": [
           "education"
         ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "productivity": [
+        "techScore": 1,
+        "formattedTime": "8小时前"
+      },
       {
-        "id": "rss_3817808095",
-        "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
-        "title_en": null,
-        "url": "https://sspai.com/post/112093",
-        "source": "少数派",
-        "publishedAt": "2026-07-25T03:09:49+00:00",
-        "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。<a href=\"https://sspai.com/post/112093\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "id": "cmrwztuqg0000roqpmbblplr7",
+        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+        "title_en": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
+        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+        "permalink": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7",
+        "source": "公众号：小红书技术（dots.llm）",
+        "publishedAt": "2026-07-23T04:00:00.000Z",
+        "discoveredAt": "2026-07-23T04:10:29.181Z",
+        "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
+        "category": "paper",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
+        },
         "interestTags": [
-          "productivity"
+          "education"
         ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "techScore": 1,
+        "formattedTime": "5天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cms3m8ubg001nrox37oixfg2e",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-      "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-27T19:08:51.000Z",
-      "discoveredAt": "2026-07-27T19:24:35.867Z",
-      "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-      "category": "tip",
+      "id": "cms588cro008aro7czwgcqs7e",
+      "title": "Anthropic 支持 AI 发展节奏请愿",
+      "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
+      "url": "https://x.com/AnthropicAI/status/2082228994653696371",
+      "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-07-28T22:17:32.000Z",
+      "discoveredAt": "2026-07-28T22:27:51.621Z",
+      "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
+      "category": "industry",
       "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+        "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cms55zmt000i9roehhn1zqxw3",
+      "title": "OpenAI 呼吁为前沿AI发展设定节奏",
+      "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
+      "url": "https://x.com/OpenAI/status/2082208694142730340",
+      "permalink": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-28T20:56:52.000Z",
+      "discoveredAt": "2026-07-28T21:25:04.804Z",
+      "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cms54eet30038roehcs33wqca",
+      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
+      "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
+      "url": "https://x.com/AndrewYNg/status/2082199333920027009",
+      "permalink": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
+      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+      "publishedAt": "2026-07-28T20:19:41.000Z",
+      "discoveredAt": "2026-07-28T20:40:34.884Z",
+      "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca"
       },
       "interestTags": [
         "app",
-        "writing"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cms4oxr7h00aoroa1i8kboqrk",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "permalink": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "discoveredAt": "2026-07-28T13:27:43.174Z",
+      "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
     },
     {
       "id": "cms3lggqj00c0roskhu1r5f09",
@@ -336,7 +412,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms2mylvu02nlro3f73afr69h",
@@ -360,7 +436,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms24qise02adro9fp4xzdhyd",
@@ -384,7 +460,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms1ka4930059ro05h81rrc3q",
@@ -407,155 +483,91 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cms2xhfev05moro3ff9bjgnct",
-      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-      "title_en": "When Coding Stops Being the Bottleneck",
-      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-      "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "publishedAt": "2026-07-25T16:00:00.000Z",
-      "discoveredAt": "2026-07-27T07:51:26.272Z",
-      "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "cmryrjtlb04ehrolgi1zd6eqv",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T09:47:29.601Z",
-      "discoveredAt": "2026-07-24T09:54:16.034Z",
-      "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+      "id": "rss_2087468867",
+      "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
+      "title_en": null,
+      "url": "https://sspai.com/post/112820",
+      "source": "少数派",
+      "publishedAt": "2026-07-28T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/112820\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-      },
       "interestTags": [
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "15小时前"
     },
     {
-      "id": "cmryxzcmz06cbrolgm4zhtc1m",
-      "title": "OpenRouter 推出 Classifiers 测试版：自动标记 AI 请求的用途与成本归属",
-      "title_en": "Classifiers： Track What Your Agents Do and What It Costs",
-      "url": "https://openrouter.ai/blog/announcements/classifiers",
-      "permalink": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-24T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T12:54:17.832Z",
-      "summary": "OpenRouter 上线 Classifiers 测试版，允许用户通过自定义分类法（最多 8 个维度）自动标记每次 AI 请求的任务类型、部门归属、合规类别等信息。分类异步运行，不增加推理延迟；支持采样率控制成本，推荐使用 Gemini 3.5 Flash Lite 作为分类模型。标记结果写入日志，并可在 Activity Explorer 中按维度聚合分析模型使用分布与成本流向。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryxzcmz06cbrolgm4zhtc1m"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmrux929g005abinv7sbkrf3l",
-      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-      "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
-      "url": "https://x.com/karpathy/status/2079610838143623371",
-      "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "publishedAt": "2026-07-21T16:53:55.000Z",
-      "discoveredAt": "2026-07-21T17:22:47.564Z",
-      "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
-      },
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "cmruu1gjc00bmbijq6ha16nyl",
-      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-      "title_en": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
-      "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-21T15:37:05.000Z",
-      "discoveredAt": "2026-07-21T15:52:52.931Z",
-      "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
+      "id": "cms4b9e8401zrroepw4fw8oka",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-28T06:21:07.000Z",
+      "discoveredAt": "2026-07-28T07:04:51.393Z",
+      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
       "category": "industry",
-      "score": 74,
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+        "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 0,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "cms4t5zra01o1roa10b19hmbh",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "title_en": null,
+      "url": "https://arxiv.org/abs/2510.26692",
+      "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-28T15:21:28.545Z",
+      "discoveredAt": "2026-07-28T15:26:05.731Z",
+      "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
       },
       "interestTags": [
         "education"
       ],
-      "techScore": -1,
-      "formattedTime": "6天前"
+      "techScore": 1,
+      "formattedTime": "8小时前"
     },
     {
-      "id": "rss_3817808095",
-      "title": "看不见、摸得着的家居要素：聊聊湿度管理的方法与实践",
-      "title_en": null,
-      "url": "https://sspai.com/post/112093",
-      "source": "少数派",
-      "publishedAt": "2026-07-25T03:09:49+00:00",
-      "summary": "基于这两年的「抗湿经验」，与大家聊聊湿度相关的一些事情。<a href=\"https://sspai.com/post/112093\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "id": "cmrwztuqg0000roqpmbblplr7",
+      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+      "title_en": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
+      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
+      "permalink": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-07-23T04:00:00.000Z",
+      "discoveredAt": "2026-07-23T04:10:29.181Z",
+      "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
+      },
       "interestTags": [
-        "productivity"
+        "education"
       ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2056872774",
-      "title": "角落新声｜数字与实体、有线与无线：我的多场景有声角落构建",
-      "title_en": null,
-      "url": "https://sspai.com/post/112232",
-      "source": "少数派",
-      "publishedAt": "2026-07-24T07:00:00+00:00",
-      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112232\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "techScore": 1,
+      "formattedTime": "5天前"
     }
   ]
 }
