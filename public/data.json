@@ -1,87 +1,39 @@
 {
-  "generatedAt": "2026-07-29T00:00:40.144246+00:00",
-  "totalSource": 151,
-  "totalFiltered": 128,
+  "generatedAt": "2026-07-30T00:03:12.221336+00:00",
+  "totalSource": 148,
+  "totalFiltered": 127,
   "totalSelected": 12,
   "sources": {
-    "aihot": 91,
+    "aihot": 88,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "cms588cro008aro7czwgcqs7e",
-        "title": "Anthropic 支持 AI 发展节奏请愿",
-        "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-        "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-        "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-07-28T22:17:32.000Z",
-        "discoveredAt": "2026-07-28T22:27:51.621Z",
-        "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-        "category": "industry",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cms55zmt000i9roehhn1zqxw3",
-        "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-        "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-        "url": "https://x.com/OpenAI/status/2082208694142730340",
-        "permalink": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-07-28T20:56:52.000Z",
-        "discoveredAt": "2026-07-28T21:25:04.804Z",
-        "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-        "category": "tip",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cms54eet30038roehcs33wqca",
-        "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-        "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
-        "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-        "permalink": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-        "publishedAt": "2026-07-28T20:19:41.000Z",
-        "discoveredAt": "2026-07-28T20:40:34.884Z",
-        "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
-        "category": "industry",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca"
-        },
-        "interestTags": [
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      }
-    ],
     "creative": [
+      {
+        "id": "cms6kdopf05tbrohzoim2kpeg",
+        "title": "Replit Design 发布：AI 赋能设计愿景",
+        "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
+        "url": "https://x.com/Replit/status/2082568269119062019",
+        "permalink": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+        "source": "X：Replit (@Replit)",
+        "publishedAt": "2026-07-29T20:45:42.000Z",
+        "discoveredAt": "2026-07-29T20:55:42.166Z",
+        "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
       {
         "id": "cms4oxr7h00aoroa1i8kboqrk",
         "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
@@ -105,7 +57,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms3lggqj00c0roskhu1r5f09",
@@ -130,31 +82,104 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "2天前"
+      }
+    ],
+    "app": [
       {
-        "id": "cms24qise02adro9fp4xzdhyd",
-        "title": "Suno 推出多项新功能，含MIDI导出等",
-        "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-        "url": "https://x.com/suno/status/2081443050312843765",
-        "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
-        "source": "X：Suno (@suno)",
-        "publishedAt": "2026-07-26T18:14:29.000Z",
-        "discoveredAt": "2026-07-26T18:26:42.298Z",
-        "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+        "id": "cms69p7bn1ec3robkm6xscwbf",
+        "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+        "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+        "permalink": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-07-29T15:35:09.000Z",
+        "discoveredAt": "2026-07-29T15:56:41.175Z",
+        "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
         "category": "ai-products",
-        "score": 68,
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
+          "canonical": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf"
         },
         "interestTags": [
-          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cms69xwp11ej8robk4upl33jq",
+        "title": "算力价格未来可能上涨 10 倍以上",
+        "title_en": "Why compute might get 10x+ more expensive in coming years",
+        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+        "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-07-29T15:01:35.000Z",
+        "discoveredAt": "2026-07-29T16:03:19.873Z",
+        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
+        },
+        "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cms5dje230234ro7czv3o3wap",
+        "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
+        "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
+        "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
+        "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-07-29T00:00:00.000Z",
+        "discoveredAt": "2026-07-29T00:56:24.557Z",
+        "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cms5dugag02amro7cjrfedsz9",
+        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+        "title_en": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
+        "url": "https://www.ithome.com/0/982/816.htm",
+        "permalink": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-29T00:20:32.000Z",
+        "discoveredAt": "2026-07-29T01:05:00.346Z",
+        "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+        "category": "industry",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
       }
     ],
     "writing": [
@@ -180,10 +205,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_2087468867",
+        "id": "rss_435403255",
         "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
         "title_en": null,
         "url": "https://sspai.com/post/112820",
@@ -195,7 +220,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms4b9e8401zrroepw4fw8oka",
@@ -218,7 +243,7 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "17小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -243,126 +268,143 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "cms4t5zra01o1roa10b19hmbh",
-        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+        "id": "rss_813068429",
+        "title": "Yelp 借助 Training Orchestrator 实现机器学习模型训练的统一管理",
         "title_en": null,
-        "url": "https://arxiv.org/abs/2510.26692",
-        "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-07-28T15:21:28.545Z",
-        "discoveredAt": "2026-07-28T15:26:05.731Z",
-        "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-        "category": "paper",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
-        },
+        "url": "https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 29 JuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
-          "education"
+          "education",
+          "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cmrwztuqg0000roqpmbblplr7",
-        "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-        "title_en": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
-        "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-        "permalink": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7",
-        "source": "公众号：小红书技术（dots.llm）",
-        "publishedAt": "2026-07-23T04:00:00.000Z",
-        "discoveredAt": "2026-07-23T04:10:29.181Z",
-        "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
-        "category": "paper",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 1,
-        "formattedTime": "5天前"
+        "techScore": -1,
+        "formattedTime": "Wed, 29 Ju"
       }
     ]
   },
   "items": [
     {
-      "id": "cms588cro008aro7czwgcqs7e",
-      "title": "Anthropic 支持 AI 发展节奏请愿",
-      "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-      "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-      "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-07-28T22:17:32.000Z",
-      "discoveredAt": "2026-07-28T22:27:51.621Z",
-      "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-      "category": "industry",
-      "score": 70,
+      "id": "cms6kdopf05tbrohzoim2kpeg",
+      "title": "Replit Design 发布：AI 赋能设计愿景",
+      "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
+      "url": "https://x.com/Replit/status/2082568269119062019",
+      "permalink": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-29T20:45:42.000Z",
+      "discoveredAt": "2026-07-29T20:55:42.166Z",
+      "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
+      "category": "ai-products",
+      "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
+        "canonical": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg"
       },
       "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "cms55zmt000i9roehhn1zqxw3",
-      "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-      "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "permalink": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-07-28T20:56:52.000Z",
-      "discoveredAt": "2026-07-28T21:25:04.804Z",
-      "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-      "category": "tip",
+      "id": "cms69p7bn1ec3robkm6xscwbf",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "permalink": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-29T15:35:09.000Z",
+      "discoveredAt": "2026-07-29T15:56:41.175Z",
+      "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
+      "category": "ai-products",
       "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
+        "canonical": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cms69xwp11ej8robk4upl33jq",
+      "title": "算力价格未来可能上涨 10 倍以上",
+      "title_en": "Why compute might get 10x+ more expensive in coming years",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-07-29T15:01:35.000Z",
+      "discoveredAt": "2026-07-29T16:03:19.873Z",
+      "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "9小时前"
     },
     {
-      "id": "cms54eet30038roehcs33wqca",
-      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-      "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
-      "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-      "permalink": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "publishedAt": "2026-07-28T20:19:41.000Z",
-      "discoveredAt": "2026-07-28T20:40:34.884Z",
-      "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
+      "id": "cms5dugag02amro7cjrfedsz9",
+      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+      "title_en": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
+      "url": "https://www.ithome.com/0/982/816.htm",
+      "permalink": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-29T00:20:32.000Z",
+      "discoveredAt": "2026-07-29T01:05:00.346Z",
+      "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
       "category": "industry",
-      "score": 78,
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca"
+        "canonical": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9"
       },
       "interestTags": [
-        "app",
-        "education"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "cms5dje230234ro7czv3o3wap",
+      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
+      "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
+      "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
+      "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-29T00:56:24.557Z",
+      "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cms4oxr7h00aoroa1i8kboqrk",
@@ -387,7 +429,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms3lggqj00c0roskhu1r5f09",
@@ -412,7 +454,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms2mylvu02nlro3f73afr69h",
@@ -434,30 +476,6 @@
       "interestTags": [
         "writing",
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cms24qise02adro9fp4xzdhyd",
-      "title": "Suno 推出多项新功能，含MIDI导出等",
-      "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-07-26T18:14:29.000Z",
-      "discoveredAt": "2026-07-26T18:26:42.298Z",
-      "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
-      },
-      "interestTags": [
-        "creative",
-        "app"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -483,10 +501,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_2087468867",
+      "id": "rss_435403255",
       "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
       "title_en": null,
       "url": "https://sspai.com/post/112820",
@@ -498,7 +516,23 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_813068429",
+      "title": "Yelp 借助 Training Orchestrator 实现机器学习模型训练的统一管理",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 29 JuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Wed, 29 Ju"
     },
     {
       "id": "cms4b9e8401zrroepw4fw8oka",
@@ -521,53 +555,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "cms4t5zra01o1roa10b19hmbh",
-      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-      "title_en": null,
-      "url": "https://arxiv.org/abs/2510.26692",
-      "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-28T15:21:28.545Z",
-      "discoveredAt": "2026-07-28T15:26:05.731Z",
-      "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmrwztuqg0000roqpmbblplr7",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "title_en": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "permalink": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "discoveredAt": "2026-07-23T04:10:29.181Z",
-      "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 1,
-      "formattedTime": "5天前"
+      "formattedTime": "昨天"
     }
   ]
 }
