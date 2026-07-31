@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-07-30T00:03:12.221336+00:00",
-  "totalSource": 148,
-  "totalFiltered": 127,
+  "generatedAt": "2026-07-31T00:05:24.692798+00:00",
+  "totalSource": 145,
+  "totalFiltered": 126,
   "totalSelected": 12,
   "sources": {
-    "aihot": 88,
+    "aihot": 85,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "creative": [
+      {
+        "id": "cms7w9p0p000fro20pyggbkmb",
+        "title": "Google Earth 集成 Nano Banana 2 图像生成",
+        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+        "url": "https://x.com/GoogleAI/status/2082902334984609936",
+        "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
+        "source": "X：Google AI (@GoogleAI)",
+        "publishedAt": "2026-07-30T18:53:09.000Z",
+        "discoveredAt": "2026-07-30T19:16:16.061Z",
+        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
       {
         "id": "cms6kdopf05tbrohzoim2kpeg",
         "title": "Replit Design 发布：AI 赋能设计愿景",
@@ -32,7 +57,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms4oxr7h00aoroa1i8kboqrk",
@@ -57,35 +82,57 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cms3lggqj00c0roskhu1r5f09",
-        "title": "Kimi 发布视觉感知基准 PerceptionBench",
-        "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-        "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-        "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "publishedAt": "2026-07-27T18:45:20.000Z",
-        "discoveredAt": "2026-07-27T19:02:32.798Z",
-        "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-        "category": "ai-products",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "education"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       }
     ],
     "app": [
+      {
+        "id": "cms7sw59802yyropbrio5ml9u",
+        "title": "Perplexity Computer 推出 Projects 功能",
+        "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
+        "url": "https://x.com/AravSrinivas/status/2082872551538380939",
+        "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "publishedAt": "2026-07-30T16:54:48.000Z",
+        "discoveredAt": "2026-07-30T17:41:45.972Z",
+        "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cms6xky2402xgrouqgudkfgsg",
+        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
+        "url": "https://www.ithome.com/0/983/444.htm",
+        "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-30T02:49:47.000Z",
+        "discoveredAt": "2026-07-30T03:05:15.267Z",
+        "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+        "category": "tip",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
       {
         "id": "cms69p7bn1ec3robkm6xscwbf",
         "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
@@ -106,52 +153,6 @@
         "interestTags": [
           "app",
           "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "cms69xwp11ej8robk4upl33jq",
-        "title": "算力价格未来可能上涨 10 倍以上",
-        "title_en": "Why compute might get 10x+ more expensive in coming years",
-        "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-        "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-07-29T15:01:35.000Z",
-        "discoveredAt": "2026-07-29T16:03:19.873Z",
-        "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-        "category": "tip",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "cms5dje230234ro7czv3o3wap",
-        "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-        "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
-        "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
-        "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-07-29T00:00:00.000Z",
-        "discoveredAt": "2026-07-29T00:56:24.557Z",
-        "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
-        "category": "tip",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
-        },
-        "interestTags": [
-          "app"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -179,7 +180,30 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cms7sdkx702mjropbnq4l267q",
+        "title": "GPT-5.6 如何推进性价比前沿",
+        "title_en": "Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+        "permalink": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-07-30T10:00:00.000Z",
+        "discoveredAt": "2026-07-30T17:27:19.970Z",
+        "summary": "OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。",
+        "category": "ai-models",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 0,
+        "formattedTime": "14小时前"
       }
     ],
     "writing": [
@@ -205,10 +229,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_435403255",
+        "id": "rss_173729244",
         "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
         "title_en": null,
         "url": "https://sspai.com/post/112820",
@@ -220,30 +244,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cms4b9e8401zrroepw4fw8oka",
-        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-        "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-        "url": "https://www.ithome.com/0/982/520.htm",
-        "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-28T06:21:07.000Z",
-        "discoveredAt": "2026-07-28T07:04:51.393Z",
-        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
-        "category": "industry",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 0,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "education": [
@@ -268,27 +269,98 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_813068429",
-        "title": "Yelp 借助 Training Orchestrator 实现机器学习模型训练的统一管理",
+        "id": "rss_2775267030",
+        "title": "李飞飞的世界模型，终于开始训练机器人了",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 29 JuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/07/463217.html",
+        "source": "量子位",
+        "publishedAt": "2026-07-30T07:47:37+00:00",
+        "summary": "李飞飞老师的World Labs，补了块关键拼图",
+        "category": "industry",
         "interestTags": [
-          "education",
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "Wed, 29 Ju"
+        "formattedTime": "16小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cms7w9p0p000fro20pyggbkmb",
+      "title": "Google Earth 集成 Nano Banana 2 图像生成",
+      "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-07-30T18:53:09.000Z",
+      "discoveredAt": "2026-07-30T19:16:16.061Z",
+      "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cms7sw59802yyropbrio5ml9u",
+      "title": "Perplexity Computer 推出 Projects 功能",
+      "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
+      "url": "https://x.com/AravSrinivas/status/2082872551538380939",
+      "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-07-30T16:54:48.000Z",
+      "discoveredAt": "2026-07-30T17:41:45.972Z",
+      "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cms6xky2402xgrouqgudkfgsg",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-30T02:49:47.000Z",
+      "discoveredAt": "2026-07-30T03:05:15.267Z",
+      "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "21小时前"
+    },
     {
       "id": "cms6kdopf05tbrohzoim2kpeg",
       "title": "Replit Design 发布：AI 赋能设计愿景",
@@ -311,7 +383,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms69p7bn1ec3robkm6xscwbf",
@@ -335,30 +407,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cms69xwp11ej8robk4upl33jq",
-      "title": "算力价格未来可能上涨 10 倍以上",
-      "title_en": "Why compute might get 10x+ more expensive in coming years",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-07-29T15:01:35.000Z",
-      "discoveredAt": "2026-07-29T16:03:19.873Z",
-      "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms5dugag02amro7cjrfedsz9",
@@ -381,29 +430,6 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "cms5dje230234ro7czv3o3wap",
-      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-      "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
-      "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
-      "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T00:56:24.557Z",
-      "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
@@ -422,31 +448,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cms3lggqj00c0roskhu1r5f09",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-07-27T18:45:20.000Z",
-      "discoveredAt": "2026-07-27T19:02:32.798Z",
-      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
       },
       "interestTags": [
         "creative",
@@ -478,7 +479,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cms1ka4930059ro05h81rrc3q",
@@ -501,10 +502,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_435403255",
+      "id": "rss_173729244",
       "title": "社区速递 151 | 派友的六月好物盘点、携程被重罚热议和 tomtoc 城市穿行背包",
       "title_en": null,
       "url": "https://sspai.com/post/112820",
@@ -516,46 +517,45 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_813068429",
-      "title": "Yelp 借助 Training Orchestrator 实现机器学习模型训练的统一管理",
+      "id": "rss_2775267030",
+      "title": "李飞飞的世界模型，终于开始训练机器人了",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 29 JuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/J3AlWZvIwrQT3R7dsoJo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "url": "https://www.qbitai.com/2026/07/463217.html",
+      "source": "量子位",
+      "publishedAt": "2026-07-30T07:47:37+00:00",
+      "summary": "李飞飞老师的World Labs，补了块关键拼图",
+      "category": "industry",
       "interestTags": [
-        "education",
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "Wed, 29 Ju"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "cms4b9e8401zrroepw4fw8oka",
-      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-      "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-      "url": "https://www.ithome.com/0/982/520.htm",
-      "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-28T06:21:07.000Z",
-      "discoveredAt": "2026-07-28T07:04:51.393Z",
-      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
-      "category": "industry",
-      "score": 73,
+      "id": "cms7sdkx702mjropbnq4l267q",
+      "title": "GPT-5.6 如何推进性价比前沿",
+      "title_en": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-30T10:00:00.000Z",
+      "discoveredAt": "2026-07-30T17:27:19.970Z",
+      "summary": "OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。",
+      "category": "ai-models",
+      "score": 66,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+        "canonical": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q"
       },
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": 0,
-      "formattedTime": "昨天"
+      "formattedTime": "14小时前"
     }
   ]
 }
