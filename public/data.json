@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-01T00:03:57.434619+00:00",
-  "totalSource": 176,
-  "totalFiltered": 159,
+  "generatedAt": "2026-08-01T23:59:52.409581+00:00",
+  "totalSource": 177,
+  "totalFiltered": 160,
   "totalSelected": 12,
   "sources": {
-    "aihot": 96,
+    "aihot": 97,
     "rss": 80,
     "bilibili": 0
   },
@@ -32,7 +32,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms7sw59802yyropbrio5ml9u",
@@ -56,7 +56,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cms6xky2402xgrouqgudkfgsg",
@@ -79,7 +79,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -106,7 +106,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cms87droz020crot087s6upwp",
@@ -155,7 +155,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -180,10 +180,33 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
+      {
+        "id": "cmsass3b802g4romzntw9ijll",
+        "title": "Science One Framework：通过 Chain-of-Evidence 实现可验证的自主科研框架",
+        "title_en": "Science One Framework： A verifiable autonomous research framework via Chain-of-Evidence",
+        "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+        "permalink": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll",
+        "source": "Google Research：Blog（网页）",
+        "publishedAt": "2026-07-29T16:00:00.000Z",
+        "discoveredAt": "2026-07-29T16:00:00.000Z",
+        "summary": "Google Research 推出 Science One Framework，一个原生构建证据链的自主科研原型，旨在消除模型幻觉，并配套自动化评估协议 CoE Audit。",
+        "category": "paper",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
       {
         "id": "cms5dugag02amro7cjrfedsz9",
         "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
@@ -205,37 +228,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_4074605005",
-        "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+        "id": "rss_2658993811",
+        "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
         "title_en": null,
-        "url": "https://36kr.com/newsflashes/3919556554305154?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-31T00:00:00+00:00",
-        "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发挥司库",
+        "url": "http://www.geekpark.net/news/367975",
+        "source": "极客公园",
+        "publishedAt": "2026-07-26T00:30:45+00:00",
+        "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/49/63/4963413a9e2c61d144ca9e3ac7f328ee.png\" /></p>\n<h2>被罚 51.79 亿元，携程公布 19 项整改措施</h2>\n<p>本报北京 7 月 25 日电（中青报&middot;中青网记者 魏婉）记者从国家市场监督管理总局获悉，该局今天依法对携程集团有限公司（以下简称「携程」）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计 51.79 亿元。<",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_2960664833",
-        "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3919516325949059?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-07-31T00:00:00+00:00",
-        "summary": "36氪获悉，电投产融公告，公司获悉山东莱阳核电项目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司所属国电投莱阳核能有限公司继续推进前期及投资建设工作，各项施工准备工作正有序开展。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "6天前"
       }
     ],
     "education": [
@@ -260,22 +268,22 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_759893710",
-        "title": "学习强国做了个AI社区，两周铺进68座城市",
+        "id": "rss_3000248719",
+        "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/07/463727.html",
-        "source": "量子位",
-        "publishedAt": "2026-07-31T06:47:00+00:00",
-        "summary": "学习强国做了个AI社区，两周铺进68座城市",
+        "url": "http://www.geekpark.net/news/368019",
+        "source": "极客公园",
+        "publishedAt": "2026-07-27T06:39:34+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜桦林舞王 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">不管是家长，还是教师，近两年无疑会面对这样一个场景：学生拿手机拍摄作业题，直接传给 ChatGPT 或者豆包，解题思路和答案直接出来，轻松",
         "category": "industry",
         "interestTags": [
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "17小时前"
+        "formattedTime": "5天前"
       }
     ]
   },
@@ -302,7 +310,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms96t19506karo9k3wjqx5vb",
@@ -327,7 +335,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms8wbpwc03xero7vq54bpg6n",
@@ -350,7 +358,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms87droz020crot087s6upwp",
@@ -399,7 +407,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms7sw59802yyropbrio5ml9u",
@@ -423,7 +431,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms6xky2402xgrouqgudkfgsg",
@@ -446,7 +454,30 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "cmsass3b802g4romzntw9ijll",
+      "title": "Science One Framework：通过 Chain-of-Evidence 实现可验证的自主科研框架",
+      "title_en": "Science One Framework： A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+      "permalink": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-07-29T16:00:00.000Z",
+      "discoveredAt": "2026-07-29T16:00:00.000Z",
+      "summary": "Google Research 推出 Science One Framework，一个原生构建证据链的自主科研原型，旨在消除模型幻觉，并配套自动化评估协议 CoE Audit。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3天前"
     },
     {
       "id": "cms5dugag02amro7cjrfedsz9",
@@ -469,7 +500,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cms1ka4930059ro05h81rrc3q",
@@ -492,52 +523,37 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_759893710",
-      "title": "学习强国做了个AI社区，两周铺进68座城市",
+      "id": "rss_3000248719",
+      "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/07/463727.html",
-      "source": "量子位",
-      "publishedAt": "2026-07-31T06:47:00+00:00",
-      "summary": "学习强国做了个AI社区，两周铺进68座城市",
+      "url": "http://www.geekpark.net/news/368019",
+      "source": "极客公园",
+      "publishedAt": "2026-07-27T06:39:34+00:00",
+      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜桦林舞王 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">不管是家长，还是教师，近两年无疑会面对这样一个场景：学生拿手机拍摄作业题，直接传给 ChatGPT 或者豆包，解题思路和答案直接出来，轻松",
       "category": "industry",
       "interestTags": [
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "17小时前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_4074605005",
-      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+      "id": "rss_2658993811",
+      "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
       "title_en": null,
-      "url": "https://36kr.com/newsflashes/3919556554305154?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-31T00:00:00+00:00",
-      "summary": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基础。要着力推进原始创新和关键核心技术攻关，以更大力度加强基础研究，深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业。要持续深化提质增效，做好重点领域内卷治理，推进全产业链、全价值链降本节支，增强经营创现能力和资本积累积聚能力，以“自身稳”带动“行业稳”。要坚决守住风险底线，有效发挥司库",
+      "url": "http://www.geekpark.net/news/367975",
+      "source": "极客公园",
+      "publishedAt": "2026-07-26T00:30:45+00:00",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/49/63/4963413a9e2c61d144ca9e3ac7f328ee.png\" /></p>\n<h2>被罚 51.79 亿元，携程公布 19 项整改措施</h2>\n<p>本报北京 7 月 25 日电（中青报&middot;中青网记者 魏婉）记者从国家市场监督管理总局获悉，该局今天依法对携程集团有限公司（以下简称「携程」）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计 51.79 亿元。<",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2960664833",
-      "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3919516325949059?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-07-31T00:00:00+00:00",
-      "summary": "36氪获悉，电投产融公告，公司获悉山东莱阳核电项目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司所属国电投莱阳核能有限公司继续推进前期及投资建设工作，各项施工准备工作正有序开展。",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "6天前"
     }
   ]
 }
