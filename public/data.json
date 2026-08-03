@@ -1,15 +1,61 @@
 {
-  "generatedAt": "2026-08-01T23:59:52.409581+00:00",
-  "totalSource": 177,
-  "totalFiltered": 160,
+  "generatedAt": "2026-08-03T00:01:32.802720+00:00",
+  "totalSource": 173,
+  "totalFiltered": 157,
   "totalSelected": 12,
   "sources": {
-    "aihot": 97,
+    "aihot": 93,
     "rss": 80,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmscc62eo033broeusw72isi0",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-08-02T21:25:27.000Z",
+        "discoveredAt": "2026-08-02T21:52:26.909Z",
+        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmsbowa0l0m77rohvw8s15ia1",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_en": "刚发的Codex Luna Max省钱tip，现在有进阶版了--而且是让Sol自己帮你配好，现在Codex圈中高阶玩家都在用。 思路很简单：别让Sol什么都自己干，Sol很贵，额度烧得快，但它规划和…",
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "permalink": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "publishedAt": "2026-08-02T10:47:27.000Z",
+        "discoveredAt": "2026-08-02T11:00:58.177Z",
+        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+        "category": "tip",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
       {
         "id": "cms9has920ey7ro9k5oh4ooow",
         "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
@@ -32,57 +78,33 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cms7sw59802yyropbrio5ml9u",
-        "title": "Perplexity Computer 推出 Projects 功能",
-        "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
-        "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-        "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "publishedAt": "2026-07-30T16:54:48.000Z",
-        "discoveredAt": "2026-07-30T17:41:45.972Z",
-        "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cms6xky2402xgrouqgudkfgsg",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-30T02:49:47.000Z",
-        "discoveredAt": "2026-07-30T03:05:15.267Z",
-        "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       }
     ],
     "creative": [
+      {
+        "id": "cmsbf9by90dq7rohvp1oggqmk",
+        "title": "Grok 支持分析任意视频",
+        "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+        "url": "https://x.com/elonmusk/status/2083800942927839307",
+        "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "publishedAt": "2026-08-02T06:23:54.000Z",
+        "discoveredAt": "2026-08-02T06:31:11.917Z",
+        "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+        "category": "ai-products",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
       {
         "id": "cms96t19506karo9k3wjqx5vb",
         "title": "animated-voiceover 开源：一人干翻动画工作室",
@@ -106,7 +128,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cms87droz020crot087s6upwp",
@@ -130,32 +152,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cms7w9p0p000fro20pyggbkmb",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成",
-        "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-        "url": "https://x.com/GoogleAI/status/2082902334984609936",
-        "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-        "source": "X：Google AI (@GoogleAI)",
-        "publishedAt": "2026-07-30T18:53:09.000Z",
-        "discoveredAt": "2026-07-30T19:16:16.061Z",
-        "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
@@ -180,7 +177,30 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cms4b9e8401zrroepw4fw8oka",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+        "url": "https://www.ithome.com/0/982/520.htm",
+        "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-07-28T06:21:07.000Z",
+        "discoveredAt": "2026-07-28T07:04:51.393Z",
+        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+        "category": "industry",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 0,
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
@@ -205,7 +225,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cms5dugag02amro7cjrfedsz9",
@@ -228,10 +248,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_2658993811",
+        "id": "rss_1137741850",
         "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
         "title_en": null,
         "url": "http://www.geekpark.net/news/367975",
@@ -243,35 +263,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "7月26日"
       }
     ],
     "education": [
       {
-        "id": "cms1ka4930059ro05h81rrc3q",
-        "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-        "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-        "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-        "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-07-26T08:35:49.000Z",
-        "discoveredAt": "2026-07-26T08:54:01.338Z",
-        "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
-        "category": "industry",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_3000248719",
+        "id": "rss_3068728841",
         "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
         "title_en": null,
         "url": "http://www.geekpark.net/news/368019",
@@ -283,11 +280,80 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmscc62eo033broeusw72isi0",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+      "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-08-02T21:25:27.000Z",
+      "discoveredAt": "2026-08-02T21:52:26.909Z",
+      "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmsbowa0l0m77rohvw8s15ia1",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "title_en": "刚发的Codex Luna Max省钱tip，现在有进阶版了--而且是让Sol自己帮你配好，现在Codex圈中高阶玩家都在用。 思路很简单：别让Sol什么都自己干，Sol很贵，额度烧得快，但它规划和…",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "permalink": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-02T10:47:27.000Z",
+      "discoveredAt": "2026-08-02T11:00:58.177Z",
+      "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
+    {
+      "id": "cmsbf9by90dq7rohvp1oggqmk",
+      "title": "Grok 支持分析任意视频",
+      "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "url": "https://x.com/elonmusk/status/2083800942927839307",
+      "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-02T06:23:54.000Z",
+      "discoveredAt": "2026-08-02T06:31:11.917Z",
+      "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
     {
       "id": "cms9has920ey7ro9k5oh4ooow",
       "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
@@ -310,7 +376,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms96t19506karo9k3wjqx5vb",
@@ -335,7 +401,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms8wbpwc03xero7vq54bpg6n",
@@ -358,7 +424,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cms87droz020crot087s6upwp",
@@ -382,79 +448,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cms7w9p0p000fro20pyggbkmb",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-07-30T18:53:09.000Z",
-      "discoveredAt": "2026-07-30T19:16:16.061Z",
-      "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cms7sw59802yyropbrio5ml9u",
-      "title": "Perplexity Computer 推出 Projects 功能",
-      "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
-      "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-      "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-07-30T16:54:48.000Z",
-      "discoveredAt": "2026-07-30T17:41:45.972Z",
-      "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cms6xky2402xgrouqgudkfgsg",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-30T02:49:47.000Z",
-      "discoveredAt": "2026-07-30T03:05:15.267Z",
-      "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsass3b802g4romzntw9ijll",
@@ -477,7 +471,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cms5dugag02amro7cjrfedsz9",
@@ -500,33 +494,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "cms1ka4930059ro05h81rrc3q",
-      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-      "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
-      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-      "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-26T08:35:49.000Z",
-      "discoveredAt": "2026-07-26T08:54:01.338Z",
-      "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3000248719",
+      "id": "rss_3068728841",
       "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
       "title_en": null,
       "url": "http://www.geekpark.net/news/368019",
@@ -538,10 +509,10 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_2658993811",
+      "id": "rss_1137741850",
       "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
       "title_en": null,
       "url": "http://www.geekpark.net/news/367975",
@@ -553,7 +524,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "7月26日"
+    },
+    {
+      "id": "cms4b9e8401zrroepw4fw8oka",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-28T06:21:07.000Z",
+      "discoveredAt": "2026-07-28T07:04:51.393Z",
+      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 0,
+      "formattedTime": "5天前"
     }
   ]
 }
