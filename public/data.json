@@ -1,31 +1,131 @@
 {
-  "generatedAt": "2026-08-03T00:01:32.802720+00:00",
-  "totalSource": 173,
-  "totalFiltered": 157,
+  "generatedAt": "2026-08-04T00:11:29.038066+00:00",
+  "totalSource": 180,
+  "totalFiltered": 163,
   "totalSelected": 12,
   "sources": {
-    "aihot": 93,
+    "aihot": 100,
     "rss": 80,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cmscc62eo033broeusw72isi0",
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-08-02T21:25:27.000Z",
-        "discoveredAt": "2026-08-02T21:52:26.909Z",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+        "id": "cmsdwjgim0327ro2ek45x3jz5",
+        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "title_en": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+        "permalink": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-08-04T00:06:00.000Z",
+        "discoveredAt": "2026-08-04T00:10:29.973Z",
+        "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
         "category": "tip",
-        "score": 66,
+        "score": 63,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+          "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmsdkgj9m00hnro0ocrleteo0",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "title_en": "Europe's AI labeling and transparency rules are now in effect",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "permalink": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-08-03T17:38:45.000Z",
+        "discoveredAt": "2026-08-03T18:32:18.029Z",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "category": "industry",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmsd6q57g12pwroeu6iacjuqj",
+        "title": "Kimi Work 幻灯片制作教程发布",
+        "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+        "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+        "permalink": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "publishedAt": "2026-08-03T11:51:51.000Z",
+        "discoveredAt": "2026-08-03T12:07:51.874Z",
+        "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      }
+    ],
+    "app": [
+      {
+        "id": "cmsdv83cg000lro2eyp49endp",
+        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+        "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+        "permalink": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-08-03T23:19:50.000Z",
+        "discoveredAt": "2026-08-03T23:33:40.411Z",
+        "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmsdqxlyq00giromaftad8bdu",
+        "title": "Claude Code 连接器可复用至 Artifacts",
+        "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+        "url": "https://x.com/trq212/status/2084387303959740449",
+        "permalink": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+        "source": "X：Thariq (@trq212)",
+        "publishedAt": "2026-08-03T21:13:53.000Z",
+        "discoveredAt": "2026-08-03T21:33:32.878Z",
+        "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu"
         },
         "interestTags": [
           "app"
@@ -34,125 +134,27 @@
         "formattedTime": "2小时前"
       },
       {
-        "id": "cmsbowa0l0m77rohvw8s15ia1",
-        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-        "title_en": "刚发的Codex Luna Max省钱tip，现在有进阶版了--而且是让Sol自己帮你配好，现在Codex圈中高阶玩家都在用。 思路很简单：别让Sol什么都自己干，Sol很贵，额度烧得快，但它规划和…",
-        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-        "permalink": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-08-02T10:47:27.000Z",
-        "discoveredAt": "2026-08-02T11:00:58.177Z",
-        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-        "category": "tip",
-        "score": 75,
+        "id": "cmsdal06c16pxroeu5xtlavmg",
+        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+        "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+        "url": "https://blog.cloudflare.com/cloudflare-computer",
+        "permalink": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg",
+        "source": "Cloudflare Blog",
+        "publishedAt": "2026-08-03T13:15:24.000Z",
+        "discoveredAt": "2026-08-03T13:55:49.808Z",
+        "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+        "category": "ai-products",
+        "score": 68,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1"
+          "canonical": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
-      },
-      {
-        "id": "cms9has920ey7ro9k5oh4ooow",
-        "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-        "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-        "url": "https://simonwillison.net/2026/Jul/31/smevals",
-        "permalink": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-07-31T21:15:23.000Z",
-        "discoveredAt": "2026-07-31T21:52:46.540Z",
-        "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-        "category": "tip",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmsbf9by90dq7rohvp1oggqmk",
-        "title": "Grok 支持分析任意视频",
-        "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "url": "https://x.com/elonmusk/status/2083800942927839307",
-        "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "publishedAt": "2026-08-02T06:23:54.000Z",
-        "discoveredAt": "2026-08-02T06:31:11.917Z",
-        "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-        "category": "ai-products",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "17小时前"
-      },
-      {
-        "id": "cms96t19506karo9k3wjqx5vb",
-        "title": "animated-voiceover 开源：一人干翻动画工作室",
-        "title_en": "这个Skill真的让我看到了一个人干翻一个动画工作室的可能性，我用它做了个DeepSeek V4-Flash的视频， 一个人，一条指令，40块钱，2分钟电影感动画科普视频。 不是那种一眼AI的垃圾…",
-        "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-        "permalink": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "publishedAt": "2026-07-31T16:01:51.000Z",
-        "discoveredAt": "2026-07-31T16:59:01.508Z",
-        "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-        "category": "tip",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cms87droz020crot087s6upwp",
-        "title": "Replit Design 推出数百设计模板",
-        "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-        "url": "https://x.com/Replit/status/2082979584799060267",
-        "permalink": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-07-31T00:00:07.000Z",
-        "discoveredAt": "2026-07-31T00:27:23.225Z",
-        "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "10小时前"
       }
     ],
     "writing": [
@@ -177,29 +179,46 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "cms4b9e8401zrroepw4fw8oka",
-        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-        "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-        "url": "https://www.ithome.com/0/982/520.htm",
-        "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-28T06:21:07.000Z",
-        "discoveredAt": "2026-07-28T07:04:51.393Z",
-        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
-        "category": "industry",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
-        },
+        "id": "rss_1300628005",
+        "title": "角落新声｜两平米、两个角落，安放两个自己",
+        "title_en": null,
+        "url": "https://sspai.com/post/112551",
+        "source": "少数派",
+        "publishedAt": "2026-08-03T02:52:56+00:00",
+        "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112551\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "writing"
         ],
-        "techScore": 0,
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "cmscxmzdc0qz4roeucecesunt",
+        "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
+        "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+        "url": "https://arxiv.org/abs/2607.28478",
+        "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
+        "source": "HuggingFace Daily Papers（社区热门论文）",
+        "publishedAt": "2026-07-30T00:00:00.000Z",
+        "discoveredAt": "2026-07-30T00:00:00.000Z",
+        "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
+        "category": "paper",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
         "formattedTime": "5天前"
       }
     ],
@@ -225,7 +244,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cms5dugag02amro7cjrfedsz9",
@@ -248,59 +267,90 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_1137741850",
-        "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
+        "id": "rss_4081556440",
+        "title": "阿里“千问办公”开启公测",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/367975",
-        "source": "极客公园",
-        "publishedAt": "2026-07-26T00:30:45+00:00",
-        "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/49/63/4963413a9e2c61d144ca9e3ac7f328ee.png\" /></p>\n<h2>被罚 51.79 亿元，携程公布 19 项整改措施</h2>\n<p>本报北京 7 月 25 日电（中青报&middot;中青网记者 魏婉）记者从国家市场监督管理总局获悉，该局今天依法对携程集团有限公司（以下简称「携程」）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计 51.79 亿元。<",
+        "url": "https://www.qbitai.com/2026/08/465211.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-03T04:47:44+00:00",
+        "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7月26日"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_3068728841",
-        "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/368019",
-        "source": "极客公园",
-        "publishedAt": "2026-07-27T06:39:34+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜桦林舞王 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">不管是家长，还是教师，近两年无疑会面对这样一个场景：学生拿手机拍摄作业题，直接传给 ChatGPT 或者豆包，解题思路和答案直接出来，轻松",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "19小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmscc62eo033broeusw72isi0",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-      "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-08-02T21:25:27.000Z",
-      "discoveredAt": "2026-08-02T21:52:26.909Z",
-      "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
+      "id": "cmsdwjgim0327ro2ek45x3jz5",
+      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+      "title_en": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+      "permalink": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-04T00:06:00.000Z",
+      "discoveredAt": "2026-08-04T00:10:29.973Z",
+      "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
       "category": "tip",
-      "score": 66,
+      "score": 63,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+        "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmsdv83cg000lro2eyp49endp",
+      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+      "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "permalink": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "discoveredAt": "2026-08-03T23:33:40.411Z",
+      "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmsdqxlyq00giromaftad8bdu",
+      "title": "Claude Code 连接器可复用至 Artifacts",
+      "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+      "url": "https://x.com/trq212/status/2084387303959740449",
+      "permalink": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-08-03T21:13:53.000Z",
+      "discoveredAt": "2026-08-03T21:33:32.878Z",
+      "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu"
       },
       "interestTags": [
         "app"
@@ -309,99 +359,77 @@
       "formattedTime": "2小时前"
     },
     {
-      "id": "cmsbowa0l0m77rohvw8s15ia1",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "title_en": "刚发的Codex Luna Max省钱tip，现在有进阶版了--而且是让Sol自己帮你配好，现在Codex圈中高阶玩家都在用。 思路很简单：别让Sol什么都自己干，Sol很贵，额度烧得快，但它规划和…",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
-      "permalink": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-02T10:47:27.000Z",
-      "discoveredAt": "2026-08-02T11:00:58.177Z",
-      "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
-      "category": "tip",
-      "score": 75,
+      "id": "cmsdkgj9m00hnro0ocrleteo0",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+      "title_en": "Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "permalink": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-03T17:38:45.000Z",
+      "discoveredAt": "2026-08-03T18:32:18.029Z",
+      "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+      "category": "industry",
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbowa0l0m77rohvw8s15ia1"
+        "canonical": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmsdal06c16pxroeu5xtlavmg",
+      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+      "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
+      "url": "https://blog.cloudflare.com/cloudflare-computer",
+      "permalink": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-03T13:15:24.000Z",
+      "discoveredAt": "2026-08-03T13:55:49.808Z",
+      "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "10小时前"
     },
     {
-      "id": "cmsbf9by90dq7rohvp1oggqmk",
-      "title": "Grok 支持分析任意视频",
-      "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-      "url": "https://x.com/elonmusk/status/2083800942927839307",
-      "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-02T06:23:54.000Z",
-      "discoveredAt": "2026-08-02T06:31:11.917Z",
-      "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "cms9has920ey7ro9k5oh4ooow",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-      "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "permalink": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-31T21:15:23.000Z",
-      "discoveredAt": "2026-07-31T21:52:46.540Z",
-      "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+      "id": "cmsd6q57g12pwroeu6iacjuqj",
+      "title": "Kimi Work 幻灯片制作教程发布",
+      "title_en": "Build Slides with Kimi Work - Tutorial #1. Kimi Slides handles the entire slide-building process： -…",
+      "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+      "permalink": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-08-03T11:51:51.000Z",
+      "discoveredAt": "2026-08-03T12:07:51.874Z",
+      "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
       "category": "tip",
-      "score": 73,
+      "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cms96t19506karo9k3wjqx5vb",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "title_en": "这个Skill真的让我看到了一个人干翻一个动画工作室的可能性，我用它做了个DeepSeek V4-Flash的视频， 一个人，一条指令，40块钱，2分钟电影感动画科普视频。 不是那种一眼AI的垃圾…",
-      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "permalink": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-31T16:01:51.000Z",
-      "discoveredAt": "2026-07-31T16:59:01.508Z",
-      "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb"
+        "canonical": "https://aihot.virxact.com/items/cmsd6q57g12pwroeu6iacjuqj"
       },
       "interestTags": [
         "creative",
         "app",
+        "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "12小时前"
     },
     {
       "id": "cms8wbpwc03xero7vq54bpg6n",
@@ -424,31 +452,30 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cms87droz020crot087s6upwp",
-      "title": "Replit Design 推出数百设计模板",
-      "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-      "url": "https://x.com/Replit/status/2082979584799060267",
-      "permalink": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-31T00:00:07.000Z",
-      "discoveredAt": "2026-07-31T00:27:23.225Z",
-      "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-      "category": "ai-products",
-      "score": 66,
+      "id": "cmscxmzdc0qz4roeucecesunt",
+      "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
+      "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+      "url": "https://arxiv.org/abs/2607.28478",
+      "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T00:00:00.000Z",
+      "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
+      "category": "paper",
+      "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
+        "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
       },
       "interestTags": [
-        "creative",
-        "app"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmsass3b802g4romzntw9ijll",
@@ -471,7 +498,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cms5dugag02amro7cjrfedsz9",
@@ -494,60 +521,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3068728841",
-      "title": "OpenAI 和 Anthropic，正在砸钱抢这个市场",
+      "id": "rss_1300628005",
+      "title": "角落新声｜两平米、两个角落，安放两个自己",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/368019",
-      "source": "极客公园",
-      "publishedAt": "2026-07-27T06:39:34+00:00",
-      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜桦林舞王 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">不管是家长，还是教师，近两年无疑会面对这样一个场景：学生拿手机拍摄作业题，直接传给 ChatGPT 或者豆包，解题思路和答案直接出来，轻松",
-      "category": "industry",
+      "url": "https://sspai.com/post/112551",
+      "source": "少数派",
+      "publishedAt": "2026-08-03T02:52:56+00:00",
+      "summary": "编者按：本文是「角落新声」征文活动的入围文章。本次主题征文由声擎冠名，邀你前来分享那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅。8月7日前投稿参与，即有机会获得声擎Cyber5 ...<a href=\"https://sspai.com/post/112551\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "21小时前"
     },
     {
-      "id": "rss_1137741850",
-      "title": "被罚51.79亿元，携程公布 19 项整改措施；传库克向特朗普力荐中国存储芯片，美光强烈反对；三星斩获博通2000亿美元巨额订单",
+      "id": "rss_4081556440",
+      "title": "阿里“千问办公”开启公测",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/367975",
-      "source": "极客公园",
-      "publishedAt": "2026-07-26T00:30:45+00:00",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/49/63/4963413a9e2c61d144ca9e3ac7f328ee.png\" /></p>\n<h2>被罚 51.79 亿元，携程公布 19 项整改措施</h2>\n<p>本报北京 7 月 25 日电（中青报&middot;中青网记者 魏婉）记者从国家市场监督管理总局获悉，该局今天依法对携程集团有限公司（以下简称「携程」）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计 51.79 亿元。<",
+      "url": "https://www.qbitai.com/2026/08/465211.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-03T04:47:44+00:00",
+      "summary": "阿里巴巴旗下“千问办公”（QwenWork）开启公测，个人和企业用户均可体验。用户可在“千问办公”体验阿里最新旗舰模型Qwen3.8。",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7月26日"
-    },
-    {
-      "id": "cms4b9e8401zrroepw4fw8oka",
-      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
-      "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
-      "url": "https://www.ithome.com/0/982/520.htm",
-      "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-28T06:21:07.000Z",
-      "discoveredAt": "2026-07-28T07:04:51.393Z",
-      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": 0,
-      "formattedTime": "5天前"
+      "formattedTime": "19小时前"
     }
   ]
 }
