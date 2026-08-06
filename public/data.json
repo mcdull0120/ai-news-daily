@@ -1,15 +1,63 @@
 {
-  "generatedAt": "2026-08-05T00:07:43.683537+00:00",
-  "totalSource": 180,
-  "totalFiltered": 167,
+  "generatedAt": "2026-08-06T00:02:40.226227+00:00",
+  "totalSource": 160,
+  "totalFiltered": 147,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
-    "rss": 80,
+    "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "creative": [
+      {
+        "id": "cmsgm0sf209iyro5qxx3gtzwv",
+        "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+        "title_en": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
+        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+        "permalink": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-05T21:11:36.016Z",
+        "discoveredAt": "2026-08-05T21:39:21.280Z",
+        "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
+        "category": "industry",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmsgiawmi06n8ro5qttsxdlib",
+        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+        "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+        "permalink": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-08-05T19:42:38.000Z",
+        "discoveredAt": "2026-08-05T19:55:15.197Z",
+        "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
       {
         "id": "cmsf7gr271ii5ro2eiu0hihb5",
         "title": "Replit 环境智能：免提示词自动生成设计",
@@ -33,130 +81,104 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "app": [
       {
-        "id": "cmsf2ukfc1ekiro2e4h0k2bux",
-        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-        "title_en": "PipeNetwork/minimax-h3-mlx",
-        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-        "permalink": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-08-04T19:10:09.000Z",
-        "discoveredAt": "2026-08-04T19:54:52.549Z",
-        "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
-        "category": "tip",
-        "score": 74,
+        "id": "cmsghv9m1066ero5qffm5675t",
+        "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+        "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
+        "url": "https://x.com/JeffDean/status/2085083442669318443",
+        "permalink": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+        "source": "X：Jeff Dean (@JeffDean)",
+        "publishedAt": "2026-08-05T19:20:06.000Z",
+        "discoveredAt": "2026-08-05T19:43:05.068Z",
+        "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
+        "category": "industry",
+        "score": 81,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
+          "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
         },
         "interestTags": [
-          "creative",
           "app"
         ],
         "techScore": -1,
         "formattedTime": "4小时前"
       },
       {
-        "id": "cmsefnjpn0q20ro2el7g7lyjw",
-        "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-        "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-        "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-        "permalink": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw",
-        "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-08-04T08:57:47.000Z",
-        "discoveredAt": "2026-08-04T09:05:32.725Z",
-        "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-        "category": "ai-products",
-        "score": 79,
+        "id": "cmsgbawl0001iro5qajirh4qh",
+        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+        "title_en": "为什么埃尔德什问题正被人工智能攻克",
+        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+        "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-05T16:23:34.819Z",
+        "discoveredAt": "2026-08-05T16:39:17.118Z",
+        "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+        "category": "tip",
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
+          "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
         },
         "interestTags": [
-          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmsevo5m118dmro2e9d1ven6v",
-        "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-        "title_en": "Introducing Database Operations Agents： The future of autonomous database management",
-        "url": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents",
-        "permalink": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-        "source": "Google Cloud：Databases（RSS）",
-        "publishedAt": "2026-08-04T16:00:00.000Z",
-        "discoveredAt": "2026-08-04T16:33:49.420Z",
-        "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
-        "category": "ai-products",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmseq167r12lxro2erzimnhk2",
-        "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
-        "title_en": "The Agent Development Lifecycle has arrived on Cloudflare",
-        "url": "https://blog.cloudflare.com/agent-development-lifecycle",
-        "permalink": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2",
+        "id": "cmsg5h9ax06dtrolg09b7xrd8",
+        "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+        "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
+        "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
+        "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
         "source": "Cloudflare Blog",
-        "publishedAt": "2026-08-04T13:00:00.000Z",
-        "discoveredAt": "2026-08-04T13:56:04.557Z",
-        "summary": "Cloudflare 宣布推出 Agent Development Lifecycle（ADLC），以取代传统 SDLC，让 AI 智能体从仅生成代码扩展到承担更多开发流程。",
+        "publishedAt": "2026-08-05T13:00:01.000Z",
+        "discoveredAt": "2026-08-05T13:56:13.182Z",
+        "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
         "category": "ai-products",
         "score": 61,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2"
+          "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
         "formattedTime": "11小时前"
-      },
-      {
-        "id": "cmsek09wz0vq7ro2eayzzt3uq",
-        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-        "title_en": "工信部：《智能网联汽车自动驾驶系统安全要求》发布实施，为自动驾驶产品明确统一安全准入基线",
-        "url": "https://www.ithome.com/0/985/665.htm",
-        "permalink": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-04T11:06:29.000Z",
-        "discoveredAt": "2026-08-04T11:07:21.454Z",
-        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-        "category": "industry",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "13小时前"
       }
     ],
     "productivity": [
+      {
+        "id": "cmsfzhw1v009hrodlv4wn36l3",
+        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/986/174.htm",
+        "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-05T10:12:57.000Z",
+        "discoveredAt": "2026-08-05T11:08:45.252Z",
+        "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
       {
         "id": "cmse7yrut0gupro2ejfet4a10",
         "title": "GPT-5.6 Luna降价80%永久生效",
@@ -178,22 +200,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
-      },
-      {
-        "id": "rss_86787442",
-        "title": "中信建投：定价回归基本面，把握成长修复窗口",
-        "title_en": null,
-        "url": "https://36kr.com/newsflashes/3925846076897667?f=rss",
-        "source": "36氪",
-        "publishedAt": "2026-08-05T00:00:00+00:00",
-        "summary": "36氪获悉，中信建投研报指出，7月A股整体回调，成长风格深度调整。上证综指、创业板指分别下跌6.4%、23.0%，小盘成长承压显著；煤炭、石油石化、银行逆势上涨。创业板指滚动月跌幅达20%，随着中报披露及海外科技事件扰动落地，市场定价逻辑回归基本面，关注科技成长估值修复机会。景气度方面，科技制造与工业金属景气占优：存储涨价持续演绎，海外云厂商资本开支持续上修；工业机器人产量同比高增28%，自动化资本开支持续兑现；工业金属库存低位叠加供给约束，价格获供需两端支撑。配置上，建议关注7月超跌但景气度仍在上行的科技成长反弹机会，同时兼顾业绩改善确定性较强的周期与制造方向。",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -218,10 +225,25 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_3350033102",
+        "id": "rss_1903270080",
+        "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+        "title_en": null,
+        "url": "https://sspai.com/post/112891",
+        "source": "少数派",
+        "publishedAt": "2026-08-05T02:15:19+00:00",
+        "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。<a href=\"https://sspai.com/post/112891\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
+      {
+        "id": "rss_2843325229",
         "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
         "title_en": null,
         "url": "https://sspai.com/prime/story/home-made-beverages-3",
@@ -233,51 +255,168 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_1219727139",
-        "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
-        "title_en": null,
-        "url": "https://sspai.com/post/113060",
-        "source": "少数派",
-        "publishedAt": "2026-08-04T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
       {
-        "id": "cmscxmzdc0qz4roeucecesunt",
-        "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
-        "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-        "url": "https://arxiv.org/abs/2607.28478",
-        "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "publishedAt": "2026-07-30T00:00:00.000Z",
-        "discoveredAt": "2026-07-30T00:00:00.000Z",
-        "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
-        "category": "paper",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
-        },
+        "id": "rss_4007289516",
+        "title": "机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 05 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "Wed, 05 Au"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmsgm0sf209iyro5qxx3gtzwv",
+      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+      "title_en": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+      "permalink": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T21:11:36.016Z",
+      "discoveredAt": "2026-08-05T21:39:21.280Z",
+      "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmsgiawmi06n8ro5qttsxdlib",
+      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+      "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+      "permalink": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-05T19:42:38.000Z",
+      "discoveredAt": "2026-08-05T19:55:15.197Z",
+      "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmsghv9m1066ero5qffm5675t",
+      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+      "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
+      "url": "https://x.com/JeffDean/status/2085083442669318443",
+      "permalink": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "publishedAt": "2026-08-05T19:20:06.000Z",
+      "discoveredAt": "2026-08-05T19:43:05.068Z",
+      "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmsgbawl0001iro5qajirh4qh",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+      "title_en": "为什么埃尔德什问题正被人工智能攻克",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T16:23:34.819Z",
+      "discoveredAt": "2026-08-05T16:39:17.118Z",
+      "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmsg5h9ax06dtrolg09b7xrd8",
+      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+      "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
+      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-05T13:00:01.000Z",
+      "discoveredAt": "2026-08-05T13:56:13.182Z",
+      "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmsfzhw1v009hrodlv4wn36l3",
+      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/986/174.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-05T10:12:57.000Z",
+      "discoveredAt": "2026-08-05T11:08:45.252Z",
+      "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
     {
       "id": "cmsf7gr271ii5ro2eiu0hihb5",
       "title": "Replit 环境智能：免提示词自动生成设计",
@@ -301,125 +440,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "cmsf2ukfc1ekiro2e4h0k2bux",
-      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-      "title_en": "PipeNetwork/minimax-h3-mlx",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "permalink": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-04T19:10:09.000Z",
-      "discoveredAt": "2026-08-04T19:54:52.549Z",
-      "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmsevo5m118dmro2e9d1ven6v",
-      "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-      "title_en": "Introducing Database Operations Agents： The future of autonomous database management",
-      "url": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents",
-      "permalink": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-      "source": "Google Cloud：Databases（RSS）",
-      "publishedAt": "2026-08-04T16:00:00.000Z",
-      "discoveredAt": "2026-08-04T16:33:49.420Z",
-      "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmseq167r12lxro2erzimnhk2",
-      "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
-      "title_en": "The Agent Development Lifecycle has arrived on Cloudflare",
-      "url": "https://blog.cloudflare.com/agent-development-lifecycle",
-      "permalink": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 宣布推出 Agent Development Lifecycle（ADLC），以取代传统 SDLC，让 AI 智能体从仅生成代码扩展到承担更多开发流程。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmsek09wz0vq7ro2eayzzt3uq",
-      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-      "title_en": "工信部：《智能网联汽车自动驾驶系统安全要求》发布实施，为自动驾驶产品明确统一安全准入基线",
-      "url": "https://www.ithome.com/0/985/665.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-04T11:06:29.000Z",
-      "discoveredAt": "2026-08-04T11:07:21.454Z",
-      "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
-    },
-    {
-      "id": "cmsefnjpn0q20ro2el7g7lyjw",
-      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-      "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-      "permalink": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-04T08:57:47.000Z",
-      "discoveredAt": "2026-08-04T09:05:32.725Z",
-      "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmse7yrut0gupro2ejfet4a10",
@@ -442,7 +463,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cms8wbpwc03xero7vq54bpg6n",
@@ -465,33 +486,25 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmscxmzdc0qz4roeucecesunt",
-      "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
-      "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "url": "https://arxiv.org/abs/2607.28478",
-      "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "discoveredAt": "2026-07-30T00:00:00.000Z",
-      "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
-      },
+      "id": "rss_1903270080",
+      "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
+      "title_en": null,
+      "url": "https://sspai.com/post/112891",
+      "source": "少数派",
+      "publishedAt": "2026-08-05T02:15:19+00:00",
+      "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。<a href=\"https://sspai.com/post/112891\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "21小时前"
     },
     {
-      "id": "rss_3350033102",
+      "id": "rss_2843325229",
       "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
       "title_en": null,
       "url": "https://sspai.com/prime/story/home-made-beverages-3",
@@ -503,37 +516,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1219727139",
-      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
+      "id": "rss_4007289516",
+      "title": "机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径",
       "title_en": null,
-      "url": "https://sspai.com/post/113060",
-      "source": "少数派",
-      "publishedAt": "2026-08-04T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
+      "url": "https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 05 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
-        "writing"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
-    },
-    {
-      "id": "rss_86787442",
-      "title": "中信建投：定价回归基本面，把握成长修复窗口",
-      "title_en": null,
-      "url": "https://36kr.com/newsflashes/3925846076897667?f=rss",
-      "source": "36氪",
-      "publishedAt": "2026-08-05T00:00:00+00:00",
-      "summary": "36氪获悉，中信建投研报指出，7月A股整体回调，成长风格深度调整。上证综指、创业板指分别下跌6.4%、23.0%，小盘成长承压显著；煤炭、石油石化、银行逆势上涨。创业板指滚动月跌幅达20%，随着中报披露及海外科技事件扰动落地，市场定价逻辑回归基本面，关注科技成长估值修复机会。景气度方面，科技制造与工业金属景气占优：存储涨价持续演绎，海外云厂商资本开支持续上修；工业机器人产量同比高增28%，自动化资本开支持续兑现；工业金属库存低位叠加供给约束，价格获供需两端支撑。配置上，建议关注7月超跌但景气度仍在上行的科技成长反弹机会，同时兼顾业绩改善确定性较强的周期与制造方向。",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "Wed, 05 Au"
     }
   ]
 }
