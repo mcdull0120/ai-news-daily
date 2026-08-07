@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-06T00:02:40.226227+00:00",
+  "generatedAt": "2026-08-07T01:42:18.946430+00:00",
   "totalSource": 160,
-  "totalFiltered": 147,
+  "totalFiltered": 146,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,7 +9,104 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmshkd62s0hgfronku3c71unr",
+        "title": "Google 大规模 AI 组织调整背后的混乱政治",
+        "title_en": "The messy politics behind Google's big AI shakeup",
+        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+        "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-08-06T13:26:42.000Z",
+        "discoveredAt": "2026-08-06T13:40:44.443Z",
+        "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+        "category": "industry",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "cmshjall30g5vronk3jwsdnyr",
+        "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+        "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
+        "url": "https://www.ithome.com/0/986/729.htm",
+        "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-06T12:49:13.000Z",
+        "discoveredAt": "2026-08-06T13:10:43.399Z",
+        "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+        "category": "ai-products",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "cmsgulpsm0hwaro5qcjgjlvgr",
+        "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+        "title_en": null,
+        "url": "https://www.primeintellect.ai/blog/prime-agent",
+        "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-06T01:27:27.867Z",
+        "discoveredAt": "2026-08-06T01:39:34.524Z",
+        "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
+        "category": "ai-products",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
     "creative": [
+      {
+        "id": "cmshjzc390h6cronkkgtujtis",
+        "title": "千问全网首发公测，全新 Wan3.0 来了！",
+        "title_en": "千问全网首发公测，全新Wan3.0来了！",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+        "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
+        "source": "公众号：千问APP（阿里）",
+        "publishedAt": "2026-08-06T13:25:10.000Z",
+        "discoveredAt": "2026-08-06T13:30:00.931Z",
+        "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
       {
         "id": "cmsgm0sf209iyro5qxx3gtzwv",
         "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
@@ -32,7 +129,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsgiawmi06n8ro5qttsxdlib",
@@ -56,103 +153,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmsf7gr271ii5ro2eiu0hihb5",
-        "title": "Replit 环境智能：免提示词自动生成设计",
-        "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-        "url": "https://x.com/Replit/status/2084761337570144424",
-        "permalink": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-        "source": "X：Replit (@Replit)",
-        "publishedAt": "2026-08-04T22:00:10.000Z",
-        "discoveredAt": "2026-08-04T22:04:05.931Z",
-        "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmsghv9m1066ero5qffm5675t",
-        "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-        "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-        "url": "https://x.com/JeffDean/status/2085083442669318443",
-        "permalink": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-        "source": "X：Jeff Dean (@JeffDean)",
-        "publishedAt": "2026-08-05T19:20:06.000Z",
-        "discoveredAt": "2026-08-05T19:43:05.068Z",
-        "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-        "category": "industry",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
-      },
-      {
-        "id": "cmsgbawl0001iro5qajirh4qh",
-        "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-        "title_en": "为什么埃尔德什问题正被人工智能攻克",
-        "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-        "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-05T16:23:34.819Z",
-        "discoveredAt": "2026-08-05T16:39:17.118Z",
-        "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmsg5h9ax06dtrolg09b7xrd8",
-        "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
-        "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
-        "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
-        "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
-        "source": "Cloudflare Blog",
-        "publishedAt": "2026-08-05T13:00:01.000Z",
-        "discoveredAt": "2026-08-05T13:56:13.182Z",
-        "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
       }
     ],
     "productivity": [
@@ -177,7 +178,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmse7yrut0gupro2ejfet4a10",
@@ -200,35 +201,35 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmsew3l4y18qhro2edk0yaat8",
+        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+        "title_en": "A unified API for AI model routing",
+        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+        "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-08-04T16:45:02.138Z",
+        "discoveredAt": "2026-08-04T16:45:02.138Z",
+        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
       {
-        "id": "cms8wbpwc03xero7vq54bpg6n",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "permalink": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-07-31T11:40:12.000Z",
-        "discoveredAt": "2026-07-31T12:05:35.038Z",
-        "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-        "category": "industry",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_1903270080",
+        "id": "rss_3530371760",
         "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
         "title_en": null,
         "url": "https://sspai.com/post/112891",
@@ -240,10 +241,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2843325229",
+        "id": "rss_2442070810",
         "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
         "title_en": null,
         "url": "https://sspai.com/prime/story/home-made-beverages-3",
@@ -255,28 +256,121 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "education": [
+        "formattedTime": "2天前"
+      },
       {
-        "id": "rss_4007289516",
-        "title": "机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径",
+        "id": "rss_1020877859",
+        "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 05 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://sspai.com/post/113060",
+        "source": "少数派",
+        "publishedAt": "2026-08-04T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "education"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "Wed, 05 Au"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmshkd62s0hgfronku3c71unr",
+      "title": "Google 大规模 AI 组织调整背后的混乱政治",
+      "title_en": "The messy politics behind Google's big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-06T13:26:42.000Z",
+      "discoveredAt": "2026-08-06T13:40:44.443Z",
+      "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmshjzc390h6cronkkgtujtis",
+      "title": "千问全网首发公测，全新 Wan3.0 来了！",
+      "title_en": "千问全网首发公测，全新Wan3.0来了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+      "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-08-06T13:25:10.000Z",
+      "discoveredAt": "2026-08-06T13:30:00.931Z",
+      "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmshjall30g5vronk3jwsdnyr",
+      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+      "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
+      "url": "https://www.ithome.com/0/986/729.htm",
+      "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-06T12:49:13.000Z",
+      "discoveredAt": "2026-08-06T13:10:43.399Z",
+      "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmsgulpsm0hwaro5qcjgjlvgr",
+      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+      "title_en": null,
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-06T01:27:27.867Z",
+      "discoveredAt": "2026-08-06T01:39:34.524Z",
+      "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmsgm0sf209iyro5qxx3gtzwv",
       "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
@@ -299,7 +393,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsgiawmi06n8ro5qttsxdlib",
@@ -323,76 +417,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmsghv9m1066ero5qffm5675t",
-      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
-      "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-      "url": "https://x.com/JeffDean/status/2085083442669318443",
-      "permalink": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
-      "source": "X：Jeff Dean (@JeffDean)",
-      "publishedAt": "2026-08-05T19:20:06.000Z",
-      "discoveredAt": "2026-08-05T19:43:05.068Z",
-      "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmsgbawl0001iro5qajirh4qh",
-      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-      "title_en": "为什么埃尔德什问题正被人工智能攻克",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-      "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-05T16:23:34.819Z",
-      "discoveredAt": "2026-08-05T16:39:17.118Z",
-      "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmsg5h9ax06dtrolg09b7xrd8",
-      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
-      "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
-      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
-      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-05T13:00:01.000Z",
-      "discoveredAt": "2026-08-05T13:56:13.182Z",
-      "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -413,31 +438,6 @@
       },
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
-    },
-    {
-      "id": "cmsf7gr271ii5ro2eiu0hihb5",
-      "title": "Replit 环境智能：免提示词自动生成设计",
-      "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-      "url": "https://x.com/Replit/status/2084761337570144424",
-      "permalink": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-08-04T22:00:10.000Z",
-      "discoveredAt": "2026-08-04T22:04:05.931Z",
-      "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -463,33 +463,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cms8wbpwc03xero7vq54bpg6n",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T11:40:12.000Z",
-      "discoveredAt": "2026-07-31T12:05:35.038Z",
-      "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_1903270080",
+      "id": "rss_3530371760",
       "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
       "title_en": null,
       "url": "https://sspai.com/post/112891",
@@ -501,10 +478,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2843325229",
+      "id": "rss_2442070810",
       "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
       "title_en": null,
       "url": "https://sspai.com/prime/story/home-made-beverages-3",
@@ -516,22 +493,45 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_4007289516",
-      "title": "机器人进厂要提速了！光轮智能与西门子探索工业仿真进入机器学习的新路径",
+      "id": "rss_1020877859",
+      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 05 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/yEqKH6HqgUl2aQWOco1f?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "url": "https://sspai.com/post/113060",
+      "source": "少数派",
+      "publishedAt": "2026-08-04T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "Wed, 05 Au"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "cmsew3l4y18qhro2edk0yaat8",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+      "title_en": "A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-08-04T16:45:02.138Z",
+      "discoveredAt": "2026-08-04T16:45:02.138Z",
+      "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "2天前"
     }
   ]
 }
