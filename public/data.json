@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T01:42:18.946430+00:00",
+  "generatedAt": "2026-08-07T23:36:52.021267+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
-  "totalSelected": 12,
+  "totalFiltered": 148,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -11,149 +11,198 @@
   "grouped": {
     "app": [
       {
-        "id": "cmshkd62s0hgfronku3c71unr",
-        "title": "Google 大规模 AI 组织调整背后的混乱政治",
-        "title_en": "The messy politics behind Google's big AI shakeup",
-        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-        "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-08-06T13:26:42.000Z",
-        "discoveredAt": "2026-08-06T13:40:44.443Z",
-        "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-        "category": "industry",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "cmshjall30g5vronk3jwsdnyr",
-        "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-        "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
-        "url": "https://www.ithome.com/0/986/729.htm",
-        "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-06T12:49:13.000Z",
-        "discoveredAt": "2026-08-06T13:10:43.399Z",
-        "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+        "id": "cmsjdsk6p076rroo561c8askl",
+        "title": "Claude Code 会话间可互发消息",
+        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+        "permalink": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-08-07T19:55:17.000Z",
+        "discoveredAt": "2026-08-07T20:12:19.394Z",
+        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
         "category": "ai-products",
-        "score": 71,
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+          "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmsgulpsm0hwaro5qcjgjlvgr",
-        "title": "Prime Agent：一个具有自我改进能力的RLM代理",
-        "title_en": null,
-        "url": "https://www.primeintellect.ai/blog/prime-agent",
-        "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-06T01:27:27.867Z",
-        "discoveredAt": "2026-08-06T01:39:34.524Z",
-        "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
+        "id": "cmsj81yyp02cwroo5rcq20vke",
+        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+        "title_en": "Managed Deep Agents is now in public beta",
+        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+        "permalink": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+        "source": "LangChain：Blog（RSS）",
+        "publishedAt": "2026-08-07T17:24:06.000Z",
+        "discoveredAt": "2026-08-07T17:31:39.370Z",
+        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
         "category": "ai-products",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmsilvone1jezronk60ahdbgi",
+        "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/986/957.htm",
+        "permalink": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-07T06:28:51.000Z",
+        "discoveredAt": "2026-08-07T07:10:52.429Z",
+        "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
+        "category": "industry",
         "score": 70,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
+          "canonical": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi"
         },
         "interestTags": [
           "app",
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "17小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmshjzc390h6cronkkgtujtis",
-        "title": "千问全网首发公测，全新 Wan3.0 来了！",
-        "title_en": "千问全网首发公测，全新Wan3.0来了！",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-        "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
-        "source": "公众号：千问APP（阿里）",
-        "publishedAt": "2026-08-06T13:25:10.000Z",
-        "discoveredAt": "2026-08-06T13:30:00.931Z",
-        "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+        "id": "cmsjbn0kl058nroo5kq0m0jws",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_en": null,
+        "url": "https://blog.cloudflare.com/kitesurf",
+        "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-07T18:54:34.746Z",
+        "discoveredAt": "2026-08-07T19:12:01.086Z",
+        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
         "category": "ai-products",
-        "score": 64,
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
+          "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
         },
         "interestTags": [
           "creative",
           "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "cmsj1zu9421ynronknsiz6vgw",
+        "title": "Suno移动端上线Voices功能",
+        "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+        "url": "https://x.com/suno/status/2085731234970227145",
+        "permalink": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw",
+        "source": "X：Suno (@suno)",
+        "publishedAt": "2026-08-07T14:14:12.000Z",
+        "discoveredAt": "2026-08-07T14:42:03.194Z",
+        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cmsiujxlq1u0zronkvvklblwk",
+        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+        "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+        "url": "https://x.com/runwayml/status/2085684483366523193",
+        "permalink": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+        "source": "X：Runway (@runwayml)",
+        "publishedAt": "2026-08-07T11:08:25.000Z",
+        "discoveredAt": "2026-08-07T11:13:43.701Z",
+        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AI HOT",
+          "canonical": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "12小时前"
-      },
+      }
+    ],
+    "writing": [
       {
-        "id": "cmsgm0sf209iyro5qxx3gtzwv",
-        "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-        "title_en": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-        "permalink": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-05T21:11:36.016Z",
-        "discoveredAt": "2026-08-05T21:39:21.280Z",
-        "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-        "category": "industry",
-        "score": 79,
+        "id": "cmsiry2eo1r4tronkt9qv2twu",
+        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+        "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
+        "source": "公众号：小红书技术（dots.llm）",
+        "publishedAt": "2026-08-07T09:59:00.000Z",
+        "discoveredAt": "2026-08-07T10:00:44.054Z",
+        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+        "category": "paper",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
+          "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "13小时前"
       },
       {
-        "id": "cmsgiawmi06n8ro5qttsxdlib",
-        "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-        "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
-        "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-        "permalink": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-08-05T19:42:38.000Z",
-        "discoveredAt": "2026-08-05T19:55:15.197Z",
-        "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+        "id": "cmsgn3qpq0aolro5q10dkpewx",
+        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+        "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+        "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+        "permalink": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+        "source": "MarkTechPost（RSS）",
+        "publishedAt": "2026-08-05T21:56:03.000Z",
+        "discoveredAt": "2026-08-05T22:09:38.455Z",
+        "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
         "category": "tip",
-        "score": 70,
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
+          "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "writing",
+          "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "techScore": 1,
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -178,7 +227,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmse7yrut0gupro2ejfet4a10",
@@ -201,7 +250,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmsew3l4y18qhro2edk0yaat8",
@@ -224,200 +273,176 @@
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rss_3530371760",
-        "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
-        "title_en": null,
-        "url": "https://sspai.com/post/112891",
-        "source": "少数派",
-        "publishedAt": "2026-08-05T02:15:19+00:00",
-        "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。<a href=\"https://sspai.com/post/112891\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_2442070810",
-        "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/home-made-beverages-3",
-        "source": "少数派",
-        "publishedAt": "2026-08-04T09:54:35+00:00",
-        "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_1020877859",
-        "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
-        "title_en": null,
-        "url": "https://sspai.com/post/113060",
-        "source": "少数派",
-        "publishedAt": "2026-08-04T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmshkd62s0hgfronku3c71unr",
-      "title": "Google 大规模 AI 组织调整背后的混乱政治",
-      "title_en": "The messy politics behind Google's big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-06T13:26:42.000Z",
-      "discoveredAt": "2026-08-06T13:40:44.443Z",
-      "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-      "category": "industry",
-      "score": 75,
+      "id": "cmsjdsk6p076rroo561c8askl",
+      "title": "Claude Code 会话间可互发消息",
+      "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "permalink": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-07T19:55:17.000Z",
+      "discoveredAt": "2026-08-07T20:12:19.394Z",
+      "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+      "category": "ai-products",
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+        "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
       },
       "interestTags": [
-        "app",
-        "productivity"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "cmshjzc390h6cronkkgtujtis",
-      "title": "千问全网首发公测，全新 Wan3.0 来了！",
-      "title_en": "千问全网首发公测，全新Wan3.0来了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-      "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-08-06T13:25:10.000Z",
-      "discoveredAt": "2026-08-06T13:30:00.931Z",
-      "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+      "id": "cmsjbn0kl058nroo5kq0m0jws",
+      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+      "title_en": null,
+      "url": "https://blog.cloudflare.com/kitesurf",
+      "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-07T18:54:34.746Z",
+      "discoveredAt": "2026-08-07T19:12:01.086Z",
+      "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
       "category": "ai-products",
-      "score": 64,
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
+        "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
       },
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmshjall30g5vronk3jwsdnyr",
-      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-      "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
-      "url": "https://www.ithome.com/0/986/729.htm",
-      "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-06T12:49:13.000Z",
-      "discoveredAt": "2026-08-06T13:10:43.399Z",
-      "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+      "id": "cmsj81yyp02cwroo5rcq20vke",
+      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
+      "title_en": "Managed Deep Agents is now in public beta",
+      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
+      "permalink": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-08-07T17:24:06.000Z",
+      "discoveredAt": "2026-08-07T17:31:39.370Z",
+      "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
       "category": "ai-products",
-      "score": 71,
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+        "canonical": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmsj1zu9421ynronknsiz6vgw",
+      "title": "Suno移动端上线Voices功能",
+      "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
+      "url": "https://x.com/suno/status/2085731234970227145",
+      "permalink": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-08-07T14:14:12.000Z",
+      "discoveredAt": "2026-08-07T14:42:03.194Z",
+      "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmsiujxlq1u0zronkvvklblwk",
+      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+      "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
+      "url": "https://x.com/runwayml/status/2085684483366523193",
+      "permalink": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-07T11:08:25.000Z",
+      "discoveredAt": "2026-08-07T11:13:43.701Z",
+      "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
       "formattedTime": "12小时前"
     },
     {
-      "id": "cmsgulpsm0hwaro5qcjgjlvgr",
-      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+      "id": "cmsiry2eo1r4tronkt9qv2twu",
+      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+      "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+      "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-08-07T09:59:00.000Z",
+      "discoveredAt": "2026-08-07T10:00:44.054Z",
+      "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
+    {
+      "id": "cmsilvone1jezronk60ahdbgi",
+      "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
       "title_en": null,
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-06T01:27:27.867Z",
-      "discoveredAt": "2026-08-06T01:39:34.524Z",
-      "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
-      "category": "ai-products",
+      "url": "https://www.ithome.com/0/986/957.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-07T06:28:51.000Z",
+      "discoveredAt": "2026-08-07T07:10:52.429Z",
+      "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
+      "category": "industry",
       "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
+        "canonical": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi"
       },
       "interestTags": [
         "app",
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsgm0sf209iyro5qxx3gtzwv",
-      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
-      "title_en": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
-      "permalink": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-05T21:11:36.016Z",
-      "discoveredAt": "2026-08-05T21:39:21.280Z",
-      "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsgiawmi06n8ro5qttsxdlib",
-      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-      "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-      "permalink": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-05T19:42:38.000Z",
-      "discoveredAt": "2026-08-05T19:55:15.197Z",
-      "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "17小时前"
     },
     {
       "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -440,7 +465,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmse7yrut0gupro2ejfet4a10",
@@ -463,51 +488,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_3530371760",
-      "title": "角落新声｜桌面音箱进化史：换了 4 套搭配，我才明白自己的「心声」",
-      "title_en": null,
-      "url": "https://sspai.com/post/112891",
-      "source": "少数派",
-      "publishedAt": "2026-08-05T02:15:19+00:00",
-      "summary": "从最初放个音箱响了就行的混沌，到后来对摆位与频响的死磕，这篇文章记录的，是我如何在这 1 平米的空间里，通过对声音和设备的不断调整，一步步厘清并重构自己精神生活一角的全过程。<a href=\"https://sspai.com/post/112891\" target=\"_blank\">查看全文</a>",
+      "id": "cmsgn3qpq0aolro5q10dkpewx",
+      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+      "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+      "permalink": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-05T21:56:03.000Z",
+      "discoveredAt": "2026-08-05T22:09:38.455Z",
+      "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
       "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
+      },
       "interestTags": [
-        "writing"
+        "writing",
+        "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2442070810",
-      "title": "家庭饮品 DIY 指南（三）：常用固体物料推荐",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/home-made-beverages-3",
-      "source": "少数派",
-      "publishedAt": "2026-08-04T09:54:35+00:00",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐之前说的液体物料只是把最常用的几类跟大家分享一下，其实还有非常多好喝的好用的液体物料无法一一说明，后边配方中如果需要会顺带介绍。这篇聊一聊固 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1020877859",
-      "title": "社区速递 152 | 派友的固定回购清单、治愈系果壳风铃与超轻薄迷你风扇",
-      "title_en": null,
-      "url": "https://sspai.com/post/113060",
-      "source": "少数派",
-      "publishedAt": "2026-08-04T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113060\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
+      "techScore": 1,
       "formattedTime": "2天前"
     },
     {
@@ -531,7 +535,7 @@
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     }
   ]
 }
