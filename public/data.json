@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T23:36:52.021267+00:00",
+  "generatedAt": "2026-08-08T23:32:47.545006+00:00",
   "totalSource": 160,
-  "totalFiltered": 148,
-  "totalSelected": 11,
+  "totalFiltered": 146,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -10,6 +10,55 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmskzmhrs03rwrowg146pdv9j",
+        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/987/452.htm",
+        "permalink": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-08T22:46:14.000Z",
+        "discoveredAt": "2026-08-08T23:11:13.416Z",
+        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+        "category": "ai-products",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_en": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "permalink": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-08T08:25:11.000Z",
+        "discoveredAt": "2026-08-08T09:11:06.156Z",
+        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+        "category": "ai-products",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "15小时前"
+      },
       {
         "id": "cmsjdsk6p076rroo561c8askl",
         "title": "Claude Code 会话间可互发消息",
@@ -24,64 +73,40 @@
         "score": 73,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
+          "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmsj81yyp02cwroo5rcq20vke",
-        "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-        "title_en": "Managed Deep Agents is now in public beta",
-        "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-        "permalink": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-        "source": "LangChain：Blog（RSS）",
-        "publishedAt": "2026-08-07T17:24:06.000Z",
-        "discoveredAt": "2026-08-07T17:31:39.370Z",
-        "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmsilvone1jezronk60ahdbgi",
-        "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/986/957.htm",
-        "permalink": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-07T06:28:51.000Z",
-        "discoveredAt": "2026-08-07T07:10:52.429Z",
-        "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
-        "category": "industry",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "17小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
+      {
+        "id": "cmsklqt1907v8royz2pbppkk1",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "title_en": "Major upgrade to Grok Imagine image editing",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "publishedAt": "2026-08-08T16:27:48.000Z",
+        "discoveredAt": "2026-08-08T16:42:40.454Z",
+        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmsjbn0kl058nroo5kq0m0jws",
         "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
@@ -96,7 +121,7 @@
         "score": 77,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
+          "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
         },
         "interestTags": [
@@ -104,7 +129,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsj1zu9421ynronknsiz6vgw",
@@ -120,7 +145,7 @@
         "score": 65,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
+          "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
         },
         "interestTags": [
@@ -128,32 +153,78 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
       {
-        "id": "cmsiujxlq1u0zronkvvklblwk",
-        "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-        "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-        "url": "https://x.com/runwayml/status/2085684483366523193",
-        "permalink": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
-        "source": "X：Runway (@runwayml)",
-        "publishedAt": "2026-08-07T11:08:25.000Z",
-        "discoveredAt": "2026-08-07T11:13:43.701Z",
-        "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-        "category": "ai-products",
+        "id": "cmskgc07i06srrobyr1cvm25v",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "permalink": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-08T13:38:40.000Z",
+        "discoveredAt": "2026-08-08T14:11:09.144Z",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "category": "industry",
         "score": 75,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk"
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v"
         },
         "interestTags": [
-          "creative",
-          "app",
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cmsfzhw1v009hrodlv4wn36l3",
+        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/986/174.htm",
+        "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-05T10:12:57.000Z",
+        "discoveredAt": "2026-08-05T11:08:45.252Z",
+        "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmse7yrut0gupro2ejfet4a10",
+        "title": "GPT-5.6 Luna降价80%永久生效",
+        "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
+        "url": "https://x.com/thsottiaux/status/2084506501834829833",
+        "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+        "source": "X：Tibo (@thsottiaux)",
+        "publishedAt": "2026-08-04T05:07:32.000Z",
+        "discoveredAt": "2026-08-04T05:30:20.208Z",
+        "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
+        "category": "industry",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
       }
     ],
     "writing": [
@@ -171,14 +242,29 @@
         "score": 65,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
+          "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
         },
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_4010451441",
+        "title": "就内容创作而言，说话还是替代不了打字",
+        "title_en": null,
+        "url": "https://sspai.com/post/112901",
+        "source": "少数派",
+        "publishedAt": "2026-08-08T05:11:00+00:00",
+        "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。<a href=\"https://sspai.com/post/112901\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "18小时前"
       },
       {
         "id": "cmsgn3qpq0aolro5q10dkpewx",
@@ -194,82 +280,11 @@
         "score": 71,
         "selected": true,
         "attribution": {
-          "source": "AI HOT",
+          "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
         },
         "interestTags": [
           "writing",
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmsfzhw1v009hrodlv4wn36l3",
-        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/986/174.htm",
-        "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-05T10:12:57.000Z",
-        "discoveredAt": "2026-08-05T11:08:45.252Z",
-        "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
-        "category": "industry",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmse7yrut0gupro2ejfet4a10",
-        "title": "GPT-5.6 Luna降价80%永久生效",
-        "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
-        "source": "X：Tibo (@thsottiaux)",
-        "publishedAt": "2026-08-04T05:07:32.000Z",
-        "discoveredAt": "2026-08-04T05:30:20.208Z",
-        "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-        "category": "industry",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmsew3l4y18qhro2edk0yaat8",
-        "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-        "title_en": "A unified API for AI model routing",
-        "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-        "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-08-04T16:45:02.138Z",
-        "discoveredAt": "2026-08-04T16:45:02.138Z",
-        "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AI HOT",
-          "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
-        },
-        "interestTags": [
           "productivity"
         ],
         "techScore": 1,
@@ -278,6 +293,101 @@
     ]
   },
   "items": [
+    {
+      "id": "cmskzmhrs03rwrowg146pdv9j",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "permalink": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-08T22:46:14.000Z",
+      "discoveredAt": "2026-08-08T23:11:13.416Z",
+      "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmsklqt1907v8royz2pbppkk1",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "title_en": "Major upgrade to Grok Imagine image editing",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-08T16:27:48.000Z",
+      "discoveredAt": "2026-08-08T16:42:40.454Z",
+      "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmskgc07i06srrobyr1cvm25v",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "permalink": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-08T13:38:40.000Z",
+      "discoveredAt": "2026-08-08T14:11:09.144Z",
+      "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "title_en": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-08T08:25:11.000Z",
+      "discoveredAt": "2026-08-08T09:11:06.156Z",
+      "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "15小时前"
+    },
     {
       "id": "cmsjdsk6p076rroo561c8askl",
       "title": "Claude Code 会话间可互发消息",
@@ -292,14 +402,14 @@
       "score": 73,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsjbn0kl058nroo5kq0m0jws",
@@ -315,7 +425,7 @@
       "score": 77,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
       },
       "interestTags": [
@@ -323,30 +433,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmsj81yyp02cwroo5rcq20vke",
-      "title": "LangChain 推出 Managed Deep Agents 公开测试版",
-      "title_en": "Managed Deep Agents is now in public beta",
-      "url": "https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta",
-      "permalink": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-08-07T17:24:06.000Z",
-      "discoveredAt": "2026-08-07T17:31:39.370Z",
-      "summary": "LangChain 的 Managed Deep Agents 进入公开测试版，可将 Deep Agents 部署到托管的 LangSmith 运行时。该服务提供持久化执行、记忆、沙箱、通道、评估（evals）及生产级基础设施。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsj1zu9421ynronknsiz6vgw",
@@ -362,7 +449,7 @@
       "score": 65,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
       },
       "interestTags": [
@@ -370,32 +457,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "cmsiujxlq1u0zronkvvklblwk",
-      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-      "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-      "url": "https://x.com/runwayml/status/2085684483366523193",
-      "permalink": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-07T11:08:25.000Z",
-      "discoveredAt": "2026-08-07T11:13:43.701Z",
-      "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -411,38 +473,14 @@
       "score": 65,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
       },
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
-    },
-    {
-      "id": "cmsilvone1jezronk60ahdbgi",
-      "title": "OpenAI 披露 ChatGPT 全球 10 亿用户画像：35 岁及以上用户用量上升",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/986/957.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-07T06:28:51.000Z",
-      "discoveredAt": "2026-08-07T07:10:52.429Z",
-      "summary": "OpenAI 报告称全球超 10 亿用户使用 ChatGPT，使用方式从\"问答工具\"转向\"任务工具\"，工作场景中完成任务或创建内容的可能性是非工作场景的 2 倍以上。自 2026 年 4 月发布 ChatGPT Images 2.0 以来，多媒体相关消息占比升至 7.8%。35 岁及以上用户发送消息份额较 12 个月前增加 5 个百分点，法国和捷克增幅超 10 个百分点。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsilvone1jezronk60ahdbgi"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -458,14 +496,14 @@
       "score": 78,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
       },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmse7yrut0gupro2ejfet4a10",
@@ -481,14 +519,29 @@
       "score": 66,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
       },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
+    },
+    {
+      "id": "rss_4010451441",
+      "title": "就内容创作而言，说话还是替代不了打字",
+      "title_en": null,
+      "url": "https://sspai.com/post/112901",
+      "source": "少数派",
+      "publishedAt": "2026-08-08T05:11:00+00:00",
+      "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。<a href=\"https://sspai.com/post/112901\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
     },
     {
       "id": "cmsgn3qpq0aolro5q10dkpewx",
@@ -504,34 +557,11 @@
       "score": 71,
       "selected": true,
       "attribution": {
-        "source": "AI HOT",
+        "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
       },
       "interestTags": [
         "writing",
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmsew3l4y18qhro2edk0yaat8",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-      "title_en": "A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-08-04T16:45:02.138Z",
-      "discoveredAt": "2026-08-04T16:45:02.138Z",
-      "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
-      },
-      "interestTags": [
         "productivity"
       ],
       "techScore": 1,
