@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-08T23:32:47.545006+00:00",
+  "generatedAt": "2026-08-09T23:34:44.368227+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
+  "totalFiltered": 144,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,79 @@
     "bilibili": 0
   },
   "grouped": {
+    "creative": [
+      {
+        "id": "cmslmv6kx03muroqyxyo4fbtl",
+        "title": "Seedance 2.5 上线一周新增六种创意玩法",
+        "title_en": "一周过去了，Seedance2.5又多六种创意玩法！",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+        "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
+        "source": "公众号：卡尔的AI沃茨",
+        "publishedAt": "2026-08-09T05:25:02.000Z",
+        "discoveredAt": "2026-08-09T10:01:50.329Z",
+        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "18小时前"
+      },
+      {
+        "id": "cmsklqt1907v8royz2pbppkk1",
+        "title": "Grok Imagine 图像编辑迎来重大升级",
+        "title_en": "Major upgrade to Grok Imagine image editing",
+        "url": "https://x.com/elonmusk/status/2086127247077843282",
+        "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "publishedAt": "2026-08-08T16:27:48.000Z",
+        "discoveredAt": "2026-08-08T16:42:40.454Z",
+        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmsjbn0kl058nroo5kq0m0jws",
+        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+        "title_en": null,
+        "url": "https://blog.cloudflare.com/kitesurf",
+        "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-07T18:54:34.746Z",
+        "discoveredAt": "2026-08-07T19:12:01.086Z",
+        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+        "category": "ai-products",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
     "app": [
       {
         "id": "cmskzmhrs03rwrowg146pdv9j",
@@ -32,7 +105,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
@@ -57,7 +130,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsjdsk6p076rroo561c8askl",
@@ -80,80 +153,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmsklqt1907v8royz2pbppkk1",
-        "title": "Grok Imagine 图像编辑迎来重大升级",
-        "title_en": "Major upgrade to Grok Imagine image editing",
-        "url": "https://x.com/elonmusk/status/2086127247077843282",
-        "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "publishedAt": "2026-08-08T16:27:48.000Z",
-        "discoveredAt": "2026-08-08T16:42:40.454Z",
-        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmsjbn0kl058nroo5kq0m0jws",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_en": null,
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-07T18:54:34.746Z",
-        "discoveredAt": "2026-08-07T19:12:01.086Z",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "category": "ai-products",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmsj1zu9421ynronknsiz6vgw",
-        "title": "Suno移动端上线Voices功能",
-        "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
-        "url": "https://x.com/suno/status/2085731234970227145",
-        "permalink": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw",
-        "source": "X：Suno (@suno)",
-        "publishedAt": "2026-08-07T14:14:12.000Z",
-        "discoveredAt": "2026-08-07T14:42:03.194Z",
-        "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -178,7 +178,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -201,7 +201,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmse7yrut0gupro2ejfet4a10",
@@ -224,7 +224,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "writing": [
@@ -249,10 +249,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_4010451441",
+        "id": "rss_3563372957",
         "title": "就内容创作而言，说话还是替代不了打字",
         "title_en": null,
         "url": "https://sspai.com/post/112901",
@@ -264,35 +264,60 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "18小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "education": [
       {
-        "id": "cmsgn3qpq0aolro5q10dkpewx",
-        "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-        "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-        "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-        "permalink": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+        "id": "cmslhy76p03hdroo0l8dsaskb",
+        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+        "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
         "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-08-05T21:56:03.000Z",
-        "discoveredAt": "2026-08-05T22:09:38.455Z",
-        "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
+        "publishedAt": "2026-08-09T07:17:35.000Z",
+        "discoveredAt": "2026-08-09T07:44:10.959Z",
+        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
         "category": "tip",
-        "score": 71,
+        "score": 70,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
+          "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
         },
         "interestTags": [
-          "writing",
-          "productivity"
+          "education"
         ],
         "techScore": 1,
-        "formattedTime": "3天前"
+        "formattedTime": "16小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmslmv6kx03muroqyxyo4fbtl",
+      "title": "Seedance 2.5 上线一周新增六种创意玩法",
+      "title_en": "一周过去了，Seedance2.5又多六种创意玩法！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
+      "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-09T05:25:02.000Z",
+      "discoveredAt": "2026-08-09T10:01:50.329Z",
+      "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
     {
       "id": "cmskzmhrs03rwrowg146pdv9j",
       "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
@@ -315,7 +340,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsklqt1907v8royz2pbppkk1",
@@ -338,7 +363,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -361,7 +386,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
@@ -386,7 +411,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsjdsk6p076rroo561c8askl",
@@ -409,7 +434,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsjbn0kl058nroo5kq0m0jws",
@@ -433,31 +458,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsj1zu9421ynronknsiz6vgw",
-      "title": "Suno移动端上线Voices功能",
-      "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
-      "url": "https://x.com/suno/status/2085731234970227145",
-      "permalink": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-08-07T14:14:12.000Z",
-      "discoveredAt": "2026-08-07T14:42:03.194Z",
-      "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -480,7 +481,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -503,7 +504,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmse7yrut0gupro2ejfet4a10",
@@ -526,10 +527,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_4010451441",
+      "id": "rss_3563372957",
       "title": "就内容创作而言，说话还是替代不了打字",
       "title_en": null,
       "url": "https://sspai.com/post/112901",
@@ -541,31 +542,30 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "18小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmsgn3qpq0aolro5q10dkpewx",
-      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
-      "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
-      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
-      "permalink": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+      "id": "cmslhy76p03hdroo0l8dsaskb",
+      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+      "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
       "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-05T21:56:03.000Z",
-      "discoveredAt": "2026-08-05T22:09:38.455Z",
-      "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
+      "publishedAt": "2026-08-09T07:17:35.000Z",
+      "discoveredAt": "2026-08-09T07:44:10.959Z",
+      "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
       "category": "tip",
-      "score": 71,
+      "score": 70,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
+        "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
       },
       "interestTags": [
-        "writing",
-        "productivity"
+        "education"
       ],
       "techScore": 1,
-      "formattedTime": "3天前"
+      "formattedTime": "16小时前"
     }
   ]
 }
