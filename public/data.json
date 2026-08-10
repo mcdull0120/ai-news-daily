@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T23:34:44.368227+00:00",
+  "generatedAt": "2026-08-10T23:38:22.300174+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,77 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+        "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+        "title_en": "http://x.com/i/article/2086933422921117696",
+        "url": "https://x.com/JensenHuang/status/2086934705207959965",
+        "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "publishedAt": "2026-08-10T21:56:21.000Z",
+        "discoveredAt": "2026-08-10T21:58:30.136Z",
+        "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+        "category": "industry",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmsnix1by08d3rohfftiex1xp",
+        "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+        "title_en": "Learning more about Claude's mathematical capabilities",
+        "url": "https://www.anthropic.com/research/riemann-zeta",
+        "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-08-10T17:46:50.781Z",
+        "discoveredAt": "2026-08-10T17:46:50.781Z",
+        "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+        "category": "paper",
+        "score": 57,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmsnfpcwf05ecrohfuzbjwyar",
+        "title": "Claude Code 自动模式默认开启原理",
+        "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+        "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-08-10T15:58:56.000Z",
+        "discoveredAt": "2026-08-10T16:16:53.681Z",
+        "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
     "creative": [
       {
         "id": "cmslmv6kx03muroqyxyo4fbtl",
@@ -32,7 +103,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "18小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsklqt1907v8royz2pbppkk1",
@@ -55,7 +126,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmsjbn0kl058nroo5kq0m0jws",
@@ -79,81 +150,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmskzmhrs03rwrowg146pdv9j",
-        "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/987/452.htm",
-        "permalink": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-08T22:46:14.000Z",
-        "discoveredAt": "2026-08-08T23:11:13.416Z",
-        "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-        "category": "ai-products",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_en": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "permalink": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-08T08:25:11.000Z",
-        "discoveredAt": "2026-08-08T09:11:06.156Z",
-        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-        "category": "ai-products",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmsjdsk6p076rroo561c8askl",
-        "title": "Claude Code 会话间可互发消息",
-        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "permalink": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-08-07T19:55:17.000Z",
-        "discoveredAt": "2026-08-07T20:12:19.394Z",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "category": "ai-products",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -178,7 +175,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -196,29 +193,6 @@
         "attribution": {
           "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "cmse7yrut0gupro2ejfet4a10",
-        "title": "GPT-5.6 Luna降价80%永久生效",
-        "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-        "url": "https://x.com/thsottiaux/status/2084506501834829833",
-        "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
-        "source": "X：Tibo (@thsottiaux)",
-        "publishedAt": "2026-08-04T05:07:32.000Z",
-        "discoveredAt": "2026-08-04T05:30:20.208Z",
-        "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-        "category": "industry",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
         },
         "interestTags": [
           "productivity"
@@ -249,10 +223,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_3563372957",
+        "id": "rss_804662012",
         "title": "就内容创作而言，说话还是替代不了打字",
         "title_en": null,
         "url": "https://sspai.com/post/112901",
@@ -264,7 +238,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "rss_2656891233",
+        "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 10 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "Mon, 10 Au"
       }
     ],
     "education": [
@@ -289,11 +278,80 @@
           "education"
         ],
         "techScore": 1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+      "title_en": "http://x.com/i/article/2086933422921117696",
+      "url": "https://x.com/JensenHuang/status/2086934705207959965",
+      "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "publishedAt": "2026-08-10T21:56:21.000Z",
+      "discoveredAt": "2026-08-10T21:58:30.136Z",
+      "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmsnix1by08d3rohfftiex1xp",
+      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "title_en": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-10T17:46:50.781Z",
+      "discoveredAt": "2026-08-10T17:46:50.781Z",
+      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+      "category": "paper",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmsnfpcwf05ecrohfuzbjwyar",
+      "title": "Claude Code 自动模式默认开启原理",
+      "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-10T15:58:56.000Z",
+      "discoveredAt": "2026-08-10T16:16:53.681Z",
+      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
     {
       "id": "cmslmv6kx03muroqyxyo4fbtl",
       "title": "Seedance 2.5 上线一周新增六种创意玩法",
@@ -314,30 +372,6 @@
       "interestTags": [
         "creative",
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "cmskzmhrs03rwrowg146pdv9j",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/987/452.htm",
-      "permalink": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-08T22:46:14.000Z",
-      "discoveredAt": "2026-08-08T23:11:13.416Z",
-      "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
-      },
-      "interestTags": [
-        "app",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -363,7 +397,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -384,54 +418,6 @@
       },
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "title_en": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-08T08:25:11.000Z",
-      "discoveredAt": "2026-08-08T09:11:06.156Z",
-      "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsjdsk6p076rroo561c8askl",
-      "title": "Claude Code 会话间可互发消息",
-      "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "permalink": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-08-07T19:55:17.000Z",
-      "discoveredAt": "2026-08-07T20:12:19.394Z",
-      "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
-      },
-      "interestTags": [
-        "app"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -458,7 +444,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -481,7 +467,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsfzhw1v009hrodlv4wn36l3",
@@ -504,33 +490,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmse7yrut0gupro2ejfet4a10",
-      "title": "GPT-5.6 Luna降价80%永久生效",
-      "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-08-04T05:07:32.000Z",
-      "discoveredAt": "2026-08-04T05:30:20.208Z",
-      "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "rss_3563372957",
+      "id": "rss_804662012",
       "title": "就内容创作而言，说话还是替代不了打字",
       "title_en": null,
       "url": "https://sspai.com/post/112901",
@@ -542,7 +505,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_2656891233",
+      "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 10 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "Mon, 10 Au"
     },
     {
       "id": "cmslhy76p03hdroo0l8dsaskb",
@@ -565,7 +543,7 @@
         "education"
       ],
       "techScore": 1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
