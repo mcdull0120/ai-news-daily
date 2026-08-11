@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-10T23:38:22.300174+00:00",
+  "generatedAt": "2026-08-11T23:45:38.073877+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 146,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,146 +11,147 @@
   "grouped": {
     "app": [
       {
-        "id": "cmsnrwnsb0i1erohfuhfjc4q6",
-        "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-        "title_en": "http://x.com/i/article/2086933422921117696",
-        "url": "https://x.com/JensenHuang/status/2086934705207959965",
-        "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "publishedAt": "2026-08-10T21:56:21.000Z",
-        "discoveredAt": "2026-08-10T21:58:30.136Z",
-        "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+        "id": "cmsp2lgxo03xjrortthctedzu",
+        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "permalink": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-08-11T19:41:42.000Z",
+        "discoveredAt": "2026-08-11T19:45:30.008Z",
+        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
         "category": "industry",
-        "score": 79,
+        "score": 80,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+          "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmsnix1by08d3rohfftiex1xp",
-        "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-        "title_en": "Learning more about Claude's mathematical capabilities",
-        "url": "https://www.anthropic.com/research/riemann-zeta",
-        "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-08-10T17:46:50.781Z",
-        "discoveredAt": "2026-08-10T17:46:50.781Z",
-        "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-        "category": "paper",
-        "score": 57,
+        "id": "cmsp0j1ph027prortm21absbh",
+        "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+        "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+        "permalink": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-08-11T18:20:44.000Z",
+        "discoveredAt": "2026-08-11T18:47:37.597Z",
+        "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
+        "category": "ai-products",
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+          "canonical": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
         },
         "interestTags": [
-          "app"
+          "app",
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "5小时前"
       },
       {
-        "id": "cmsnfpcwf05ecrohfuzbjwyar",
-        "title": "Claude Code 自动模式默认开启原理",
-        "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-        "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-        "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-08-10T15:58:56.000Z",
-        "discoveredAt": "2026-08-10T16:16:53.681Z",
-        "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-        "category": "ai-products",
-        "score": 69,
+        "id": "cmsoxh6oa0a3drohdskp7cb9u",
+        "title": "Gemini月活破10亿，成谷歌增长最快产品",
+        "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+        "url": "https://x.com/sundarpichai/status/2087222656819241292",
+        "permalink": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
+        "source": "X：Sundar Pichai (@sundarpichai)",
+        "publishedAt": "2026-08-11T17:00:34.000Z",
+        "discoveredAt": "2026-08-11T17:22:11.170Z",
+        "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+        "category": "industry",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+          "canonical": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "6小时前"
       }
     ],
     "creative": [
       {
-        "id": "cmslmv6kx03muroqyxyo4fbtl",
-        "title": "Seedance 2.5 上线一周新增六种创意玩法",
-        "title_en": "一周过去了，Seedance2.5又多六种创意玩法！",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-        "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
-        "source": "公众号：卡尔的AI沃茨",
-        "publishedAt": "2026-08-09T05:25:02.000Z",
-        "discoveredAt": "2026-08-09T10:01:50.329Z",
-        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-        "category": "tip",
+        "id": "cmsp1lufu03a9rortoc0ci36q",
+        "title": "Runway Seedance 2.5 上线，支持50角色参考",
+        "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+        "url": "https://x.com/runwayml/status/2087251184658657346",
+        "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
+        "source": "X：Runway (@runwayml)",
+        "publishedAt": "2026-08-11T18:53:56.000Z",
+        "discoveredAt": "2026-08-11T19:17:47.577Z",
+        "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+        "category": "ai-products",
         "score": 72,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+          "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
         },
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmsklqt1907v8royz2pbppkk1",
-        "title": "Grok Imagine 图像编辑迎来重大升级",
-        "title_en": "Major upgrade to Grok Imagine image editing",
-        "url": "https://x.com/elonmusk/status/2086127247077843282",
-        "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "publishedAt": "2026-08-08T16:27:48.000Z",
-        "discoveredAt": "2026-08-08T16:42:40.454Z",
-        "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-        "category": "ai-products",
-        "score": 66,
+        "id": "cmsoxbh180a00rohdooafsmzp",
+        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+        "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+        "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-08-11T17:00:00.000Z",
+        "discoveredAt": "2026-08-11T17:17:44.810Z",
+        "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+        "category": "paper",
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+          "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
         },
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmsjbn0kl058nroo5kq0m0jws",
-        "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-        "title_en": null,
-        "url": "https://blog.cloudflare.com/kitesurf",
-        "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-07T18:54:34.746Z",
-        "discoveredAt": "2026-08-07T19:12:01.086Z",
-        "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-        "category": "ai-products",
-        "score": 77,
+        "id": "cmsnx040k01glrofwfqxdc8h5",
+        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+        "title_en": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+        "permalink": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-08-11T00:12:00.000Z",
+        "discoveredAt": "2026-08-11T00:21:07.918Z",
+        "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+        "category": "tip",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
+          "canonical": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
         },
         "interestTags": [
           "creative",
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "23小时前"
       }
     ],
     "productivity": [
@@ -175,30 +176,45 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "cmsfzhw1v009hrodlv4wn36l3",
-        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+        "id": "rss_2511343868",
+        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
         "title_en": null,
-        "url": "https://www.ithome.com/0/986/174.htm",
-        "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-05T10:12:57.000Z",
-        "discoveredAt": "2026-08-05T11:08:45.252Z",
-        "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+        "url": "http://www.geekpark.net/news/368667",
+        "source": "极客公园",
+        "publishedAt": "2026-08-11T07:30:55+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
         "category": "industry",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
-        },
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "16小时前"
+      },
+      {
+        "id": "cmsopyoum028vrohd4dgeksz9",
+        "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
+        "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
+        "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
+        "permalink": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "publishedAt": "2026-08-11T13:51:45.827Z",
+        "discoveredAt": "2026-08-11T13:51:45.827Z",
+        "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
+        "category": "paper",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "9小时前"
       }
     ],
     "writing": [
@@ -223,181 +239,182 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_804662012",
-        "title": "就内容创作而言，说话还是替代不了打字",
+        "id": "rss_3017290893",
+        "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
         "title_en": null,
-        "url": "https://sspai.com/post/112901",
+        "url": "https://sspai.com/post/113304",
         "source": "少数派",
-        "publishedAt": "2026-08-08T05:11:00+00:00",
-        "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。<a href=\"https://sspai.com/post/112901\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-08-11T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113304\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "14小时前"
       },
       {
-        "id": "rss_2656891233",
-        "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
+        "id": "rss_1772978851",
+        "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 10 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "url": "https://sspai.com/post/113288",
+        "source": "少数派",
+        "publishedAt": "2026-08-11T04:00:00+00:00",
+        "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...<a href=\"https://sspai.com/post/113288\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "Mon, 10 Au"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmslhy76p03hdroo0l8dsaskb",
-        "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-        "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-        "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-        "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
-        "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-08-09T07:17:35.000Z",
-        "discoveredAt": "2026-08-09T07:44:10.959Z",
-        "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-        "category": "tip",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "formattedTime": "19小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmsnrwnsb0i1erohfuhfjc4q6",
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-      "title_en": "http://x.com/i/article/2086933422921117696",
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
-      "source": "X：Jensen Huang (@JensenHuang)",
-      "publishedAt": "2026-08-10T21:56:21.000Z",
-      "discoveredAt": "2026-08-10T21:58:30.136Z",
-      "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+      "id": "cmsp2lgxo03xjrortthctedzu",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+      "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "permalink": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-11T19:41:42.000Z",
+      "discoveredAt": "2026-08-11T19:45:30.008Z",
+      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
       "category": "industry",
-      "score": 79,
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+        "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmsnix1by08d3rohfftiex1xp",
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-      "title_en": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-10T17:46:50.781Z",
-      "discoveredAt": "2026-08-10T17:46:50.781Z",
-      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-      "category": "paper",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmsnfpcwf05ecrohfuzbjwyar",
-      "title": "Claude Code 自动模式默认开启原理",
-      "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-08-10T15:58:56.000Z",
-      "discoveredAt": "2026-08-10T16:16:53.681Z",
-      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+      "id": "cmsp1lufu03a9rortoc0ci36q",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-11T18:53:56.000Z",
+      "discoveredAt": "2026-08-11T19:17:47.577Z",
+      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
       "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmslmv6kx03muroqyxyo4fbtl",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "title_en": "一周过去了，Seedance2.5又多六种创意玩法！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "permalink": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-09T05:25:02.000Z",
-      "discoveredAt": "2026-08-09T10:01:50.329Z",
-      "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-      "category": "tip",
       "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
       },
       "interestTags": [
         "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "cmsklqt1907v8royz2pbppkk1",
-      "title": "Grok Imagine 图像编辑迎来重大升级",
-      "title_en": "Major upgrade to Grok Imagine image editing",
-      "url": "https://x.com/elonmusk/status/2086127247077843282",
-      "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-08T16:27:48.000Z",
-      "discoveredAt": "2026-08-08T16:42:40.454Z",
-      "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+      "id": "cmsp0j1ph027prortm21absbh",
+      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+      "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
+      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "permalink": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-08-11T18:20:44.000Z",
+      "discoveredAt": "2026-08-11T18:47:37.597Z",
+      "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
       "category": "ai-products",
-      "score": 66,
+      "score": 67,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+        "canonical": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmsoxh6oa0a3drohdskp7cb9u",
+      "title": "Gemini月活破10亿，成谷歌增长最快产品",
+      "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
+      "url": "https://x.com/sundarpichai/status/2087222656819241292",
+      "permalink": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "publishedAt": "2026-08-11T17:00:34.000Z",
+      "discoveredAt": "2026-08-11T17:22:11.170Z",
+      "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmsoxbh180a00rohdooafsmzp",
+      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+      "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+      "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-08-11T17:00:00.000Z",
+      "discoveredAt": "2026-08-11T17:17:44.810Z",
+      "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
       },
       "interestTags": [
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmsnx040k01glrofwfqxdc8h5",
+      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+      "title_en": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+      "permalink": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-11T00:12:00.000Z",
+      "discoveredAt": "2026-08-11T00:21:07.918Z",
+      "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
+      },
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -418,30 +435,6 @@
       },
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmsjbn0kl058nroo5kq0m0jws",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "title_en": null,
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-07T18:54:34.746Z",
-      "discoveredAt": "2026-08-07T19:12:01.086Z",
-      "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
-      },
-      "interestTags": [
-        "creative",
-        "app"
       ],
       "techScore": -1,
       "formattedTime": "3天前"
@@ -467,83 +460,76 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "cmsfzhw1v009hrodlv4wn36l3",
-      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+      "id": "rss_3017290893",
+      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
       "title_en": null,
-      "url": "https://www.ithome.com/0/986/174.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-05T10:12:57.000Z",
-      "discoveredAt": "2026-08-05T11:08:45.252Z",
-      "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+      "url": "https://sspai.com/post/113304",
+      "source": "少数派",
+      "publishedAt": "2026-08-11T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113304\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "rss_1772978851",
+      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
+      "title_en": null,
+      "url": "https://sspai.com/post/113288",
+      "source": "少数派",
+      "publishedAt": "2026-08-11T04:00:00+00:00",
+      "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...<a href=\"https://sspai.com/post/113288\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "rss_2511343868",
+      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/368667",
+      "source": "极客公园",
+      "publishedAt": "2026-08-11T07:30:55+00:00",
+      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
       "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
-      },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "rss_804662012",
-      "title": "就内容创作而言，说话还是替代不了打字",
-      "title_en": null,
-      "url": "https://sspai.com/post/112901",
-      "source": "少数派",
-      "publishedAt": "2026-08-08T05:11:00+00:00",
-      "summary": "创作本就不是一个「速度为先」的行为——而打字，本质上是一个思考的过程。<a href=\"https://sspai.com/post/112901\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2656891233",
-      "title": "33% 增速、126% 留存：Snowflake 用一份财报，把“AI落地难”讲成了印钞机故事",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 10 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/lWRKAhlso9f7OobiGXDI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 10 Au"
-    },
-    {
-      "id": "cmslhy76p03hdroo0l8dsaskb",
-      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
-      "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
-      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
-      "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-09T07:17:35.000Z",
-      "discoveredAt": "2026-08-09T07:44:10.959Z",
-      "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
-      "category": "tip",
-      "score": 70,
+      "id": "cmsopyoum028vrohd4dgeksz9",
+      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
+      "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
+      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
+      "permalink": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-11T13:51:45.827Z",
+      "discoveredAt": "2026-08-11T13:51:45.827Z",
+      "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
+      "category": "paper",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
+        "canonical": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
       },
       "interestTags": [
-        "education"
+        "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "昨天"
+      "formattedTime": "9小时前"
     }
   ]
 }
