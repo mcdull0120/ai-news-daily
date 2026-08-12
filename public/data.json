@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-11T23:45:38.073877+00:00",
+  "generatedAt": "2026-08-12T23:47:14.030724+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
+  "totalFiltered": 147,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,74 +11,147 @@
   "grouped": {
     "app": [
       {
-        "id": "cmsp2lgxo03xjrortthctedzu",
-        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-        "permalink": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-08-11T19:41:42.000Z",
-        "discoveredAt": "2026-08-11T19:45:30.008Z",
-        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-        "category": "industry",
-        "score": 80,
+        "id": "cmsqj4ly004izroxvzl349s3r",
+        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+        "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+        "url": "https://claude.com/blog/cowork-chrome-side-panel",
+        "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-08-12T20:15:51.977Z",
+        "discoveredAt": "2026-08-12T20:15:51.977Z",
+        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+        "category": "ai-products",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
+          "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "cmsp0j1ph027prortm21absbh",
-        "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
-        "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-        "permalink": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-08-11T18:20:44.000Z",
-        "discoveredAt": "2026-08-11T18:47:37.597Z",
-        "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-        "category": "ai-products",
+        "id": "cmsqgeo2e02cvroxvpnycl2zi",
+        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+        "title_en": "Your contributors are AI-first now. Is your project？",
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+        "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+        "source": "GitHub Blog",
+        "publishedAt": "2026-08-12T18:00:08.000Z",
+        "discoveredAt": "2026-08-12T18:59:53.288Z",
+        "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+        "category": "tip",
         "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
+          "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
         },
         "interestTags": [
           "app",
-          "writing"
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "5小时前"
       },
       {
-        "id": "cmsoxh6oa0a3drohdskp7cb9u",
-        "title": "Gemini月活破10亿，成谷歌增长最快产品",
-        "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-        "url": "https://x.com/sundarpichai/status/2087222656819241292",
-        "permalink": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "publishedAt": "2026-08-11T17:00:34.000Z",
-        "discoveredAt": "2026-08-11T17:22:11.170Z",
-        "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
+        "id": "cmspo193n05q2rojeue8j2k5a",
+        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+        "title_en": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+        "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-12T05:41:30.137Z",
+        "discoveredAt": "2026-08-12T05:45:36.772Z",
+        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
         "category": "industry",
-        "score": 77,
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u"
+          "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
         },
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "18小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmsq5saxh051mro2e90h10exo",
+        "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+        "title_en": "I wrote an AI textbook - how long until AI can do it better？",
+        "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+        "permalink": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "publishedAt": "2026-08-12T13:01:16.000Z",
+        "discoveredAt": "2026-08-12T14:02:32.019Z",
+        "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+        "category": "tip",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      },
+      {
+        "id": "cmspc30un0e4xrorts1kax9zg",
+        "title": "零基础用户半天上手AI的12步实操流程",
+        "title_en": "我们经常会感觉，AI已经这么火了，可是在我日常中，跟很多别的行业的朋友们聊，大家总是会天然的觉得，用AI，是一件很难的事情。 有很多人，不敢开始。 包括其实我日常被问的最多的问题，也是类似的： 卡老师，我想学AI、用AI，我要怎么开始。 所以呢，我今天就想写一个非常非常初级的小流程，如果你想用好AI，你就按着一步一步做，不仅可以入门，也基本有了最核心的心法。 1. 首先，你需要一台电脑，Mac最好，Windows也可以，内存不要低于16个G，你一定需要一台电脑，这个是我们用好AI的前提。 2. 如果你能使用海外产品，Google搜索ChatGPT，然后注册账号，冲一个月20美金的订阅费用，再在官网上，下载Codex，然后安装。 3. 如果你不能使用海外产品，百度搜索WorkBuddy，下载然后登录，可以先不充会员，记得嫖一下积分。 4. 在Codex中把模型选择为GPT-5.6 Sol最高，在WorkBuddy中选Kimi K3。 5. 下载一个语音输入法，Mac可以使用豆包输入法，Windows可以使用微信输入法，从此以后，你跟AI发送消息的时候，就不要再打字了，直接用嘴进行表达。 6. 把你脑海中你现在最头疼、最不想干、最抗拒的事情，一股脑的用语音输入法说给AI，记得用【背景、痛点、需求】的框架来去说，然后再附上一句，\"请你先不要开始干活，用苏格拉底提问法向我提问，一次只问一个问题，直到你认为已经完全理解这件事。\" 7. 回答AI跟你提出的问题。 8. 等AI跟你问的差不多了，输出了一个最终方案的时候，把你跟这个事情相关的所有文件，比如文档、表格、PPT、参考资料啥的，放在一个新建的文件夹里，扔给AI，然后说，\"这是我的所有的文件，请你帮我直接完成吧，遇到必须由我决定的地方，再停下来问我。\" 9. 调整AI给你的结果，千万别觉得AI不行然后就自己去干了，告诉AI，哪里不对，让它去调整，如果你说不出来，也可以说\"我现在讲不出来具体原因，但我就是不喜欢，请你对比几个方向，一次问我一个问题，帮我把判断标准找出来。\" 10. 大概2~3轮，你的这个最不想做的事，AI大概率就替你做完了。 11. 跟AI说，帮我把刚才的整个过程和这个事情，做成一个可以供我反复使用的Skill，以后，类似的事情，你就可以用AI自动化了。 12. 从此以后，遇到不想干的，扔给AI，提供你的文件和【背景、痛点、需求】，让AI帮你完成，同时沉淀成Skill。 好了。 现在，只需要半天时间，你已经学会使用AI了。 没错，就是如此简单。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+        "permalink": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-08-12T00:08:00.000Z",
+        "discoveredAt": "2026-08-12T00:11:05.004Z",
+        "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "cmsiry2eo1r4tronkt9qv2twu",
+        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
+        "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
+        "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
+        "source": "公众号：小红书技术（dots.llm）",
+        "publishedAt": "2026-08-07T09:59:00.000Z",
+        "discoveredAt": "2026-08-07T10:00:44.054Z",
+        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
+        "category": "paper",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
       }
     ],
     "creative": [
@@ -104,7 +177,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsoxbh180a00rohdooafsmzp",
@@ -127,7 +200,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -151,7 +224,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
@@ -176,98 +249,36 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_2511343868",
-        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+        "id": "rss_305006259",
+        "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/368667",
+        "url": "http://www.geekpark.net/news/368744",
         "source": "极客公园",
-        "publishedAt": "2026-08-11T07:30:55+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
+        "publishedAt": "2026-08-12T09:24:24+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
-      },
-      {
-        "id": "cmsopyoum028vrohd4dgeksz9",
-        "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-        "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-        "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-        "permalink": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "publishedAt": "2026-08-11T13:51:45.827Z",
-        "discoveredAt": "2026-08-11T13:51:45.827Z",
-        "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-        "category": "paper",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "9小时前"
+        "formattedTime": "14小时前"
       }
     ],
-    "writing": [
+    "education": [
       {
-        "id": "cmsiry2eo1r4tronkt9qv2twu",
-        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-        "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
-        "source": "公众号：小红书技术（dots.llm）",
-        "publishedAt": "2026-08-07T09:59:00.000Z",
-        "discoveredAt": "2026-08-07T10:00:44.054Z",
-        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-        "category": "paper",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_3017290893",
-        "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+        "id": "rss_3143313053",
+        "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
         "title_en": null,
-        "url": "https://sspai.com/post/113304",
-        "source": "少数派",
-        "publishedAt": "2026-08-11T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113304\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/08/470874.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-12T04:29:57+00:00",
+        "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+        "category": "industry",
         "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_1772978851",
-        "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-        "title_en": null,
-        "url": "https://sspai.com/post/113288",
-        "source": "少数派",
-        "publishedAt": "2026-08-11T04:00:00+00:00",
-        "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...<a href=\"https://sspai.com/post/113288\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
+          "education"
         ],
         "techScore": -1,
         "formattedTime": "19小时前"
@@ -276,27 +287,122 @@
   },
   "items": [
     {
-      "id": "cmsp2lgxo03xjrortthctedzu",
-      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
-      "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "permalink": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-11T19:41:42.000Z",
-      "discoveredAt": "2026-08-11T19:45:30.008Z",
-      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
-      "category": "industry",
-      "score": 80,
+      "id": "cmsqj4ly004izroxvzl349s3r",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-12T20:15:51.977Z",
+      "discoveredAt": "2026-08-12T20:15:51.977Z",
+      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+      "category": "ai-products",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
+        "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmsqgeo2e02cvroxvpnycl2zi",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "title_en": "Your contributors are AI-first now. Is your project？",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-08-12T18:00:08.000Z",
+      "discoveredAt": "2026-08-12T18:59:53.288Z",
+      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmsq5saxh051mro2e90h10exo",
+      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+      "title_en": "I wrote an AI textbook - how long until AI can do it better？",
+      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "permalink": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "publishedAt": "2026-08-12T13:01:16.000Z",
+      "discoveredAt": "2026-08-12T14:02:32.019Z",
+      "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmspo193n05q2rojeue8j2k5a",
+      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+      "title_en": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-12T05:41:30.137Z",
+      "discoveredAt": "2026-08-12T05:45:36.772Z",
+      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
+    {
+      "id": "cmspc30un0e4xrorts1kax9zg",
+      "title": "零基础用户半天上手AI的12步实操流程",
+      "title_en": "我们经常会感觉，AI已经这么火了，可是在我日常中，跟很多别的行业的朋友们聊，大家总是会天然的觉得，用AI，是一件很难的事情。 有很多人，不敢开始。 包括其实我日常被问的最多的问题，也是类似的： 卡老师，我想学AI、用AI，我要怎么开始。 所以呢，我今天就想写一个非常非常初级的小流程，如果你想用好AI，你就按着一步一步做，不仅可以入门，也基本有了最核心的心法。 1. 首先，你需要一台电脑，Mac最好，Windows也可以，内存不要低于16个G，你一定需要一台电脑，这个是我们用好AI的前提。 2. 如果你能使用海外产品，Google搜索ChatGPT，然后注册账号，冲一个月20美金的订阅费用，再在官网上，下载Codex，然后安装。 3. 如果你不能使用海外产品，百度搜索WorkBuddy，下载然后登录，可以先不充会员，记得嫖一下积分。 4. 在Codex中把模型选择为GPT-5.6 Sol最高，在WorkBuddy中选Kimi K3。 5. 下载一个语音输入法，Mac可以使用豆包输入法，Windows可以使用微信输入法，从此以后，你跟AI发送消息的时候，就不要再打字了，直接用嘴进行表达。 6. 把你脑海中你现在最头疼、最不想干、最抗拒的事情，一股脑的用语音输入法说给AI，记得用【背景、痛点、需求】的框架来去说，然后再附上一句，\"请你先不要开始干活，用苏格拉底提问法向我提问，一次只问一个问题，直到你认为已经完全理解这件事。\" 7. 回答AI跟你提出的问题。 8. 等AI跟你问的差不多了，输出了一个最终方案的时候，把你跟这个事情相关的所有文件，比如文档、表格、PPT、参考资料啥的，放在一个新建的文件夹里，扔给AI，然后说，\"这是我的所有的文件，请你帮我直接完成吧，遇到必须由我决定的地方，再停下来问我。\" 9. 调整AI给你的结果，千万别觉得AI不行然后就自己去干了，告诉AI，哪里不对，让它去调整，如果你说不出来，也可以说\"我现在讲不出来具体原因，但我就是不喜欢，请你对比几个方向，一次问我一个问题，帮我把判断标准找出来。\" 10. 大概2~3轮，你的这个最不想做的事，AI大概率就替你做完了。 11. 跟AI说，帮我把刚才的整个过程和这个事情，做成一个可以供我反复使用的Skill，以后，类似的事情，你就可以用AI自动化了。 12. 从此以后，遇到不想干的，扔给AI，提供你的文件和【背景、痛点、需求】，让AI帮你完成，同时沉淀成Skill。 好了。 现在，只需要半天时间，你已经学会使用AI了。 没错，就是如此简单。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685084&idx=1&sn=0899296dbc140eeb745f7a99f9d5ed9c",
+      "permalink": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-12T00:08:00.000Z",
+      "discoveredAt": "2026-08-12T00:11:05.004Z",
+      "summary": "文章给出一套零基础用户半天上手AI的12步实操流程：准备内存不低于16G的电脑，订阅ChatGPT并安装Codex或使用WorkBuddy，用语音输入法以【背景、痛点、需求】框架向AI交代任务，经苏格拉底提问澄清需求后投喂文件让AI直接完成，最后沉淀为可复用Skill。文中建议Codex选GPT-5.6 Sol最高模型，WorkBuddy选Kimi K3。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     },
     {
       "id": "cmsp1lufu03a9rortoc0ci36q",
@@ -320,54 +426,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
-    },
-    {
-      "id": "cmsp0j1ph027prortm21absbh",
-      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
-      "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-      "permalink": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-08-11T18:20:44.000Z",
-      "discoveredAt": "2026-08-11T18:47:37.597Z",
-      "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmsoxh6oa0a3drohdskp7cb9u",
-      "title": "Gemini月活破10亿，成谷歌增长最快产品",
-      "title_en": "1B+ people are now using @Geminiapp every month to spark new ideas and get things done. It's our fas…",
-      "url": "https://x.com/sundarpichai/status/2087222656819241292",
-      "permalink": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "publishedAt": "2026-08-11T17:00:34.000Z",
-      "discoveredAt": "2026-08-11T17:22:11.170Z",
-      "summary": "每月已有超过 10 亿人使用 @Geminiapp 激发新想法、完成工作。这是我们有史以来增长最快的产品，也是第 14 个达到 10 亿用户里程碑的产品。\n\n感谢 @JoshWoodward 和整个 Gemini 团队，也感谢每一位与我们同行的伙伴--未来还有更多精彩！",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoxh6oa0a3drohdskp7cb9u"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsoxbh180a00rohdooafsmzp",
@@ -390,7 +449,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -414,7 +473,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -437,7 +496,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -460,76 +519,37 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3017290893",
-      "title": "社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包",
+      "id": "rss_3143313053",
+      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
       "title_en": null,
-      "url": "https://sspai.com/post/113304",
-      "source": "少数派",
-      "publishedAt": "2026-08-11T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113304\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "url": "https://www.qbitai.com/2026/08/470874.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-12T04:29:57+00:00",
+      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+      "category": "industry",
       "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "14小时前"
-    },
-    {
-      "id": "rss_1772978851",
-      "title": "从内容工坊到 Dot Skill，Quote/0 开始把屏幕交还给你",
-      "title_en": null,
-      "url": "https://sspai.com/post/113288",
-      "source": "少数派",
-      "publishedAt": "2026-08-11T04:00:00+00:00",
-      "summary": "从最初的测试与共创算起，Quote/0（摘录）已经陪伴大家近一年半的时间。最初我们只想做一块安静的墨水屏：不推送、不闪烁，只把真正重要的信息留在抬眼可见的地方。后来Quote/0进入了许多我们没有预设 ...<a href=\"https://sspai.com/post/113288\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
+        "education"
       ],
       "techScore": -1,
       "formattedTime": "19小时前"
     },
     {
-      "id": "rss_2511343868",
-      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "id": "rss_305006259",
+      "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/368667",
+      "url": "http://www.geekpark.net/news/368744",
       "source": "极客公园",
-      "publishedAt": "2026-08-11T07:30:55+00:00",
-      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
+      "publishedAt": "2026-08-12T09:24:24+00:00",
+      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "cmsopyoum028vrohd4dgeksz9",
-      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-      "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "permalink": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-11T13:51:45.827Z",
-      "discoveredAt": "2026-08-11T13:51:45.827Z",
-      "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "9小时前"
+      "formattedTime": "14小时前"
     }
   ]
 }
