@@ -1,37 +1,65 @@
 {
-  "generatedAt": "2026-08-12T23:47:14.030724+00:00",
-  "totalSource": 160,
-  "totalFiltered": 147,
+  "generatedAt": "2026-08-13T23:45:18.973888+00:00",
+  "totalSource": 170,
+  "totalFiltered": 157,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "app": [
       {
-        "id": "cmsqj4ly004izroxvzl349s3r",
-        "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-        "title_en": "The Claude in Chrome side panel is now Claude Cowork",
-        "url": "https://claude.com/blog/cowork-chrome-side-panel",
-        "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-08-12T20:15:51.977Z",
-        "discoveredAt": "2026-08-12T20:15:51.977Z",
-        "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+        "id": "cmsrtfqyv04btro0nle3m5b20",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
+        "source": "Google Blog：AI（RSS）",
+        "publishedAt": "2026-08-13T16:45:00.000Z",
+        "discoveredAt": "2026-08-13T17:52:24.043Z",
+        "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmsr160kg0dk0roz2mb20yxwk",
+        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_en": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "permalink": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-08-13T04:32:24.000Z",
+        "discoveredAt": "2026-08-13T04:41:00.631Z",
+        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
         "category": "ai-products",
         "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
+          "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
         },
         "interestTags": [
-          "app"
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "19小时前"
       },
       {
         "id": "cmsqgeo2e02cvroxvpnycl2zi",
@@ -56,31 +84,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmspo193n05q2rojeue8j2k5a",
-        "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-        "title_en": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-        "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-12T05:41:30.137Z",
-        "discoveredAt": "2026-08-12T05:45:36.772Z",
-        "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-        "category": "industry",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "18小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -105,7 +109,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmspc30un0e4xrorts1kax9zg",
@@ -128,7 +132,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -151,7 +155,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "creative": [
@@ -177,7 +181,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmsoxbh180a00rohdooafsmzp",
@@ -200,7 +204,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -224,7 +228,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -249,10 +253,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_305006259",
+        "id": "rss_57488043",
         "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
         "title_en": null,
         "url": "http://www.geekpark.net/news/368744",
@@ -264,50 +268,76 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      }
-    ],
-    "education": [
+        "formattedTime": "昨天"
+      },
       {
-        "id": "rss_3143313053",
-        "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+        "id": "rss_4265823142",
+        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/08/470874.html",
-        "source": "量子位",
-        "publishedAt": "2026-08-12T04:29:57+00:00",
-        "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+        "url": "http://www.geekpark.net/news/368667",
+        "source": "极客公园",
+        "publishedAt": "2026-08-11T07:30:55+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
         "category": "industry",
         "interestTags": [
-          "education"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmsqj4ly004izroxvzl349s3r",
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "title_en": "The Claude in Chrome side panel is now Claude Cowork",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-12T20:15:51.977Z",
-      "discoveredAt": "2026-08-12T20:15:51.977Z",
-      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+      "id": "cmsrtfqyv04btro0nle3m5b20",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+      "title_en": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-08-13T16:45:00.000Z",
+      "discoveredAt": "2026-08-13T17:52:24.043Z",
+      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmsr160kg0dk0roz2mb20yxwk",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "title_en": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "permalink": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-13T04:32:24.000Z",
+      "discoveredAt": "2026-08-13T04:41:00.631Z",
+      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
       "category": "ai-products",
       "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
+        "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
       },
       "interestTags": [
-        "app"
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "19小时前"
     },
     {
       "id": "cmsqgeo2e02cvroxvpnycl2zi",
@@ -332,7 +362,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsq5saxh051mro2e90h10exo",
@@ -355,31 +385,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "cmspo193n05q2rojeue8j2k5a",
-      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
-      "title_en": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
-      "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-12T05:41:30.137Z",
-      "discoveredAt": "2026-08-12T05:45:36.772Z",
-      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "18小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -402,7 +408,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsp1lufu03a9rortoc0ci36q",
@@ -426,7 +432,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsoxbh180a00rohdooafsmzp",
@@ -449,7 +455,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -473,7 +479,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -496,7 +502,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmsiry2eo1r4tronkt9qv2twu",
@@ -519,25 +525,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_3143313053",
-      "title": "人形之外，擎羽把“身体”变成具身智能的新变量",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/470874.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-12T04:29:57+00:00",
-      "summary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "rss_305006259",
+      "id": "rss_57488043",
       "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
       "title_en": null,
       "url": "http://www.geekpark.net/news/368744",
@@ -549,7 +540,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_4265823142",
+      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/368667",
+      "source": "极客公园",
+      "publishedAt": "2026-08-11T07:30:55+00:00",
+      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
     }
   ]
 }
