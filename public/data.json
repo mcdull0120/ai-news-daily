@@ -1,15 +1,38 @@
 {
-  "generatedAt": "2026-08-13T23:45:18.973888+00:00",
-  "totalSource": 170,
-  "totalFiltered": 157,
+  "generatedAt": "2026-08-14T23:25:06.045811+00:00",
+  "totalSource": 154,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 94,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmst3joqo03pwro0658o4g1m3",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_en": "Cursor is now a part of SpaceX",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "permalink": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
+        "source": "Cursor Blog",
+        "publishedAt": "2026-08-14T12:00:00.000Z",
+        "discoveredAt": "2026-08-14T15:23:09.332Z",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "category": "industry",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
       {
         "id": "cmsrtfqyv04btro0nle3m5b20",
         "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
@@ -34,7 +57,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsr160kg0dk0roz2mb20yxwk",
@@ -52,31 +75,6 @@
         "attribution": {
           "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "19小时前"
-      },
-      {
-        "id": "cmsqgeo2e02cvroxvpnycl2zi",
-        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-        "title_en": "Your contributors are AI-first now. Is your project？",
-        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-        "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
-        "source": "GitHub Blog",
-        "publishedAt": "2026-08-12T18:00:08.000Z",
-        "discoveredAt": "2026-08-12T18:59:53.288Z",
-        "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
         },
         "interestTags": [
           "app",
@@ -109,7 +107,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmspc30un0e4xrorts1kax9zg",
@@ -132,30 +130,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "cmsiry2eo1r4tronkt9qv2twu",
-        "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-        "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-        "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
-        "source": "公众号：小红书技术（dots.llm）",
-        "publishedAt": "2026-08-07T09:59:00.000Z",
-        "discoveredAt": "2026-08-07T10:00:44.054Z",
-        "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-        "category": "paper",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
-        },
+        "id": "rss_4183533531",
+        "title": "从原理出发，高效搞定夏日营养冷食",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+        "source": "少数派",
+        "publishedAt": "2026-08-13T08:01:56+00:00",
+        "summary": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...<a href=\"https://sspai.com/prime/story/summer-cold-meal-guide\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
@@ -181,7 +171,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmsoxbh180a00rohdooafsmzp",
@@ -204,7 +194,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -228,7 +218,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -253,41 +243,66 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_57488043",
-        "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
+        "id": "rss_2503149617",
+        "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/368744",
-        "source": "极客公园",
-        "publishedAt": "2026-08-12T09:24:24+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
+        "url": "https://www.qbitai.com/2026/08/473144.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-14T08:36:00+00:00",
+        "summary": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "14小时前"
+      }
+    ],
+    "education": [
       {
-        "id": "rss_4265823142",
-        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+        "id": "rss_3898335359",
+        "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/368667",
-        "source": "极客公园",
-        "publishedAt": "2026-08-11T07:30:55+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
+        "url": "https://www.qbitai.com/2026/08/473149.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-14T10:25:36+00:00",
+        "summary": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
         "category": "industry",
         "interestTags": [
-          "productivity"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "12小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmst3joqo03pwro0658o4g1m3",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "title_en": "Cursor is now a part of SpaceX",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "permalink": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-08-14T12:00:00.000Z",
+      "discoveredAt": "2026-08-14T15:23:09.332Z",
+      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+      "category": "industry",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
     {
       "id": "cmsrtfqyv04btro0nle3m5b20",
       "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
@@ -312,7 +327,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsr160kg0dk0roz2mb20yxwk",
@@ -330,31 +345,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmsqgeo2e02cvroxvpnycl2zi",
-      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-      "title_en": "Your contributors are AI-first now. Is your project？",
-      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-      "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-08-12T18:00:08.000Z",
-      "discoveredAt": "2026-08-12T18:59:53.288Z",
-      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
       },
       "interestTags": [
         "app",
@@ -385,7 +375,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -408,7 +398,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsp1lufu03a9rortoc0ci36q",
@@ -432,7 +422,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsoxbh180a00rohdooafsmzp",
@@ -455,7 +445,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -479,7 +469,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
@@ -502,60 +492,52 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmsiry2eo1r4tronkt9qv2twu",
-      "title": "小红书联合浙大、复旦提出 CULTURE-MT：首个面向社媒翻译的「文化有效性」评测基准，入选 ICML 2026",
-      "title_en": "AI 翻译看得懂字，却读不懂「梗」？小红书联合浙大、复旦提出首个「文化有效性」评测标准，入选 ICML 2026",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496008&idx=1&sn=08f2ce717483f63bc00a2181e59e3f40",
-      "permalink": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-08-07T09:59:00.000Z",
-      "discoveredAt": "2026-08-07T10:00:44.054Z",
-      "summary": "小红书联合浙江大学、复旦大学提出 CULTURE-MT，这是首个面向中英社媒笔记翻译、兼顾文化符号传递与情感共鸣的评测基准，并首次提出「文化有效性」评估标准与自动评估模型 JUDGER（准确率 86.03%）。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "6天前"
     },
     {
-      "id": "rss_57488043",
-      "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
+      "id": "rss_4183533531",
+      "title": "从原理出发，高效搞定夏日营养冷食",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/368744",
-      "source": "极客公园",
-      "publishedAt": "2026-08-12T09:24:24+00:00",
-      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
-      "category": "industry",
+      "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "source": "少数派",
+      "publishedAt": "2026-08-13T08:01:56+00:00",
+      "summary": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...<a href=\"https://sspai.com/prime/story/summer-cold-meal-guide\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+      "category": "tip",
       "interestTags": [
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_4265823142",
-      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "id": "rss_3898335359",
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/368667",
-      "source": "极客公园",
-      "publishedAt": "2026-08-11T07:30:55+00:00",
-      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
+      "url": "https://www.qbitai.com/2026/08/473149.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-14T10:25:36+00:00",
+      "summary": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "category": "industry",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "rss_2503149617",
+      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/473144.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-14T08:36:00+00:00",
+      "summary": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "14小时前"
     }
   ]
 }
