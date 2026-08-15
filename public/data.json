@@ -1,15 +1,38 @@
 {
-  "generatedAt": "2026-08-14T23:25:06.045811+00:00",
-  "totalSource": 154,
-  "totalFiltered": 141,
+  "generatedAt": "2026-08-15T23:24:29.255171+00:00",
+  "totalSource": 150,
+  "totalFiltered": 138,
   "totalSelected": 12,
   "sources": {
-    "aihot": 94,
+    "aihot": 90,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmsuto7hk0912rouhodiiywlk",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_en": "Cursor 现已成为 SpaceX 的一部分",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "permalink": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-15T20:05:54.703Z",
+        "discoveredAt": "2026-08-15T20:22:17.762Z",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "category": "industry",
+        "score": 71,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
       {
         "id": "cmst3joqo03pwro0658o4g1m3",
         "title": "Cursor 正式被 SpaceX 收购",
@@ -31,7 +54,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsrtfqyv04btro0nle3m5b20",
@@ -57,32 +80,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmsr160kg0dk0roz2mb20yxwk",
-        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_en": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-        "permalink": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-08-13T04:32:24.000Z",
-        "discoveredAt": "2026-08-13T04:41:00.631Z",
-        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -107,7 +105,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmspc30un0e4xrorts1kax9zg",
@@ -130,10 +128,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_4183533531",
+        "id": "rss_2012782439",
         "title": "从原理出发，高效搞定夏日营养冷食",
         "title_en": null,
         "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
@@ -145,7 +143,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -171,7 +169,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmsoxbh180a00rohdooafsmzp",
@@ -194,7 +192,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -218,52 +216,44 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
       {
-        "id": "cmskgc07i06srrobyr1cvm25v",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "id": "rss_3150726015",
+        "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
         "title_en": null,
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "permalink": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-08T13:38:40.000Z",
-        "discoveredAt": "2026-08-08T14:11:09.144Z",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "url": "https://www.qbitai.com/2026/08/473395.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-15T04:03:37+00:00",
+        "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
         "category": "industry",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v"
-        },
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "19小时前"
       },
       {
-        "id": "rss_2503149617",
-        "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+        "id": "rss_3082520885",
+        "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/08/473144.html",
-        "source": "量子位",
-        "publishedAt": "2026-08-14T08:36:00+00:00",
-        "summary": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+        "url": "http://www.geekpark.net/news/368744",
+        "source": "极客公园",
+        "publishedAt": "2026-08-12T09:24:24+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
         "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "3天前"
       }
     ],
     "education": [
       {
-        "id": "rss_3898335359",
+        "id": "rss_2482749489",
         "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/08/473149.html",
@@ -275,11 +265,34 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmsuto7hk0912rouhodiiywlk",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "title_en": "Cursor 现已成为 SpaceX 的一部分",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "permalink": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-15T20:05:54.703Z",
+      "discoveredAt": "2026-08-15T20:22:17.762Z",
+      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
     {
       "id": "cmst3joqo03pwro0658o4g1m3",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -301,7 +314,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsrtfqyv04btro0nle3m5b20",
@@ -327,32 +340,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsr160kg0dk0roz2mb20yxwk",
-      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-      "title_en": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "permalink": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-13T04:32:24.000Z",
-      "discoveredAt": "2026-08-13T04:41:00.631Z",
-      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsq5saxh051mro2e90h10exo",
@@ -375,7 +363,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -398,7 +386,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsp1lufu03a9rortoc0ci36q",
@@ -422,7 +410,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsoxbh180a00rohdooafsmzp",
@@ -445,7 +433,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -469,33 +457,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "cmskgc07i06srrobyr1cvm25v",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "permalink": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-08T13:38:40.000Z",
-      "discoveredAt": "2026-08-08T14:11:09.144Z",
-      "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_4183533531",
+      "id": "rss_2012782439",
       "title": "从原理出发，高效搞定夏日营养冷食",
       "title_en": null,
       "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
@@ -507,10 +472,25 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_3898335359",
+      "id": "rss_3150726015",
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/473395.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-15T04:03:37+00:00",
+      "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "rss_2482749489",
       "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/08/473149.html",
@@ -522,22 +502,22 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2503149617",
-      "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "id": "rss_3082520885",
+      "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/473144.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-14T08:36:00+00:00",
-      "summary": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+      "url": "http://www.geekpark.net/news/368744",
+      "source": "极客公园",
+      "publishedAt": "2026-08-12T09:24:24+00:00",
+      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
       "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "3天前"
     }
   ]
 }
