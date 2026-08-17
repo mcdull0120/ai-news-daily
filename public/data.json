@@ -1,15 +1,39 @@
 {
-  "generatedAt": "2026-08-16T23:23:04.603507+00:00",
-  "totalSource": 143,
-  "totalFiltered": 134,
+  "generatedAt": "2026-08-17T23:26:15.954411+00:00",
+  "totalSource": 134,
+  "totalFiltered": 126,
   "totalSelected": 12,
   "sources": {
-    "aihot": 83,
+    "aihot": 74,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmsxkakju0300roz0zx6cvdeu",
+        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "title_en": "如何禁用或避免侵入式人工智能",
+        "url": "https://www.librarian.net/notoai",
+        "permalink": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-17T17:58:12.144Z",
+        "discoveredAt": "2026-08-17T18:23:03.341Z",
+        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
       {
         "id": "cmsuto7hk0912rouhodiiywlk",
         "title": "Cursor 正式被 SpaceX 收购",
@@ -31,7 +55,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmst3joqo03pwro0658o4g1m3",
@@ -52,32 +76,6 @@
         },
         "interestTags": [
           "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmsrtfqyv04btro0nle3m5b20",
-        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-        "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-08-13T16:45:00.000Z",
-        "discoveredAt": "2026-08-13T17:52:24.043Z",
-        "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "education",
-          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "3天前"
@@ -105,7 +103,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmspc30un0e4xrorts1kax9zg",
@@ -128,22 +126,24 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_261572007",
-        "title": "从原理出发，高效搞定夏日营养冷食",
+        "id": "rss_752046472",
+        "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
         "title_en": null,
-        "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+        "url": "https://sspai.com/post/113368",
         "source": "少数派",
-        "publishedAt": "2026-08-13T08:01:56+00:00",
-        "summary": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...<a href=\"https://sspai.com/prime/story/summer-cold-meal-guide\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "publishedAt": "2026-08-17T07:00:00+00:00",
+        "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。<a href=\"https://sspai.com/post/113368\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "writing",
+          "education",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "16小时前"
       }
     ],
     "creative": [
@@ -169,7 +169,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
         "id": "cmsoxbh180a00rohdooafsmzp",
@@ -192,7 +192,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
         "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -216,12 +216,12 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_221778102",
+        "id": "rss_962053135",
         "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
         "title_en": null,
         "url": "http://www.geekpark.net/news/368744",
@@ -233,22 +233,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_3975986869",
-        "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+        "id": "rss_850348135",
+        "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/368667",
-        "source": "极客公园",
-        "publishedAt": "2026-08-11T07:30:55+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
-        "category": "industry",
+        "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Mon, 17 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "Mon, 17 Au"
       }
     ],
     "education": [
@@ -273,11 +273,35 @@
           "education"
         ],
         "techScore": 1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmsxkakju0300roz0zx6cvdeu",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "title_en": "如何禁用或避免侵入式人工智能",
+      "url": "https://www.librarian.net/notoai",
+      "permalink": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-17T17:58:12.144Z",
+      "discoveredAt": "2026-08-17T18:23:03.341Z",
+      "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
     {
       "id": "cmsuto7hk0912rouhodiiywlk",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -299,7 +323,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmst3joqo03pwro0658o4g1m3",
@@ -320,32 +344,6 @@
       },
       "interestTags": [
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmsrtfqyv04btro0nle3m5b20",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-      "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "discoveredAt": "2026-08-13T17:52:24.043Z",
-      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "education",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "3天前"
@@ -371,7 +369,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -394,7 +392,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmsp1lufu03a9rortoc0ci36q",
@@ -418,7 +416,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmsoxbh180a00rohdooafsmzp",
@@ -441,7 +439,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmsnx040k01glrofwfqxdc8h5",
@@ -465,25 +463,27 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_261572007",
-      "title": "从原理出发，高效搞定夏日营养冷食",
+      "id": "rss_752046472",
+      "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
       "title_en": null,
-      "url": "https://sspai.com/prime/story/summer-cold-meal-guide",
+      "url": "https://sspai.com/post/113368",
       "source": "少数派",
-      "publishedAt": "2026-08-13T08:01:56+00:00",
-      "summary": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...<a href=\"https://sspai.com/prime/story/summer-cold-meal-guide\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+      "publishedAt": "2026-08-17T07:00:00+00:00",
+      "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。<a href=\"https://sspai.com/post/113368\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "writing"
+        "writing",
+        "education",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "16小时前"
     },
     {
-      "id": "rss_221778102",
+      "id": "rss_962053135",
       "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
       "title_en": null,
       "url": "http://www.geekpark.net/news/368744",
@@ -495,22 +495,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3975986869",
-      "title": "对话影溯章国锋：互联网数据才是空间智能最需要的「太阳能」",
+      "id": "rss_850348135",
+      "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/368667",
-      "source": "极客公园",
-      "publishedAt": "2026-08-11T07:30:55+00:00",
-      "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜张鹏 </span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">整理｜ 徐珊</span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\">世界模型的牌桌上，坐着的已经全是重量级玩家。Yann LeCun 离开 Meta 亲自下场，李飞飞的 World",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Mon, 17 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "Mon, 17 Au"
     },
     {
       "id": "cmsqe6mat01bsroli3hw71nz7",
@@ -533,7 +533,7 @@
         "education"
       ],
       "techScore": 1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     }
   ]
 }
