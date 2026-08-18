@@ -1,15 +1,166 @@
 {
-  "generatedAt": "2026-08-17T23:26:15.954411+00:00",
-  "totalSource": 134,
-  "totalFiltered": 126,
+  "generatedAt": "2026-08-18T23:25:35.965904+00:00",
+  "totalSource": 119,
+  "totalFiltered": 111,
   "totalSelected": 12,
   "sources": {
-    "aihot": 74,
+    "aihot": 59,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "creative": [
+      {
+        "id": "cmsz8gh3n06e4rodpl8l2syek",
+        "title": "Claude 如何加速蛋白质设计与分析化学研究",
+        "title_en": "How Claude is accelerating protein design and analytical chemistry",
+        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+        "permalink": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-08-18T22:27:16.191Z",
+        "discoveredAt": "2026-08-18T22:27:16.191Z",
+        "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+        "category": "paper",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmsycmgww0rkrroz0nfma0z05",
+        "title": "设计 AI 评测：先求清晰，再谈可视化",
+        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+        "permalink": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05",
+        "source": "Google AI：DEV 作者专属（RSS）",
+        "publishedAt": "2026-08-18T07:00:00.000Z",
+        "discoveredAt": "2026-08-18T07:36:07.408Z",
+        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
+      {
+        "id": "cmsy8afig0mvmroz0gb3hz0iq",
+        "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
+        "title_en": "inclusionAI/ConceptEdit",
+        "url": "https://github.com/inclusionAI/ConceptEdit",
+        "permalink": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq",
+        "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+        "publishedAt": "2026-08-17T07:22:08.000Z",
+        "discoveredAt": "2026-08-18T05:34:47.114Z",
+        "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmsz49ptt022qrodp5mc1nt1x",
+        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+        "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+        "url": "https://x.com/claudeai/status/2089806039088517356",
+        "permalink": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
+        "source": "X：Claude (@claudeai)",
+        "publishedAt": "2026-08-18T20:06:01.000Z",
+        "discoveredAt": "2026-08-18T20:30:00.860Z",
+        "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "rss_2010384584",
+        "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/368744",
+        "source": "极客公园",
+        "publishedAt": "2026-08-12T09:24:24+00:00",
+        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6天前"
+      },
+      {
+        "id": "rss_584982378",
+        "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 18 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Tue, 18 Au"
+      }
+    ],
     "app": [
+      {
+        "id": "cmsykcnkt0yh1roz0a9h404r5",
+        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+        "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+        "url": "https://openai.com/index/chatgpt-for-teens",
+        "permalink": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "discoveredAt": "2026-08-18T11:12:25.733Z",
+        "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+        "category": "ai-products",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
+        },
+        "interestTags": [
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
       {
         "id": "cmsxkakju0300roz0zx6cvdeu",
         "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
@@ -32,7 +183,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmsuto7hk0912rouhodiiywlk",
@@ -50,29 +201,6 @@
         "attribution": {
           "source": "AIHOT",
           "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmst3joqo03pwro0658o4g1m3",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_en": "Cursor is now a part of SpaceX",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "permalink": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
-        "source": "Cursor Blog",
-        "publishedAt": "2026-08-14T12:00:00.000Z",
-        "discoveredAt": "2026-08-14T15:23:09.332Z",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "category": "industry",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
         },
         "interestTags": [
           "app"
@@ -103,7 +231,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
         "id": "cmspc30un0e4xrorts1kax9zg",
@@ -126,158 +254,120 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_752046472",
-        "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
+        "id": "rss_3167513761",
+        "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
         "title_en": null,
-        "url": "https://sspai.com/post/113368",
+        "url": "https://sspai.com/post/113593",
         "source": "少数派",
-        "publishedAt": "2026-08-17T07:00:00+00:00",
-        "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。<a href=\"https://sspai.com/post/113368\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-08-18T09:01:31+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113593\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "writing",
-          "education",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmsp1lufu03a9rortoc0ci36q",
-        "title": "Runway Seedance 2.5 上线，支持50角色参考",
-        "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-        "url": "https://x.com/runwayml/status/2087251184658657346",
-        "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
-        "source": "X：Runway (@runwayml)",
-        "publishedAt": "2026-08-11T18:53:56.000Z",
-        "discoveredAt": "2026-08-11T19:17:47.577Z",
-        "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-        "category": "ai-products",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "cmsoxbh180a00rohdooafsmzp",
-        "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-        "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-        "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-08-11T17:00:00.000Z",
-        "discoveredAt": "2026-08-11T17:17:44.810Z",
-        "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-        "category": "paper",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "cmsnx040k01glrofwfqxdc8h5",
-        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-        "title_en": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-        "permalink": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-08-11T00:12:00.000Z",
-        "discoveredAt": "2026-08-11T00:21:07.918Z",
-        "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
-        },
-        "interestTags": [
-          "creative",
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_962053135",
-        "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/368744",
-        "source": "极客公园",
-        "publishedAt": "2026-08-12T09:24:24+00:00",
-        "summary": "<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">作者｜lfei</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: bold; color: #000000;\">编辑｜靖宇</span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\">8 月 3 日， <a href=\"https://mp.w",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_850348135",
-        "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 17 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Mon, 17 Au"
-      }
-    ],
-    "education": [
-      {
-        "id": "cmsqe6mat01bsroli3hw71nz7",
-        "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-        "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-        "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-        "permalink": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7",
-        "source": "Google Research：Blog（网页）",
-        "publishedAt": "2026-08-11T16:00:00.000Z",
-        "discoveredAt": "2026-08-12T17:57:36.369Z",
-        "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-        "category": "paper",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 1,
-        "formattedTime": "6天前"
+        "formattedTime": "14小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmsz8gh3n06e4rodpl8l2syek",
+      "title": "Claude 如何加速蛋白质设计与分析化学研究",
+      "title_en": "How Claude is accelerating protein design and analytical chemistry",
+      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "permalink": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-18T22:27:16.191Z",
+      "discoveredAt": "2026-08-18T22:27:16.191Z",
+      "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmsz49ptt022qrodp5mc1nt1x",
+      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+      "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
+      "url": "https://x.com/claudeai/status/2089806039088517356",
+      "permalink": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-08-18T20:06:01.000Z",
+      "discoveredAt": "2026-08-18T20:30:00.860Z",
+      "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmsykcnkt0yh1roz0a9h404r5",
+      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+      "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "permalink": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "discoveredAt": "2026-08-18T11:12:25.733Z",
+      "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
+      },
+      "interestTags": [
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmsycmgww0rkrroz0nfma0z05",
+      "title": "设计 AI 评测：先求清晰，再谈可视化",
+      "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
+      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+      "permalink": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "discoveredAt": "2026-08-18T07:36:07.408Z",
+      "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
     {
       "id": "cmsxkakju0300roz0zx6cvdeu",
       "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
@@ -300,7 +390,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmsy8afig0mvmroz0gb3hz0iq",
+      "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
+      "title_en": "inclusionAI/ConceptEdit",
+      "url": "https://github.com/inclusionAI/ConceptEdit",
+      "permalink": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq",
+      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+      "publishedAt": "2026-08-17T07:22:08.000Z",
+      "discoveredAt": "2026-08-18T05:34:47.114Z",
+      "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmsuto7hk0912rouhodiiywlk",
@@ -318,29 +431,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmst3joqo03pwro0658o4g1m3",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "title_en": "Cursor is now a part of SpaceX",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "permalink": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-08-14T12:00:00.000Z",
-      "discoveredAt": "2026-08-14T15:23:09.332Z",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-      "category": "industry",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
       },
       "interestTags": [
         "app"
@@ -369,7 +459,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
@@ -392,98 +482,25 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmsp1lufu03a9rortoc0ci36q",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-11T18:53:56.000Z",
-      "discoveredAt": "2026-08-11T19:17:47.577Z",
-      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "6天前"
     },
     {
-      "id": "cmsoxbh180a00rohdooafsmzp",
-      "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-      "title_en": "AMIE， our research medical AI system， demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-      "permalink": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-08-11T17:00:00.000Z",
-      "discoveredAt": "2026-08-11T17:17:44.810Z",
-      "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "cmsnx040k01glrofwfqxdc8h5",
-      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "title_en": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "permalink": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-11T00:12:00.000Z",
-      "discoveredAt": "2026-08-11T00:21:07.918Z",
-      "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+      "id": "rss_3167513761",
+      "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+      "title_en": null,
+      "url": "https://sspai.com/post/113593",
+      "source": "少数派",
+      "publishedAt": "2026-08-18T09:01:31+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113593\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
-      },
       "interestTags": [
-        "creative",
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "rss_752046472",
-      "title": "分享我知识管理 12 年来最重要的经验：INL 结构",
-      "title_en": null,
-      "url": "https://sspai.com/post/113368",
-      "source": "少数派",
-      "publishedAt": "2026-08-17T07:00:00+00:00",
-      "summary": "你是不是有几百个笔记，超级乱，都懒得打开？今天我们介绍一个方法，可以让你不怎么整理，就能快速找到重点。<a href=\"https://sspai.com/post/113368\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "rss_962053135",
+      "id": "rss_2010384584",
       "title": "实测 GenOffice Alpha 版：补上办公工作流最后一环｜AI 上新",
       "title_en": null,
       "url": "http://www.geekpark.net/news/368744",
@@ -495,45 +512,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_850348135",
-      "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+      "id": "rss_584982378",
+      "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Mon, 17 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Tue, 18 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Mon, 17 Au"
-    },
-    {
-      "id": "cmsqe6mat01bsroli3hw71nz7",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-      "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "permalink": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "discoveredAt": "2026-08-12T17:57:36.369Z",
-      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 1,
-      "formattedTime": "6天前"
+      "formattedTime": "Tue, 18 Au"
     }
   ]
 }
