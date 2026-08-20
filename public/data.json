@@ -1,14 +1,89 @@
 {
-  "generatedAt": "2026-08-19T23:26:16.764589+00:00",
-  "totalSource": 114,
-  "totalFiltered": 106,
+  "generatedAt": "2026-08-20T23:28:56.658166+00:00",
+  "totalSource": 108,
+  "totalFiltered": 103,
   "totalSelected": 12,
   "sources": {
-    "aihot": 54,
-    "rss": 60,
-    "bilibili": 0
+    "aihot": 48,
+    "rss": 50,
+    "bilibili": 10
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmt1tonwa07i9roovrze0ll65",
+        "title": "Anthropic 如何开展 AI 教学",
+        "title_en": "Anthropic's approach to teaching and learning AI",
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "permalink": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-08-20T17:56:58.396Z",
+        "discoveredAt": "2026-08-20T17:56:58.396Z",
+        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+        "category": "ai-products",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+        },
+        "interestTags": [
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmt1pkwbj04bxroovzkfca5c7",
+        "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+        "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+        "url": "https://mistral.ai/news/agentic-search",
+        "permalink": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+        "source": "Mistral AI：News（网页）",
+        "publishedAt": "2026-08-20T16:02:07.300Z",
+        "discoveredAt": "2026-08-20T16:02:07.300Z",
+        "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmt1k19bn06qgrokx1p75h1gv",
+        "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+        "title_en": "The Claude Code Guide For Startups",
+        "url": "https://claude.com/blog/claude-code-guide-for-startups",
+        "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-08-20T13:26:53.704Z",
+        "discoveredAt": "2026-08-20T13:26:53.704Z",
+        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      }
+    ],
     "productivity": [
       {
         "id": "cmsz49ptt022qrodp5mc1nt1x",
@@ -31,110 +106,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_1837812425",
-        "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 18 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Tue, 18 Au"
-      },
-      {
-        "id": "rss_1507436859",
-        "title": "Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 19 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "Wed, 19 Au"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmsykcnkt0yh1roz0a9h404r5",
-        "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-        "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-        "url": "https://openai.com/index/chatgpt-for-teens",
-        "permalink": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
-        "discoveredAt": "2026-08-18T11:12:25.733Z",
-        "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-        "category": "ai-products",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
-        },
-        "interestTags": [
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmsxkakju0300roz0zx6cvdeu",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_en": "如何禁用或避免侵入式人工智能",
-        "url": "https://www.librarian.net/notoai",
-        "permalink": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-17T17:58:12.144Z",
-        "discoveredAt": "2026-08-17T18:23:03.341Z",
-        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-        "category": "tip",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       },
       {
-        "id": "cmsuto7hk0912rouhodiiywlk",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_en": "Cursor 现已成为 SpaceX 的一部分",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "permalink": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-15T20:05:54.703Z",
-        "discoveredAt": "2026-08-15T20:22:17.762Z",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "category": "industry",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-        },
+        "id": "bili_BV12eDkBoEjM",
+        "title": "躺着办公这么爽？AI时代好东西分享1.0",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-08-20T23:28:56.652707+00:00",
+        "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
+        "category": "tip",
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "刚刚"
       }
     ],
     "creative": [
@@ -160,7 +147,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmsz8gh3n06e4rodpl8l2syek",
@@ -183,7 +170,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmsy8afig0mvmroz0gb3hz0iq",
@@ -206,12 +193,12 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_2300765303",
+        "id": "rss_160712888",
         "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
         "title_en": null,
         "url": "https://sspai.com/post/113593",
@@ -223,10 +210,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_3255324842",
+        "id": "rss_1729849296",
         "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369013",
@@ -238,36 +225,126 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "bili_BV1Nd596vEyU",
+        "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-08-20T23:28:56.652692+00:00",
+        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ],
     "education": [
       {
-        "id": "cmt0mqceo08lzro2o6xi3rlk4",
-        "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-        "title_en": "在网络关键能力时代推进模型开发",
+        "id": "cmsz0hbsg05l0ro204080cotv",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "permalink": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-19T21:42:09.969Z",
-        "discoveredAt": "2026-08-19T21:54:37.175Z",
-        "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
-        "category": "industry",
-        "score": 72,
+        "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "discoveredAt": "2026-08-18T18:43:58.689Z",
+        "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+        "category": "tip",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4"
+          "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
         },
         "interestTags": [
           "education"
         ],
         "techScore": 2,
-        "formattedTime": "1小时前"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmt1tonwa07i9roovrze0ll65",
+      "title": "Anthropic 如何开展 AI 教学",
+      "title_en": "Anthropic's approach to teaching and learning AI",
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "permalink": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T17:56:58.396Z",
+      "discoveredAt": "2026-08-20T17:56:58.396Z",
+      "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
+      },
+      "interestTags": [
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmt1pkwbj04bxroovzkfca5c7",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+      "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search",
+      "permalink": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-08-20T16:02:07.300Z",
+      "discoveredAt": "2026-08-20T16:02:07.300Z",
+      "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmt1k19bn06qgrokx1p75h1gv",
+      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+      "title_en": "The Claude Code Guide For Startups",
+      "url": "https://claude.com/blog/claude-code-guide-for-startups",
+      "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T13:26:53.704Z",
+      "discoveredAt": "2026-08-20T13:26:53.704Z",
+      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
     {
       "id": "cmsz49ptt022qrodp5mc1nt1x",
       "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
@@ -289,31 +366,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsykcnkt0yh1roz0a9h404r5",
-      "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-      "title_en": "Introducing ChatGPT for Teens： Built for learning， backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "permalink": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "discoveredAt": "2026-08-18T11:12:25.733Z",
-      "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsykcnkt0yh1roz0a9h404r5"
-      },
-      "interestTags": [
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsycmgww0rkrroz0nfma0z05",
@@ -335,30 +388,6 @@
       "interestTags": [
         "creative",
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmsxkakju0300roz0zx6cvdeu",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "title_en": "如何禁用或避免侵入式人工智能",
-      "url": "https://www.librarian.net/notoai",
-      "permalink": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-17T17:58:12.144Z",
-      "discoveredAt": "2026-08-17T18:23:03.341Z",
-      "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxkakju0300roz0zx6cvdeu"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -384,7 +413,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmsy8afig0mvmroz0gb3hz0iq",
@@ -407,33 +436,10 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmsuto7hk0912rouhodiiywlk",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "title_en": "Cursor 现已成为 SpaceX 的一部分",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "permalink": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-15T20:05:54.703Z",
-      "discoveredAt": "2026-08-15T20:22:17.762Z",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_2300765303",
+      "id": "rss_160712888",
       "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
       "title_en": null,
       "url": "https://sspai.com/post/113593",
@@ -445,10 +451,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_3255324842",
+      "id": "rss_1729849296",
       "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369013",
@@ -460,60 +466,62 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1837812425",
-      "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
+      "id": "bili_BV1Nd596vEyU",
+      "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 18 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-08-20T23:28:56.652692+00:00",
+      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "bili_BV12eDkBoEjM",
+      "title": "躺着办公这么爽？AI时代好东西分享1.0",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-08-20T23:28:56.652707+00:00",
+      "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Tue, 18 Au"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "rss_1507436859",
-      "title": "Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 19 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "Wed, 19 Au"
-    },
-    {
-      "id": "cmt0mqceo08lzro2o6xi3rlk4",
-      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-      "title_en": "在网络关键能力时代推进模型开发",
+      "id": "cmsz0hbsg05l0ro204080cotv",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "title_en": "Pacing model development in an era of cyber-critical capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "permalink": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-19T21:42:09.969Z",
-      "discoveredAt": "2026-08-19T21:54:37.175Z",
-      "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
-      "category": "industry",
-      "score": 72,
+      "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "discoveredAt": "2026-08-18T18:43:58.689Z",
+      "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+      "category": "tip",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4"
+        "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
       },
       "interestTags": [
         "education"
       ],
       "techScore": 2,
-      "formattedTime": "1小时前"
+      "formattedTime": "2天前"
     }
   ]
 }
