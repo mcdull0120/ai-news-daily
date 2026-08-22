@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T23:27:33.101306+00:00",
-  "totalSource": 107,
-  "totalFiltered": 100,
+  "generatedAt": "2026-08-22T23:24:22.499192+00:00",
+  "totalSource": 106,
+  "totalFiltered": 99,
   "totalSelected": 12,
   "sources": {
-    "aihot": 47,
+    "aihot": 46,
     "rss": 60,
     "bilibili": 0
   },
@@ -31,7 +31,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmt1k19bn06qgrokx1p75h1gv",
@@ -55,7 +55,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmt0s2ems0dkxro2oylebzxob",
@@ -79,7 +79,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -104,25 +104,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_3504956193",
-        "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/08/476409.html",
-        "source": "量子位",
-        "publishedAt": "2026-08-21T02:31:10+00:00",
-        "summary": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "20小时前"
-      },
-      {
-        "id": "rss_3302725809",
+        "id": "rss_3973468608",
         "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
         "title_en": null,
         "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
@@ -160,7 +145,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmsz8gh3n06e4rodpl8l2syek",
@@ -183,7 +168,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmsy8afig0mvmroz0gb3hz0iq",
@@ -206,42 +191,25 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rss_1674628180",
-        "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369013",
-        "source": "极客公园",
-        "publishedAt": "2026-08-19T04:02:55+00:00",
-        "summary": "<p style=\"text-align: left;\">「所有劝我不要干太空算力的朋友，现在全在干太空算力。」</p>\n<p style=\"text-align: left;\">太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。</p>\n<p style=\"text-align: left;\">他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_4127568102",
-        "title": "宇树往事",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369047",
-        "source": "极客公园",
-        "publishedAt": "2026-08-19T12:19:12+00:00",
-        "summary": "<p>今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。</p>\n<p>对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。</p>\n<p>大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 2017 年极客公园旗下变量资本决定投资宇树天使轮至今，我们也已经陪伴宇树走过了九个年头。在我眼里，这是个脆弱与坚强交织、纠结与决断并存的过程。</p>\n<p>上市的精彩只是一瞬间，但我想把陪伴宇树这段长跑里的往事好好「蒸馏」一下，也许能从中提炼出一些对当下及未来创业者依然有价值和有意义的东",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 2,
-        "formattedTime": "2天前"
+        "formattedTime": "5天前"
       }
     ],
     "education": [
+      {
+        "id": "rss_994122749",
+        "title": "越会用 AI 的人，学习能力退化得越快",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369212",
+        "source": "极客公园",
+        "publishedAt": "2026-08-22T10:07:50+00:00",
+        "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
       {
         "id": "cmsz0hbsg05l0ro204080cotv",
         "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
@@ -263,7 +231,39 @@
           "education"
         ],
         "techScore": 2,
+        "formattedTime": "4天前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "rss_743248330",
+        "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369013",
+        "source": "极客公园",
+        "publishedAt": "2026-08-19T04:02:55+00:00",
+        "summary": "<p style=\"text-align: left;\">「所有劝我不要干太空算力的朋友，现在全在干太空算力。」</p>\n<p style=\"text-align: left;\">太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。</p>\n<p style=\"text-align: left;\">他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
         "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_526760064",
+        "title": "npm 终于动手了：默认封杀 postinstall 脚本",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Sat, 22 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 1,
+        "formattedTime": "Sat, 22 Au"
       }
     ]
   },
@@ -289,7 +289,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmt1k19bn06qgrokx1p75h1gv",
@@ -313,7 +313,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmt0s2ems0dkxro2oylebzxob",
@@ -337,7 +337,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmsz49ptt022qrodp5mc1nt1x",
@@ -360,7 +360,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsycmgww0rkrroz0nfma0z05",
@@ -384,7 +384,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsz8gh3n06e4rodpl8l2syek",
@@ -407,7 +407,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmsy8afig0mvmroz0gb3hz0iq",
@@ -430,25 +430,25 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3504956193",
-      "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "id": "rss_994122749",
+      "title": "越会用 AI 的人，学习能力退化得越快",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/476409.html",
-      "source": "量子位",
-      "publishedAt": "2026-08-21T02:31:10+00:00",
-      "summary": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+      "url": "http://www.geekpark.net/news/369212",
+      "source": "极客公园",
+      "publishedAt": "2026-08-22T10:07:50+00:00",
+      "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
       "category": "industry",
       "interestTags": [
-        "productivity"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "13小时前"
     },
     {
-      "id": "rss_1674628180",
+      "id": "rss_743248330",
       "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369013",
@@ -460,10 +460,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_3302725809",
+      "id": "rss_3973468608",
       "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
       "title_en": null,
       "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
@@ -476,6 +476,21 @@
       ],
       "techScore": -1,
       "formattedTime": "Fri, 21 Au"
+    },
+    {
+      "id": "rss_526760064",
+      "title": "npm 终于动手了：默认封杀 postinstall 脚本",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Sat, 22 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 1,
+      "formattedTime": "Sat, 22 Au"
     },
     {
       "id": "cmsz0hbsg05l0ro204080cotv",
@@ -498,22 +513,7 @@
         "education"
       ],
       "techScore": 2,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_4127568102",
-      "title": "宇树往事",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/369047",
-      "source": "极客公园",
-      "publishedAt": "2026-08-19T12:19:12+00:00",
-      "summary": "<p>今天，宇树科技鸣锣上市了，跑出了超过 4000 亿的市值。</p>\n<p>对于风口正盛的具身智能行业来说，宇树扮演了赛道破风者的角色，为整个行业设定了一个宝贵的价值锚点。</p>\n<p>大家近几年看到的，或许是宇树极其迅猛的发展加速度。但回望它的成长之路，其实并不是个爽文的剧本，从 2017 年极客公园旗下变量资本决定投资宇树天使轮至今，我们也已经陪伴宇树走过了九个年头。在我眼里，这是个脆弱与坚强交织、纠结与决断并存的过程。</p>\n<p>上市的精彩只是一瞬间，但我想把陪伴宇树这段长跑里的往事好好「蒸馏」一下，也许能从中提炼出一些对当下及未来创业者依然有价值和有意义的东",
-      "category": "industry",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": 2,
-      "formattedTime": "2天前"
+      "formattedTime": "4天前"
     }
   ]
 }
