@@ -1,15 +1,38 @@
 {
-  "generatedAt": "2026-08-23T23:24:47.509932+00:00",
-  "totalSource": 107,
-  "totalFiltered": 97,
+  "generatedAt": "2026-08-24T23:25:18.212369+00:00",
+  "totalSource": 100,
+  "totalFiltered": 93,
   "totalSelected": 12,
   "sources": {
-    "aihot": 47,
+    "aihot": 40,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmt7cxb9t22baro73x9ys4bnr",
+        "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
+        "title_en": "The AI Bullwhip",
+        "url": "https://www.tomtunguz.com/the-ai-cost-stack",
+        "permalink": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr",
+        "source": "Tomer Tunguz 博客（VC 分析）",
+        "publishedAt": "2026-08-23T00:00:00.000Z",
+        "discoveredAt": "2026-08-24T14:54:28.980Z",
+        "summary": "AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应。2023 年初 GPU 短缺使 H100 租赁价超 $9/小时，随后压力转移至内存，企业级 SSD 合约价单季上涨 80%；到 2025 年底智能体推高 CPU 需求，2026 年存储短缺导致西数和希捷 2026 全年 nearline 产能售罄。数据中心建设成本已超 $20b/GW，变压器交期近三年，涡轮机订单排至 2031 年。",
+        "category": "tip",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmt31oi0x0ehyro6tui3xycqe",
         "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
@@ -31,7 +54,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmt1k19bn06qgrokx1p75h1gv",
@@ -55,31 +78,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmt0s2ems0dkxro2oylebzxob",
-        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/991/886.htm",
-        "permalink": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-20T00:17:26.000Z",
-        "discoveredAt": "2026-08-20T00:23:57.005Z",
-        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-        "category": "industry",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -104,22 +103,22 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_3596075800",
-        "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
+        "id": "rss_1655543202",
+        "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
+        "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
         "source": "InfoQ中文",
-        "publishedAt": "Fri, 21 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "publishedAt": "Mon, 24 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Fri, 21 Au"
+        "formattedTime": "Mon, 24 Au"
       }
     ],
     "creative": [
@@ -145,58 +144,43 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "cmsz8gh3n06e4rodpl8l2syek",
-        "title": "Claude 如何加速蛋白质设计与分析化学研究",
-        "title_en": "How Claude is accelerating protein design and analytical chemistry",
-        "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-        "permalink": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-08-17T16:00:00.000Z",
-        "discoveredAt": "2026-08-18T22:27:16.191Z",
-        "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-        "category": "paper",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek"
-        },
+        "id": "rss_2564709024",
+        "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+        "title_en": null,
+        "url": "https://sspai.com/post/113002",
+        "source": "少数派",
+        "publishedAt": "2026-08-23T03:00:00+00:00",
+        "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_316049672",
+        "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+        "title_en": null,
+        "url": "https://sspai.com/post/113675",
+        "source": "少数派",
+        "publishedAt": "2026-08-22T03:00:00+00:00",
+        "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "cmsy8afig0mvmroz0gb3hz0iq",
-        "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
-        "title_en": "inclusionAI/ConceptEdit",
-        "url": "https://github.com/inclusionAI/ConceptEdit",
-        "permalink": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq",
-        "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-        "publishedAt": "2026-08-17T07:22:08.000Z",
-        "discoveredAt": "2026-08-18T05:34:47.114Z",
-        "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
-        "category": "ai-products",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_3212240931",
+        "id": "rss_1013646304",
         "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
         "title_en": null,
         "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
@@ -208,25 +192,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2601243246",
-        "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369013",
-        "source": "极客公园",
-        "publishedAt": "2026-08-19T04:02:55+00:00",
-        "summary": "<p style=\"text-align: left;\">「所有劝我不要干太空算力的朋友，现在全在干太空算力。」</p>\n<p style=\"text-align: left;\">太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。</p>\n<p style=\"text-align: left;\">他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、",
-        "category": "industry",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "rss_626500895",
+        "id": "rss_3668144928",
         "title": "npm 终于动手了：默认封杀 postinstall 脚本",
         "title_en": null,
         "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
@@ -243,7 +212,7 @@
     ],
     "education": [
       {
-        "id": "rss_3540303003",
+        "id": "rss_1960117774",
         "title": "越会用 AI 的人，学习能力退化得越快",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369212",
@@ -255,11 +224,57 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmsz0hbsg05l0ro204080cotv",
+        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+        "title_en": "Pacing model development in an era of cyber-critical capabilities",
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+        "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-08-18T11:00:00.000Z",
+        "discoveredAt": "2026-08-18T18:43:58.689Z",
+        "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 2,
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmt7cxb9t22baro73x9ys4bnr",
+      "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
+      "title_en": "The AI Bullwhip",
+      "url": "https://www.tomtunguz.com/the-ai-cost-stack",
+      "permalink": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-23T00:00:00.000Z",
+      "discoveredAt": "2026-08-24T14:54:28.980Z",
+      "summary": "AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应。2023 年初 GPU 短缺使 H100 租赁价超 $9/小时，随后压力转移至内存，企业级 SSD 合约价单季上涨 80%；到 2025 年底智能体推高 CPU 需求，2026 年存储短缺导致西数和希捷 2026 全年 nearline 产能售罄。数据中心建设成本已超 $20b/GW，变压器交期近三年，涡轮机订单排至 2031 年。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmt31oi0x0ehyro6tui3xycqe",
       "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
@@ -281,7 +296,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmt1k19bn06qgrokx1p75h1gv",
@@ -305,31 +320,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmt0s2ems0dkxro2oylebzxob",
-      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/991/886.htm",
-      "permalink": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-20T00:17:26.000Z",
-      "discoveredAt": "2026-08-20T00:23:57.005Z",
-      "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmsz49ptt022qrodp5mc1nt1x",
@@ -352,7 +343,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "cmsycmgww0rkrroz0nfma0z05",
@@ -376,56 +367,10 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmsz8gh3n06e4rodpl8l2syek",
-      "title": "Claude 如何加速蛋白质设计与分析化学研究",
-      "title_en": "How Claude is accelerating protein design and analytical chemistry",
-      "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-      "permalink": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-17T16:00:00.000Z",
-      "discoveredAt": "2026-08-18T22:27:16.191Z",
-      "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz8gh3n06e4rodpl8l2syek"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
       "formattedTime": "6天前"
     },
     {
-      "id": "cmsy8afig0mvmroz0gb3hz0iq",
-      "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
-      "title_en": "inclusionAI/ConceptEdit",
-      "url": "https://github.com/inclusionAI/ConceptEdit",
-      "permalink": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq",
-      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-      "publishedAt": "2026-08-17T07:22:08.000Z",
-      "discoveredAt": "2026-08-18T05:34:47.114Z",
-      "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3212240931",
+      "id": "rss_1013646304",
       "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
       "title_en": null,
       "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
@@ -437,10 +382,41 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3540303003",
+      "id": "rss_2564709024",
+      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
+      "title_en": null,
+      "url": "https://sspai.com/post/113002",
+      "source": "少数派",
+      "publishedAt": "2026-08-23T03:00:00+00:00",
+      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_316049672",
+      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+      "title_en": null,
+      "url": "https://sspai.com/post/113675",
+      "source": "少数派",
+      "publishedAt": "2026-08-22T03:00:00+00:00",
+      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_1960117774",
       "title": "越会用 AI 的人，学习能力退化得越快",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369212",
@@ -452,40 +428,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2601243246",
-      "title": "马斯克带火的太空算力领域，传一个 800MB 模型上天要四周",
+      "id": "rss_1655543202",
+      "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/369013",
-      "source": "极客公园",
-      "publishedAt": "2026-08-19T04:02:55+00:00",
-      "summary": "<p style=\"text-align: left;\">「所有劝我不要干太空算力的朋友，现在全在干太空算力。」</p>\n<p style=\"text-align: left;\">太空字节联合创始人秦贵军这样描述过去一年。这家公司 2024 年底成立，做的是太空数据中心；他本人参与过北斗导航重大专项，在卫星行业干了十几年。那些劝过他的朋友也大多是同一个画像：传统航天出身，两年前还觉得把算力送上天是个不着调的故事，如今已经用脚投票。</p>\n<p style=\"text-align: left;\">他画过一张国内太空算力的行业热力图，从长三角到北京亦庄、中关村，再到成都、西安、",
-      "category": "industry",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_3596075800",
-      "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Fri, 21 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Mon, 24 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Fri, 21 Au"
+      "formattedTime": "Mon, 24 Au"
     },
     {
-      "id": "rss_626500895",
+      "id": "rss_3668144928",
       "title": "npm 终于动手了：默认封杀 postinstall 脚本",
       "title_en": null,
       "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
@@ -498,6 +459,29 @@
       ],
       "techScore": 1,
       "formattedTime": "Sat, 22 Au"
+    },
+    {
+      "id": "cmsz0hbsg05l0ro204080cotv",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "title_en": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "discoveredAt": "2026-08-18T18:43:58.689Z",
+      "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
+      },
+      "interestTags": [
+        "education"
+      ],
+      "techScore": 2,
+      "formattedTime": "6天前"
     }
   ]
 }
