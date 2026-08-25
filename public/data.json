@@ -1,15 +1,62 @@
 {
-  "generatedAt": "2026-08-24T23:25:18.212369+00:00",
-  "totalSource": 100,
-  "totalFiltered": 93,
-  "totalSelected": 12,
+  "generatedAt": "2026-08-25T23:27:43.792737+00:00",
+  "totalSource": 101,
+  "totalFiltered": 91,
+  "totalSelected": 11,
   "sources": {
-    "aihot": 40,
+    "aihot": 41,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmt96t9tm0augrolyx2c3vi84",
+        "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+        "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+        "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+        "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
+        "source": "LangChain：Blog（RSS）",
+        "publishedAt": "2026-08-25T21:12:53.000Z",
+        "discoveredAt": "2026-08-25T21:38:55.571Z",
+        "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "cmt9588t109p9rolyegirxdgx",
+        "title": "AI 智能体应该活多久？",
+        "title_en": "How Long Should an AI Agent Live？",
+        "url": "https://www.tomtunguz.com/how-long-should-an-agent-live",
+        "permalink": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx",
+        "source": "Tomer Tunguz 博客（VC 分析）",
+        "publishedAt": "2026-08-24T00:00:00.000Z",
+        "discoveredAt": "2026-08-25T20:54:34.789Z",
+        "summary": "长期运行的 AI 智能体会因上下文累积而注意力衰减、临时指令残留成永久规则，并带来安全风险。建议给日常助手 24 小时生命周期，午夜重置会话，将具体任务委派给只存活 30 秒的单一用途子智能体，并在重置前将持久偏好存入磁盘。",
+        "category": "tip",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmt7cxb9t22baro73x9ys4bnr",
         "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
@@ -31,82 +78,130 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "2天前"
+      }
+    ],
+    "writing": [
       {
-        "id": "cmt31oi0x0ehyro6tui3xycqe",
-        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-        "title_en": "The AI-Native SDLC playbook",
-        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-        "permalink": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-08-21T14:28:27.351Z",
-        "discoveredAt": "2026-08-21T14:28:27.351Z",
-        "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
+        "id": "rss_749902790",
+        "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
+        "title_en": null,
+        "url": "https://sspai.com/post/113828",
+        "source": "少数派",
+        "publishedAt": "2026-08-25T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113828\" target=\"_blank\">查看全文</a>",
         "category": "tip",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe"
-        },
         "interestTags": [
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "14小时前"
       },
       {
-        "id": "cmt1k19bn06qgrokx1p75h1gv",
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "title_en": "The Claude Code Guide For Startups",
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-08-20T13:26:53.704Z",
-        "discoveredAt": "2026-08-20T13:26:53.704Z",
-        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+        "id": "rss_3079627353",
+        "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
+        "source": "少数派",
+        "publishedAt": "2026-08-23T07:25:29+00:00",
+        "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
         "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
-        },
         "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "rss_3840410936",
+        "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+        "title_en": null,
+        "url": "https://sspai.com/post/113813",
+        "source": "少数派",
+        "publishedAt": "2026-08-25T00:28:32+00:00",
+        "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...<a href=\"https://sspai.com/post/113813\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
+      {
+        "id": "rss_2051897670",
+        "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369344",
+        "source": "极客公园",
+        "publishedAt": "2026-08-25T08:58:10+00:00",
+        "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
+        "category": "industry",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
+      {
+        "id": "rss_1611595548",
+        "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369303",
+        "source": "极客公园",
+        "publishedAt": "2026-08-25T00:25:52+00:00",
+        "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/99/3c/993c03d3c0f8e7cf637095f710a0c845.png\" /></p>\n<h1>TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\"</h1>\n<p>8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE 及 CL",
+        "category": "industry",
+        "interestTags": [
+          "creative",
           "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "23小时前"
+      }
+    ],
+    "education": [
+      {
+        "id": "rss_977492516",
+        "title": "越会用 AI 的人，学习能力退化得越快",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369212",
+        "source": "极客公园",
+        "publishedAt": "2026-08-22T10:07:50+00:00",
+        "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
       {
-        "id": "cmsz49ptt022qrodp5mc1nt1x",
-        "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-        "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-        "url": "https://x.com/claudeai/status/2089806039088517356",
-        "permalink": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-        "source": "X：Claude (@claudeai)",
-        "publishedAt": "2026-08-18T20:06:01.000Z",
-        "discoveredAt": "2026-08-18T20:30:00.860Z",
-        "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
-        },
+        "id": "rss_1105910581",
+        "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 25 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "Tue, 25 Au"
       },
       {
-        "id": "rss_1655543202",
+        "id": "rss_1950193633",
         "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
         "title_en": null,
         "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
@@ -120,138 +215,56 @@
         "techScore": -1,
         "formattedTime": "Mon, 24 Au"
       }
-    ],
-    "creative": [
-      {
-        "id": "cmsycmgww0rkrroz0nfma0z05",
-        "title": "设计 AI 评测：先求清晰，再谈可视化",
-        "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-        "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-        "permalink": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05",
-        "source": "Google AI：DEV 作者专属（RSS）",
-        "publishedAt": "2026-08-18T07:00:00.000Z",
-        "discoveredAt": "2026-08-18T07:36:07.408Z",
-        "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_2564709024",
-        "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-        "title_en": null,
-        "url": "https://sspai.com/post/113002",
-        "source": "少数派",
-        "publishedAt": "2026-08-23T03:00:00+00:00",
-        "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_316049672",
-        "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-        "title_en": null,
-        "url": "https://sspai.com/post/113675",
-        "source": "少数派",
-        "publishedAt": "2026-08-22T03:00:00+00:00",
-        "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rss_1013646304",
-        "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-        "source": "少数派",
-        "publishedAt": "2026-08-23T07:25:29+00:00",
-        "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3668144928",
-        "title": "npm 终于动手了：默认封杀 postinstall 脚本",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Sat, 22 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": 1,
-        "formattedTime": "Sat, 22 Au"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_1960117774",
-        "title": "越会用 AI 的人，学习能力退化得越快",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369212",
-        "source": "极客公园",
-        "publishedAt": "2026-08-22T10:07:50+00:00",
-        "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmsz0hbsg05l0ro204080cotv",
-        "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-        "title_en": "Pacing model development in an era of cyber-critical capabilities",
-        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-        "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
-        "discoveredAt": "2026-08-18T18:43:58.689Z",
-        "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 2,
-        "formattedTime": "6天前"
-      }
     ]
   },
   "items": [
+    {
+      "id": "cmt96t9tm0augrolyx2c3vi84",
+      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+      "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+      "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-08-25T21:12:53.000Z",
+      "discoveredAt": "2026-08-25T21:38:55.571Z",
+      "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "cmt9588t109p9rolyegirxdgx",
+      "title": "AI 智能体应该活多久？",
+      "title_en": "How Long Should an AI Agent Live？",
+      "url": "https://www.tomtunguz.com/how-long-should-an-agent-live",
+      "permalink": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "discoveredAt": "2026-08-25T20:54:34.789Z",
+      "summary": "长期运行的 AI 智能体会因上下文累积而注意力衰减、临时指令残留成永久规则，并带来安全风险。建议给日常助手 24 小时生命周期，午夜重置会话，将具体任务委派给只存活 30 秒的单一用途子智能体，并在重置前将持久偏好存入磁盘。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmt7cxb9t22baro73x9ys4bnr",
       "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
@@ -273,104 +286,42 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmt31oi0x0ehyro6tui3xycqe",
-      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-      "title_en": "The AI-Native SDLC playbook",
-      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "permalink": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-21T14:28:27.351Z",
-      "discoveredAt": "2026-08-21T14:28:27.351Z",
-      "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
+      "id": "rss_749902790",
+      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
+      "title_en": null,
+      "url": "https://sspai.com/post/113828",
+      "source": "少数派",
+      "publishedAt": "2026-08-25T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113828\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt31oi0x0ehyro6tui3xycqe"
-      },
       "interestTags": [
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "cmt1k19bn06qgrokx1p75h1gv",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-      "title_en": "The Claude Code Guide For Startups",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "permalink": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-20T13:26:53.704Z",
-      "discoveredAt": "2026-08-20T13:26:53.704Z",
-      "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+      "id": "rss_3840410936",
+      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+      "title_en": null,
+      "url": "https://sspai.com/post/113813",
+      "source": "少数派",
+      "publishedAt": "2026-08-25T00:28:32+00:00",
+      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...<a href=\"https://sspai.com/post/113813\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1k19bn06qgrokx1p75h1gv"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmsz49ptt022qrodp5mc1nt1x",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-      "title_en": "Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "permalink": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-08-18T20:06:01.000Z",
-      "discoveredAt": "2026-08-18T20:30:00.860Z",
-      "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz49ptt022qrodp5mc1nt1x"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "cmsycmgww0rkrroz0nfma0z05",
-      "title": "设计 AI 评测：先求清晰，再谈可视化",
-      "title_en": "Designing AI Evals： Clarity Now and Visualization Next",
-      "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
-      "permalink": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-08-18T07:00:00.000Z",
-      "discoveredAt": "2026-08-18T07:36:07.408Z",
-      "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
-      },
       "interestTags": [
         "creative",
-        "app"
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "22小时前"
     },
     {
-      "id": "rss_1013646304",
+      "id": "rss_3079627353",
       "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
       "title_en": null,
       "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
@@ -382,41 +333,45 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2564709024",
-      "title": "让 PC 与 HomePod 互联：音频串流工具 WinAirCast",
-      "title_en": null,
-      "url": "https://sspai.com/post/113002",
-      "source": "少数派",
-      "publishedAt": "2026-08-23T03:00:00+00:00",
-      "summary": "打破生态壁垒，让好的设备发挥出它应有的价值，这就是 WinAirCast 的初衷。我们希望为 Windows 用户提供一款稳定、低延迟且现代化的音频串流工具。<a href=\"https://sspai.com/post/113002\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_316049672",
-      "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
-      "title_en": null,
-      "url": "https://sspai.com/post/113675",
-      "source": "少数派",
-      "publishedAt": "2026-08-22T03:00:00+00:00",
-      "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...<a href=\"https://sspai.com/post/113675\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "rss_1960117774",
+      "id": "rss_2051897670",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/369344",
+      "source": "极客公园",
+      "publishedAt": "2026-08-25T08:58:10+00:00",
+      "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "rss_1611595548",
+      "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/369303",
+      "source": "极客公园",
+      "publishedAt": "2026-08-25T00:25:52+00:00",
+      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/99/3c/993c03d3c0f8e7cf637095f710a0c845.png\" /></p>\n<h1>TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\"</h1>\n<p>8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE 及 CL",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "rss_977492516",
       "title": "越会用 AI 的人，学习能力退化得越快",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369212",
@@ -428,10 +383,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_1655543202",
+      "id": "rss_1105910581",
+      "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 25 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Tue, 25 Au"
+    },
+    {
+      "id": "rss_1950193633",
       "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
       "title_en": null,
       "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
@@ -444,44 +414,6 @@
       ],
       "techScore": -1,
       "formattedTime": "Mon, 24 Au"
-    },
-    {
-      "id": "rss_3668144928",
-      "title": "npm 终于动手了：默认封杀 postinstall 脚本",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Sat, 22 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": 1,
-      "formattedTime": "Sat, 22 Au"
-    },
-    {
-      "id": "cmsz0hbsg05l0ro204080cotv",
-      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
-      "title_en": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "discoveredAt": "2026-08-18T18:43:58.689Z",
-      "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 2,
-      "formattedTime": "6天前"
     }
   ]
 }
