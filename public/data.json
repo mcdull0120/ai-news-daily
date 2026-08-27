@@ -1,89 +1,119 @@
 {
-  "generatedAt": "2026-08-25T23:27:43.792737+00:00",
-  "totalSource": 101,
-  "totalFiltered": 91,
-  "totalSelected": 11,
+  "generatedAt": "2026-08-27T04:25:42.746392+00:00",
+  "totalSource": 112,
+  "totalFiltered": 100,
+  "totalSelected": 10,
   "sources": {
-    "aihot": 41,
+    "aihot": 52,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmt96t9tm0augrolyx2c3vi84",
-        "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
-        "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
-        "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
-        "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
-        "source": "LangChain：Blog（RSS）",
-        "publishedAt": "2026-08-25T21:12:53.000Z",
-        "discoveredAt": "2026-08-25T21:38:55.571Z",
-        "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
-        "category": "ai-products",
-        "score": 61,
+        "id": "cmtaq20ih062wroamdrhb54b6",
+        "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+        "title_en": null,
+        "url": "https://www.ithome.com/0/994/791.htm",
+        "permalink": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-08-26T20:25:54.000Z",
+        "discoveredAt": "2026-08-26T23:25:21.048Z",
+        "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+        "category": "industry",
+        "score": 74,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+          "canonical": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmtacdvh50a4aroj2zlw9jnj9",
+        "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+        "title_en": "How Warp builds self-improving agents on Claude",
+        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+        "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-08-26T17:02:40.777Z",
+        "discoveredAt": "2026-08-26T17:02:40.777Z",
+        "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+        "category": "tip",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "cmta6v56y03yiroj2ki26viqh",
+        "title": "以色列资助的假美国智库试图利用AI进行宣传",
+        "title_en": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
+        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "permalink": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-26T14:05:28.706Z",
+        "discoveredAt": "2026-08-26T14:28:07.466Z",
+        "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+        "category": "industry",
+        "score": 82,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh"
         },
         "interestTags": [
           "app",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "cmt9588t109p9rolyegirxdgx",
-        "title": "AI 智能体应该活多久？",
-        "title_en": "How Long Should an AI Agent Live？",
-        "url": "https://www.tomtunguz.com/how-long-should-an-agent-live",
-        "permalink": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "publishedAt": "2026-08-24T00:00:00.000Z",
-        "discoveredAt": "2026-08-25T20:54:34.789Z",
-        "summary": "长期运行的 AI 智能体会因上下文累积而注意力衰减、临时指令残留成永久规则，并带来安全风险。建议给日常助手 24 小时生命周期，午夜重置会话，将具体任务委派给只存活 30 秒的单一用途子智能体，并在重置前将持久偏好存入磁盘。",
-        "category": "tip",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmt7cxb9t22baro73x9ys4bnr",
-        "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
-        "title_en": "The AI Bullwhip",
-        "url": "https://www.tomtunguz.com/the-ai-cost-stack",
-        "permalink": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr",
-        "source": "Tomer Tunguz 博客（VC 分析）",
-        "publishedAt": "2026-08-23T00:00:00.000Z",
-        "discoveredAt": "2026-08-24T14:54:28.980Z",
-        "summary": "AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应。2023 年初 GPU 短缺使 H100 租赁价超 $9/小时，随后压力转移至内存，企业级 SSD 合约价单季上涨 80%；到 2025 年底智能体推高 CPU 需求，2026 年存储短缺导致西数和希捷 2026 全年 nearline 产能售罄。数据中心建设成本已超 $20b/GW，变压器交期近三年，涡轮机订单排至 2031 年。",
-        "category": "tip",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "14小时前"
       }
     ],
     "writing": [
       {
-        "id": "rss_749902790",
+        "id": "rss_2456425109",
+        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+        "source": "少数派",
+        "publishedAt": "2026-08-26T07:59:03+00:00",
+        "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "rss_3546170882",
+        "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+        "title_en": null,
+        "url": "https://sspai.com/post/113851",
+        "source": "少数派",
+        "publishedAt": "2026-08-26T07:11:40+00:00",
+        "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
+      {
+        "id": "rss_2251615730",
         "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
         "title_en": null,
         "url": "https://sspai.com/post/113828",
@@ -95,44 +125,43 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_3079627353",
-        "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-        "source": "少数派",
-        "publishedAt": "2026-08-23T07:25:29+00:00",
-        "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
       {
-        "id": "rss_3840410936",
-        "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+        "id": "rss_868341524",
+        "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
         "title_en": null,
-        "url": "https://sspai.com/post/113813",
-        "source": "少数派",
-        "publishedAt": "2026-08-25T00:28:32+00:00",
-        "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...<a href=\"https://sspai.com/post/113813\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/08/479670.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-26T05:56:25+00:00",
+        "summary": "Agnes Video 2.5 Flash",
+        "category": "industry",
         "interestTags": [
-          "creative",
-          "app",
-          "writing"
+          "creative"
         ],
         "techScore": -1,
         "formattedTime": "22小时前"
       },
       {
-        "id": "rss_2051897670",
+        "id": "rss_2414628631",
+        "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/369395",
+        "source": "极客公园",
+        "publishedAt": "2026-08-26T07:10:12+00:00",
+        "summary": "<p>&nbsp;</p>\n<p>头图来源：OJO 官网</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。</p>\n<p>这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。</p>\n<p>在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到",
+        "category": "industry",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "21小时前"
+      },
+      {
+        "id": "rss_1855261016",
         "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369344",
@@ -147,46 +176,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      },
-      {
-        "id": "rss_1611595548",
-        "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369303",
-        "source": "极客公园",
-        "publishedAt": "2026-08-25T00:25:52+00:00",
-        "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/99/3c/993c03d3c0f8e7cf637095f710a0c845.png\" /></p>\n<h1>TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\"</h1>\n<p>8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE 及 CL",
-        "category": "industry",
-        "interestTags": [
-          "creative",
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_977492516",
-        "title": "越会用 AI 的人，学习能力退化得越快",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369212",
-        "source": "极客公园",
-        "publishedAt": "2026-08-22T10:07:50+00:00",
-        "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1105910581",
+        "id": "rss_2542870977",
         "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
         "title_en": null,
         "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
@@ -199,97 +194,112 @@
         ],
         "techScore": -1,
         "formattedTime": "Tue, 25 Au"
-      },
-      {
-        "id": "rss_1950193633",
-        "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 24 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Mon, 24 Au"
       }
     ]
   },
   "items": [
     {
-      "id": "cmt96t9tm0augrolyx2c3vi84",
-      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
-      "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
-      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
-      "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-08-25T21:12:53.000Z",
-      "discoveredAt": "2026-08-25T21:38:55.571Z",
-      "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
-      "category": "ai-products",
-      "score": 61,
+      "id": "cmtaq20ih062wroamdrhb54b6",
+      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/994/791.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-26T20:25:54.000Z",
+      "discoveredAt": "2026-08-26T23:25:21.048Z",
+      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
+      "category": "industry",
+      "score": 74,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+        "canonical": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtacdvh50a4aroj2zlw9jnj9",
+      "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+      "title_en": "How Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-26T17:02:40.777Z",
+      "discoveredAt": "2026-08-26T17:02:40.777Z",
+      "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmta6v56y03yiroj2ki26viqh",
+      "title": "以色列资助的假美国智库试图利用AI进行宣传",
+      "title_en": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
+      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+      "permalink": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-26T14:05:28.706Z",
+      "discoveredAt": "2026-08-26T14:28:07.466Z",
+      "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh"
       },
       "interestTags": [
         "app",
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "14小时前"
     },
     {
-      "id": "cmt9588t109p9rolyegirxdgx",
-      "title": "AI 智能体应该活多久？",
-      "title_en": "How Long Should an AI Agent Live？",
-      "url": "https://www.tomtunguz.com/how-long-should-an-agent-live",
-      "permalink": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "discoveredAt": "2026-08-25T20:54:34.789Z",
-      "summary": "长期运行的 AI 智能体会因上下文累积而注意力衰减、临时指令残留成永久规则，并带来安全风险。建议给日常助手 24 小时生命周期，午夜重置会话，将具体任务委派给只存活 30 秒的单一用途子智能体，并在重置前将持久偏好存入磁盘。",
+      "id": "rss_2456425109",
+      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+      "title_en": null,
+      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+      "source": "少数派",
+      "publishedAt": "2026-08-26T07:59:03+00:00",
+      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
       "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
-      },
       "interestTags": [
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "20小时前"
     },
     {
-      "id": "cmt7cxb9t22baro73x9ys4bnr",
-      "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
-      "title_en": "The AI Bullwhip",
-      "url": "https://www.tomtunguz.com/the-ai-cost-stack",
-      "permalink": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-23T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T14:54:28.980Z",
-      "summary": "AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应。2023 年初 GPU 短缺使 H100 租赁价超 $9/小时，随后压力转移至内存，企业级 SSD 合约价单季上涨 80%；到 2025 年底智能体推高 CPU 需求，2026 年存储短缺导致西数和希捷 2026 全年 nearline 产能售罄。数据中心建设成本已超 $20b/GW，变压器交期近三年，涡轮机订单排至 2031 年。",
+      "id": "rss_3546170882",
+      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "title_en": null,
+      "url": "https://sspai.com/post/113851",
+      "source": "少数派",
+      "publishedAt": "2026-08-26T07:11:40+00:00",
+      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
-      },
       "interestTags": [
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "21小时前"
     },
     {
-      "id": "rss_749902790",
+      "id": "rss_2251615730",
       "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
       "title_en": null,
       "url": "https://sspai.com/post/113828",
@@ -301,42 +311,41 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3840410936",
-      "title": "派早报：阿里云视频生成模型 Wan3.0 上线，小米发布三款玄戒芯片等",
+      "id": "rss_868341524",
+      "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
       "title_en": null,
-      "url": "https://sspai.com/post/113813",
-      "source": "少数派",
-      "publishedAt": "2026-08-25T00:28:32+00:00",
-      "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解你可能错过的文章快 ...<a href=\"https://sspai.com/post/113813\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "url": "https://www.qbitai.com/2026/08/479670.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-26T05:56:25+00:00",
+      "summary": "Agnes Video 2.5 Flash",
+      "category": "industry",
       "interestTags": [
-        "creative",
-        "app",
-        "writing"
+        "creative"
       ],
       "techScore": -1,
       "formattedTime": "22小时前"
     },
     {
-      "id": "rss_3079627353",
-      "title": "AI 时代的 Surface Pro 7 改造指南：看板、轻量工作站与 Linux 笔记本",
+      "id": "rss_2414628631",
+      "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
       "title_en": null,
-      "url": "https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard",
-      "source": "少数派",
-      "publishedAt": "2026-08-23T07:25:29+00:00",
-      "summary": "手头这台闲置的SurfacePro7在桌角放了挺长一段时间。当年买它看重的是二合一的便携形态，但放在Windows11下只要长时间亮屏就一定会过热、偶尔跳屏，基本处于不可用的状态。直到前阵子在网上看到 ...<a href=\"https://sspai.com/prime/story/surface-pro-7-linux-ai-dashboard\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。<",
-      "category": "tip",
+      "url": "http://www.geekpark.net/news/369395",
+      "source": "极客公园",
+      "publishedAt": "2026-08-26T07:10:12+00:00",
+      "summary": "<p>&nbsp;</p>\n<p>头图来源：OJO 官网</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p>极客公园获悉，前剪映中国负责人张琪智已离职创业，创办 AI 产品原型设计工作台 OJO，并于近日完成近亿元首轮融资，由顺为资本、联想创投联合投资，高鹄资本担任独家财务顾问。</p>\n<p>这是张琪智离开字节跳动后的第一个创业项目。她于 2017 年加入脸萌担任产品经理，2018 年随团队进入字节，此后长期参与剪映相关产品与业务。</p>\n<p>在外界看来，她在剪映的经历是理解这次创业的重要背景：经历了一款工具产品从 0 到",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "creative",
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "21小时前"
     },
     {
-      "id": "rss_2051897670",
+      "id": "rss_1855261016",
       "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369344",
@@ -351,42 +360,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1611595548",
-      "title": "TRAE、扣子并入豆包，字节将推「豆包工作」；拓竹回应 2027 年 IPO 传闻：消息不实；要钱还是使命，Anthropic 面试流程曝光｜极客早知道",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/369303",
-      "source": "极客公园",
-      "publishedAt": "2026-08-25T00:25:52+00:00",
-      "summary": "<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads/image/file/99/3c/993c03d3c0f8e7cf637095f710a0c845.png\" /></p>\n<h1>TRAE、扣子并入豆包，字节将推统一办公品牌 \"豆包工作\"</h1>\n<p>8 月 24 日消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合，TRAE、扣子（Coze）团队将整体并入豆包体系，其中 TRAE Work、扣子将与豆包在工作场景的产品能力进行整合；TRAE IDE 及 CL",
-      "category": "industry",
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
-    },
-    {
-      "id": "rss_977492516",
-      "title": "越会用 AI 的人，学习能力退化得越快",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/369212",
-      "source": "极客公园",
-      "publishedAt": "2026-08-22T10:07:50+00:00",
-      "summary": "<section class=\"wx-article-wrap\" data-mpa-action-id=\"mt2rc4mns2u\" data-pm-slice=\"0 0 []\">\n<section><img class=\"rich_pages wxw-img\" style=\"display: block; width: 661px !important; max-width: 100%; vertical-align: bottom; box-sizing: border-box; margin: 0px; background-color: transparent; hei",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_1105910581",
+      "id": "rss_2542870977",
       "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
       "title_en": null,
       "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
@@ -399,21 +376,6 @@
       ],
       "techScore": -1,
       "formattedTime": "Tue, 25 Au"
-    },
-    {
-      "id": "rss_1950193633",
-      "title": "Netflix 开源了一个用于因果推理的智能代理工作流",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 24 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/4h2jb2eOcBrP5AG5hLYt?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 24 Au"
     }
   ]
 }
