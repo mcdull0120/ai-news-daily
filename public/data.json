@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-27T04:25:42.746392+00:00",
-  "totalSource": 112,
-  "totalFiltered": 100,
+  "generatedAt": "2026-08-28T06:49:19.499785+00:00",
+  "totalSource": 116,
+  "totalFiltered": 103,
   "totalSelected": 10,
   "sources": {
-    "aihot": 52,
+    "aihot": 56,
     "rss": 60,
     "bilibili": 0
   },
@@ -31,30 +31,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmtacdvh50a4aroj2zlw9jnj9",
-        "title": "Warp 如何在 Claude 上构建自我改进的智能体",
-        "title_en": "How Warp builds self-improving agents on Claude",
-        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-        "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-08-26T17:02:40.777Z",
-        "discoveredAt": "2026-08-26T17:02:40.777Z",
-        "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
-        "category": "tip",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmta6v56y03yiroj2ki26viqh",
@@ -78,74 +55,67 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rss_2456425109",
-        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/zhuanglesha-260826",
-        "source": "少数派",
-        "publishedAt": "2026-08-26T07:59:03+00:00",
-        "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "20小时前"
-      },
-      {
-        "id": "rss_3546170882",
-        "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
-        "title_en": null,
-        "url": "https://sspai.com/post/113851",
-        "source": "少数派",
-        "publishedAt": "2026-08-26T07:11:40+00:00",
-        "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "21小时前"
-      },
-      {
-        "id": "rss_2251615730",
-        "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-        "title_en": null,
-        "url": "https://sspai.com/post/113828",
-        "source": "少数派",
-        "publishedAt": "2026-08-25T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113828\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
+      },
+      {
+        "id": "cmtaighmj02k5rovu2z28rxc2",
+        "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
+        "title_en": "The Hugging Face incident and the road ahead",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+        "permalink": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-08-26T00:00:00.000Z",
+        "discoveredAt": "2026-08-26T19:52:40.553Z",
+        "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
+        "category": "industry",
+        "score": 83,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
       {
-        "id": "rss_868341524",
-        "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+        "id": "rss_3551505639",
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/08/479670.html",
-        "source": "量子位",
-        "publishedAt": "2026-08-26T05:56:25+00:00",
-        "summary": "Agnes Video 2.5 Flash",
-        "category": "industry",
+        "url": "https://sspai.com/post/113883",
+        "source": "少数派",
+        "publishedAt": "2026-08-28T04:00:00+00:00",
+        "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...<a href=\"https://sspai.com/post/113883\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "22小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "rss_2414628631",
+        "id": "rss_2007982037",
+        "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/08/480208.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-28T03:45:45+00:00",
+        "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+        "category": "industry",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "rss_50750732",
         "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369395",
@@ -158,22 +128,36 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
+      }
+    ],
+    "writing": [
+      {
+        "id": "rss_2200935862",
+        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/zhuanglesha-260826",
+        "source": "少数派",
+        "publishedAt": "2026-08-26T07:59:03+00:00",
+        "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_1855261016",
-        "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+        "id": "rss_1661457918",
+        "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/369344",
-        "source": "极客公园",
-        "publishedAt": "2026-08-25T08:58:10+00:00",
-        "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
-        "category": "industry",
+        "url": "https://sspai.com/post/113851",
+        "source": "少数派",
+        "publishedAt": "2026-08-26T07:11:40+00:00",
+        "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -181,19 +165,42 @@
     ],
     "productivity": [
       {
-        "id": "rss_2542870977",
-        "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
+        "id": "cmtc7nham01clrodmgnklmfp8",
+        "title": "Claude Console 新增个人密钥与服务账号密钥",
+        "title_en": "Claude Platform release notes - August 27， 2026",
+        "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
+        "permalink": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
+        "source": "Claude Platform：开发者版本说明（RSS）",
+        "publishedAt": "2026-08-27T00:00:00.000Z",
+        "discoveredAt": "2026-08-28T00:25:42.932Z",
+        "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
+        "category": "ai-products",
+        "score": 63,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_531876475",
+        "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
+        "url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article",
         "source": "InfoQ中文",
-        "publishedAt": "Tue, 25 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "publishedAt": "Thu, 27 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "Tue, 25 Au"
+        "techScore": 1,
+        "formattedTime": "Thu, 27 Au"
       }
     ]
   },
@@ -219,30 +226,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmtacdvh50a4aroj2zlw9jnj9",
-      "title": "Warp 如何在 Claude 上构建自我改进的智能体",
-      "title_en": "How Warp builds self-improving agents on Claude",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-26T17:02:40.777Z",
-      "discoveredAt": "2026-08-26T17:02:40.777Z",
-      "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmta6v56y03yiroj2ki26viqh",
@@ -266,10 +250,49 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2456425109",
+      "id": "cmtaighmj02k5rovu2z28rxc2",
+      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
+      "title_en": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "permalink": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-26T00:00:00.000Z",
+      "discoveredAt": "2026-08-26T19:52:40.553Z",
+      "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
+      "category": "industry",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_3551505639",
+      "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
+      "title_en": null,
+      "url": "https://sspai.com/post/113883",
+      "source": "少数派",
+      "publishedAt": "2026-08-28T04:00:00+00:00",
+      "summary": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...<a href=\"https://sspai.com/post/113883\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "rss_2200935862",
       "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
       "title_en": null,
       "url": "https://sspai.com/prime/story/zhuanglesha-260826",
@@ -281,10 +304,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3546170882",
+      "id": "rss_1661457918",
       "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
       "title_en": null,
       "url": "https://sspai.com/post/113851",
@@ -296,40 +319,26 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
-    },
-    {
-      "id": "rss_2251615730",
-      "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
-      "title_en": null,
-      "url": "https://sspai.com/post/113828",
-      "source": "少数派",
-      "publishedAt": "2026-08-25T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/113828\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_868341524",
-      "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+      "id": "rss_2007982037",
+      "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/479670.html",
+      "url": "https://www.qbitai.com/2026/08/480208.html",
       "source": "量子位",
-      "publishedAt": "2026-08-26T05:56:25+00:00",
-      "summary": "Agnes Video 2.5 Flash",
+      "publishedAt": "2026-08-28T03:45:45+00:00",
+      "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
       "category": "industry",
       "interestTags": [
-        "creative"
+        "creative",
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "22小时前"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "rss_2414628631",
+      "id": "rss_50750732",
       "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369395",
@@ -342,40 +351,45 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
-    },
-    {
-      "id": "rss_1855261016",
-      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/369344",
-      "source": "极客公园",
-      "publishedAt": "2026-08-25T08:58:10+00:00",
-      "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
-      "category": "industry",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_2542870977",
-      "title": "Cloudflare 将 CI 管道转变为 TypeScript 工作流",
+      "id": "cmtc7nham01clrodmgnklmfp8",
+      "title": "Claude Console 新增个人密钥与服务账号密钥",
+      "title_en": "Claude Platform release notes - August 27， 2026",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
+      "permalink": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "discoveredAt": "2026-08-28T00:25:42.932Z",
+      "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_531876475",
+      "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Tue, 25 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/xIctLq7L5cK9dIrVVCvd?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Thu, 27 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Tue, 25 Au"
+      "techScore": 1,
+      "formattedTime": "Thu, 27 Au"
     }
   ]
 }
