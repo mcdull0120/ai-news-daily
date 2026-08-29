@@ -1,15 +1,62 @@
 {
-  "generatedAt": "2026-08-28T06:49:19.499785+00:00",
-  "totalSource": 116,
-  "totalFiltered": 103,
+  "generatedAt": "2026-08-29T04:04:23.532271+00:00",
+  "totalSource": 121,
+  "totalFiltered": 107,
   "totalSelected": 10,
   "sources": {
-    "aihot": 56,
+    "aihot": 61,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmtcxdp3f07l3roq5uk6om1aw",
+        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+        "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-28T12:04:47.737Z",
+        "discoveredAt": "2026-08-28T12:25:55.371Z",
+        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+        "category": "paper",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "15小时前"
+      },
+      {
+        "id": "cmtdqc5oj03wzro2mgyc5a49x",
+        "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+        "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "permalink": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-08-28T06:00:00.000Z",
+        "discoveredAt": "2026-08-29T01:56:32.759Z",
+        "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
+        "category": "industry",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
       {
         "id": "cmtaq20ih062wroamdrhb54b6",
         "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
@@ -31,60 +78,46 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "2天前"
+      }
+    ],
+    "writing": [
       {
-        "id": "cmta6v56y03yiroj2ki26viqh",
-        "title": "以色列资助的假美国智库试图利用AI进行宣传",
-        "title_en": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-        "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-        "permalink": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-26T14:05:28.706Z",
-        "discoveredAt": "2026-08-26T14:28:07.466Z",
-        "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-        "category": "industry",
-        "score": 82,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh"
-        },
+        "id": "rss_2592199223",
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "title_en": null,
+        "url": "https://sspai.com/post/68623",
+        "source": "少数派",
+        "publishedAt": "2026-08-28T07:04:57+00:00",
+        "summary": "这些内容，即使毕了业也能有所帮助。<a href=\"https://sspai.com/post/68623\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtaighmj02k5rovu2z28rxc2",
-        "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
-        "title_en": "The Hugging Face incident and the road ahead",
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-        "permalink": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-08-26T00:00:00.000Z",
-        "discoveredAt": "2026-08-26T19:52:40.553Z",
-        "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
-        "category": "industry",
-        "score": 83,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2"
-        },
-        "interestTags": [
-          "app",
+          "writing",
+          "education",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "rss_2868587122",
+        "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/08/480700.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-28T15:36:12+00:00",
+        "summary": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
       }
     ],
     "creative": [
       {
-        "id": "rss_3551505639",
+        "id": "rss_3776653541",
         "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
         "title_en": null,
         "url": "https://sspai.com/post/113883",
@@ -96,26 +129,10 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2007982037",
-        "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/08/480208.html",
-        "source": "量子位",
-        "publishedAt": "2026-08-28T03:45:45+00:00",
-        "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
-        "category": "industry",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "rss_50750732",
+        "id": "rss_229129752",
         "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369395",
@@ -128,39 +145,25 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rss_2200935862",
-        "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/zhuanglesha-260826",
-        "source": "少数派",
-        "publishedAt": "2026-08-26T07:59:03+00:00",
-        "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_1661457918",
-        "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+        "id": "rss_1829943790",
+        "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
         "title_en": null,
-        "url": "https://sspai.com/post/113851",
-        "source": "少数派",
-        "publishedAt": "2026-08-26T07:11:40+00:00",
-        "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "http://www.geekpark.net/news/369344",
+        "source": "极客公园",
+        "publishedAt": "2026-08-25T08:58:10+00:00",
+        "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
+        "category": "industry",
         "interestTags": [
-          "writing"
+          "creative",
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -185,26 +188,73 @@
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_531876475",
-        "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+        "id": "rss_2567617445",
+        "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article",
+        "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
         "source": "InfoQ中文",
-        "publishedAt": "Thu, 27 AuT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "publishedAt": "Fri, 28 AuT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "Thu, 27 Au"
+        "formattedTime": "Fri, 28 Au"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmtcxdp3f07l3roq5uk6om1aw",
+      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
+      "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-28T12:04:47.737Z",
+      "discoveredAt": "2026-08-28T12:25:55.371Z",
+      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "15小时前"
+    },
+    {
+      "id": "cmtdqc5oj03wzro2mgyc5a49x",
+      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
+      "title_en": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "permalink": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-28T06:00:00.000Z",
+      "discoveredAt": "2026-08-29T01:56:32.759Z",
+      "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
+      "category": "industry",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmtaq20ih062wroamdrhb54b6",
       "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
@@ -226,58 +276,27 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmta6v56y03yiroj2ki26viqh",
-      "title": "以色列资助的假美国智库试图利用AI进行宣传",
-      "title_en": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "permalink": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-26T14:05:28.706Z",
-      "discoveredAt": "2026-08-26T14:28:07.466Z",
-      "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtaighmj02k5rovu2z28rxc2",
-      "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
-      "title_en": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "permalink": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "discoveredAt": "2026-08-26T19:52:40.553Z",
-      "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaighmj02k5rovu2z28rxc2"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "rss_3551505639",
+      "id": "rss_2592199223",
+      "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+      "title_en": null,
+      "url": "https://sspai.com/post/68623",
+      "source": "少数派",
+      "publishedAt": "2026-08-28T07:04:57+00:00",
+      "summary": "这些内容，即使毕了业也能有所帮助。<a href=\"https://sspai.com/post/68623\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "rss_3776653541",
       "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
       "title_en": null,
       "url": "https://sspai.com/post/113883",
@@ -289,56 +308,25 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "rss_2200935862",
-      "title": "装了啥特别篇：少数派编辑部最近都 vibe 了啥？",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/zhuanglesha-260826",
-      "source": "少数派",
-      "publishedAt": "2026-08-26T07:59:03+00:00",
-      "summary": "如今，vibecoding的话题热度居高不下。但抛开那些被吹上天的一人公司「壮举」，vibecoding能给一般用户的日常使用带来什么帮助呢？本期「装了啥」中，编辑部成员就分享了一些近期折腾出的小玩意 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-260826\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_1661457918",
-      "title": "《巫师 3：重制版》正式公开：科隆游戏展 2026 消息汇总",
+      "id": "rss_2868587122",
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
       "title_en": null,
-      "url": "https://sspai.com/post/113851",
-      "source": "少数派",
-      "publishedAt": "2026-08-26T07:11:40+00:00",
-      "summary": "编注：本文首发于机核网，少数派经授权转载，仅对文章格式略作调整。科隆游戏展2026开幕夜为我们带来了海量新作公布与续作消息：从《巫师3：重制版》《魔法门之英雄无敌3：重制版》等经典IP重制，到《寂静岭 ...<a href=\"https://sspai.com/post/113851\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_2007982037",
-      "title": "高德发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon，以12帧重建万帧3D场景",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/08/480208.html",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
       "source": "量子位",
-      "publishedAt": "2026-08-28T03:45:45+00:00",
-      "summary": "8月28日，阿里巴巴集团旗下高德正式发布首个无长程依赖的万帧级流式3D重建模型ABot-Recon。",
+      "publishedAt": "2026-08-28T15:36:12+00:00",
+      "summary": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
       "category": "industry",
       "interestTags": [
-        "creative",
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "12小时前"
     },
     {
-      "id": "rss_50750732",
+      "id": "rss_229129752",
       "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369395",
@@ -351,7 +339,25 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_1829943790",
+      "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/369344",
+      "source": "极客公园",
+      "publishedAt": "2026-08-25T08:58:10+00:00",
+      "summary": "<p>&nbsp;</p>\n<p>头图来源：视觉中国、ChatGPT 生成</p>\n<p>8 月 25 日，字节做了一个大动作：正式发布面向生产力场景的 Agent 产品「豆包工作」。</p>\n<p>它可以自主拆解任务、调用工具，完成文档、表格、PPT 及多媒体内容制作，并通过虚拟桌面操作电脑和浏览器；接入飞书后，还能调用企业的消息、文档、会议和权限等上下文，进一步完成周报、解决方案、风险识别与经营分析等复杂工作。</p>\n<p style=\"text-align: center;\"><img src=\"https://imgslim.geekpark.net/uploads",
+      "category": "industry",
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "3天前"
     },
     {
       "id": "cmtc7nham01clrodmgnklmfp8",
@@ -374,22 +380,22 @@
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_531876475",
-      "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+      "id": "rss_2567617445",
+      "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Thu, 27 AuT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Fri, 28 AuT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "Thu, 27 Au"
+      "formattedTime": "Fri, 28 Au"
     }
   ]
 }
