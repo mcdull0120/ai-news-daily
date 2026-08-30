@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T04:04:23.532271+00:00",
+  "generatedAt": "2026-08-30T01:10:12.358165+00:00",
   "totalSource": 121,
   "totalFiltered": 107,
-  "totalSelected": 10,
+  "totalSelected": 12,
   "sources": {
     "aihot": 61,
     "rss": 60,
@@ -10,6 +10,52 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmte36nzj02isrog2hwxpthhn",
+        "title": "开放世界多智能体环境中的自主数学发现",
+        "title_en": null,
+        "url": "https://arxiv.org/abs/2608.23691",
+        "permalink": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-08-29T07:32:16.981Z",
+        "discoveredAt": "2026-08-29T07:56:11.967Z",
+        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+        "category": "paper",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "cmtdssm0205s8ro2mzzv9s9kq",
+        "title": "Cursor回应OpenAI将封禁其模型访问",
+        "title_en": "We're sorry to see that OpenAI put out a note saying they plan to block Cursor users from accessing …",
+        "url": "https://x.com/mntruell/status/2093532254006063557",
+        "permalink": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
+        "source": "X：Michael Truell (@mntruell)",
+        "publishedAt": "2026-08-29T02:52:39.000Z",
+        "discoveredAt": "2026-08-29T03:05:19.120Z",
+        "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
+        "category": "industry",
+        "score": 58,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
       {
         "id": "cmtcxdp3f07l3roq5uk6om1aw",
         "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
@@ -32,58 +78,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
-      },
-      {
-        "id": "cmtdqc5oj03wzro2mgyc5a49x",
-        "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-        "title_en": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "permalink": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-08-28T06:00:00.000Z",
-        "discoveredAt": "2026-08-29T01:56:32.759Z",
-        "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
-        "category": "industry",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "22小时前"
-      },
-      {
-        "id": "cmtaq20ih062wroamdrhb54b6",
-        "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
-        "title_en": null,
-        "url": "https://www.ithome.com/0/994/791.htm",
-        "permalink": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-08-26T20:25:54.000Z",
-        "discoveredAt": "2026-08-26T23:25:21.048Z",
-        "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
-        "category": "industry",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "rss_2592199223",
+        "id": "rss_4190432690",
         "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
         "title_en": null,
         "url": "https://sspai.com/post/68623",
@@ -97,10 +97,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2868587122",
+        "id": "rss_597158430",
         "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/08/480700.html",
@@ -112,12 +112,27 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_2628483256",
+        "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/08/480787.html",
+        "source": "量子位",
+        "publishedAt": "2026-08-29T11:35:57+00:00",
+        "summary": "从剧本到成片",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 0,
+        "formattedTime": "13小时前"
       }
     ],
     "creative": [
       {
-        "id": "rss_3776653541",
+        "id": "rss_1582042655",
         "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
         "title_en": null,
         "url": "https://sspai.com/post/113883",
@@ -132,7 +147,7 @@
         "formattedTime": "昨天"
       },
       {
-        "id": "rss_229129752",
+        "id": "rss_4266480354",
         "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369395",
@@ -145,10 +160,10 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_1829943790",
+        "id": "rss_3475455954",
         "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369344",
@@ -163,10 +178,33 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
+      {
+        "id": "cmtf0ibgi091wrovjvv5ee7qv",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "title_en": "The Rise and Fall of Agent Civilizations",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-08-29T22:47:53.000Z",
+        "discoveredAt": "2026-08-29T23:29:00.752Z",
+        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 0,
+        "formattedTime": "2小时前"
+      },
       {
         "id": "cmtc7nham01clrodmgnklmfp8",
         "title": "Claude Console 新增个人密钥与服务账号密钥",
@@ -188,10 +226,10 @@
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_2567617445",
+        "id": "rss_364946738",
         "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
         "title_en": null,
         "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
@@ -208,6 +246,52 @@
     ]
   },
   "items": [
+    {
+      "id": "cmte36nzj02isrog2hwxpthhn",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "title_en": null,
+      "url": "https://arxiv.org/abs/2608.23691",
+      "permalink": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-29T07:32:16.981Z",
+      "discoveredAt": "2026-08-29T07:56:11.967Z",
+      "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "cmtdssm0205s8ro2mzzv9s9kq",
+      "title": "Cursor回应OpenAI将封禁其模型访问",
+      "title_en": "We're sorry to see that OpenAI put out a note saying they plan to block Cursor users from accessing …",
+      "url": "https://x.com/mntruell/status/2093532254006063557",
+      "permalink": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
+      "source": "X：Michael Truell (@mntruell)",
+      "publishedAt": "2026-08-29T02:52:39.000Z",
+      "discoveredAt": "2026-08-29T03:05:19.120Z",
+      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
+      "category": "industry",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmtcxdp3f07l3roq5uk6om1aw",
       "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
@@ -230,56 +314,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmtdqc5oj03wzro2mgyc5a49x",
-      "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-      "title_en": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "permalink": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-28T06:00:00.000Z",
-      "discoveredAt": "2026-08-29T01:56:32.759Z",
-      "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
-      "category": "industry",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtdqc5oj03wzro2mgyc5a49x"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "22小时前"
-    },
-    {
-      "id": "cmtaq20ih062wroamdrhb54b6",
-      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/994/791.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-26T20:25:54.000Z",
-      "discoveredAt": "2026-08-26T23:25:21.048Z",
-      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_2592199223",
+      "id": "rss_4190432690",
       "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
       "title_en": null,
       "url": "https://sspai.com/post/68623",
@@ -293,10 +331,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3776653541",
+      "id": "rss_1582042655",
       "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
       "title_en": null,
       "url": "https://sspai.com/post/113883",
@@ -311,7 +349,7 @@
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_2868587122",
+      "id": "rss_597158430",
       "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/08/480700.html",
@@ -323,10 +361,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_229129752",
+      "id": "rss_4266480354",
       "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369395",
@@ -339,10 +377,10 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_1829943790",
+      "id": "rss_3475455954",
       "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369344",
@@ -357,7 +395,45 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
+    },
+    {
+      "id": "cmtf0ibgi091wrovjvv5ee7qv",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "title_en": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-08-29T22:47:53.000Z",
+      "discoveredAt": "2026-08-29T23:29:00.752Z",
+      "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 0,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "rss_2628483256",
+      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/08/480787.html",
+      "source": "量子位",
+      "publishedAt": "2026-08-29T11:35:57+00:00",
+      "summary": "从剧本到成片",
+      "category": "industry",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 0,
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmtc7nham01clrodmgnklmfp8",
@@ -380,10 +456,10 @@
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_2567617445",
+      "id": "rss_364946738",
       "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
       "title_en": null,
       "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
