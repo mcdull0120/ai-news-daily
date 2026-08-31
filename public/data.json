@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-08-30T01:10:12.358165+00:00",
-  "totalSource": 121,
-  "totalFiltered": 107,
+  "generatedAt": "2026-08-31T01:13:43.227865+00:00",
+  "totalSource": 125,
+  "totalFiltered": 112,
   "totalSelected": 12,
   "sources": {
-    "aihot": 61,
+    "aihot": 65,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmte36nzj02isrog2hwxpthhn",
-        "title": "开放世界多智能体环境中的自主数学发现",
+        "id": "cmtgihylr01tlrokdreezpex0",
+        "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
         "title_en": null,
-        "url": "https://arxiv.org/abs/2608.23691",
-        "permalink": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-29T07:32:16.981Z",
-        "discoveredAt": "2026-08-29T07:56:11.967Z",
-        "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-        "category": "paper",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+        "permalink": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+        "source": "公众号：MiniMax（稀宇科技）",
+        "publishedAt": "2026-08-31T00:36:00.000Z",
+        "discoveredAt": "2026-08-31T00:40:26.605Z",
+        "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmtgi3e9q01ekrokdi67kdx19",
+        "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+        "title_en": "Agency and Agents",
+        "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+        "permalink": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "publishedAt": "2026-08-31T00:24:35.000Z",
+        "discoveredAt": "2026-08-31T00:29:05.963Z",
+        "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+        "category": "tip",
         "score": 74,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "17小时前"
-      },
-      {
-        "id": "cmtdssm0205s8ro2mzzv9s9kq",
-        "title": "Cursor回应OpenAI将封禁其模型访问",
-        "title_en": "We're sorry to see that OpenAI put out a note saying they plan to block Cursor users from accessing …",
-        "url": "https://x.com/mntruell/status/2093532254006063557",
-        "permalink": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-        "source": "X：Michael Truell (@mntruell)",
-        "publishedAt": "2026-08-29T02:52:39.000Z",
-        "discoveredAt": "2026-08-29T03:05:19.120Z",
-        "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
-        "category": "industry",
-        "score": 58,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "22小时前"
-      },
-      {
-        "id": "cmtcxdp3f07l3roq5uk6om1aw",
-        "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-        "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-        "url": "https://www.terminal-bench-science.ai/announcement",
-        "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-08-28T12:04:47.737Z",
-        "discoveredAt": "2026-08-28T12:25:55.371Z",
-        "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-        "category": "paper",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
+          "canonical": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19"
         },
         "interestTags": [
           "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "cmtgi34hk01d3rokdi2z30urw",
+        "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+        "title_en": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+        "permalink": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-08-30T23:59:47.000Z",
+        "discoveredAt": "2026-08-31T00:28:54.473Z",
+        "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
+        "category": "tip",
+        "score": 82,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
       }
     ],
     "writing": [
       {
-        "id": "rss_4190432690",
+        "id": "rss_1438754492",
         "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
         "title_en": null,
         "url": "https://sspai.com/post/68623",
@@ -97,10 +97,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_597158430",
+        "id": "rss_2222760792",
         "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/08/480700.html",
@@ -112,10 +112,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_2628483256",
+        "id": "rss_373876638",
         "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/08/480787.html",
@@ -127,12 +127,12 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
       {
-        "id": "rss_1582042655",
+        "id": "rss_2559760549",
         "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
         "title_en": null,
         "url": "https://sspai.com/post/113883",
@@ -144,10 +144,10 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_4266480354",
+        "id": "rss_2385960095",
         "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369395",
@@ -160,10 +160,10 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_3475455954",
+        "id": "rss_2938174388",
         "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
         "title_en": null,
         "url": "http://www.geekpark.net/news/369344",
@@ -178,7 +178,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "productivity": [
@@ -203,7 +203,7 @@
           "productivity"
         ],
         "techScore": 0,
-        "formattedTime": "2小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtc7nham01clrodmgnklmfp8",
@@ -226,10 +226,10 @@
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_364946738",
+        "id": "rss_3484176588",
         "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
         "title_en": null,
         "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
@@ -247,77 +247,77 @@
   },
   "items": [
     {
-      "id": "cmte36nzj02isrog2hwxpthhn",
-      "title": "开放世界多智能体环境中的自主数学发现",
+      "id": "cmtgihylr01tlrokdreezpex0",
+      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
       "title_en": null,
-      "url": "https://arxiv.org/abs/2608.23691",
-      "permalink": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-29T07:32:16.981Z",
-      "discoveredAt": "2026-08-29T07:56:11.967Z",
-      "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
-      "category": "paper",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+      "permalink": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "publishedAt": "2026-08-31T00:36:00.000Z",
+      "discoveredAt": "2026-08-31T00:40:26.605Z",
+      "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmtgi3e9q01ekrokdi67kdx19",
+      "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+      "title_en": "Agency and Agents",
+      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+      "permalink": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "publishedAt": "2026-08-31T00:24:35.000Z",
+      "discoveredAt": "2026-08-31T00:29:05.963Z",
+      "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+      "category": "tip",
       "score": 74,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "cmtdssm0205s8ro2mzzv9s9kq",
-      "title": "Cursor回应OpenAI将封禁其模型访问",
-      "title_en": "We're sorry to see that OpenAI put out a note saying they plan to block Cursor users from accessing …",
-      "url": "https://x.com/mntruell/status/2093532254006063557",
-      "permalink": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
-      "source": "X：Michael Truell (@mntruell)",
-      "publishedAt": "2026-08-29T02:52:39.000Z",
-      "discoveredAt": "2026-08-29T03:05:19.120Z",
-      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
-      "category": "industry",
-      "score": 58,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "22小时前"
-    },
-    {
-      "id": "cmtcxdp3f07l3roq5uk6om1aw",
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-28T12:04:47.737Z",
-      "discoveredAt": "2026-08-28T12:25:55.371Z",
-      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
+        "canonical": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19"
       },
       "interestTags": [
         "app",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "rss_4190432690",
+      "id": "cmtgi34hk01d3rokdi2z30urw",
+      "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
+      "title_en": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
+      "permalink": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-30T23:59:47.000Z",
+      "discoveredAt": "2026-08-31T00:28:54.473Z",
+      "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
+      "category": "tip",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "rss_1438754492",
       "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
       "title_en": null,
       "url": "https://sspai.com/post/68623",
@@ -331,10 +331,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_1582042655",
+      "id": "rss_2559760549",
       "title": "全球首款阔直板探索计划：华为 Pura X View 新品有奖体验",
       "title_en": null,
       "url": "https://sspai.com/post/113883",
@@ -346,10 +346,10 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_597158430",
+      "id": "rss_2222760792",
       "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/08/480700.html",
@@ -361,10 +361,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_4266480354",
+      "id": "rss_2385960095",
       "title": "离开剪映后创业，她想把一支设计团队装进 AI 工作台",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369395",
@@ -377,10 +377,10 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_3475455954",
+      "id": "rss_2938174388",
       "title": "字节AI 产品向豆包集结，Agent 时代第一场巨头战役打响",
       "title_en": null,
       "url": "http://www.geekpark.net/news/369344",
@@ -395,7 +395,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmtf0ibgi091wrovjvv5ee7qv",
@@ -418,10 +418,10 @@
         "productivity"
       ],
       "techScore": 0,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2628483256",
+      "id": "rss_373876638",
       "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/08/480787.html",
@@ -433,7 +433,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtc7nham01clrodmgnklmfp8",
@@ -456,10 +456,10 @@
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_364946738",
+      "id": "rss_3484176588",
       "title": "Token消耗减少75%，千问办公创造了新的“省钱模式”",
       "title_en": null,
       "url": "https://www.infoq.cn/article/70zHFKxwRRGIjBO8EUtC?utm_source=rss&utm_medium=article",
