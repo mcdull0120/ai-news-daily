@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-09-02T00:54:14.375589+00:00",
-  "totalSource": 121,
+  "generatedAt": "2026-09-03T01:02:29.844551+00:00",
+  "totalSource": 120,
   "totalFiltered": 108,
-  "totalSelected": 10,
+  "totalSelected": 9,
   "sources": {
-    "aihot": 61,
+    "aihot": 60,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmtj2y06p04bwroh9d8oszszo",
-        "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-        "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
-        "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-        "permalink": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-09-01T19:43:09.000Z",
-        "discoveredAt": "2026-09-01T19:48:18.025Z",
-        "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
-        "category": "paper",
-        "score": 79,
+        "id": "cmtkh71ky017vrolly7trswyx",
+        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+        "url": "https://x.com/claudeai/status/2095226833293685100",
+        "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
+        "source": "X：Claude (@claudeai)",
+        "publishedAt": "2026-09-02T19:06:19.000Z",
+        "discoveredAt": "2026-09-02T19:15:00.970Z",
+        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+        "category": "ai-products",
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo"
+          "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
         },
         "interestTags": [
           "app"
@@ -34,50 +34,50 @@
         "formattedTime": "5小时前"
       },
       {
-        "id": "cmthxigqm04c1rofqqmk7pkqi",
-        "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-        "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-        "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-        "permalink": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-09-01T00:07:51.000Z",
-        "discoveredAt": "2026-09-01T00:28:28.757Z",
-        "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-        "category": "paper",
-        "score": 73,
+        "id": "cmtkbbn6q01j6roz54e8g5zec",
+        "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
+        "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+        "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
+        "permalink": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-09-02T16:29:43.634Z",
+        "discoveredAt": "2026-09-02T16:29:43.634Z",
+        "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+        "category": "tip",
+        "score": 61,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
+          "canonical": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "8小时前"
       },
       {
-        "id": "cmtitozyq04j2ro9ydv3oxgsd",
-        "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-        "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-        "url": "https://huggingface.co/blog/webgpu-kernels",
-        "permalink": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
-        "source": "Hugging Face：Blog（RSS）",
-        "publishedAt": "2026-09-01T00:00:00.000Z",
-        "discoveredAt": "2026-09-01T15:29:20.486Z",
-        "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
+        "id": "cmtkffuf503cbrobqkwhimxmp",
+        "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+        "title_en": "Run cloud agents on machines you manage",
+        "url": "https://cursor.com/blog/self-hosted-machines",
+        "permalink": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
+        "source": "Cursor Blog",
+        "publishedAt": "2026-09-02T12:00:00.000Z",
+        "discoveredAt": "2026-09-02T18:25:53.655Z",
+        "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
         "category": "ai-products",
-        "score": 62,
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
+          "canonical": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "13小时前"
       }
     ],
     "creative": [
@@ -103,10 +103,25 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_998147832",
+        "id": "rss_2318142004",
+        "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+        "title_en": null,
+        "url": "https://sspai.com/post/113581",
+        "source": "少数派",
+        "publishedAt": "2026-09-02T03:00:00+00:00",
+        "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...<a href=\"https://sspai.com/post/113581\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
+      {
+        "id": "rss_2769918477",
         "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/09/482512.html",
@@ -118,49 +133,18 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "rss_911379512",
-        "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/369690",
-        "source": "极客公园",
-        "publishedAt": "2026-09-02T00:13:21+00:00",
-        "summary": "<p>​<img src=\"https://imgslim.geekpark.net/uploads/image/file/52/7f/527f97f1531226a8d779223d7e7bd4f2.png\" /></p>\n<h2>苹果新任 CEO 约翰&middot;特努斯在 X 平台发布首条动态向关注者问好</h2>\n<p>苹果首席执行官约翰&middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账",
-        "category": "industry",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "rss_3168050406",
+        "id": "rss_2900218381",
         "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
         "title_en": null,
         "url": "https://sspai.com/post/114078",
         "source": "少数派",
         "publishedAt": "2026-09-01T09:00:00+00:00",
         "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114078\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "15小时前"
-      },
-      {
-        "id": "rss_2874729303",
-        "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/home-made-beverages-4",
-        "source": "少数派",
-        "publishedAt": "2026-08-31T09:09:27+00:00",
-        "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-4\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
         "category": "tip",
         "interestTags": [
           "writing"
@@ -191,56 +175,94 @@
           "productivity"
         ],
         "techScore": 0,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "cmtc7nham01clrodmgnklmfp8",
-        "title": "Claude Console 新增个人密钥与服务账号密钥",
-        "title_en": "Claude Platform release notes - August 27， 2026",
-        "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
-        "permalink": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
-        "source": "Claude Platform：开发者版本说明（RSS）",
-        "publishedAt": "2026-08-27T00:00:00.000Z",
-        "discoveredAt": "2026-08-28T00:25:42.932Z",
-        "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
-        "category": "ai-products",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
-        },
+        "id": "rss_1495350465",
+        "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/09/483104.html",
+        "source": "量子位",
+        "publishedAt": "2026-09-02T06:20:17+00:00",
+        "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": 1,
-        "formattedTime": "6天前"
+        "formattedTime": "18小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmtj2y06p04bwroh9d8oszszo",
-      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
-      "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
-      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
-      "permalink": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-01T19:43:09.000Z",
-      "discoveredAt": "2026-09-01T19:48:18.025Z",
-      "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
-      "category": "paper",
-      "score": 79,
+      "id": "cmtkh71ky017vrolly7trswyx",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+      "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-09-02T19:06:19.000Z",
+      "discoveredAt": "2026-09-02T19:15:00.970Z",
+      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+      "category": "ai-products",
+      "score": 71,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo"
+        "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
       "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmtkbbn6q01j6roz54e8g5zec",
+      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
+      "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
+      "permalink": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-09-02T16:29:43.634Z",
+      "discoveredAt": "2026-09-02T16:29:43.634Z",
+      "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmtkffuf503cbrobqkwhimxmp",
+      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+      "title_en": "Run cloud agents on machines you manage",
+      "url": "https://cursor.com/blog/self-hosted-machines",
+      "permalink": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-09-02T12:00:00.000Z",
+      "discoveredAt": "2026-09-02T18:25:53.655Z",
+      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmtivvilg06f0ro9yk5dt7mrc",
@@ -264,56 +286,25 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmthxigqm04c1rofqqmk7pkqi",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "permalink": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-01T00:07:51.000Z",
-      "discoveredAt": "2026-09-01T00:28:28.757Z",
-      "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "cmtitozyq04j2ro9ydv3oxgsd",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-      "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "permalink": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T15:29:20.486Z",
-      "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
-      },
+      "id": "rss_2318142004",
+      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+      "title_en": null,
+      "url": "https://sspai.com/post/113581",
+      "source": "少数派",
+      "publishedAt": "2026-09-02T03:00:00+00:00",
+      "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...<a href=\"https://sspai.com/post/113581\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
-        "app"
+        "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "22小时前"
     },
     {
-      "id": "rss_3168050406",
+      "id": "rss_2900218381",
       "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
       "title_en": null,
       "url": "https://sspai.com/post/114078",
@@ -325,25 +316,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
-    },
-    {
-      "id": "rss_2874729303",
-      "title": "家庭饮品 DIY 指南（四）：奶昔、柠檬和茶系列配方",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/home-made-beverages-4",
-      "source": "少数派",
-      "publishedAt": "2026-08-31T09:09:27+00:00",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）：常用固体物料推荐从这篇开始正式进入配方介绍及制作阶段，这里会有很多配料之前没提到过，会单独讲一下。尽力帮助大家在家也能做出好喝的夏日 ...<a href=\"https://sspai.com/prime/story/home-made-beverages-4\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_998147832",
+      "id": "rss_2769918477",
       "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/09/482512.html",
@@ -355,23 +331,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
-    },
-    {
-      "id": "rss_911379512",
-      "title": "苹果新 CEO 首次「发声」；网传抖音发生「推荐算法错乱」；Claude Fable 5.1 正式上线",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/369690",
-      "source": "极客公园",
-      "publishedAt": "2026-09-02T00:13:21+00:00",
-      "summary": "<p>​<img src=\"https://imgslim.geekpark.net/uploads/image/file/52/7f/527f97f1531226a8d779223d7e7bd4f2.png\" /></p>\n<h2>苹果新任 CEO 约翰&middot;特努斯在 X 平台发布首条动态向关注者问好</h2>\n<p>苹果首席执行官约翰&middot;特努斯正式加入社交平台 X，并发布了个人账号的首条动态。正如外界预料的那样，这条仅有「hello」五个字母的简短消息迅速获得大量关注。苹果历任首席执行官通常都具备一定的社交属性，而在当代，这往往也意味着拥有社交媒体账",
-      "category": "industry",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtf0ibgi091wrovjvv5ee7qv",
@@ -394,30 +354,22 @@
         "productivity"
       ],
       "techScore": 0,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "cmtc7nham01clrodmgnklmfp8",
-      "title": "Claude Console 新增个人密钥与服务账号密钥",
-      "title_en": "Claude Platform release notes - August 27， 2026",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
-      "permalink": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
-      "source": "Claude Platform：开发者版本说明（RSS）",
-      "publishedAt": "2026-08-27T00:00:00.000Z",
-      "discoveredAt": "2026-08-28T00:25:42.932Z",
-      "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
-      },
+      "id": "rss_1495350465",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-02T06:20:17+00:00",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "category": "industry",
       "interestTags": [
         "productivity"
       ],
       "techScore": 1,
-      "formattedTime": "6天前"
+      "formattedTime": "18小时前"
     }
   ]
 }
