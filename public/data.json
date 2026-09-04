@@ -1,86 +1,174 @@
 {
-  "generatedAt": "2026-09-03T01:02:29.844551+00:00",
-  "totalSource": 120,
-  "totalFiltered": 108,
-  "totalSelected": 9,
+  "generatedAt": "2026-09-04T00:51:58.688366+00:00",
+  "totalSource": 150,
+  "totalFiltered": 137,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 60,
+    "aihot": 90,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "productivity": [
+      {
+        "id": "cmtm7yl5s01d5robnsn25onbz",
+        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+        "url": "https://arcprize.org/blog/astra",
+        "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-09-04T00:07:48.532Z",
+        "discoveredAt": "2026-09-04T00:32:03.496Z",
+        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+        "category": "paper",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
+      {
+        "id": "rss_942566467",
+        "title": "亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 03 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Thu, 03 Se"
+      },
+      {
+        "id": "cmtf0ibgi091wrovjvv5ee7qv",
+        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+        "title_en": "The Rise and Fall of Agent Civilizations",
+        "url": "https://www.dwarkesh.com/p/openai-huggingface",
+        "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "publishedAt": "2026-08-29T22:47:53.000Z",
+        "discoveredAt": "2026-08-29T23:29:00.752Z",
+        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 0,
+        "formattedTime": "5天前"
+      }
+    ],
     "app": [
       {
-        "id": "cmtkh71ky017vrolly7trswyx",
-        "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-        "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-        "url": "https://x.com/claudeai/status/2095226833293685100",
-        "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-        "source": "X：Claude (@claudeai)",
-        "publishedAt": "2026-09-02T19:06:19.000Z",
-        "discoveredAt": "2026-09-02T19:15:00.970Z",
-        "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmtkbbn6q01j6roz54e8g5zec",
-        "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-        "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-        "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-        "permalink": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-        "source": "Google Developers Blog（RSS）",
-        "publishedAt": "2026-09-02T16:29:43.634Z",
-        "discoveredAt": "2026-09-02T16:29:43.634Z",
-        "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+        "id": "cmtm7yl5s01dbrobnjyyupz0q",
+        "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+        "title_en": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+        "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-09-04T00:07:47.851Z",
+        "discoveredAt": "2026-09-04T00:32:03.496Z",
+        "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
         "category": "tip",
-        "score": 61,
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
+          "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "刚刚"
       },
       {
-        "id": "cmtkffuf503cbrobqkwhimxmp",
-        "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-        "title_en": "Run cloud agents on machines you manage",
-        "url": "https://cursor.com/blog/self-hosted-machines",
-        "permalink": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
-        "source": "Cursor Blog",
-        "publishedAt": "2026-09-02T12:00:00.000Z",
-        "discoveredAt": "2026-09-02T18:25:53.655Z",
-        "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-        "category": "ai-products",
-        "score": 67,
+        "id": "cmtm5q99n018rrow0z6je2l9y",
+        "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
+        "title_en": "Hot take on GPT-6 Astra",
+        "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+        "permalink": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-09-03T23:24:50.000Z",
+        "discoveredAt": "2026-09-03T23:29:35.418Z",
+        "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
+        "category": "tip",
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
+          "canonical": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmtlzumiu0soirow5cfujh2xf",
+        "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+        "title_en": "Progress continues to surprise even the best of us. ARC-AGI-3 was the first ARC-AGI benchmark that I…",
+        "url": "https://x.com/sherwinwu/status/2095608725730119733",
+        "permalink": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
+        "source": "X：Sherwin Wu（@sherwinwu）",
+        "publishedAt": "2026-09-03T20:23:49.000Z",
+        "discoveredAt": "2026-09-03T20:45:00.146Z",
+        "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "4小时前"
       }
     ],
     "creative": [
+      {
+        "id": "cmtlu23pp0ng4row5uxwtpazb",
+        "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
+        "title_en": "Designing Grok Bot for a world of persistent agents",
+        "url": "https://x.ai/news/designing-grok-bot",
+        "permalink": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "discoveredAt": "2026-09-03T18:02:33.253Z",
+        "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
+        "category": "ai-products",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmtivvilg06f0ro9yk5dt7mrc",
         "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
@@ -103,10 +191,10 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_2318142004",
+        "id": "rss_3257721956",
         "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
         "title_en": null,
         "url": "https://sspai.com/post/113581",
@@ -118,27 +206,12 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "22小时前"
-      },
-      {
-        "id": "rss_2769918477",
-        "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/09/482512.html",
-        "source": "量子位",
-        "publishedAt": "2026-09-01T12:02:39+00:00",
-        "summary": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-        "category": "industry",
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "rss_2900218381",
+        "id": "rss_2182358190",
         "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
         "title_en": null,
         "url": "https://sspai.com/post/114078",
@@ -150,119 +223,167 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
+        "formattedTime": "2天前"
+      },
       {
-        "id": "cmtf0ibgi091wrovjvv5ee7qv",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "title_en": "The Rise and Fall of Agent Civilizations",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-08-29T22:47:53.000Z",
-        "discoveredAt": "2026-08-29T23:29:00.752Z",
-        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+        "id": "cmtl9l0kb0mksroal28uvoaug",
+        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "permalink": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug",
+        "source": "Hugging Face：Blog（RSS）",
+        "publishedAt": "2026-09-03T00:00:00.000Z",
+        "discoveredAt": "2026-09-03T08:29:42.598Z",
+        "summary": "Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。",
         "category": "tip",
-        "score": 65,
+        "score": 62,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
+          "canonical": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
         },
         "interestTags": [
-          "productivity"
+          "writing"
         ],
         "techScore": 0,
-        "formattedTime": "4天前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "education": [
       {
-        "id": "rss_1495350465",
-        "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+        "id": "rss_894250490",
+        "title": "“没有Token的CS学生，应立即退学”",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/09/483104.html",
+        "url": "https://www.qbitai.com/2026/09/483839.html",
         "source": "量子位",
-        "publishedAt": "2026-09-02T06:20:17+00:00",
-        "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+        "publishedAt": "2026-09-03T11:32:08+00:00",
+        "summary": "禁止古法编程、Token自费",
         "category": "industry",
         "interestTags": [
-          "productivity"
+          "education"
         ],
-        "techScore": 1,
-        "formattedTime": "18小时前"
+        "techScore": 2,
+        "formattedTime": "13小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmtkh71ky017vrolly7trswyx",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-09-02T19:06:19.000Z",
-      "discoveredAt": "2026-09-02T19:15:00.970Z",
-      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-      "category": "ai-products",
-      "score": 71,
+      "id": "cmtm7yl5s01d5robnsn25onbz",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+      "url": "https://arcprize.org/blog/astra",
+      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-04T00:07:48.532Z",
+      "discoveredAt": "2026-09-04T00:32:03.496Z",
+      "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+      "category": "paper",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
+        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz"
       },
       "interestTags": [
-        "app"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmtkbbn6q01j6roz54e8g5zec",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-      "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "permalink": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-09-02T16:29:43.634Z",
-      "discoveredAt": "2026-09-02T16:29:43.634Z",
-      "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
+      "id": "cmtm7yl5s01dbrobnjyyupz0q",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+      "title_en": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-04T00:07:47.851Z",
+      "discoveredAt": "2026-09-04T00:32:03.496Z",
+      "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
       "category": "tip",
-      "score": 61,
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkbbn6q01j6roz54e8g5zec"
+        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "刚刚"
     },
     {
-      "id": "cmtkffuf503cbrobqkwhimxmp",
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-      "title_en": "Run cloud agents on machines you manage",
-      "url": "https://cursor.com/blog/self-hosted-machines",
-      "permalink": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "discoveredAt": "2026-09-02T18:25:53.655Z",
-      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-      "category": "ai-products",
-      "score": 67,
+      "id": "cmtm5q99n018rrow0z6je2l9y",
+      "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
+      "title_en": "Hot take on GPT-6 Astra",
+      "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-03T23:24:50.000Z",
+      "discoveredAt": "2026-09-03T23:29:35.418Z",
+      "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
+      "category": "tip",
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkffuf503cbrobqkwhimxmp"
+        "canonical": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmtlzumiu0soirow5cfujh2xf",
+      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+      "title_en": "Progress continues to surprise even the best of us. ARC-AGI-3 was the first ARC-AGI benchmark that I…",
+      "url": "https://x.com/sherwinwu/status/2095608725730119733",
+      "permalink": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "publishedAt": "2026-09-03T20:23:49.000Z",
+      "discoveredAt": "2026-09-03T20:45:00.146Z",
+      "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmtlu23pp0ng4row5uxwtpazb",
+      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
+      "title_en": "Designing Grok Bot for a world of persistent agents",
+      "url": "https://x.ai/news/designing-grok-bot",
+      "permalink": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T18:02:33.253Z",
+      "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtivvilg06f0ro9yk5dt7mrc",
@@ -286,10 +407,10 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2318142004",
+      "id": "rss_3257721956",
       "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
       "title_en": null,
       "url": "https://sspai.com/post/113581",
@@ -301,10 +422,10 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "22小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2900218381",
+      "id": "rss_2182358190",
       "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
       "title_en": null,
       "url": "https://sspai.com/post/114078",
@@ -316,21 +437,44 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2769918477",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "id": "rss_942566467",
+      "title": "亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/482512.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-01T12:02:39+00:00",
-      "summary": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "category": "industry",
+      "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 03 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
-        "creative"
+        "productivity"
       ],
       "techScore": -1,
+      "formattedTime": "Thu, 03 Se"
+    },
+    {
+      "id": "cmtl9l0kb0mksroal28uvoaug",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+      "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "permalink": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T08:29:42.598Z",
+      "summary": "Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 0,
       "formattedTime": "昨天"
     },
     {
@@ -354,22 +498,22 @@
         "productivity"
       ],
       "techScore": 0,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_1495350465",
-      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "id": "rss_894250490",
+      "title": "“没有Token的CS学生，应立即退学”",
       "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "url": "https://www.qbitai.com/2026/09/483839.html",
       "source": "量子位",
-      "publishedAt": "2026-09-02T06:20:17+00:00",
-      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+      "publishedAt": "2026-09-03T11:32:08+00:00",
+      "summary": "禁止古法编程、Token自费",
       "category": "industry",
       "interestTags": [
-        "productivity"
+        "education"
       ],
-      "techScore": 1,
-      "formattedTime": "18小时前"
+      "techScore": 2,
+      "formattedTime": "13小时前"
     }
   ]
 }
