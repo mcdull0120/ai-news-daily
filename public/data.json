@@ -1,15 +1,109 @@
 {
-  "generatedAt": "2026-09-04T00:51:58.688366+00:00",
-  "totalSource": 150,
-  "totalFiltered": 137,
-  "totalSelected": 12,
+  "generatedAt": "2026-09-05T00:44:36.012841+00:00",
+  "totalSource": 143,
+  "totalFiltered": 135,
+  "totalSelected": 11,
   "sources": {
-    "aihot": 90,
+    "aihot": 83,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmtnapudv01zbrog16o6dxgoi",
+        "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+        "title_en": "Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-09-04T18:37:00.305Z",
+        "discoveredAt": "2026-09-04T18:37:00.305Z",
+        "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+        "category": "paper",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmtn9rovi0tkdromy0vgnyouj",
+        "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+        "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
+        "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+        "permalink": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-09-04T17:45:09.000Z",
+        "discoveredAt": "2026-09-04T18:10:23.965Z",
+        "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmtmvu3n10cloromyzym3svtj",
+        "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+        "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+        "url": "https://x.com/kimmonismus/status/2095837763517988869",
+        "permalink": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj",
+        "source": "X：Kim (@kimmonismus)",
+        "publishedAt": "2026-09-04T11:33:56.000Z",
+        "discoveredAt": "2026-09-04T11:40:23.245Z",
+        "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
+        "category": "tip",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      }
+    ],
     "productivity": [
+      {
+        "id": "cmtmvk9590ccdromyrrae80ir",
+        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+        "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+        "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-04T11:07:36.000Z",
+        "discoveredAt": "2026-09-04T11:32:44.473Z",
+        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+        "category": "tip",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
       {
         "id": "cmtm7yl5s01d5robnsn25onbz",
         "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
@@ -31,10 +125,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_942566467",
+        "id": "rss_2071539538",
         "title": "亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码",
         "title_en": null,
         "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
@@ -47,100 +141,6 @@
         ],
         "techScore": -1,
         "formattedTime": "Thu, 03 Se"
-      },
-      {
-        "id": "cmtf0ibgi091wrovjvv5ee7qv",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "title_en": "The Rise and Fall of Agent Civilizations",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "publishedAt": "2026-08-29T22:47:53.000Z",
-        "discoveredAt": "2026-08-29T23:29:00.752Z",
-        "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 0,
-        "formattedTime": "5天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmtm7yl5s01dbrobnjyyupz0q",
-        "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-        "title_en": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-        "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-09-04T00:07:47.851Z",
-        "discoveredAt": "2026-09-04T00:32:03.496Z",
-        "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-        "category": "tip",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      },
-      {
-        "id": "cmtm5q99n018rrow0z6je2l9y",
-        "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-        "title_en": "Hot take on GPT-6 Astra",
-        "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-        "permalink": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-09-03T23:24:50.000Z",
-        "discoveredAt": "2026-09-03T23:29:35.418Z",
-        "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
-        "category": "tip",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmtlzumiu0soirow5cfujh2xf",
-        "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
-        "title_en": "Progress continues to surprise even the best of us. ARC-AGI-3 was the first ARC-AGI benchmark that I…",
-        "url": "https://x.com/sherwinwu/status/2095608725730119733",
-        "permalink": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
-        "source": "X：Sherwin Wu（@sherwinwu）",
-        "publishedAt": "2026-09-03T20:23:49.000Z",
-        "discoveredAt": "2026-09-03T20:45:00.146Z",
-        "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
-        "category": "tip",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
       }
     ],
     "creative": [
@@ -167,7 +167,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmtivvilg06f0ro9yk5dt7mrc",
@@ -191,17 +191,17 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "rss_3257721956",
-        "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+        "id": "rss_3378513287",
+        "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
         "title_en": null,
-        "url": "https://sspai.com/post/113581",
-        "source": "少数派",
-        "publishedAt": "2026-09-02T03:00:00+00:00",
-        "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...<a href=\"https://sspai.com/post/113581\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "http://www.geekpark.net/news/369388",
+        "source": "极客公园",
+        "publishedAt": "2026-09-03T15:25:38+00:00",
+        "summary": "<p>8 月 19 日，北京亦庄的空气里飘着一种奇怪的兴奋，这是 2026 世界机器人大会开幕的日子。300 多家企业、2000 多件展品，几乎把具身智能行业能拿出的东西都搬到了这里：大模型、本体、关键零部件、数据，应有尽有。</p>\n<p>开幕当天，宇树科技敲钟上市，盘中市值一度冲破 4000 亿元，这可能是过去十年，中国机器人行业最接近「资本狂欢」的一天。过去，机器人公司更多活在实验室、融资新闻和 Demo 视频里；而宇树的上市，第一次给这个仍处在早期的赛道钉下了一个资本锚点。</p>\n<p>除此之外，云深处科技进入交易所受理或审核环节；智元机器人则于 2026 年 7",
+        "category": "industry",
         "interestTags": [
           "creative"
         ],
@@ -209,22 +209,24 @@
         "formattedTime": "昨天"
       }
     ],
-    "writing": [
+    "education": [
       {
-        "id": "rss_2182358190",
-        "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
+        "id": "rss_564691379",
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
         "title_en": null,
-        "url": "https://sspai.com/post/114078",
+        "url": "https://sspai.com/post/114117",
         "source": "少数派",
-        "publishedAt": "2026-09-01T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114078\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-09-04T07:01:57+00:00",
+        "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。<a href=\"https://sspai.com/post/114117\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
-          "writing"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "17小时前"
+      }
+    ],
+    "writing": [
       {
         "id": "cmtl9l0kb0mksroal28uvoaug",
         "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
@@ -246,28 +248,103 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "昨天"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_894250490",
-        "title": "“没有Token的CS学生，应立即退学”",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/09/483839.html",
-        "source": "量子位",
-        "publishedAt": "2026-09-03T11:32:08+00:00",
-        "summary": "禁止古法编程、Token自费",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 2,
-        "formattedTime": "13小时前"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "title_en": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-04T18:37:00.305Z",
+      "discoveredAt": "2026-09-04T18:37:00.305Z",
+      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmtn9rovi0tkdromy0vgnyouj",
+      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
+      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "permalink": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-04T17:45:09.000Z",
+      "discoveredAt": "2026-09-04T18:10:23.965Z",
+      "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmtmvu3n10cloromyzym3svtj",
+      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+      "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+      "url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "permalink": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-04T11:33:56.000Z",
+      "discoveredAt": "2026-09-04T11:40:23.245Z",
+      "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
+    {
+      "id": "cmtmvk9590ccdromyrrae80ir",
+      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+      "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+      "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-04T11:07:36.000Z",
+      "discoveredAt": "2026-09-04T11:32:44.473Z",
+      "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
+    },
     {
       "id": "cmtm7yl5s01d5robnsn25onbz",
       "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
@@ -289,76 +366,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmtm7yl5s01dbrobnjyyupz0q",
-      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-      "title_en": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-04T00:07:47.851Z",
-      "discoveredAt": "2026-09-04T00:32:03.496Z",
-      "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "cmtm5q99n018rrow0z6je2l9y",
-      "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
-      "title_en": "Hot take on GPT-6 Astra",
-      "url": "https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra",
-      "permalink": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-09-03T23:24:50.000Z",
-      "discoveredAt": "2026-09-03T23:29:35.418Z",
-      "summary": "Gary Marcus 发文点评 GPT-6 Astra，称多项报告显示其为真正的进步，OpenAI 产品显式创建并操纵符号世界模型，令其近十年的主张获得印证。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtm5q99n018rrow0z6je2l9y"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmtlzumiu0soirow5cfujh2xf",
-      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
-      "title_en": "Progress continues to surprise even the best of us. ARC-AGI-3 was the first ARC-AGI benchmark that I…",
-      "url": "https://x.com/sherwinwu/status/2095608725730119733",
-      "permalink": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "publishedAt": "2026-09-03T20:23:49.000Z",
-      "discoveredAt": "2026-09-03T20:45:00.146Z",
-      "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtlu23pp0ng4row5uxwtpazb",
@@ -383,7 +391,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtivvilg06f0ro9yk5dt7mrc",
@@ -407,17 +415,32 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_3257721956",
-      "title": "众测招募 | 玩转音乐生态，体验 Sonos Play 便携智能音响",
+      "id": "rss_564691379",
+      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
       "title_en": null,
-      "url": "https://sspai.com/post/113581",
+      "url": "https://sspai.com/post/114117",
       "source": "少数派",
-      "publishedAt": "2026-09-02T03:00:00+00:00",
-      "summary": "近年来，智能音响正在从「放在客厅的固定设备」变为「跟随你移动的声音系统」。用户不再满足于单一房间的聆听，而是希望音乐能随着自己的脚步，从客厅到厨房、从书房到户外，无缝流转、不断联。这正是Sonos一直 ...<a href=\"https://sspai.com/post/113581\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-09-04T07:01:57+00:00",
+      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。<a href=\"https://sspai.com/post/114117\" target=\"_blank\">查看全文</a>",
       "category": "tip",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "rss_3378513287",
+      "title": "逛完 WRC，我们发现机器人行业最该回答的 5 个问题",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/369388",
+      "source": "极客公园",
+      "publishedAt": "2026-09-03T15:25:38+00:00",
+      "summary": "<p>8 月 19 日，北京亦庄的空气里飘着一种奇怪的兴奋，这是 2026 世界机器人大会开幕的日子。300 多家企业、2000 多件展品，几乎把具身智能行业能拿出的东西都搬到了这里：大模型、本体、关键零部件、数据，应有尽有。</p>\n<p>开幕当天，宇树科技敲钟上市，盘中市值一度冲破 4000 亿元，这可能是过去十年，中国机器人行业最接近「资本狂欢」的一天。过去，机器人公司更多活在实验室、融资新闻和 Demo 视频里；而宇树的上市，第一次给这个仍处在早期的赛道钉下了一个资本锚点。</p>\n<p>除此之外，云深处科技进入交易所受理或审核环节；智元机器人则于 2026 年 7",
+      "category": "industry",
       "interestTags": [
         "creative"
       ],
@@ -425,22 +448,7 @@
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_2182358190",
-      "title": "社区速递 156 | 满血全功能磁吸转换头与手机 AI 通话的真实体验",
-      "title_en": null,
-      "url": "https://sspai.com/post/114078",
-      "source": "少数派",
-      "publishedAt": "2026-09-01T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114078\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_942566467",
+      "id": "rss_2071539538",
       "title": "亚马逊云科技推出规范驱动组合：数据工作流不再靠复制代码",
       "title_en": null,
       "url": "https://www.infoq.cn/article/cg5y0kCfmWKrIjCraZeH?utm_source=rss&utm_medium=article",
@@ -475,45 +483,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtf0ibgi091wrovjvv5ee7qv",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-      "title_en": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-08-29T22:47:53.000Z",
-      "discoveredAt": "2026-08-29T23:29:00.752Z",
-      "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 0,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_894250490",
-      "title": "“没有Token的CS学生，应立即退学”",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/483839.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-03T11:32:08+00:00",
-      "summary": "禁止古法编程、Token自费",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 2,
-      "formattedTime": "13小时前"
+      "formattedTime": "2天前"
     }
   ]
 }
