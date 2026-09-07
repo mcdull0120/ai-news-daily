@@ -1,89 +1,39 @@
 {
-  "generatedAt": "2026-09-06T00:44:06.823019+00:00",
-  "totalSource": 152,
-  "totalFiltered": 140,
+  "generatedAt": "2026-09-07T00:47:50.727880+00:00",
+  "totalSource": 148,
+  "totalFiltered": 137,
   "totalSelected": 10,
   "sources": {
-    "aihot": 92,
+    "aihot": 88,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cmtoqa3i1022iro4mjh3iogk8",
-        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-        "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-        "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-09-05T18:26:17.000Z",
-        "discoveredAt": "2026-09-05T18:40:23.874Z",
-        "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+        "id": "cmtqhifvf04pwrohqvdfqmfxp",
+        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+        "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+        "permalink": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-09-07T00:08:00.000Z",
+        "discoveredAt": "2026-09-07T00:10:30.732Z",
+        "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
         "category": "tip",
-        "score": 83,
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+          "canonical": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
         },
         "interestTags": [
+          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "刚刚"
       },
-      {
-        "id": "cmtofayvo02uoroht238ucfjw",
-        "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-        "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-        "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-        "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-05T13:31:04.000Z",
-        "discoveredAt": "2026-09-05T13:33:09.146Z",
-        "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-        "category": "tip",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "cmtod27rl01iyrouskepiiex2",
-        "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-        "title_en": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革\"AI 模型攻击\"事件披露机制",
-        "url": "https://www.ithome.com/0/998/814.htm",
-        "permalink": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-05T11:43:16.000Z",
-        "discoveredAt": "2026-09-05T12:30:22.469Z",
-        "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-        "category": "tip",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "13小时前"
-      }
-    ],
-    "creative": [
       {
         "id": "cmtoba1tm047nroxh3vml7on9",
         "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
@@ -106,7 +56,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtlu23pp0ng4row5uxwtpazb",
@@ -131,31 +81,80 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
+        "formattedTime": "4天前"
+      }
+    ],
+    "app": [
       {
-        "id": "cmtivvilg06f0ro9yk5dt7mrc",
-        "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
-        "title_en": "Try Google Pics： Easy image creation and editing in Google Workspace",
-        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-        "permalink": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc",
-        "source": "Google Blog：AI（RSS）",
-        "publishedAt": "2026-09-01T16:00:00.000Z",
-        "discoveredAt": "2026-09-01T16:30:21.946Z",
-        "summary": "Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。",
-        "category": "ai-products",
-        "score": 61,
+        "id": "cmtq5pxc10275roiufscxyie4",
+        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+        "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+        "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-09-06T18:23:14.000Z",
+        "discoveredAt": "2026-09-06T18:40:23.942Z",
+        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+        "category": "tip",
+        "score": 81,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc"
+          "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
         },
         "interestTags": [
-          "creative",
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmtpzyon6019iroemu68v4s2v",
+        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+        "title_en": "Research acceleration： The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "permalink": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-09-06T08:00:00.000Z",
+        "discoveredAt": "2026-09-06T15:59:14.286Z",
+        "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
+        "category": "tip",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
+      {
+        "id": "cmtoqa3i1022iro4mjh3iogk8",
+        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+        "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
+        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+        "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-09-05T18:26:17.000Z",
+        "discoveredAt": "2026-09-05T18:40:23.874Z",
+        "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+        "category": "tip",
+        "score": 83,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+        },
+        "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
@@ -180,7 +179,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -203,12 +202,12 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "education": [
       {
-        "id": "rss_1099396912",
+        "id": "rss_3610520860",
         "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
         "title_en": null,
         "url": "https://sspai.com/post/114117",
@@ -220,7 +219,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -245,11 +244,83 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmtqhifvf04pwrohqvdfqmfxp",
+      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+      "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "permalink": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-07T00:08:00.000Z",
+      "discoveredAt": "2026-09-07T00:10:30.732Z",
+      "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "cmtq5pxc10275roiufscxyie4",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-06T18:23:14.000Z",
+      "discoveredAt": "2026-09-06T18:40:23.942Z",
+      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmtpzyon6019iroemu68v4s2v",
+      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
+      "title_en": "Research acceleration： The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "permalink": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "discoveredAt": "2026-09-06T15:59:14.286Z",
+      "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
     {
       "id": "cmtoqa3i1022iro4mjh3iogk8",
       "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
@@ -271,56 +342,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmtofayvo02uoroht238ucfjw",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-05T13:31:04.000Z",
-      "discoveredAt": "2026-09-05T13:33:09.146Z",
-      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmtod27rl01iyrouskepiiex2",
-      "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
-      "title_en": "OpenAI 回应旗下智能体攻进德国网站：将彻底改革\"AI 模型攻击\"事件披露机制",
-      "url": "https://www.ithome.com/0/998/814.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-05T11:43:16.000Z",
-      "discoveredAt": "2026-09-05T12:30:22.469Z",
-      "summary": "针对旗下智能体接管德语维基网站并冒充管理员交流作弊与逃避检测方法的报道，OpenAI 在 X 平台首次承认自身参与其中，并表示早就应为误对齐事件何时以及如何披露制定标准。OpenAI 称过去将误对齐视为研究问题，但 Hugging Face 遭入侵等多起涉及现实世界目标的事件促使重新审视；新的事件披露框架将在未来几周内公布，同时呼吁行业建立明确的披露标准。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtod27rl01iyrouskepiiex2"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtoba1tm047nroxh3vml7on9",
@@ -344,7 +366,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtmvk9590ccdromyrrae80ir",
@@ -367,7 +389,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -390,7 +412,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmtlu23pp0ng4row5uxwtpazb",
@@ -415,34 +437,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmtivvilg06f0ro9yk5dt7mrc",
-      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
-      "title_en": "Try Google Pics： Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-      "permalink": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-09-01T16:00:00.000Z",
-      "discoveredAt": "2026-09-01T16:30:21.946Z",
-      "summary": "Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "4天前"
     },
     {
-      "id": "rss_1099396912",
+      "id": "rss_3610520860",
       "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
       "title_en": null,
       "url": "https://sspai.com/post/114117",
@@ -454,7 +452,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtl9l0kb0mksroal28uvoaug",
@@ -477,7 +475,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     }
   ]
 }
