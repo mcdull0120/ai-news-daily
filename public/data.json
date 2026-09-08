@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-07T00:47:50.727880+00:00",
-  "totalSource": 148,
-  "totalFiltered": 137,
-  "totalSelected": 10,
+  "generatedAt": "2026-09-08T01:02:03.090654+00:00",
+  "totalSource": 153,
+  "totalFiltered": 143,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 88,
+    "aihot": 83,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "creative": [
@@ -32,7 +32,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtoba1tm047nroxh3vml7on9",
@@ -56,7 +56,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmtlu23pp0ng4row5uxwtpazb",
@@ -81,7 +81,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "app": [
@@ -107,7 +107,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtpzyon6019iroemu68v4s2v",
@@ -131,7 +131,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtoqa3i1022iro4mjh3iogk8",
@@ -154,7 +154,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -179,7 +179,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -202,12 +202,27 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "bili_BV12eDkBoEjM",
+        "title": "躺着办公这么爽？AI时代好东西分享1.0",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-09-08T01:02:03.083066+00:00",
+        "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
       }
     ],
     "education": [
       {
-        "id": "rss_3610520860",
+        "id": "rss_2100514578",
         "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
         "title_en": null,
         "url": "https://sspai.com/post/114117",
@@ -219,10 +234,27 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
+      {
+        "id": "bili_BV1Nd596vEyU",
+        "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-09-08T01:02:03.083050+00:00",
+        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+        "category": "tip",
+        "interestTags": [
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      },
       {
         "id": "cmtl9l0kb0mksroal28uvoaug",
         "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
@@ -244,7 +276,7 @@
           "writing"
         ],
         "techScore": 0,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ]
   },
@@ -271,7 +303,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtq5pxc10275roiufscxyie4",
@@ -295,7 +327,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtpzyon6019iroemu68v4s2v",
@@ -319,7 +351,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtoqa3i1022iro4mjh3iogk8",
@@ -342,7 +374,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtoba1tm047nroxh3vml7on9",
@@ -366,7 +398,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtmvk9590ccdromyrrae80ir",
@@ -389,7 +421,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -412,7 +444,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmtlu23pp0ng4row5uxwtpazb",
@@ -437,10 +469,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3610520860",
+      "id": "rss_2100514578",
       "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
       "title_en": null,
       "url": "https://sspai.com/post/114117",
@@ -452,7 +484,39 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
+    },
+    {
+      "id": "bili_BV1Nd596vEyU",
+      "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-09-08T01:02:03.083050+00:00",
+      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "bili_BV12eDkBoEjM",
+      "title": "躺着办公这么爽？AI时代好东西分享1.0",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-09-08T01:02:03.083066+00:00",
+      "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "刚刚"
     },
     {
       "id": "cmtl9l0kb0mksroal28uvoaug",
@@ -475,7 +539,7 @@
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     }
   ]
 }
