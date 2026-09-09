@@ -1,21 +1,70 @@
 {
-  "generatedAt": "2026-09-08T01:02:03.090654+00:00",
-  "totalSource": 153,
-  "totalFiltered": 143,
-  "totalSelected": 12,
+  "generatedAt": "2026-09-09T01:06:45.917768+00:00",
+  "totalSource": 160,
+  "totalFiltered": 145,
+  "totalSelected": 11,
   "sources": {
-    "aihot": 83,
+    "aihot": 100,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "creative": [
+      {
+        "id": "cmttchnc104jvrofp05adlcv6",
+        "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
+        "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
+        "url": "https://x.com/alexandr_wang/status/2097472059077202339",
+        "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "publishedAt": "2026-09-08T23:48:02.000Z",
+        "discoveredAt": "2026-09-09T00:13:13.197Z",
+        "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmtt7nvmn02h6romq0xpo0p2w",
+        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+        "title_en": "Introducing Runway for Premiere Pro & After Effects",
+        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+        "permalink": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
+        "source": "Runway：News（网页）",
+        "publishedAt": "2026-09-08T21:58:07.884Z",
+        "discoveredAt": "2026-09-08T21:58:07.884Z",
+        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3小时前"
+      },
       {
         "id": "cmtqhifvf04pwrohqvdfqmfxp",
         "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
         "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "permalink": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
+        "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
         "source": "公众号：数字生命卡兹克",
         "publishedAt": "2026-09-07T00:08:00.000Z",
         "discoveredAt": "2026-09-07T00:10:30.732Z",
@@ -25,242 +74,132 @@
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
+          "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
         },
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtoba1tm047nroxh3vml7on9",
-        "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-        "title_en": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-        "permalink": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-09-05T11:39:52.000Z",
-        "discoveredAt": "2026-09-05T11:40:29.594Z",
-        "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-        "category": "tip",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
-        },
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
-      },
-      {
-        "id": "cmtlu23pp0ng4row5uxwtpazb",
-        "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-        "title_en": "Designing Grok Bot for a world of persistent agents",
-        "url": "https://x.ai/news/designing-grok-bot",
-        "permalink": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "discoveredAt": "2026-09-03T18:02:33.253Z",
-        "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
-        "category": "ai-products",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
       }
     ],
     "app": [
       {
-        "id": "cmtq5pxc10275roiufscxyie4",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-09-06T18:23:14.000Z",
-        "discoveredAt": "2026-09-06T18:40:23.942Z",
-        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+        "id": "cmtszfjuo04a7ro5wxi2n02va",
+        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
+        "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
+        "url": "https://x.com/sama/status/2097385167002415140",
+        "permalink": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va",
+        "source": "X：Sam Altman (@sama)",
+        "publishedAt": "2026-09-08T18:02:46.000Z",
+        "discoveredAt": "2026-09-08T18:07:37.800Z",
+        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
         "category": "tip",
-        "score": 81,
+        "score": 72,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtpzyon6019iroemu68v4s2v",
-        "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-        "title_en": "Research acceleration： The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "permalink": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-09-06T08:00:00.000Z",
-        "discoveredAt": "2026-09-06T15:59:14.286Z",
-        "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-        "category": "tip",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtoqa3i1022iro4mjh3iogk8",
-        "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-        "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-        "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-        "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-09-05T18:26:17.000Z",
-        "discoveredAt": "2026-09-05T18:40:23.874Z",
-        "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-        "category": "tip",
-        "score": 83,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+          "canonical": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "productivity": [
+        "formattedTime": "7小时前"
+      },
       {
-        "id": "cmtmvk9590ccdromyrrae80ir",
-        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-        "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
-        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-        "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-04T11:07:36.000Z",
-        "discoveredAt": "2026-09-04T11:32:44.473Z",
-        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+        "id": "cmtsy52b401faro5wv9smnfmk",
+        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+        "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+        "url": "https://x.com/polynoamial/status/2097375837670785447",
+        "permalink": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
+        "source": "X：Noam Brown (@polynoamial)",
+        "publishedAt": "2026-09-08T17:25:41.000Z",
+        "discoveredAt": "2026-09-08T17:31:31.549Z",
+        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
         "category": "tip",
         "score": 78,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+          "canonical": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk"
         },
         "interestTags": [
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmtm7yl5s01d5robnsn25onbz",
-        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-        "url": "https://arcprize.org/blog/astra",
-        "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-09-04T00:07:48.532Z",
-        "discoveredAt": "2026-09-04T00:32:03.496Z",
-        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+        "id": "cmtsynojw01xqro5wb8n7ysor",
+        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
+        "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
+        "url": "https://x.com/OpenAI/status/2097375276384567642",
+        "permalink": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor",
+        "source": "X：OpenAI (@OpenAI)",
+        "publishedAt": "2026-09-08T17:23:27.000Z",
+        "discoveredAt": "2026-09-08T17:46:00.104Z",
+        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
         "category": "paper",
-        "score": 78,
+        "score": 73,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz"
+          "canonical": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor"
         },
         "interestTags": [
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "bili_BV12eDkBoEjM",
-        "title": "躺着办公这么爽？AI时代好东西分享1.0",
-        "title_en": null,
-        "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
-        "source": "B站：秋芝2046",
-        "publishedAt": "2026-09-08T01:02:03.083066+00:00",
-        "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_2100514578",
-        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
-        "title_en": null,
-        "url": "https://sspai.com/post/114117",
-        "source": "少数派",
-        "publishedAt": "2026-09-04T07:01:57+00:00",
-        "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。<a href=\"https://sspai.com/post/114117\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "7小时前"
       }
     ],
     "writing": [
       {
-        "id": "bili_BV1Nd596vEyU",
-        "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
-        "title_en": null,
-        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-        "source": "B站：秋芝2046",
-        "publishedAt": "2026-09-08T01:02:03.083050+00:00",
-        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+        "id": "cmtsxacbf04jkrob5fu5sp5ti",
+        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+        "title_en": "https://x.com/i/article/2095208140753317888",
+        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+        "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-08T17:01:27.000Z",
+        "discoveredAt": "2026-09-08T17:07:37.974Z",
+        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
         "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
+        },
         "interestTags": [
-          "writing",
-          "education",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "rss_2275311634",
+        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+        "title_en": null,
+        "url": "https://sspai.com/post/114327",
+        "source": "少数派",
+        "publishedAt": "2026-09-08T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114327\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
       },
       {
         "id": "cmtl9l0kb0mksroal28uvoaug",
         "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
         "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
         "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "permalink": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug",
+        "permalink": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug",
         "source": "Hugging Face：Blog（RSS）",
         "publishedAt": "2026-09-03T00:00:00.000Z",
         "discoveredAt": "2026-09-03T08:29:42.598Z",
@@ -270,23 +209,212 @@
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
+          "canonical": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug"
         },
         "interestTags": [
           "writing"
         ],
         "techScore": 0,
+        "formattedTime": "6天前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmtmvk9590ccdromyrrae80ir",
+        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+        "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+        "permalink": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-04T11:07:36.000Z",
+        "discoveredAt": "2026-09-04T11:32:44.473Z",
+        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+        "category": "tip",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "cmtm7yl5s01d5robnsn25onbz",
+        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+        "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+        "url": "https://arcprize.org/blog/astra",
+        "permalink": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-09-04T00:07:48.532Z",
+        "discoveredAt": "2026-09-04T00:32:03.496Z",
+        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+        "category": "paper",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
         "formattedTime": "5天前"
       }
     ]
   },
   "items": [
     {
+      "id": "cmttchnc104jvrofp05adlcv6",
+      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
+      "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
+      "url": "https://x.com/alexandr_wang/status/2097472059077202339",
+      "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-08T23:48:02.000Z",
+      "discoveredAt": "2026-09-09T00:13:13.197Z",
+      "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmtt7nvmn02h6romq0xpo0p2w",
+      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+      "title_en": "Introducing Runway for Premiere Pro & After Effects",
+      "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+      "permalink": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-09-08T21:58:07.884Z",
+      "discoveredAt": "2026-09-08T21:58:07.884Z",
+      "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmtszfjuo04a7ro5wxi2n02va",
+      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
+      "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
+      "url": "https://x.com/sama/status/2097385167002415140",
+      "permalink": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-08T18:02:46.000Z",
+      "discoveredAt": "2026-09-08T18:07:37.800Z",
+      "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtsy52b401faro5wv9smnfmk",
+      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
+      "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
+      "url": "https://x.com/polynoamial/status/2097375837670785447",
+      "permalink": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
+      "source": "X：Noam Brown (@polynoamial)",
+      "publishedAt": "2026-09-08T17:25:41.000Z",
+      "discoveredAt": "2026-09-08T17:31:31.549Z",
+      "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtsynojw01xqro5wb8n7ysor",
+      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
+      "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
+      "url": "https://x.com/OpenAI/status/2097375276384567642",
+      "permalink": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-09-08T17:23:27.000Z",
+      "discoveredAt": "2026-09-08T17:46:00.104Z",
+      "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtsxacbf04jkrob5fu5sp5ti",
+      "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+      "title_en": "https://x.com/i/article/2095208140753317888",
+      "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+      "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-09-08T17:01:27.000Z",
+      "discoveredAt": "2026-09-08T17:07:37.974Z",
+      "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
       "id": "cmtqhifvf04pwrohqvdfqmfxp",
       "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
       "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "permalink": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
+      "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
       "source": "公众号：数字生命卡兹克",
       "publishedAt": "2026-09-07T00:08:00.000Z",
       "discoveredAt": "2026-09-07T00:10:30.732Z",
@@ -296,106 +424,11 @@
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
+        "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
       },
       "interestTags": [
         "creative",
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtq5pxc10275roiufscxyie4",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T18:23:14.000Z",
-      "discoveredAt": "2026-09-06T18:40:23.942Z",
-      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtpzyon6019iroemu68v4s2v",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-      "title_en": "Research acceleration： The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "permalink": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
-      "discoveredAt": "2026-09-06T15:59:14.286Z",
-      "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtpzyon6019iroemu68v4s2v"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtoqa3i1022iro4mjh3iogk8",
-      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
-      "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
-      "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
-      "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-05T18:26:17.000Z",
-      "discoveredAt": "2026-09-05T18:40:23.874Z",
-      "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmtoba1tm047nroxh3vml7on9",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "title_en": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "permalink": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-05T11:39:52.000Z",
-      "discoveredAt": "2026-09-05T11:40:29.594Z",
-      "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtoba1tm047nroxh3vml7on9"
-      },
-      "interestTags": [
-        "creative",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "2天前"
@@ -405,7 +438,7 @@
       "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
       "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
       "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-      "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
+      "permalink": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir",
       "source": "The Decoder：AI News（RSS）",
       "publishedAt": "2026-09-04T11:07:36.000Z",
       "discoveredAt": "2026-09-04T11:32:44.473Z",
@@ -415,20 +448,20 @@
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+        "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
       },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmtm7yl5s01d5robnsn25onbz",
       "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
       "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
       "url": "https://arcprize.org/blog/astra",
-      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz",
+      "permalink": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "publishedAt": "2026-09-04T00:07:48.532Z",
       "discoveredAt": "2026-09-04T00:32:03.496Z",
@@ -438,92 +471,35 @@
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz"
+        "canonical": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz"
       },
       "interestTags": [
         "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmtlu23pp0ng4row5uxwtpazb",
-      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-      "title_en": "Designing Grok Bot for a world of persistent agents",
-      "url": "https://x.ai/news/designing-grok-bot",
-      "permalink": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-03T18:02:33.253Z",
-      "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "rss_2100514578",
-      "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校生活轻松一点",
+      "id": "rss_2275311634",
+      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
       "title_en": null,
-      "url": "https://sspai.com/post/114117",
+      "url": "https://sspai.com/post/114327",
       "source": "少数派",
-      "publishedAt": "2026-09-04T07:01:57+00:00",
-      "summary": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。<a href=\"https://sspai.com/post/114117\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-09-08T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114327\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "bili_BV1Nd596vEyU",
-      "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
-      "title_en": null,
-      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-      "source": "B站：秋芝2046",
-      "publishedAt": "2026-09-08T01:02:03.083050+00:00",
-      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "education",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "bili_BV12eDkBoEjM",
-      "title": "躺着办公这么爽？AI时代好东西分享1.0",
-      "title_en": null,
-      "url": "https://www.bilibili.com/video/BV12eDkBoEjM",
-      "source": "B站：秋芝2046",
-      "publishedAt": "2026-09-08T01:02:03.083066+00:00",
-      "summary": "AI 时代办公，必备的4件套！\n视野全开、松弛办公、用嘴输入、算力自由~\n感谢铁铁们的三连+关注~",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "16小时前"
     },
     {
       "id": "cmtl9l0kb0mksroal28uvoaug",
       "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
       "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "permalink": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug",
+      "permalink": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug",
       "source": "Hugging Face：Blog（RSS）",
       "publishedAt": "2026-09-03T00:00:00.000Z",
       "discoveredAt": "2026-09-03T08:29:42.598Z",
@@ -533,13 +509,13 @@
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtl9l0kb0mksroal28uvoaug"
+        "canonical": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug"
       },
       "interestTags": [
         "writing"
       ],
       "techScore": 0,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     }
   ]
 }
