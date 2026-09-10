@@ -1,15 +1,134 @@
 {
-  "generatedAt": "2026-09-09T01:06:45.917768+00:00",
+  "generatedAt": "2026-09-10T00:55:25.459432+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
-  "totalSelected": 11,
+  "totalFiltered": 147,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmtuhrbi71dnsrofpx3fnhef7",
+        "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+        "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+        "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+        "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "publishedAt": "2026-09-09T19:02:43.000Z",
+        "discoveredAt": "2026-09-09T19:28:28.231Z",
+        "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+        "category": "tip",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmtugpn561cgnrofplpzs3udv",
+        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+        "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+        "url": "https://mistral.ai/news/legacy-code-modernization",
+        "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
+        "source": "Mistral AI：News（网页）",
+        "publishedAt": "2026-09-09T18:59:11.761Z",
+        "discoveredAt": "2026-09-09T18:59:11.761Z",
+        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+        "category": "tip",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "cmtuejpai193wrofprivr8awm",
+        "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
+        "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
+        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+        "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-09-09T17:50:47.609Z",
+        "discoveredAt": "2026-09-09T17:58:34.548Z",
+        "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
+        "category": "ai-products",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      }
+    ],
     "creative": [
+      {
+        "id": "cmtugou9e1cddrofptz3jwh4j",
+        "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
+        "title_en": "Apple unveils iPhone Duo",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+        "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-09-09T18:15:40.996Z",
+        "discoveredAt": "2026-09-09T18:58:34.686Z",
+        "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cmtuejpai193yrofptlbx9jyr",
+        "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+        "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+        "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-09-09T17:30:06.059Z",
+        "discoveredAt": "2026-09-09T17:58:34.548Z",
+        "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
+        "category": "ai-products",
+        "score": 63,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmttchnc104jvrofp05adlcv6",
         "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
@@ -33,126 +152,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmtt7nvmn02h6romq0xpo0p2w",
-        "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-        "title_en": "Introducing Runway for Premiere Pro & After Effects",
-        "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-        "permalink": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
-        "source": "Runway：News（网页）",
-        "publishedAt": "2026-09-08T21:58:07.884Z",
-        "discoveredAt": "2026-09-08T21:58:07.884Z",
-        "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "cmtqhifvf04pwrohqvdfqmfxp",
-        "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-        "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-        "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-09-07T00:08:00.000Z",
-        "discoveredAt": "2026-09-07T00:10:30.732Z",
-        "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmtszfjuo04a7ro5wxi2n02va",
-        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-        "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "url": "https://x.com/sama/status/2097385167002415140",
-        "permalink": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va",
-        "source": "X：Sam Altman (@sama)",
-        "publishedAt": "2026-09-08T18:02:46.000Z",
-        "discoveredAt": "2026-09-08T18:07:37.800Z",
-        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-        "category": "tip",
-        "score": 72,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmtsy52b401faro5wv9smnfmk",
-        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-        "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-        "url": "https://x.com/polynoamial/status/2097375837670785447",
-        "permalink": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
-        "source": "X：Noam Brown (@polynoamial)",
-        "publishedAt": "2026-09-08T17:25:41.000Z",
-        "discoveredAt": "2026-09-08T17:31:31.549Z",
-        "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-        "category": "tip",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmtsynojw01xqro5wb8n7ysor",
-        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-        "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "url": "https://x.com/OpenAI/status/2097375276384567642",
-        "permalink": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor",
-        "source": "X：OpenAI (@OpenAI)",
-        "publishedAt": "2026-09-08T17:23:27.000Z",
-        "discoveredAt": "2026-09-08T17:46:00.104Z",
-        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-        "category": "paper",
-        "score": 73,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -177,10 +177,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2275311634",
+        "id": "rss_2973615276",
         "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
         "title_en": null,
         "url": "https://sspai.com/post/114327",
@@ -192,30 +192,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmtl9l0kb0mksroal28uvoaug",
-        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "permalink": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug",
-        "source": "Hugging Face：Blog（RSS）",
-        "publishedAt": "2026-09-03T00:00:00.000Z",
-        "discoveredAt": "2026-09-03T08:29:42.598Z",
-        "summary": "Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。",
+        "id": "rss_3308123973",
+        "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 09 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug"
-        },
         "interestTags": [
           "writing"
         ],
-        "techScore": 0,
-        "formattedTime": "6天前"
+        "techScore": -1,
+        "formattedTime": "Wed, 09 Se"
       }
     ],
     "productivity": [
@@ -240,7 +232,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -263,11 +255,143 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
+      },
+      {
+        "id": "rss_1125520831",
+        "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 09 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "Wed, 09 Se"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmtuhrbi71dnsrofpx3fnhef7",
+      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-09-09T19:02:43.000Z",
+      "discoveredAt": "2026-09-09T19:28:28.231Z",
+      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmtugpn561cgnrofplpzs3udv",
+      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-09-09T18:59:11.761Z",
+      "discoveredAt": "2026-09-09T18:59:11.761Z",
+      "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmtugou9e1cddrofptz3jwh4j",
+      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
+      "title_en": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+      "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-09T18:15:40.996Z",
+      "discoveredAt": "2026-09-09T18:58:34.686Z",
+      "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmtuejpai193wrofprivr8awm",
+      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
+      "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+      "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-09T17:50:47.609Z",
+      "discoveredAt": "2026-09-09T17:58:34.548Z",
+      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtuejpai193yrofptlbx9jyr",
+      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
+      "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+      "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-09T17:30:06.059Z",
+      "discoveredAt": "2026-09-09T17:58:34.548Z",
+      "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
     {
       "id": "cmttchnc104jvrofp05adlcv6",
       "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
@@ -291,100 +415,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmtt7nvmn02h6romq0xpo0p2w",
-      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
-      "title_en": "Introducing Runway for Premiere Pro & After Effects",
-      "url": "https://runwayml.com/news/company-news/runway-for-adobe",
-      "permalink": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-09-08T21:58:07.884Z",
-      "discoveredAt": "2026-09-08T21:58:07.884Z",
-      "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3小时前"
-    },
-    {
-      "id": "cmtszfjuo04a7ro5wxi2n02va",
-      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-      "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-      "url": "https://x.com/sama/status/2097385167002415140",
-      "permalink": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-09-08T18:02:46.000Z",
-      "discoveredAt": "2026-09-08T18:07:37.800Z",
-      "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmtsy52b401faro5wv9smnfmk",
-      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-      "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-      "url": "https://x.com/polynoamial/status/2097375837670785447",
-      "permalink": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
-      "source": "X：Noam Brown (@polynoamial)",
-      "publishedAt": "2026-09-08T17:25:41.000Z",
-      "discoveredAt": "2026-09-08T17:31:31.549Z",
-      "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmtsynojw01xqro5wb8n7ysor",
-      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-      "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-      "url": "https://x.com/OpenAI/status/2097375276384567642",
-      "permalink": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-08T17:23:27.000Z",
-      "discoveredAt": "2026-09-08T17:46:00.104Z",
-      "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtsxacbf04jkrob5fu5sp5ti",
@@ -407,31 +438,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
-    },
-    {
-      "id": "cmtqhifvf04pwrohqvdfqmfxp",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-07T00:08:00.000Z",
-      "discoveredAt": "2026-09-07T00:10:30.732Z",
-      "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtmvk9590ccdromyrrae80ir",
@@ -454,7 +461,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmtm7yl5s01d5robnsn25onbz",
@@ -477,10 +484,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_2275311634",
+      "id": "rss_2973615276",
       "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
       "title_en": null,
       "url": "https://sspai.com/post/114327",
@@ -492,30 +499,37 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "cmtl9l0kb0mksroal28uvoaug",
-      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-      "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "permalink": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-03T08:29:42.598Z",
-      "summary": "Hugging Face 博客作者基于 Surya Narreddi 的原始想法，用 TRL、OpenEnv 和 Qwen/Qwen3.5-35B-A3B 复现了让语言模型通过 p5.brush 写 JavaScript 画水彩的 RL 训练流程，所有数据集、环境、脚本和模型均开源在 Hub。",
+      "id": "rss_3308123973",
+      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 09 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtl9l0kb0mksroal28uvoaug"
-      },
       "interestTags": [
         "writing"
       ],
-      "techScore": 0,
-      "formattedTime": "6天前"
+      "techScore": -1,
+      "formattedTime": "Wed, 09 Se"
+    },
+    {
+      "id": "rss_1125520831",
+      "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 09 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "Wed, 09 Se"
     }
   ]
 }
