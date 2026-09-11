@@ -1,86 +1,138 @@
 {
-  "generatedAt": "2026-09-10T00:55:25.459432+00:00",
-  "totalSource": 160,
-  "totalFiltered": 147,
-  "totalSelected": 12,
+  "generatedAt": "2026-09-11T00:52:32.049013+00:00",
+  "totalSource": 152,
+  "totalFiltered": 137,
+  "totalSelected": 10,
   "sources": {
-    "aihot": 100,
+    "aihot": 92,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmtuhrbi71dnsrofpx3fnhef7",
-        "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-        "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-        "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-        "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-09-09T19:02:43.000Z",
-        "discoveredAt": "2026-09-09T19:28:28.231Z",
-        "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-        "category": "tip",
-        "score": 79,
+        "id": "cmtvsxbrc068orofbs09dpez3",
+        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+        "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "publishedAt": "2026-09-10T17:28:52.100Z",
+        "discoveredAt": "2026-09-10T17:28:52.100Z",
+        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+        "category": "paper",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmtugpn561cgnrofplpzs3udv",
-        "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-        "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-        "url": "https://mistral.ai/news/legacy-code-modernization",
-        "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
-        "source": "Mistral AI：News（网页）",
-        "publishedAt": "2026-09-09T18:59:11.761Z",
-        "discoveredAt": "2026-09-09T18:59:11.761Z",
-        "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
-        "category": "tip",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmtuejpai193wrofprivr8awm",
-        "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-        "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
-        "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-        "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-09-09T17:50:47.609Z",
-        "discoveredAt": "2026-09-09T17:58:34.548Z",
-        "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-        "category": "ai-products",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
+          "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
         "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmtvru9kd04x5rofbggyhsxae",
+        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+        "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+        "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-10T16:33:44.000Z",
+        "discoveredAt": "2026-09-10T16:58:28.396Z",
+        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+        "category": "tip",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmtvom4k90ghtronbwks6e67t",
+        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+        "title_en": "Shopify 从 React Native 重新回归到原生开发",
+        "url": "https://shopify.engineering/back-to-native",
+        "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-09-10T15:04:41.487Z",
+        "discoveredAt": "2026-09-10T15:28:10.346Z",
+        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
       }
     ],
     "creative": [
+      {
+        "id": "cmtvp95oo0h1yronb8scij5jx",
+        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+        "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
+        "url": "https://x.com/GoogleAI/status/2098072879480947085",
+        "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+        "source": "X：Google AI (@GoogleAI)",
+        "publishedAt": "2026-09-10T15:35:29.000Z",
+        "discoveredAt": "2026-09-10T15:46:00.255Z",
+        "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "cmtvh5qcn05vfronbsu51vfic",
+        "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+        "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "url": "https://huggingface.co/blog/gradio-workflow-1111",
+        "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
+        "source": "Hugging Face：Blog（RSS）",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "discoveredAt": "2026-09-10T11:59:27.962Z",
+        "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmtugou9e1cddrofptz3jwh4j",
         "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
@@ -101,55 +153,6 @@
         "interestTags": [
           "creative",
           "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmtuejpai193yrofptlbx9jyr",
-        "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-        "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-        "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-09-09T17:30:06.059Z",
-        "discoveredAt": "2026-09-09T17:58:34.548Z",
-        "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
-        "category": "ai-products",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmttchnc104jvrofp05adlcv6",
-        "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-        "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-        "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-        "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "publishedAt": "2026-09-08T23:48:02.000Z",
-        "discoveredAt": "2026-09-09T00:13:13.197Z",
-        "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-        "category": "ai-products",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
         ],
         "techScore": -1,
         "formattedTime": "昨天"
@@ -177,37 +180,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_2973615276",
-        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
-        "title_en": null,
-        "url": "https://sspai.com/post/114327",
-        "source": "少数派",
-        "publishedAt": "2026-09-08T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114327\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3308123973",
-        "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 09 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "Wed, 09 Se"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -232,94 +205,161 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "cmtm7yl5s01d5robnsn25onbz",
-        "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-        "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-        "url": "https://arcprize.org/blog/astra",
-        "permalink": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-09-04T00:07:48.532Z",
-        "discoveredAt": "2026-09-04T00:32:03.496Z",
-        "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-        "category": "paper",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz"
-        },
+        "id": "rss_2855156386",
+        "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/370150",
+        "source": "极客公园",
+        "publishedAt": "2026-09-10T11:41:33+00:00",
+        "summary": "<p style=\"text-align: left;\">在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。</p>\n<p style=\"text-align: left;\">2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。</p>\n<p style=\"text-align: left;\">极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "13小时前"
       },
       {
-        "id": "rss_1125520831",
-        "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
+        "id": "rss_1622144476",
+        "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article",
+        "url": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
         "source": "InfoQ中文",
-        "publishedAt": "Wed, 09 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "publishedAt": "Thu, 10 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "Wed, 09 Se"
+        "techScore": -1,
+        "formattedTime": "Thu, 10 Se"
       }
     ]
   },
   "items": [
     {
-      "id": "cmtuhrbi71dnsrofpx3fnhef7",
-      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-09T19:02:43.000Z",
-      "discoveredAt": "2026-09-09T19:28:28.231Z",
-      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-      "category": "tip",
-      "score": 79,
+      "id": "cmtvsxbrc068orofbs09dpez3",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-10T17:28:52.100Z",
+      "discoveredAt": "2026-09-10T17:28:52.100Z",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+      "category": "paper",
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
+        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "7小时前"
     },
     {
-      "id": "cmtugpn561cgnrofplpzs3udv",
-      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-09-09T18:59:11.761Z",
-      "discoveredAt": "2026-09-09T18:59:11.761Z",
-      "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+      "id": "cmtvru9kd04x5rofbggyhsxae",
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+      "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+      "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-10T16:33:44.000Z",
+      "discoveredAt": "2026-09-10T16:58:28.396Z",
+      "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
       "category": "tip",
-      "score": 60,
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+        "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmtvp95oo0h1yronb8scij5jx",
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
+      "url": "https://x.com/GoogleAI/status/2098072879480947085",
+      "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-09-10T15:35:29.000Z",
+      "discoveredAt": "2026-09-10T15:46:00.255Z",
+      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmtvom4k90ghtronbwks6e67t",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "title_en": "Shopify 从 React Native 重新回归到原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-10T15:04:41.487Z",
+      "discoveredAt": "2026-09-10T15:28:10.346Z",
+      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmtvh5qcn05vfronbsu51vfic",
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-10T11:59:27.962Z",
+      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtugou9e1cddrofptz3jwh4j",
@@ -341,78 +381,6 @@
       "interestTags": [
         "creative",
         "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmtuejpai193wrofprivr8awm",
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:50:47.609Z",
-      "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmtuejpai193yrofptlbx9jyr",
-      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-      "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-      "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:30:06.059Z",
-      "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmttchnc104jvrofp05adlcv6",
-      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-      "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
-      "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-      "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-08T23:48:02.000Z",
-      "discoveredAt": "2026-09-09T00:13:13.197Z",
-      "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -438,7 +406,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtmvk9590ccdromyrrae80ir",
@@ -461,75 +429,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmtm7yl5s01d5robnsn25onbz",
-      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
-      "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
-      "url": "https://arcprize.org/blog/astra",
-      "permalink": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-04T00:07:48.532Z",
-      "discoveredAt": "2026-09-04T00:32:03.496Z",
-      "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtm7yl5s01d5robnsn25onbz"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "6天前"
     },
     {
-      "id": "rss_2973615276",
-      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
+      "id": "rss_2855156386",
+      "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
       "title_en": null,
-      "url": "https://sspai.com/post/114327",
-      "source": "少数派",
-      "publishedAt": "2026-09-08T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/114327\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "url": "http://www.geekpark.net/news/370150",
+      "source": "极客公园",
+      "publishedAt": "2026-09-10T11:41:33+00:00",
+      "summary": "<p style=\"text-align: left;\">在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。</p>\n<p style=\"text-align: left;\">2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。</p>\n<p style=\"text-align: left;\">极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "13小时前"
     },
     {
-      "id": "rss_3308123973",
-      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
+      "id": "rss_1622144476",
+      "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Wed, 09 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "Wed, 09 Se"
-    },
-    {
-      "id": "rss_1125520831",
-      "title": "pnpm 12 采用 Rust 语言重写了包管理器，在保留 pnpm 11 工作流的同时提升了安装速度",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 09 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/h4M6YGm3G7Zph5QEIV5R?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Thu, 10 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
-      "techScore": 1,
-      "formattedTime": "Wed, 09 Se"
+      "techScore": -1,
+      "formattedTime": "Thu, 10 Se"
     }
   ]
 }
