@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-09-11T00:52:32.049013+00:00",
-  "totalSource": 152,
-  "totalFiltered": 137,
+  "generatedAt": "2026-09-12T00:57:48.515370+00:00",
+  "totalSource": 148,
+  "totalFiltered": 132,
   "totalSelected": 10,
   "sources": {
-    "aihot": 92,
+    "aihot": 88,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmtvsxbrc068orofbs09dpez3",
-        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-        "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-09-10T17:28:52.100Z",
-        "discoveredAt": "2026-09-10T17:28:52.100Z",
-        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-        "category": "paper",
-        "score": 77,
+        "id": "cmtx7f9mi09psroed4b1w3nsv",
+        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "discoveredAt": "2026-09-11T17:02:27.409Z",
+        "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+        "category": "tip",
+        "score": 61,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
+          "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
         },
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "14小时前"
       },
       {
         "id": "cmtvru9kd04x5rofbggyhsxae",
@@ -55,7 +56,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtvom4k90ghtronbwks6e67t",
@@ -78,10 +79,33 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
+      {
+        "id": "cmtwsc5gt09uarow7n2r2jrz3",
+        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+        "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+        "source": "公众号：卡尔的AI沃茨",
+        "publishedAt": "2026-09-11T04:24:28.000Z",
+        "discoveredAt": "2026-09-11T10:00:10.584Z",
+        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
       {
         "id": "cmtvp95oo0h1yronb8scij5jx",
         "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
@@ -106,7 +130,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtvh5qcn05vfronbsu51vfic",
@@ -131,31 +155,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtugou9e1cddrofptz3jwh4j",
-        "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
-        "title_en": "Apple unveils iPhone Duo",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-        "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-09-09T18:15:40.996Z",
-        "discoveredAt": "2026-09-09T18:58:34.686Z",
-        "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -180,35 +180,51 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "cmtxbm8dp037xrouueja171wr",
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+        "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+        "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+        "source": "GitHub Blog",
+        "publishedAt": "2026-09-11T18:26:10.000Z",
+        "discoveredAt": "2026-09-11T18:59:53.161Z",
+        "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+        "category": "tip",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "6小时前"
       }
     ],
     "productivity": [
       {
-        "id": "cmtmvk9590ccdromyrrae80ir",
-        "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-        "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
-        "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-        "permalink": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-04T11:07:36.000Z",
-        "discoveredAt": "2026-09-04T11:32:44.473Z",
-        "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+        "id": "rss_3648892741",
+        "title": "新 iPhone 配件精选：多种组合一次配齐",
+        "title_en": null,
+        "url": "https://sspai.com/post/114414",
+        "source": "少数派",
+        "publishedAt": "2026-09-11T04:00:00+00:00",
+        "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...<a href=\"https://sspai.com/post/114414\" target=\"_blank\">查看全文</a>",
         "category": "tip",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
-        },
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "20小时前"
       },
       {
-        "id": "rss_2855156386",
+        "id": "rss_4289081100",
         "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
         "title_en": null,
         "url": "http://www.geekpark.net/news/370150",
@@ -220,48 +236,57 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
-      },
-      {
-        "id": "rss_1622144476",
-        "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Thu, 10 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Thu, 10 Se"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
     {
-      "id": "cmtvsxbrc068orofbs09dpez3",
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-10T17:28:52.100Z",
-      "discoveredAt": "2026-09-10T17:28:52.100Z",
-      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-      "category": "paper",
-      "score": 77,
+      "id": "cmtx7f9mi09psroed4b1w3nsv",
+      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "discoveredAt": "2026-09-11T17:02:27.409Z",
+      "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+      "category": "tip",
+      "score": 61,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
+        "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
       },
       "interestTags": [
-        "app"
+        "app",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "cmtwsc5gt09uarow7n2r2jrz3",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-11T04:24:28.000Z",
+      "discoveredAt": "2026-09-11T10:00:10.584Z",
+      "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
     },
     {
       "id": "cmtvru9kd04x5rofbggyhsxae",
@@ -285,7 +310,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtvp95oo0h1yronb8scij5jx",
@@ -311,7 +336,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtvom4k90ghtronbwks6e67t",
@@ -334,7 +359,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtvh5qcn05vfronbsu51vfic",
@@ -359,31 +384,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtugou9e1cddrofptz3jwh4j",
-      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
-      "title_en": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-      "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T18:15:40.996Z",
-      "discoveredAt": "2026-09-09T18:58:34.686Z",
-      "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtsxacbf04jkrob5fu5sp5ti",
@@ -406,33 +407,25 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "cmtmvk9590ccdromyrrae80ir",
-      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-      "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
-      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-      "permalink": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-04T11:07:36.000Z",
-      "discoveredAt": "2026-09-04T11:32:44.473Z",
-      "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+      "id": "rss_3648892741",
+      "title": "新 iPhone 配件精选：多种组合一次配齐",
+      "title_en": null,
+      "url": "https://sspai.com/post/114414",
+      "source": "少数派",
+      "publishedAt": "2026-09-11T04:00:00+00:00",
+      "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...<a href=\"https://sspai.com/post/114414\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
-      },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "20小时前"
     },
     {
-      "id": "rss_2855156386",
+      "id": "rss_4289081100",
       "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
       "title_en": null,
       "url": "http://www.geekpark.net/news/370150",
@@ -444,22 +437,31 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1622144476",
-      "title": "多人同时改地图、标数据，JupyterGIS 正在重做 GIS 工作流",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Thu, 10 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/QpQBK0EXkx5U5CZe1OP9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "id": "cmtxbm8dp037xrouueja171wr",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+      "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "discoveredAt": "2026-09-11T18:59:53.161Z",
+      "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
       "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
+      },
       "interestTags": [
+        "writing",
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Thu, 10 Se"
+      "techScore": 1,
+      "formattedTime": "6小时前"
     }
   ]
 }
