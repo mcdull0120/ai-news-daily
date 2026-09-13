@@ -1,88 +1,110 @@
 {
-  "generatedAt": "2026-09-12T00:57:48.515370+00:00",
-  "totalSource": 148,
-  "totalFiltered": 132,
-  "totalSelected": 10,
+  "generatedAt": "2026-09-13T00:42:07.628299+00:00",
+  "totalSource": 157,
+  "totalFiltered": 143,
+  "totalSelected": 11,
   "sources": {
-    "aihot": 88,
+    "aihot": 97,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "writing": [
       {
-        "id": "cmtx7f9mi09psroed4b1w3nsv",
-        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-09-11T10:00:00.000Z",
-        "discoveredAt": "2026-09-11T17:02:27.409Z",
-        "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+        "id": "cmtyth87f098broupl3k186iw",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
+        "source": "X：Thariq (@trq212)",
+        "publishedAt": "2026-09-12T19:46:58.000Z",
+        "discoveredAt": "2026-09-12T20:07:37.646Z",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
         "category": "tip",
-        "score": 61,
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
+          "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
         },
         "interestTags": [
-          "app",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "4小时前"
       },
       {
-        "id": "cmtvru9kd04x5rofbggyhsxae",
-        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-        "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-        "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-10T16:33:44.000Z",
-        "discoveredAt": "2026-09-10T16:58:28.396Z",
-        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+        "id": "cmtymlrth035dronv9zqv9ccb",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+        "source": "X：Sam Altman (@sama)",
+        "publishedAt": "2026-09-12T16:30:45.000Z",
+        "discoveredAt": "2026-09-12T16:55:12.271Z",
+        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
         "category": "tip",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmtsxacbf04jkrob5fu5sp5ti",
+        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+        "title_en": "https://x.com/i/article/2095208140753317888",
+        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+        "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-08T17:01:27.000Z",
+        "discoveredAt": "2026-09-08T17:07:37.974Z",
+        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmtyof5al04e2rog01a0893gu",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "title_en": "https://x.com/i/article/2098531824528220160",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-09-12T17:33:23.000Z",
+        "discoveredAt": "2026-09-12T17:46:00.889Z",
+        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "category": "ai-products",
         "score": 80,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
+          "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
         },
         "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmtvom4k90ghtronbwks6e67t",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "title_en": "Shopify 从 React Native 重新回归到原生开发",
-        "url": "https://shopify.engineering/back-to-native",
-        "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-09-10T15:04:41.487Z",
-        "discoveredAt": "2026-09-10T15:28:10.346Z",
-        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-        "category": "industry",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
-        },
-        "interestTags": [
+          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
+        "formattedTime": "7小时前"
+      },
       {
         "id": "cmtwsc5gt09uarow7n2r2jrz3",
         "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
@@ -104,7 +126,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmtvp95oo0h1yronb8scij5jx",
@@ -130,86 +152,87 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
+        "formattedTime": "2天前"
+      }
+    ],
+    "app": [
       {
-        "id": "cmtvh5qcn05vfronbsu51vfic",
-        "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-        "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-        "url": "https://huggingface.co/blog/gradio-workflow-1111",
-        "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
-        "source": "Hugging Face：Blog（RSS）",
-        "publishedAt": "2026-09-10T00:00:00.000Z",
-        "discoveredAt": "2026-09-10T11:59:27.962Z",
-        "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
-        "category": "ai-products",
-        "score": 65,
+        "id": "cmtxvt03h068vrous6ilk8ds7",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
+        "source": "Hacker News：AI 热帖",
+        "publishedAt": "2026-09-12T02:39:39.000Z",
+        "discoveredAt": "2026-09-12T04:25:01.481Z",
+        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+        "category": "industry",
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
+          "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
         },
         "interestTags": [
-          "creative",
           "app",
-          "writing"
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
+      {
+        "id": "cmtx7f9mi09psroed4b1w3nsv",
+        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-09-11T10:00:00.000Z",
+        "discoveredAt": "2026-09-11T17:02:27.409Z",
+        "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+        "category": "tip",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmtvru9kd04x5rofbggyhsxae",
+        "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+        "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+        "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+        "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-10T16:33:44.000Z",
+        "discoveredAt": "2026-09-10T16:58:28.396Z",
+        "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+        "category": "tip",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
       }
     ],
-    "writing": [
-      {
-        "id": "cmtsxacbf04jkrob5fu5sp5ti",
-        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-        "title_en": "https://x.com/i/article/2095208140753317888",
-        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-        "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-08T17:01:27.000Z",
-        "discoveredAt": "2026-09-08T17:07:37.974Z",
-        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmtxbm8dp037xrouueja171wr",
-        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-        "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
-        "source": "GitHub Blog",
-        "publishedAt": "2026-09-11T18:26:10.000Z",
-        "discoveredAt": "2026-09-11T18:59:53.161Z",
-        "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "6小时前"
-      }
-    ],
     "productivity": [
       {
-        "id": "rss_3648892741",
+        "id": "rss_1867178160",
         "title": "新 iPhone 配件精选：多种组合一次配齐",
         "title_en": null,
         "url": "https://sspai.com/post/114414",
@@ -221,10 +244,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_4289081100",
+        "id": "rss_377923473",
         "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
         "title_en": null,
         "url": "http://www.geekpark.net/news/370150",
@@ -236,11 +259,106 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmtyth87f098broupl3k186iw",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-09-12T19:46:58.000Z",
+      "discoveredAt": "2026-09-12T20:07:37.646Z",
+      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "4小时前"
+    },
+    {
+      "id": "cmtyof5al04e2rog01a0893gu",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "title_en": "https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-12T17:33:23.000Z",
+      "discoveredAt": "2026-09-12T17:46:00.889Z",
+      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmtymlrth035dronv9zqv9ccb",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-12T16:30:45.000Z",
+      "discoveredAt": "2026-09-12T16:55:12.271Z",
+      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmtxvt03h068vrous6ilk8ds7",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+      "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-12T02:39:39.000Z",
+      "discoveredAt": "2026-09-12T04:25:01.481Z",
+      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmtx7f9mi09psroed4b1w3nsv",
       "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
@@ -263,7 +381,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "14小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtwsc5gt09uarow7n2r2jrz3",
@@ -286,7 +404,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmtvru9kd04x5rofbggyhsxae",
@@ -310,7 +428,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtvp95oo0h1yronb8scij5jx",
@@ -336,54 +454,6 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtvom4k90ghtronbwks6e67t",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "title_en": "Shopify 从 React Native 重新回归到原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-10T15:04:41.487Z",
-      "discoveredAt": "2026-09-10T15:28:10.346Z",
-      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtvh5qcn05vfronbsu51vfic",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T11:59:27.962Z",
-      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
@@ -407,10 +477,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_3648892741",
+      "id": "rss_1867178160",
       "title": "新 iPhone 配件精选：多种组合一次配齐",
       "title_en": null,
       "url": "https://sspai.com/post/114414",
@@ -422,10 +492,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "20小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_4289081100",
+      "id": "rss_377923473",
       "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
       "title_en": null,
       "url": "http://www.geekpark.net/news/370150",
@@ -437,31 +507,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtxbm8dp037xrouueja171wr",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-      "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-11T18:26:10.000Z",
-      "discoveredAt": "2026-09-11T18:59:53.161Z",
-      "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
-      },
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "6小时前"
+      "formattedTime": "2天前"
     }
   ]
 }
