@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-14T00:50:18.320658+00:00",
-  "totalSource": 152,
-  "totalFiltered": 140,
-  "totalSelected": 11,
+  "generatedAt": "2026-09-15T01:16:58.254325+00:00",
+  "totalSource": 159,
+  "totalFiltered": 148,
+  "totalSelected": 10,
   "sources": {
-    "aihot": 92,
+    "aihot": 89,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "writing": [
       {
-        "id": "cmu06l0dg09hiroryn5e19xp1",
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "title_en": "Two cheers （out of three） for Dario Amodei",
-        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "permalink": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-09-13T18:34:31.000Z",
-        "discoveredAt": "2026-09-13T19:02:16.596Z",
-        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+        "id": "cmu1rrthc04ffrovwf4kpknmm",
+        "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+        "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+        "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+        "permalink": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
+        "source": "Hacker News：AI 热帖",
+        "publishedAt": "2026-09-14T19:56:20.000Z",
+        "discoveredAt": "2026-09-14T21:43:10.995Z",
+        "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
         "category": "tip",
-        "score": 62,
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
+          "canonical": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm"
         },
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "5小时前"
       },
       {
         "id": "cmtymlrth035dronv9zqv9ccb",
@@ -54,7 +54,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmtsxacbf04jkrob5fu5sp5ti",
@@ -77,108 +77,81 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "app": [
       {
-        "id": "cmu01iavi08reroymepsxnar2",
-        "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-        "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
-        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "permalink": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
-        "source": "Hacker News：AI 热帖",
-        "publishedAt": "2026-09-13T14:15:40.000Z",
-        "discoveredAt": "2026-09-13T16:40:12.008Z",
-        "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-        "category": "industry",
-        "score": 85,
+        "id": "cmu1miqz1154mrocnhtw6icqw",
+        "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+        "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
+        "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+        "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-14T19:15:56.861Z",
+        "discoveredAt": "2026-09-14T19:15:56.861Z",
+        "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+        "category": "tip",
+        "score": 62,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu01iavi08reroymepsxnar2"
+          "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "6小时前"
       },
       {
-        "id": "cmtzezuk0077wrowyi7a4qy7v",
-        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-        "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-        "permalink": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-        "source": "MarkTechPost（RSS）",
-        "publishedAt": "2026-09-13T05:56:03.000Z",
-        "discoveredAt": "2026-09-13T06:09:58.347Z",
-        "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
-        "category": "tip",
-        "score": 78,
+        "id": "cmu1jhejj0njbrocn5llfnktp",
+        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+        "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
+        "url": "https://x.com/arena/status/2099549108013006958",
+        "permalink": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+        "source": "X：Arena (@arena)",
+        "publishedAt": "2026-09-14T17:21:29.000Z",
+        "discoveredAt": "2026-09-14T17:51:06.246Z",
+        "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+        "category": "paper",
+        "score": 66,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
+          "canonical": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
         },
         "interestTags": [
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "18小时前"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "cmtxvt03h068vrous6ilk8ds7",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-        "source": "Hacker News：AI 热帖",
-        "publishedAt": "2026-09-12T02:39:39.000Z",
-        "discoveredAt": "2026-09-12T04:25:01.481Z",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "category": "industry",
-        "score": 76,
+        "id": "cmu1ju3b00pmgrocnrgwe6e9e",
+        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+        "title_en": "Siri AI， a profoundly more capable and personal assistant， is here",
+        "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+        "permalink": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+        "source": "Apple：Newsroom（RSS）",
+        "publishedAt": "2026-09-14T17:09:41.324Z",
+        "discoveredAt": "2026-09-14T18:00:58.336Z",
+        "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+        "category": "ai-products",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
+          "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
         },
         "interestTags": [
-          "app",
-          "writing",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "8小时前"
       }
     ],
     "creative": [
-      {
-        "id": "cmtyof5al04e2rog01a0893gu",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "title_en": "https://x.com/i/article/2098531824528220160",
-        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-        "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-09-12T17:33:23.000Z",
-        "discoveredAt": "2026-09-12T17:46:00.889Z",
-        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-        "category": "ai-products",
-        "score": 80,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
       {
         "id": "cmtwsc5gt09uarow7n2r2jrz3",
         "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
@@ -200,7 +173,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmtvp95oo0h1yronb8scij5jx",
@@ -226,27 +199,36 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "cmtyjejg90006rotlkmqx93kl",
+        "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
+        "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
+        "url": "https://x.com/tripoai/status/2097972692200940013",
+        "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
+        "source": "Tripo（官方 X）",
+        "publishedAt": "2026-09-10T08:57:22.000Z",
+        "discoveredAt": "2026-09-10T08:57:22.000Z",
+        "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
+        },
+        "interestTags": [
+          "creative",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_2595882419",
-        "title": "新 iPhone 配件精选：多种组合一次配齐",
-        "title_en": null,
-        "url": "https://sspai.com/post/114414",
-        "source": "少数派",
-        "publishedAt": "2026-09-11T04:00:00+00:00",
-        "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...<a href=\"https://sspai.com/post/114414\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_1368084694",
+        "id": "rss_1720327290",
         "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
         "title_en": null,
         "url": "http://www.geekpark.net/news/370150",
@@ -258,104 +240,102 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmu06l0dg09hiroryn5e19xp1",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "title_en": "Two cheers （out of three） for Dario Amodei",
-      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "permalink": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-09-13T18:34:31.000Z",
-      "discoveredAt": "2026-09-13T19:02:16.596Z",
-      "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+      "id": "cmu1rrthc04ffrovwf4kpknmm",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "permalink": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "discoveredAt": "2026-09-14T21:43:10.995Z",
+      "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmu1miqz1154mrocnhtw6icqw",
+      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+      "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-14T19:15:56.861Z",
+      "discoveredAt": "2026-09-14T19:15:56.861Z",
+      "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
       "category": "tip",
       "score": 62,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
+        "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
       },
       "interestTags": [
-        "writing"
+        "app"
       ],
       "techScore": -1,
       "formattedTime": "6小时前"
     },
     {
-      "id": "cmu01iavi08reroymepsxnar2",
-      "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-      "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-      "permalink": "https://aihot.news/items/cmu01iavi08reroymepsxnar2",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-13T14:15:40.000Z",
-      "discoveredAt": "2026-09-13T16:40:12.008Z",
-      "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-      "category": "industry",
-      "score": 85,
+      "id": "cmu1jhejj0njbrocn5llfnktp",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
+      "url": "https://x.com/arena/status/2099549108013006958",
+      "permalink": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-14T17:21:29.000Z",
+      "discoveredAt": "2026-09-14T17:51:06.246Z",
+      "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+      "category": "paper",
+      "score": 66,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu01iavi08reroymepsxnar2"
+        "canonical": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "7小时前"
     },
     {
-      "id": "cmtzezuk0077wrowyi7a4qy7v",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "permalink": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-13T05:56:03.000Z",
-      "discoveredAt": "2026-09-13T06:09:58.347Z",
-      "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "cmtyof5al04e2rog01a0893gu",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "title_en": "https://x.com/i/article/2098531824528220160",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-12T17:33:23.000Z",
-      "discoveredAt": "2026-09-12T17:46:00.889Z",
-      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+      "id": "cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "title_en": "Siri AI， a profoundly more capable and personal assistant， is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "permalink": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-14T17:09:41.324Z",
+      "discoveredAt": "2026-09-14T18:00:58.336Z",
+      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
       "category": "ai-products",
-      "score": 80,
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
+        "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
       },
       "interestTags": [
-        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "8小时前"
     },
     {
       "id": "cmtymlrth035dronv9zqv9ccb",
@@ -378,32 +358,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmtxvt03h068vrous6ilk8ds7",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-12T02:39:39.000Z",
-      "discoveredAt": "2026-09-12T04:25:01.481Z",
-      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtwsc5gt09uarow7n2r2jrz3",
@@ -426,7 +381,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmtvp95oo0h1yronb8scij5jx",
@@ -452,7 +407,31 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
+    },
+    {
+      "id": "cmtyjejg90006rotlkmqx93kl",
+      "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
+      "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
+      "url": "https://x.com/tripoai/status/2097972692200940013",
+      "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-10T08:57:22.000Z",
+      "discoveredAt": "2026-09-10T08:57:22.000Z",
+      "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
+      },
+      "interestTags": [
+        "creative",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "4天前"
     },
     {
       "id": "cmtsxacbf04jkrob5fu5sp5ti",
@@ -475,25 +454,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_2595882419",
-      "title": "新 iPhone 配件精选：多种组合一次配齐",
-      "title_en": null,
-      "url": "https://sspai.com/post/114414",
-      "source": "少数派",
-      "publishedAt": "2026-09-11T04:00:00+00:00",
-      "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中，日常防护组合优惠29元，防护充电组合优 ...<a href=\"https://sspai.com/post/114414\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1368084694",
+      "id": "rss_1720327290",
       "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
       "title_en": null,
       "url": "http://www.geekpark.net/news/370150",
@@ -505,7 +469,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     }
   ]
 }
