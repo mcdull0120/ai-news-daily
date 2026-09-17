@@ -1,15 +1,187 @@
 {
-  "generatedAt": "2026-09-15T01:16:58.254325+00:00",
-  "totalSource": 159,
-  "totalFiltered": 148,
-  "totalSelected": 10,
+  "generatedAt": "2026-09-17T01:11:50.639967+00:00",
+  "totalSource": 126,
+  "totalFiltered": 121,
+  "totalSelected": 11,
   "sources": {
-    "aihot": 89,
+    "aihot": 66,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "cmu4nyoxd07n9rodcxgc06f52",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "permalink": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-09-16T17:00:00.000Z",
+        "discoveredAt": "2026-09-16T22:19:52.517Z",
+        "summary": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+        "category": "tip",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmu4574wb09w5ro4w7cdwfm7l",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+        "title_en": "Reimagining advertising with AI",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "permalink": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-09-16T13:00:00.000Z",
+        "discoveredAt": "2026-09-16T13:34:31.714Z",
+        "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "cmu4hic050r8kro4wzayakuhu",
+        "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
+        "title_en": "Memory in Grok Build",
+        "url": "https://x.ai/news/grok-build-memory",
+        "permalink": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-09-16T00:00:00.000Z",
+        "discoveredAt": "2026-09-16T19:18:54.310Z",
+        "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmu4bql8w0haoro4wduou7kxe",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "permalink": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe",
+        "source": "X：Boris Cherny (@bcherny)",
+        "publishedAt": "2026-09-16T16:28:29.000Z",
+        "discoveredAt": "2026-09-16T16:37:37.101Z",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "category": "ai-products",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "cmu2lqodj08k0rovqocv9r3z3",
+        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+        "title_en": "1Password's AI patching benchmark is misleading",
+        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+        "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
+        "source": "Trail of Bits：AI安全研究",
+        "publishedAt": "2026-09-15T11:00:00.000Z",
+        "discoveredAt": "2026-09-15T11:42:07.572Z",
+        "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+        "category": "tip",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmtwsc5gt09uarow7n2r2jrz3",
+        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+        "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+        "source": "公众号：卡尔的AI沃茨",
+        "publishedAt": "2026-09-11T04:24:28.000Z",
+        "discoveredAt": "2026-09-11T10:00:10.584Z",
+        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
+        },
+        "interestTags": [
+          "creative"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
+      }
+    ],
     "writing": [
+      {
+        "id": "cmu2n8sq10chlrovqbe47wj5t",
+        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+        "title_en": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+        "url": "https://www.ithome.com/1/002/750.htm",
+        "permalink": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-09-15T11:48:13.000Z",
+        "discoveredAt": "2026-09-15T12:24:10.728Z",
+        "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
       {
         "id": "cmu1rrthc04ffrovwf4kpknmm",
         "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
@@ -31,7 +203,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmtymlrth035dronv9zqv9ccb",
@@ -54,197 +226,190 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmtsxacbf04jkrob5fu5sp5ti",
-        "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-        "title_en": "https://x.com/i/article/2095208140753317888",
-        "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-        "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-08T17:01:27.000Z",
-        "discoveredAt": "2026-09-08T17:07:37.974Z",
-        "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "cmu1miqz1154mrocnhtw6icqw",
-        "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-        "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
-        "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-        "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-14T19:15:56.861Z",
-        "discoveredAt": "2026-09-14T19:15:56.861Z",
-        "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
-        "category": "tip",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "cmu1jhejj0njbrocn5llfnktp",
-        "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-        "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-        "url": "https://x.com/arena/status/2099549108013006958",
-        "permalink": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
-        "source": "X：Arena (@arena)",
-        "publishedAt": "2026-09-14T17:21:29.000Z",
-        "discoveredAt": "2026-09-14T17:51:06.246Z",
-        "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-        "category": "paper",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmu1ju3b00pmgrocnrgwe6e9e",
-        "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-        "title_en": "Siri AI， a profoundly more capable and personal assistant， is here",
-        "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-        "permalink": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-09-14T17:09:41.324Z",
-        "discoveredAt": "2026-09-14T18:00:58.336Z",
-        "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-        "category": "ai-products",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmtwsc5gt09uarow7n2r2jrz3",
-        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-        "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
-        "source": "公众号：卡尔的AI沃茨",
-        "publishedAt": "2026-09-11T04:24:28.000Z",
-        "discoveredAt": "2026-09-11T10:00:10.584Z",
-        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-        "category": "tip",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmtvp95oo0h1yronb8scij5jx",
-        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-        "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "url": "https://x.com/GoogleAI/status/2098072879480947085",
-        "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
-        "source": "X：Google AI (@GoogleAI)",
-        "publishedAt": "2026-09-10T15:35:29.000Z",
-        "discoveredAt": "2026-09-10T15:46:00.255Z",
-        "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-        "category": "ai-products",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "cmtyjejg90006rotlkmqx93kl",
-        "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
-        "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
-        "url": "https://x.com/tripoai/status/2097972692200940013",
-        "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
-        "source": "Tripo（官方 X）",
-        "publishedAt": "2026-09-10T08:57:22.000Z",
-        "discoveredAt": "2026-09-10T08:57:22.000Z",
-        "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
-        },
-        "interestTags": [
-          "creative",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "4天前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1720327290",
-        "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+        "id": "rss_2676639570",
+        "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
         "title_en": null,
-        "url": "http://www.geekpark.net/news/370150",
-        "source": "极客公园",
-        "publishedAt": "2026-09-10T11:41:33+00:00",
-        "summary": "<p style=\"text-align: left;\">在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。</p>\n<p style=\"text-align: left;\">2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。</p>\n<p style=\"text-align: left;\">极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域",
-        "category": "industry",
+        "url": "https://sspai.com/post/114565",
+        "source": "少数派",
+        "publishedAt": "2026-09-15T07:00:00+00:00",
+        "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/114565\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "昨天"
+      }
+    ],
+    "education": [
+      {
+        "id": "rss_3346473057",
+        "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+        "title_en": null,
+        "url": "https://sspai.com/post/47126",
+        "source": "少数派",
+        "publishedAt": "2026-09-15T03:10:08+00:00",
+        "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=\"https://sspai.com/post/47126\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmu4nyoxd07n9rodcxgc06f52",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+      "title_en": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "permalink": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "discoveredAt": "2026-09-16T22:19:52.517Z",
+      "summary": "OpenAI 发布跟踪、调查和披露模型失准（misalignment）实例的新框架，并同时公开过去六个月观察到的六份报告。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmu4bql8w0haoro4wduou7kxe",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+      "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "permalink": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe",
+      "source": "X：Boris Cherny (@bcherny)",
+      "publishedAt": "2026-09-16T16:28:29.000Z",
+      "discoveredAt": "2026-09-16T16:37:37.101Z",
+      "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "cmu4574wb09w5ro4w7cdwfm7l",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "title_en": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "permalink": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "discoveredAt": "2026-09-16T13:34:31.714Z",
+      "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmu4hic050r8kro4wzayakuhu",
+      "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
+      "title_en": "Memory in Grok Build",
+      "url": "https://x.ai/news/grok-build-memory",
+      "permalink": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "discoveredAt": "2026-09-16T19:18:54.310Z",
+      "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmu2n8sq10chlrovqbe47wj5t",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "title_en": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+      "url": "https://www.ithome.com/1/002/750.htm",
+      "permalink": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T11:48:13.000Z",
+      "discoveredAt": "2026-09-15T12:24:10.728Z",
+      "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "cmu2lqodj08k0rovqocv9r3z3",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+      "title_en": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
+      "source": "Trail of Bits：AI安全研究",
+      "publishedAt": "2026-09-15T11:00:00.000Z",
+      "discoveredAt": "2026-09-15T11:42:07.572Z",
+      "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "cmu1rrthc04ffrovwf4kpknmm",
       "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
@@ -266,76 +431,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmu1miqz1154mrocnhtw6icqw",
-      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-      "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
-      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-14T19:15:56.861Z",
-      "discoveredAt": "2026-09-14T19:15:56.861Z",
-      "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "cmu1jhejj0njbrocn5llfnktp",
-      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
-      "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
-      "url": "https://x.com/arena/status/2099549108013006958",
-      "permalink": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-14T17:21:29.000Z",
-      "discoveredAt": "2026-09-14T17:51:06.246Z",
-      "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmu1ju3b00pmgrocnrgwe6e9e",
-      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-      "title_en": "Siri AI， a profoundly more capable and personal assistant， is here",
-      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-      "permalink": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-14T17:09:41.324Z",
-      "discoveredAt": "2026-09-14T18:00:58.336Z",
-      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmtymlrth035dronv9zqv9ccb",
@@ -358,7 +454,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmtwsc5gt09uarow7n2r2jrz3",
@@ -381,95 +477,37 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmtvp95oo0h1yronb8scij5jx",
-      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-      "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-      "url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-09-10T15:35:29.000Z",
-      "discoveredAt": "2026-09-10T15:46:00.255Z",
-      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmtyjejg90006rotlkmqx93kl",
-      "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
-      "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
-      "url": "https://x.com/tripoai/status/2097972692200940013",
-      "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-10T08:57:22.000Z",
-      "discoveredAt": "2026-09-10T08:57:22.000Z",
-      "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
-      },
-      "interestTags": [
-        "creative",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "cmtsxacbf04jkrob5fu5sp5ti",
-      "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-      "title_en": "https://x.com/i/article/2095208140753317888",
-      "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-      "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-08T17:01:27.000Z",
-      "discoveredAt": "2026-09-08T17:07:37.974Z",
-      "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_1720327290",
-      "title": "对话极壳创始人孙宽：年出货 3 万台后，外骨骼「全班第一」的成长和焦虑",
+      "id": "rss_2676639570",
+      "title": "具透 | 精心优化， 体验感愉悦升华：iOS 27 中值得关注的新特性",
       "title_en": null,
-      "url": "http://www.geekpark.net/news/370150",
-      "source": "极客公园",
-      "publishedAt": "2026-09-10T11:41:33+00:00",
-      "summary": "<p style=\"text-align: left;\">在刚刚结束的 IFA 柏林国际消费电子展上，几乎每家机器人公司的展台上，都会摆上一台可穿戴外骨骼设备。就像 10 年前，很多互联网新锐创业者都喜欢在办公桌上摆一台无人机。这既是对这个品类「前沿」的认可，也表露出某种对市场增长的看好。</p>\n<p style=\"text-align: left;\">2025 年被认为是「消费级外骨骼元年」。今年，这个行业迅速涌入了上百个新玩家。</p>\n<p style=\"text-align: left;\">极壳 Hypershell 去年的全球出货量超过了 3 万台，是这个细分领域",
-      "category": "industry",
+      "url": "https://sspai.com/post/114565",
+      "source": "少数派",
+      "publishedAt": "2026-09-15T07:00:00+00:00",
+      "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。<a href=\"https://sspai.com/post/114565\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_3346473057",
+      "title": "开学季 | 学生理财的三条建议，学生党也可以一样理财",
+      "title_en": null,
+      "url": "https://sspai.com/post/47126",
+      "source": "少数派",
+      "publishedAt": "2026-09-15T03:10:08+00:00",
+      "summary": "学生理财应是「理」字当头，培养收支的计划性是第一位，也恰恰是理财投资的基础。<a href=\"https://sspai.com/post/47126\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     }
   ]
 }
