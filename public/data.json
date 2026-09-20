@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-09-19T01:02:30.639348+00:00",
-  "totalSource": 138,
-  "totalFiltered": 124,
+  "generatedAt": "2026-09-20T00:50:15.452160+00:00",
+  "totalSource": 144,
+  "totalFiltered": 132,
   "totalSelected": 9,
   "sources": {
-    "aihot": 78,
+    "aihot": 74,
     "rss": 60,
-    "bilibili": 0
+    "bilibili": 10
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmu7tboxt0pv0rogre8ibr9n8",
+        "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+        "title_en": "love people sharing their muse prompts which work well！",
+        "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+        "permalink": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8",
+        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+        "publishedAt": "2026-09-19T02:48:32.000Z",
+        "discoveredAt": "2026-09-19T03:13:13.968Z",
+        "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
       {
         "id": "cmu7b4t69044mrogrg7zn0p8h",
         "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
@@ -32,7 +57,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmu66hcff0ci8rofjhs1az9qz",
@@ -57,32 +82,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmu63zp9f09xsrofjmnxvrwdg",
-        "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-        "title_en": "@Muse for Mac， rolling out today. 👇",
-        "url": "https://x.com/AIatMeta/status/2100714755568644409",
-        "permalink": "https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "publishedAt": "2026-09-17T22:33:21.000Z",
-        "discoveredAt": "2026-09-17T22:36:19.046Z",
-        "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-        "category": "ai-products",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg"
-        },
-        "interestTags": [
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -108,7 +108,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -134,7 +134,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmu2lqodj08k0rovqocv9r3z3",
@@ -159,7 +159,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "writing": [
@@ -184,7 +184,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmu1rrthc04ffrovwf4kpknmm",
@@ -207,34 +207,53 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "cmtymlrth035dronv9zqv9ccb",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-        "url": "https://x.com/sama/status/2098811563415150910",
-        "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-        "source": "X：Sam Altman (@sama)",
-        "publishedAt": "2026-09-12T16:30:45.000Z",
-        "discoveredAt": "2026-09-12T16:55:12.271Z",
-        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+        "id": "bili_BV1Nd596vEyU",
+        "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+        "title_en": null,
+        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+        "source": "B站：秋芝2046",
+        "publishedAt": "2026-09-20T00:50:15.446698+00:00",
+        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
         "category": "tip",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
-        },
         "interestTags": [
-          "writing"
+          "writing",
+          "education",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "刚刚"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmu7tboxt0pv0rogre8ibr9n8",
+      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+      "title_en": "love people sharing their muse prompts which work well！",
+      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "permalink": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-19T02:48:32.000Z",
+      "discoveredAt": "2026-09-19T03:13:13.968Z",
+      "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "22小时前"
+    },
     {
       "id": "cmu7b4t69044mrogrg7zn0p8h",
       "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
@@ -257,7 +276,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmu74ww1u0qfxrowkb6qtruwz",
@@ -281,7 +300,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmu66hcff0ci8rofjhs1az9qz",
@@ -306,32 +325,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmu63zp9f09xsrofjmnxvrwdg",
-      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-      "title_en": "@Muse for Mac， rolling out today. 👇",
-      "url": "https://x.com/AIatMeta/status/2100714755568644409",
-      "permalink": "https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-09-17T22:33:21.000Z",
-      "discoveredAt": "2026-09-17T22:36:19.046Z",
-      "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu63zp9f09xsrofjmnxvrwdg"
-      },
-      "interestTags": [
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -357,7 +351,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmu2n8sq10chlrovqbe47wj5t",
@@ -380,7 +374,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmu2lqodj08k0rovqocv9r3z3",
@@ -405,7 +399,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmu1rrthc04ffrovwf4kpknmm",
@@ -428,30 +422,24 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmtymlrth035dronv9zqv9ccb",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-      "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
-      "url": "https://x.com/sama/status/2098811563415150910",
-      "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-09-12T16:30:45.000Z",
-      "discoveredAt": "2026-09-12T16:55:12.271Z",
-      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+      "id": "bili_BV1Nd596vEyU",
+      "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+      "title_en": null,
+      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
+      "source": "B站：秋芝2046",
+      "publishedAt": "2026-09-20T00:50:15.446698+00:00",
+      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
       "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
-      },
       "interestTags": [
-        "writing"
+        "writing",
+        "education",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "刚刚"
     }
   ]
 }
