@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-20T00:50:15.452160+00:00",
-  "totalSource": 144,
-  "totalFiltered": 132,
-  "totalSelected": 9,
+  "generatedAt": "2026-09-21T00:55:55.730107+00:00",
+  "totalSource": 133,
+  "totalFiltered": 120,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 74,
+    "aihot": 73,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
@@ -33,7 +33,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "22小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmu7b4t69044mrogrg7zn0p8h",
@@ -57,7 +57,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmu66hcff0ci8rofjhs1az9qz",
@@ -82,7 +82,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "creative": [
@@ -108,7 +108,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -134,7 +134,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "cmu2lqodj08k0rovqocv9r3z3",
@@ -159,7 +159,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "writing": [
@@ -184,7 +184,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmu1rrthc04ffrovwf4kpknmm",
@@ -207,24 +207,78 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "bili_BV1Nd596vEyU",
-        "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
-        "title_en": null,
-        "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-        "source": "B站：秋芝2046",
-        "publishedAt": "2026-09-20T00:50:15.446698+00:00",
-        "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+        "id": "cmu4s9jrn0683rokccdfqwbux",
+        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+        "title_en": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+        "permalink": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-09-17T00:09:06.000Z",
+        "discoveredAt": "2026-09-17T00:20:17.923Z",
+        "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
         "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
+        },
         "interestTags": [
           "writing",
-          "education",
+          "productivity"
+        ],
+        "techScore": 1,
+        "formattedTime": "4天前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "rss_1697236172",
+        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+        "title_en": null,
+        "url": "https://sspai.com/post/114717",
+        "source": "少数派",
+        "publishedAt": "2026-09-20T03:01:47+00:00",
+        "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...<a href=\"https://sspai.com/post/114717\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "21小时前"
+      },
+      {
+        "id": "rss_1239368480",
+        "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/09/492946.html",
+        "source": "量子位",
+        "publishedAt": "2026-09-20T12:22:41+00:00",
+        "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "rss_1118760429",
+        "title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Sun, 20 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Sun, 20 Se"
       }
     ]
   },
@@ -252,7 +306,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "22小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmu7b4t69044mrogrg7zn0p8h",
@@ -276,7 +330,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmu74ww1u0qfxrowkb6qtruwz",
@@ -300,7 +354,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmu66hcff0ci8rofjhs1az9qz",
@@ -325,7 +379,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -351,7 +405,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmu2n8sq10chlrovqbe47wj5t",
@@ -374,7 +428,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmu2lqodj08k0rovqocv9r3z3",
@@ -399,7 +453,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmu1rrthc04ffrovwf4kpknmm",
@@ -422,24 +476,76 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "bili_BV1Nd596vEyU",
-      "title": "全网最全！40分钟全面掌握Codex～【附完整文档】",
+      "id": "rss_1697236172",
+      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
       "title_en": null,
-      "url": "https://www.bilibili.com/video/BV1Nd596vEyU",
-      "source": "B站：秋芝2046",
-      "publishedAt": "2026-09-20T00:50:15.446698+00:00",
-      "summary": "Codex保姆级教学【速速收藏！】\n10个实战场景带你从零基础直接拉通～\n两篇教程，耗时近一个月，快快学起来，感谢朋友们三连+关注啦 ～",
+      "url": "https://sspai.com/post/114717",
+      "source": "少数派",
+      "publishedAt": "2026-09-20T03:01:47+00:00",
+      "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...<a href=\"https://sspai.com/post/114717\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
-        "writing",
-        "education",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "刚刚"
+      "formattedTime": "21小时前"
+    },
+    {
+      "id": "rss_1239368480",
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/492946.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-20T12:22:41+00:00",
+      "summary": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "rss_1118760429",
+      "title": "微软开源 TauGrid，简化 Kubernetes AI 工作负载管理",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Sun, 20 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/3FdzSfrzlb3vMDwsC1Ny?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Sun, 20 Se"
+    },
+    {
+      "id": "cmu4s9jrn0683rokccdfqwbux",
+      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+      "title_en": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "permalink": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-17T00:09:06.000Z",
+      "discoveredAt": "2026-09-17T00:20:17.923Z",
+      "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
+      },
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "4天前"
     }
   ]
 }
