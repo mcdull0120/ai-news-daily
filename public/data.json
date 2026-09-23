@@ -1,84 +1,138 @@
 {
-  "generatedAt": "2026-09-22T01:30:47.534899+00:00",
-  "totalSource": 140,
-  "totalFiltered": 127,
-  "totalSelected": 11,
+  "generatedAt": "2026-09-23T01:20:10.650354+00:00",
+  "totalSource": 160,
+  "totalFiltered": 144,
+  "totalSelected": 10,
   "sources": {
-    "aihot": 80,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmubni6yr03ihro4v6pea4amm",
-        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-        "title_en": "Benchmarking Grok 4.7",
-        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-        "permalink": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "publishedAt": "2026-09-21T19:41:25.079Z",
-        "discoveredAt": "2026-09-21T19:41:25.079Z",
-        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+        "id": "cmudch57g05bqroggl65fi9vo",
+        "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+        "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
+        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+        "permalink": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
+        "source": "Simon Willison 博客",
+        "publishedAt": "2026-09-22T23:46:41.000Z",
+        "discoveredAt": "2026-09-23T00:08:14.545Z",
+        "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
         "category": "tip",
-        "score": 67,
+        "score": 81,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
+          "canonical": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo"
         },
         "interestTags": [
-          "app",
-          "education"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "1小时前"
       },
       {
-        "id": "cmubi4zxl110orolnqaltv0qp",
-        "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-        "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-        "url": "https://x.com/elonmusk/status/2102082011233931762",
-        "permalink": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "publishedAt": "2026-09-21T17:06:20.000Z",
-        "discoveredAt": "2026-09-21T17:11:11.411Z",
-        "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
-        "category": "tip",
-        "score": 69,
+        "id": "cmucz06v905eironivy08mtvk",
+        "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+        "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "url": "https://x.com/arena/status/2102454952576868638",
+        "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
+        "source": "X：Arena (@arena)",
+        "publishedAt": "2026-09-22T17:48:17.000Z",
+        "discoveredAt": "2026-09-22T17:51:06.073Z",
+        "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+        "category": "industry",
+        "score": 72,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp"
+          "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmucxceh40salroedruwhn0ee",
+        "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+        "title_en": "v2.1.280",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+        "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "publishedAt": "2026-09-22T16:38:14.000Z",
+        "discoveredAt": "2026-09-22T17:04:36.534Z",
+        "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
         "formattedTime": "8小时前"
-      },
+      }
+    ],
+    "writing": [
       {
-        "id": "cmublfs5a03bcro0lebbtf8fb",
-        "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-        "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-        "url": "https://linear.app/now/ci-bottleneck-reworked",
-        "permalink": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb",
-        "source": "Linear：Now（RSS）",
-        "publishedAt": "2026-09-21T12:26:00.000Z",
-        "discoveredAt": "2026-09-21T18:43:34.393Z",
-        "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+        "id": "cmucxyky704ftronibjzp4dos",
+        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
+        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "discoveredAt": "2026-09-22T17:21:52.130Z",
+        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
         "category": "tip",
         "score": 62,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb"
+          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
         },
         "interestTags": [
-          "app"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_2301967805",
+        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+        "title_en": null,
+        "url": "https://sspai.com/post/114551",
+        "source": "少数派",
+        "publishedAt": "2026-09-22T08:11:03+00:00",
+        "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "rss_3926109791",
+        "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
+        "source": "少数派",
+        "publishedAt": "2026-09-21T09:02:38+00:00",
+        "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...<a href=\"https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
@@ -104,7 +158,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -130,172 +184,106 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "cmu2lqodj08k0rovqocv9r3z3",
-        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-        "title_en": "1Password's AI patching benchmark is misleading",
-        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-        "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
-        "source": "Trail of Bits：AI安全研究",
-        "publishedAt": "2026-09-15T11:00:00.000Z",
-        "discoveredAt": "2026-09-15T11:42:07.572Z",
-        "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+        "id": "rss_1514146617",
+        "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+        "title_en": null,
+        "url": "https://sspai.com/post/114479",
+        "source": "少数派",
+        "publishedAt": "2026-09-22T06:39:39+00:00",
+        "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
         "category": "tip",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
-        },
         "interestTags": [
           "creative",
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmu2n8sq10chlrovqbe47wj5t",
-        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "title_en": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
-        "url": "https://www.ithome.com/1/002/750.htm",
-        "permalink": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-15T11:48:13.000Z",
-        "discoveredAt": "2026-09-15T12:24:10.728Z",
-        "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
-        "category": "tip",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_3139527188",
-        "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
-        "source": "少数派",
-        "publishedAt": "2026-09-21T09:02:38+00:00",
-        "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...<a href=\"https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
-      },
-      {
-        "id": "cmu4s9jrn0683rokccdfqwbux",
-        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "title_en": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-        "permalink": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-09-17T00:09:06.000Z",
-        "discoveredAt": "2026-09-17T00:20:17.923Z",
-        "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-        "category": "tip",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
-        },
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "5天前"
+        "formattedTime": "18小时前"
       }
     ],
     "productivity": [
       {
-        "id": "rss_1815612531",
-        "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+        "id": "rss_500548521",
+        "title": "Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流",
         "title_en": null,
-        "url": "https://sspai.com/post/114717",
-        "source": "少数派",
-        "publishedAt": "2026-09-20T03:01:47+00:00",
-        "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...<a href=\"https://sspai.com/post/114717\" target=\"_blank\">查看全文</a>",
+        "url": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 22 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3249012683",
-        "title": "GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 21 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "Mon, 21 Se"
+        "formattedTime": "Tue, 22 Se"
       }
     ]
   },
   "items": [
     {
-      "id": "cmubni6yr03ihro4v6pea4amm",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-      "title_en": "Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "permalink": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "publishedAt": "2026-09-21T19:41:25.079Z",
-      "discoveredAt": "2026-09-21T19:41:25.079Z",
-      "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+      "id": "cmudch57g05bqroggl65fi9vo",
+      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+      "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
+      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "permalink": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-22T23:46:41.000Z",
+      "discoveredAt": "2026-09-23T00:08:14.545Z",
+      "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
       "category": "tip",
-      "score": 67,
+      "score": 81,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
+        "canonical": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo"
       },
       "interestTags": [
-        "app",
-        "education"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "1小时前"
     },
     {
-      "id": "cmubi4zxl110orolnqaltv0qp",
-      "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
-      "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
-      "url": "https://x.com/elonmusk/status/2102082011233931762",
-      "permalink": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-09-21T17:06:20.000Z",
-      "discoveredAt": "2026-09-21T17:11:11.411Z",
-      "summary": "Elon Musk 引用 Artificial Analysis 评测称，Grok 4.7 使 xAI 在智能体编码上排名第三，仅次于 Anthropic 和 OpenAI。",
-      "category": "tip",
-      "score": 69,
+      "id": "cmucz06v905eironivy08mtvk",
+      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+      "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+      "url": "https://x.com/arena/status/2102454952576868638",
+      "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-22T17:48:17.000Z",
+      "discoveredAt": "2026-09-22T17:51:06.073Z",
+      "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+      "category": "industry",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp"
+        "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmucxceh40salroedruwhn0ee",
+      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "title_en": "v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-09-22T16:38:14.000Z",
+      "discoveredAt": "2026-09-22T17:04:36.534Z",
+      "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
       },
       "interestTags": [
         "app"
@@ -304,27 +292,27 @@
       "formattedTime": "8小时前"
     },
     {
-      "id": "cmublfs5a03bcro0lebbtf8fb",
-      "title": "Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟",
-      "title_en": "AI coding has made CI a bottleneck， so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "permalink": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb",
-      "source": "Linear：Now（RSS）",
-      "publishedAt": "2026-09-21T12:26:00.000Z",
-      "discoveredAt": "2026-09-21T18:43:34.393Z",
-      "summary": "Linear 工程师分享如何解决 AI Agent 加速写代码后 CI 成为瓶颈的问题，PR 等待时间从 6 分钟以上降至 5 分钟出头，单测 runner 时间约减半。",
+      "id": "cmucxyky704ftronibjzp4dos",
+      "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+      "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
+      "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+      "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "discoveredAt": "2026-09-22T17:21:52.130Z",
+      "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
       "category": "tip",
       "score": 62,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmublfs5a03bcro0lebbtf8fb"
+        "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
       },
       "interestTags": [
-        "app"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmu74ww1u0qfxrowkb6qtruwz",
@@ -348,7 +336,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmu4bql8w0haoro4wduou7kxe",
@@ -374,58 +362,41 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "cmu2n8sq10chlrovqbe47wj5t",
-      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-      "title_en": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
-      "url": "https://www.ithome.com/1/002/750.htm",
-      "permalink": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-15T11:48:13.000Z",
-      "discoveredAt": "2026-09-15T12:24:10.728Z",
-      "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+      "id": "rss_2301967805",
+      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "title_en": null,
+      "url": "https://sspai.com/post/114551",
+      "source": "少数派",
+      "publishedAt": "2026-09-22T08:11:03+00:00",
+      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t"
-      },
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "17小时前"
     },
     {
-      "id": "cmu2lqodj08k0rovqocv9r3z3",
-      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-      "title_en": "1Password's AI patching benchmark is misleading",
-      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-      "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
-      "source": "Trail of Bits：AI安全研究",
-      "publishedAt": "2026-09-15T11:00:00.000Z",
-      "discoveredAt": "2026-09-15T11:42:07.572Z",
-      "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+      "id": "rss_1514146617",
+      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+      "title_en": null,
+      "url": "https://sspai.com/post/114479",
+      "source": "少数派",
+      "publishedAt": "2026-09-22T06:39:39+00:00",
+      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
-      },
       "interestTags": [
         "creative",
-        "app",
-        "writing"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "18小时前"
     },
     {
-      "id": "rss_3139527188",
+      "id": "rss_3926109791",
       "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
       "title_en": null,
       "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
@@ -437,61 +408,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1815612531",
-      "title": "给电话加上「辅助驾驶」？我们想听听你的意见",
+      "id": "rss_500548521",
+      "title": "Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流",
       "title_en": null,
-      "url": "https://sspai.com/post/114717",
-      "source": "少数派",
-      "publishedAt": "2026-09-20T03:01:47+00:00",
-      "summary": "会议开到一半，手机亮了：一个陌生号码。你盯着屏幕犹豫了几秒，不知道这会是推销、客户，还是外卖员。直接挂掉，又得惦记着会不会耽误正事；接起来，不方便说，聊完还得整理待办。轮到你主动打电话，也不轻松。邀约 ...<a href=\"https://sspai.com/post/114717\" target=\"_blank\">查看全文</a>",
+      "url": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 22 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmu4s9jrn0683rokccdfqwbux",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "title_en": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "permalink": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-17T00:09:06.000Z",
-      "discoveredAt": "2026-09-17T00:20:17.923Z",
-      "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
-      },
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_3249012683",
-      "title": "GitHub Copilot 推出 HydraFusion 项目，依托多模型路由实现前沿级性能",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 21 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/FK2ZF2u01pt45uEAqQFq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "Mon, 21 Se"
+      "formattedTime": "Tue, 22 Se"
     }
   ]
 }
