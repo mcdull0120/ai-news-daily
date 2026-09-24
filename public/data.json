@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T01:20:10.650354+00:00",
+  "generatedAt": "2026-09-24T01:14:53.204560+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 147,
   "totalSelected": 10,
   "sources": {
     "aihot": 100,
@@ -11,73 +11,158 @@
   "grouped": {
     "app": [
       {
-        "id": "cmudch57g05bqroggl65fi9vo",
-        "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-        "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-        "permalink": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
-        "source": "Simon Willison 博客",
-        "publishedAt": "2026-09-22T23:46:41.000Z",
-        "discoveredAt": "2026-09-23T00:08:14.545Z",
-        "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-        "category": "tip",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "1小时前"
-      },
-      {
-        "id": "cmucz06v905eironivy08mtvk",
-        "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
-        "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
-        "url": "https://x.com/arena/status/2102454952576868638",
-        "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
-        "source": "X：Arena (@arena)",
-        "publishedAt": "2026-09-22T17:48:17.000Z",
-        "discoveredAt": "2026-09-22T17:51:06.073Z",
-        "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+        "id": "cmuepgrq30eh3royntmaj59h4",
+        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_en": "阿尔巴内塞透露，OpenAI 入侵了\"联邦医疗保险\"系统",
+        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+        "permalink": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "publishedAt": "2026-09-23T22:54:29.320Z",
+        "discoveredAt": "2026-09-23T22:59:38.001Z",
+        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
         "category": "industry",
-        "score": 72,
+        "score": 84,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
+          "canonical": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmucxceh40salroedruwhn0ee",
-        "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-        "title_en": "v2.1.280",
-        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-        "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-        "source": "Claude Code：GitHub Releases（RSS）",
-        "publishedAt": "2026-09-22T16:38:14.000Z",
-        "discoveredAt": "2026-09-22T17:04:36.534Z",
-        "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-        "category": "ai-products",
-        "score": 68,
+        "id": "cmuem5vyq07nqroynhi5j65vd",
+        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "url": "https://x.com/natolambert/status/2102872133244183038",
+        "permalink": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd",
+        "source": "X：Nathan Lambert (@natolambert)",
+        "publishedAt": "2026-09-23T21:26:00.000Z",
+        "discoveredAt": "2026-09-23T21:27:09.428Z",
+        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+        "category": "tip",
+        "score": 78,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
+          "canonical": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "cmueh1dx305ejrovxhm7a1f4l",
+        "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
+        "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
+        "url": "https://claude.com/blog/claude-marketplace",
+        "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-23T19:03:25.133Z",
+        "discoveredAt": "2026-09-23T19:03:25.133Z",
+        "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmue7dm420pvmroghjxeh5rk3",
+        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+        "title_en": "How to prepare for AI-driven code modernization projects",
+        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-23T14:33:15.378Z",
+        "discoveredAt": "2026-09-23T14:33:15.378Z",
+        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+        "category": "tip",
+        "score": 63,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmudfo3yi090orogg6bl51tiq",
+        "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+        "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
+        "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+        "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "publishedAt": "2026-09-23T01:24:44.000Z",
+        "discoveredAt": "2026-09-23T01:37:37.014Z",
+        "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
+        },
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      },
+      {
+        "id": "rss_1413279931",
+        "title": "Coast：用十年经验，给记账这件事一个「终点」",
+        "title_en": null,
+        "url": "https://sspai.com/post/114479",
+        "source": "少数派",
+        "publishedAt": "2026-09-22T06:39:39+00:00",
+        "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_1066663543",
+        "title": "剪映，杀入 AI 互动影游",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/370883",
+        "source": "极客公园",
+        "publishedAt": "2026-09-23T07:32:36+00:00",
+        "summary": "<p style=\"text-align: center;\">&nbsp;</p>\n<p>头图来源：剪映</p>\n<p>9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。</p>\n<p>专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。</p>\n<p>智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。",
+        "category": "industry",
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
       }
     ],
     "writing": [
@@ -102,10 +187,10 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_2301967805",
+        "id": "rss_2036851008",
         "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
         "title_en": null,
         "url": "https://sspai.com/post/114551",
@@ -117,179 +202,142 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "17小时前"
-      },
-      {
-        "id": "rss_3926109791",
-        "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
-        "title_en": null,
-        "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
-        "source": "少数派",
-        "publishedAt": "2026-09-21T09:02:38+00:00",
-        "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...<a href=\"https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmu74ww1u0qfxrowkb6qtruwz",
-        "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-        "title_en": "Image Generation Models Compared： Cost， Edit， Quality",
-        "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-        "permalink": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-09-18T00:00:00.000Z",
-        "discoveredAt": "2026-09-18T15:49:48.916Z",
-        "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
-        "category": "tip",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz"
-        },
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
       },
       {
-        "id": "cmu4bql8w0haoro4wduou7kxe",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "permalink": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe",
-        "source": "X：Boris Cherny (@bcherny)",
-        "publishedAt": "2026-09-16T16:28:29.000Z",
-        "discoveredAt": "2026-09-16T16:37:37.101Z",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe"
-        },
+        "id": "rss_518531161",
+        "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 23 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
-          "creative",
-          "app",
           "writing",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_1514146617",
-        "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
-        "title_en": null,
-        "url": "https://sspai.com/post/114479",
-        "source": "少数派",
-        "publishedAt": "2026-09-22T06:39:39+00:00",
-        "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "18小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "rss_500548521",
-        "title": "Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 22 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Tue, 22 Se"
+        "formattedTime": "Wed, 23 Se"
       }
     ]
   },
   "items": [
     {
-      "id": "cmudch57g05bqroggl65fi9vo",
-      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-      "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-      "permalink": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-22T23:46:41.000Z",
-      "discoveredAt": "2026-09-23T00:08:14.545Z",
-      "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudch57g05bqroggl65fi9vo"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "1小时前"
-    },
-    {
-      "id": "cmucz06v905eironivy08mtvk",
-      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
-      "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
-      "url": "https://x.com/arena/status/2102454952576868638",
-      "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-22T17:48:17.000Z",
-      "discoveredAt": "2026-09-22T17:51:06.073Z",
-      "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+      "id": "cmuepgrq30eh3royntmaj59h4",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "title_en": "阿尔巴内塞透露，OpenAI 入侵了\"联邦医疗保险\"系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "permalink": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-23T22:54:29.320Z",
+      "discoveredAt": "2026-09-23T22:59:38.001Z",
+      "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
       "category": "industry",
-      "score": 72,
+      "score": 84,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
+        "canonical": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "cmucxceh40salroedruwhn0ee",
-      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-      "title_en": "v2.1.280",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-      "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-09-22T16:38:14.000Z",
-      "discoveredAt": "2026-09-22T17:04:36.534Z",
-      "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-      "category": "ai-products",
-      "score": 68,
+      "id": "cmuem5vyq07nqroynhi5j65vd",
+      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+      "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+      "url": "https://x.com/natolambert/status/2102872133244183038",
+      "permalink": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd",
+      "source": "X：Nathan Lambert (@natolambert)",
+      "publishedAt": "2026-09-23T21:26:00.000Z",
+      "discoveredAt": "2026-09-23T21:27:09.428Z",
+      "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+      "category": "tip",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
+        "canonical": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "3小时前"
+    },
+    {
+      "id": "cmueh1dx305ejrovxhm7a1f4l",
+      "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
+      "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-23T19:03:25.133Z",
+      "discoveredAt": "2026-09-23T19:03:25.133Z",
+      "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "cmue7dm420pvmroghjxeh5rk3",
+      "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+      "title_en": "How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-23T14:33:15.378Z",
+      "discoveredAt": "2026-09-23T14:33:15.378Z",
+      "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "cmudfo3yi090orogg6bl51tiq",
+      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+      "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
+      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+      "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-23T01:24:44.000Z",
+      "discoveredAt": "2026-09-23T01:37:37.014Z",
+      "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
+      },
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "23小时前"
     },
     {
       "id": "cmucxyky704ftronibjzp4dos",
@@ -312,60 +360,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmu74ww1u0qfxrowkb6qtruwz",
-      "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-      "title_en": "Image Generation Models Compared： Cost， Edit， Quality",
-      "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-      "permalink": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-18T00:00:00.000Z",
-      "discoveredAt": "2026-09-18T15:49:48.916Z",
-      "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz"
-      },
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "cmu4bql8w0haoro4wduou7kxe",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-      "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "permalink": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe",
-      "source": "X：Boris Cherny (@bcherny)",
-      "publishedAt": "2026-09-16T16:28:29.000Z",
-      "discoveredAt": "2026-09-16T16:37:37.101Z",
-      "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_2301967805",
+      "id": "rss_2036851008",
       "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
       "title_en": null,
       "url": "https://sspai.com/post/114551",
@@ -377,11 +375,11 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "17小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_1514146617",
-      "title": "App+1 | Coast：用十年经验，给记账这件事一个「终点」",
+      "id": "rss_1413279931",
+      "title": "Coast：用十年经验，给记账这件事一个「终点」",
       "title_en": null,
       "url": "https://sspai.com/post/114479",
       "source": "少数派",
@@ -393,37 +391,41 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "rss_3926109791",
-      "title": "以人为本还是脱离实际？GNOME 桌面环境的演进及争议",
-      "title_en": null,
-      "url": "https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de",
-      "source": "少数派",
-      "publishedAt": "2026-09-21T09:02:38+00:00",
-      "summary": "反复失败的预言1999年，时任SUSE首席技术官的DirkHohndel大概不会想到，自己口中的「Linux桌面元年」此后会被反复提起，成为圈内一个著名的迷因。每年都有人扮演先知，然后看着统计报告上的 ...<a href=\"https://sspai.com/prime/story/the-development-and-controversies-of-gnome-de\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_500548521",
-      "title": "Netflix 重构 Conductor，以支持每月 4.2 亿次的工作流执行以及 10 倍规模的工作流",
+      "id": "rss_1066663543",
+      "title": "剪映，杀入 AI 互动影游",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 22 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/MejovdhJpA8y4wbWlTMU?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "url": "http://www.geekpark.net/news/370883",
+      "source": "极客公园",
+      "publishedAt": "2026-09-23T07:32:36+00:00",
+      "summary": "<p style=\"text-align: center;\">&nbsp;</p>\n<p>头图来源：剪映</p>\n<p>9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。</p>\n<p>专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。</p>\n<p>智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。",
+      "category": "industry",
       "interestTags": [
+        "creative",
+        "app",
+        "writing",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "Tue, 22 Se"
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "rss_518531161",
+      "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Wed, 23 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Wed, 23 Se"
     }
   ]
 }
