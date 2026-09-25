@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T01:14:53.204560+00:00",
+  "generatedAt": "2026-09-25T01:16:19.595538+00:00",
   "totalSource": 160,
-  "totalFiltered": 147,
+  "totalFiltered": 146,
   "totalSelected": 10,
   "sources": {
     "aihot": 100,
@@ -11,73 +11,212 @@
   "grouped": {
     "app": [
       {
-        "id": "cmuepgrq30eh3royntmaj59h4",
-        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_en": "阿尔巴内塞透露，OpenAI 入侵了\"联邦医疗保险\"系统",
-        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "permalink": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "publishedAt": "2026-09-23T22:54:29.320Z",
-        "discoveredAt": "2026-09-23T22:59:38.001Z",
-        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+        "id": "cmufmonss05qtro8wec8r2gd3",
+        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+        "permalink": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-24T14:01:05.000Z",
+        "discoveredAt": "2026-09-24T14:29:33.155Z",
+        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
         "category": "industry",
-        "score": 84,
+        "score": 88,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
+          "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "11小时前"
       },
       {
-        "id": "cmuem5vyq07nqroynhi5j65vd",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "permalink": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "publishedAt": "2026-09-23T21:26:00.000Z",
-        "discoveredAt": "2026-09-23T21:27:09.428Z",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
-        "category": "tip",
-        "score": 78,
+        "id": "cmufjfzsr04avro6oidhywggl",
+        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "permalink": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-09-24T12:54:19.000Z",
+        "discoveredAt": "2026-09-24T12:58:48.615Z",
+        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+        "category": "industry",
+        "score": 89,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
+          "canonical": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "3小时前"
+        "formattedTime": "12小时前"
       },
       {
-        "id": "cmueh1dx305ejrovxhm7a1f4l",
-        "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
-        "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
-        "url": "https://claude.com/blog/claude-marketplace",
-        "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-23T19:03:25.133Z",
-        "discoveredAt": "2026-09-23T19:03:25.133Z",
-        "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
+        "id": "cmuew6nid02ggro3ko74hery9",
+        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+        "permalink": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-24T01:57:36.000Z",
+        "discoveredAt": "2026-09-24T02:07:37.739Z",
+        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
         "category": "ai-products",
         "score": 66,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
+          "canonical": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9"
         },
         "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "23小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "cmufo8rn007i8ro8wylbdcop0",
+        "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+        "title_en": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+        "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+        "permalink": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
+        "source": "NVIDIA Blog（RSS）",
+        "publishedAt": "2026-09-24T14:00:50.000Z",
+        "discoveredAt": "2026-09-24T15:13:08.711Z",
+        "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "cmuf9jirw05xurocspb64l7np",
+        "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+        "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
+        "permalink": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
+        "source": "公众号：火山引擎",
+        "publishedAt": "2026-09-24T05:40:51.000Z",
+        "discoveredAt": "2026-09-24T08:21:38.554Z",
+        "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np"
+        },
+        "interestTags": [
+          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "19小时前"
+      },
+      {
+        "id": "cmudfo3yi090orogg6bl51tiq",
+        "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+        "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
+        "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+        "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "publishedAt": "2026-09-23T01:24:44.000Z",
+        "discoveredAt": "2026-09-23T01:37:37.014Z",
+        "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
+        },
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmueurvwl03twroyqsw3ygr4q",
+        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
+        "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
+        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
+        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-23T19:17:05.000Z",
+        "discoveredAt": "2026-09-24T01:28:13.469Z",
+        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
+        "category": "tip",
+        "score": 51,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "cmucxyky704ftronibjzp4dos",
+        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
+        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "discoveredAt": "2026-09-22T17:21:52.130Z",
+        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
+        "category": "tip",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_1731164559",
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "title_en": null,
+        "url": "https://sspai.com/prime/story/home-made-beverages-5",
+        "source": "少数派",
+        "publishedAt": "2026-09-24T08:20:39+00:00",
+        "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
       }
     ],
     "productivity": [
@@ -102,195 +241,152 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "cmudfo3yi090orogg6bl51tiq",
-        "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
-        "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
-        "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-        "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "publishedAt": "2026-09-23T01:24:44.000Z",
-        "discoveredAt": "2026-09-23T01:37:37.014Z",
-        "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
-        "category": "ai-products",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
-        },
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      },
-      {
-        "id": "rss_1413279931",
-        "title": "Coast：用十年经验，给记账这件事一个「终点」",
-        "title_en": null,
-        "url": "https://sspai.com/post/114479",
-        "source": "少数派",
-        "publishedAt": "2026-09-22T06:39:39+00:00",
-        "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_1066663543",
-        "title": "剪映，杀入 AI 互动影游",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/370883",
-        "source": "极客公园",
-        "publishedAt": "2026-09-23T07:32:36+00:00",
-        "summary": "<p style=\"text-align: center;\">&nbsp;</p>\n<p>头图来源：剪映</p>\n<p>9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。</p>\n<p>专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。</p>\n<p>智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。",
-        "category": "industry",
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "17小时前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmucxyky704ftronibjzp4dos",
-        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
-        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "discoveredAt": "2026-09-22T17:21:52.130Z",
-        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
-        "category": "tip",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_2036851008",
-        "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-        "title_en": null,
-        "url": "https://sspai.com/post/114551",
-        "source": "少数派",
-        "publishedAt": "2026-09-22T08:11:03+00:00",
-        "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_518531161",
-        "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 23 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Wed, 23 Se"
       }
     ]
   },
   "items": [
     {
-      "id": "cmuepgrq30eh3royntmaj59h4",
-      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-      "title_en": "阿尔巴内塞透露，OpenAI 入侵了\"联邦医疗保险\"系统",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "permalink": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-23T22:54:29.320Z",
-      "discoveredAt": "2026-09-23T22:59:38.001Z",
-      "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+      "id": "cmufmonss05qtro8wec8r2gd3",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+      "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "permalink": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-24T14:01:05.000Z",
+      "discoveredAt": "2026-09-24T14:29:33.155Z",
+      "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
       "category": "industry",
-      "score": 84,
+      "score": 88,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
+        "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "11小时前"
     },
     {
-      "id": "cmuem5vyq07nqroynhi5j65vd",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-      "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "permalink": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "publishedAt": "2026-09-23T21:26:00.000Z",
-      "discoveredAt": "2026-09-23T21:27:09.428Z",
-      "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+      "id": "cmufo8rn007i8ro8wylbdcop0",
+      "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+      "title_en": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+      "permalink": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-09-24T14:00:50.000Z",
+      "discoveredAt": "2026-09-24T15:13:08.711Z",
+      "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "cmufjfzsr04avro6oidhywggl",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+      "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "permalink": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-24T12:54:19.000Z",
+      "discoveredAt": "2026-09-24T12:58:48.615Z",
+      "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+      "category": "industry",
+      "score": 89,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "cmuf9jirw05xurocspb64l7np",
+      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+      "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
+      "permalink": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-09-24T05:40:51.000Z",
+      "discoveredAt": "2026-09-24T08:21:38.554Z",
+      "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
       "category": "tip",
-      "score": 78,
+      "score": 67,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
+        "canonical": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np"
       },
       "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "19小时前"
     },
     {
-      "id": "cmueh1dx305ejrovxhm7a1f4l",
-      "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
-      "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
-      "url": "https://claude.com/blog/claude-marketplace",
-      "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-23T19:03:25.133Z",
-      "discoveredAt": "2026-09-23T19:03:25.133Z",
-      "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
+      "id": "cmuew6nid02ggro3ko74hery9",
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+      "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "permalink": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-09-24T01:57:36.000Z",
+      "discoveredAt": "2026-09-24T02:07:37.739Z",
+      "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
       "category": "ai-products",
       "score": 66,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
+        "canonical": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9"
       },
       "interestTags": [
-        "app"
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "23小时前"
+    },
+    {
+      "id": "cmueurvwl03twroyqsw3ygr4q",
+      "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
+      "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
+      "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
+      "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-09-23T19:17:05.000Z",
+      "discoveredAt": "2026-09-24T01:28:13.469Z",
+      "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
+      "category": "tip",
+      "score": 51,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -313,7 +409,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmudfo3yi090orogg6bl51tiq",
@@ -337,7 +433,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmucxyky704ftronibjzp4dos",
@@ -360,72 +456,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_2036851008",
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
+      "id": "rss_1731164559",
+      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
       "title_en": null,
-      "url": "https://sspai.com/post/114551",
+      "url": "https://sspai.com/prime/story/home-made-beverages-5",
       "source": "少数派",
-      "publishedAt": "2026-09-22T08:11:03+00:00",
-      "summary": "黄金时代「时尚与科技结合」的浪漫。<a href=\"https://sspai.com/post/114551\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-09-24T08:20:39+00:00",
+      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
       "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_1413279931",
-      "title": "Coast：用十年经验，给记账这件事一个「终点」",
-      "title_en": null,
-      "url": "https://sspai.com/post/114479",
-      "source": "少数派",
-      "publishedAt": "2026-09-22T06:39:39+00:00",
-      "summary": "从大学时代入不敷出开始记账，到 10 年后发现记账数据没有被充分利用，再到用 Vibe Coding 把自己的想法做成了一款 App——10 年的记账经验变成了产品设计的基础，而 Vibe Coding 让一个非技术出身的人有能力把这些想法实现出来。<a href=\"https://sspai.com/post/114479\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_1066663543",
-      "title": "剪映，杀入 AI 互动影游",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/370883",
-      "source": "极客公园",
-      "publishedAt": "2026-09-23T07:32:36+00:00",
-      "summary": "<p style=\"text-align: center;\">&nbsp;</p>\n<p>头图来源：剪映</p>\n<p>9 月 20 日，剪映在「AI 新创作发布会」上，集中更新了专业版、移动端和创作者生态。</p>\n<p>专业版新增一站式创作工作台「剪映 Hub」，由无限画布和多轨编辑器组成。用户可以从一句话、一个参考视频或者一份文档开始，在画布上整理思路、生成脚本和分镜，调用即梦、小云雀等平台生成图片、视频和声音，再把初剪结果送入时间线继续修改。</p>\n<p>智能创作 Agent「剪映助手」进入了具体的剪辑工程，可以整理素材、删减口播、纠正字幕、检索补充画面和包装视频。",
-      "category": "industry",
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "rss_518531161",
-      "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 23 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Wed, 23 Se"
+      "formattedTime": "16小时前"
     }
   ]
 }
