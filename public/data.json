@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-25T01:16:19.595538+00:00",
+  "generatedAt": "2026-09-26T01:18:46.668760+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
-  "totalSelected": 10,
+  "totalFiltered": 147,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -11,74 +11,192 @@
   "grouped": {
     "app": [
       {
-        "id": "cmufmonss05qtro8wec8r2gd3",
-        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-        "permalink": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-24T14:01:05.000Z",
-        "discoveredAt": "2026-09-24T14:29:33.155Z",
-        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-        "category": "industry",
-        "score": 88,
+        "id": "cmuhdm4yz0a20ro3bo436lm8s",
+        "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+        "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+        "url": "https://x.com/arena/status/2103572481206538439",
+        "permalink": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+        "source": "X：Arena (@arena)",
+        "publishedAt": "2026-09-25T19:48:56.000Z",
+        "discoveredAt": "2026-09-25T19:51:07.367Z",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+        "category": "paper",
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
+          "canonical": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "5小时前"
       },
       {
-        "id": "cmufjfzsr04avro6oidhywggl",
-        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-        "permalink": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-09-24T12:54:19.000Z",
-        "discoveredAt": "2026-09-24T12:58:48.615Z",
-        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-        "category": "industry",
-        "score": 89,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "cmuew6nid02ggro3ko74hery9",
-        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-        "permalink": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-24T01:57:36.000Z",
-        "discoveredAt": "2026-09-24T02:07:37.739Z",
-        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+        "id": "cmuh9z6nw05yzro3bzt9lxckr",
+        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+        "title_en": "Build plugins for Claude",
+        "url": "https://claude.com/blog/build-plugins-for-claude",
+        "permalink": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-25T18:09:06.824Z",
+        "discoveredAt": "2026-09-25T18:09:06.824Z",
+        "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
         "category": "ai-products",
-        "score": 66,
+        "score": 62,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9"
+          "canonical": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr"
         },
         "interestTags": [
-          "app",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmuh5bwi004nrro55yu2riehv",
+        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+        "permalink": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-09-25T15:48:14.000Z",
+        "discoveredAt": "2026-09-25T15:59:16.784Z",
+        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+        "category": "tip",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmuh9l75q02v8ro3brr0wv9o8",
+        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+        "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+        "permalink": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "publishedAt": "2026-09-25T17:46:08.000Z",
+        "discoveredAt": "2026-09-25T17:58:28.495Z",
+        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+        "category": "paper",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8"
+        },
+        "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "23小时前"
+        "formattedTime": "7小时前"
+      },
+      {
+        "id": "cmueurvwl03twroyqsw3ygr4q",
+        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
+        "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
+        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
+        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-23T19:17:05.000Z",
+        "discoveredAt": "2026-09-24T01:28:13.469Z",
+        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
+        "category": "tip",
+        "score": 51,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "cmucxyky704ftronibjzp4dos",
+        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
+        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-09-22T00:00:00.000Z",
+        "discoveredAt": "2026-09-22T17:21:52.130Z",
+        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
+        "category": "tip",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "4天前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "cmugxabb31gj8rogv0mand702",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "publishedAt": "2026-09-25T12:05:37.000Z",
+        "discoveredAt": "2026-09-25T12:14:05.199Z",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "13小时前"
+      },
+      {
+        "id": "cmue7dm420pvmroghjxeh5rk3",
+        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+        "title_en": "How to prepare for AI-driven code modernization projects",
+        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-23T14:33:15.378Z",
+        "discoveredAt": "2026-09-23T14:33:15.378Z",
+        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+        "category": "tip",
+        "score": 63,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -105,7 +223,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmuf9jirw05xurocspb64l7np",
@@ -129,7 +247,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmudfo3yi090orogg6bl51tiq",
@@ -153,121 +271,142 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
-    "writing": [
+    "education": [
       {
-        "id": "cmueurvwl03twroyqsw3ygr4q",
-        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-        "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
-        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-23T19:17:05.000Z",
-        "discoveredAt": "2026-09-24T01:28:13.469Z",
-        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-        "category": "tip",
-        "score": 51,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmucxyky704ftronibjzp4dos",
-        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
-        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "discoveredAt": "2026-09-22T17:21:52.130Z",
-        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
-        "category": "tip",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "rss_1731164559",
-        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "id": "rss_1005286150",
+        "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
         "title_en": null,
-        "url": "https://sspai.com/prime/story/home-made-beverages-5",
-        "source": "少数派",
-        "publishedAt": "2026-09-24T08:20:39+00:00",
-        "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/09/497012.html",
+        "source": "量子位",
+        "publishedAt": "2026-09-25T05:52:18+00:00",
+        "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+        "category": "industry",
         "interestTags": [
-          "writing"
+          "education"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmue7dm420pvmroghjxeh5rk3",
-        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-        "title_en": "How to prepare for AI-driven code modernization projects",
-        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-23T14:33:15.378Z",
-        "discoveredAt": "2026-09-23T14:33:15.378Z",
-        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
-        "category": "tip",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "19小时前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmufmonss05qtro8wec8r2gd3",
-      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-      "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "permalink": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-24T14:01:05.000Z",
-      "discoveredAt": "2026-09-24T14:29:33.155Z",
-      "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-      "category": "industry",
-      "score": 88,
+      "id": "cmuhdm4yz0a20ro3bo436lm8s",
+      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+      "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
+      "url": "https://x.com/arena/status/2103572481206538439",
+      "permalink": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-25T19:48:56.000Z",
+      "discoveredAt": "2026-09-25T19:51:07.367Z",
+      "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+      "category": "paper",
+      "score": 67,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
+        "canonical": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "cmuh9z6nw05yzro3bzt9lxckr",
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+      "title_en": "Build plugins for Claude",
+      "url": "https://claude.com/blog/build-plugins-for-claude",
+      "permalink": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-25T18:09:06.824Z",
+      "discoveredAt": "2026-09-25T18:09:06.824Z",
+      "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmuh9l75q02v8ro3brr0wv9o8",
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+      "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+      "permalink": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-09-25T17:46:08.000Z",
+      "discoveredAt": "2026-09-25T17:58:28.495Z",
+      "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+      "category": "paper",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "cmuh5bwi004nrro55yu2riehv",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+      "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "permalink": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-25T15:48:14.000Z",
+      "discoveredAt": "2026-09-25T15:59:16.784Z",
+      "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "cmugxabb31gj8rogv0mand702",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+      "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "url": "https://x.com/satyanadella/status/2103455884366188544",
+      "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-09-25T12:05:37.000Z",
+      "discoveredAt": "2026-09-25T12:14:05.199Z",
+      "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "13小时前"
     },
     {
       "id": "cmufo8rn007i8ro8wylbdcop0",
@@ -292,30 +431,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "cmufjfzsr04avro6oidhywggl",
-      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
-      "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
-      "permalink": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-24T12:54:19.000Z",
-      "discoveredAt": "2026-09-24T12:58:48.615Z",
-      "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
-      "category": "industry",
-      "score": 89,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmuf9jirw05xurocspb64l7np",
@@ -339,31 +455,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "cmuew6nid02ggro3ko74hery9",
-      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-      "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-      "permalink": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-24T01:57:36.000Z",
-      "discoveredAt": "2026-09-24T02:07:37.739Z",
-      "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuew6nid02ggro3ko74hery9"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -386,7 +478,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -409,7 +501,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmudfo3yi090orogg6bl51tiq",
@@ -433,7 +525,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmucxyky704ftronibjzp4dos",
@@ -456,22 +548,22 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_1731164559",
-      "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+      "id": "rss_1005286150",
+      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
       "title_en": null,
-      "url": "https://sspai.com/prime/story/home-made-beverages-5",
-      "source": "少数派",
-      "publishedAt": "2026-09-24T08:20:39+00:00",
-      "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...<a href=\"https://sspai.com/prime/story/home-made-beverages-5\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-      "category": "tip",
+      "url": "https://www.qbitai.com/2026/09/497012.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-25T05:52:18+00:00",
+      "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "education"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "19小时前"
     }
   ]
 }
