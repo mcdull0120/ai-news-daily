@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T01:18:46.668760+00:00",
+  "generatedAt": "2026-09-27T01:12:31.370263+00:00",
   "totalSource": 160,
-  "totalFiltered": 147,
-  "totalSelected": 12,
+  "totalFiltered": 145,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -10,6 +10,52 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "cmuj2fvet0i72rohydbh98ndp",
+        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+        "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+        "permalink": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "publishedAt": "2026-09-26T23:55:49.000Z",
+        "discoveredAt": "2026-09-27T00:13:55.960Z",
+        "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "cmuj0tqch0go3rohyqv46zlhy",
+        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+        "title_en": null,
+        "url": "https://www.ithome.com/1/007/447.htm",
+        "permalink": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-09-26T23:12:53.000Z",
+        "discoveredAt": "2026-09-26T23:28:42.292Z",
+        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+        "category": "industry",
+        "score": 86,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
       {
         "id": "cmuhdm4yz0a20ro3bo436lm8s",
         "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
@@ -31,56 +77,33 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
-      },
-      {
-        "id": "cmuh9z6nw05yzro3bzt9lxckr",
-        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-        "title_en": "Build plugins for Claude",
-        "url": "https://claude.com/blog/build-plugins-for-claude",
-        "permalink": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-25T18:09:06.824Z",
-        "discoveredAt": "2026-09-25T18:09:06.824Z",
-        "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
-        "category": "ai-products",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "7小时前"
-      },
-      {
-        "id": "cmuh5bwi004nrro55yu2riehv",
-        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-        "permalink": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-09-25T15:48:14.000Z",
-        "discoveredAt": "2026-09-25T15:59:16.784Z",
-        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
-        "category": "tip",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
+      {
+        "id": "cmuiltkdf0qrarov0lo96tucy",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_en": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "permalink": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-09-26T15:44:10.000Z",
+        "discoveredAt": "2026-09-26T16:28:38.634Z",
+        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+        "category": "paper",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
       {
         "id": "cmuh9l75q02v8ro3brr0wv9o8",
         "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
@@ -102,7 +125,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -125,30 +148,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmucxyky704ftronibjzp4dos",
-        "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-        "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
-        "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-        "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-09-22T00:00:00.000Z",
-        "discoveredAt": "2026-09-22T17:21:52.130Z",
-        "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
-        "category": "tip",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -173,7 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -196,7 +196,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "creative": [
@@ -223,7 +223,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmuf9jirw05xurocspb64l7np",
@@ -247,7 +247,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmudfo3yi090orogg6bl51tiq",
@@ -271,28 +271,80 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "rss_1005286150",
-        "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/09/497012.html",
-        "source": "量子位",
-        "publishedAt": "2026-09-25T05:52:18+00:00",
-        "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-        "category": "industry",
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "3天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "cmuj2fvet0i72rohydbh98ndp",
+      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
+      "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
+      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "permalink": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-26T23:55:49.000Z",
+      "discoveredAt": "2026-09-27T00:13:55.960Z",
+      "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmuj0tqch0go3rohyqv46zlhy",
+      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
+      "title_en": null,
+      "url": "https://www.ithome.com/1/007/447.htm",
+      "permalink": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-26T23:12:53.000Z",
+      "discoveredAt": "2026-09-26T23:28:42.292Z",
+      "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+      "category": "industry",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cmuiltkdf0qrarov0lo96tucy",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "title_en": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "permalink": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-26T15:44:10.000Z",
+      "discoveredAt": "2026-09-26T16:28:38.634Z",
+      "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
     {
       "id": "cmuhdm4yz0a20ro3bo436lm8s",
       "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
@@ -314,30 +366,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
-    },
-    {
-      "id": "cmuh9z6nw05yzro3bzt9lxckr",
-      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-      "title_en": "Build plugins for Claude",
-      "url": "https://claude.com/blog/build-plugins-for-claude",
-      "permalink": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-25T18:09:06.824Z",
-      "discoveredAt": "2026-09-25T18:09:06.824Z",
-      "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmuh9l75q02v8ro3brr0wv9o8",
@@ -360,30 +389,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
-    },
-    {
-      "id": "cmuh5bwi004nrro55yu2riehv",
-      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-      "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-      "permalink": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-25T15:48:14.000Z",
-      "discoveredAt": "2026-09-25T15:59:16.784Z",
-      "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh5bwi004nrro55yu2riehv"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmugxabb31gj8rogv0mand702",
@@ -406,7 +412,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmufo8rn007i8ro8wylbdcop0",
@@ -431,7 +437,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmuf9jirw05xurocspb64l7np",
@@ -455,7 +461,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -478,7 +484,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -501,7 +507,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmudfo3yi090orogg6bl51tiq",
@@ -525,45 +531,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmucxyky704ftronibjzp4dos",
-      "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-      "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
-      "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-      "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "discoveredAt": "2026-09-22T17:21:52.130Z",
-      "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "rss_1005286150",
-      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/497012.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-25T05:52:18+00:00",
-      "summary": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "category": "industry",
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "3天前"
     }
   ]
 }
