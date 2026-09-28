@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-27T01:12:31.370263+00:00",
+  "generatedAt": "2026-09-28T01:28:23.959558+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 144,
   "totalSelected": 11,
   "sources": {
     "aihot": 100,
@@ -31,7 +31,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmuj0tqch0go3rohyqv46zlhy",
@@ -54,7 +54,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmuhdm4yz0a20ro3bo436lm8s",
@@ -77,7 +77,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -102,7 +102,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "cmuh9l75q02v8ro3brr0wv9o8",
@@ -125,7 +125,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -148,7 +148,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -173,7 +173,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -196,7 +196,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "creative": [
@@ -223,7 +223,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmuf9jirw05xurocspb64l7np",
@@ -247,7 +247,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "cmudfo3yi090orogg6bl51tiq",
@@ -271,7 +271,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "5天前"
       }
     ]
   },
@@ -297,7 +297,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmuj0tqch0go3rohyqv46zlhy",
@@ -320,7 +320,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmuiltkdf0qrarov0lo96tucy",
@@ -343,7 +343,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmuhdm4yz0a20ro3bo436lm8s",
@@ -366,7 +366,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmuh9l75q02v8ro3brr0wv9o8",
@@ -389,7 +389,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmugxabb31gj8rogv0mand702",
@@ -412,7 +412,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "cmufo8rn007i8ro8wylbdcop0",
@@ -437,7 +437,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmuf9jirw05xurocspb64l7np",
@@ -461,7 +461,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -484,7 +484,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -507,7 +507,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmudfo3yi090orogg6bl51tiq",
@@ -531,7 +531,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "5天前"
     }
   ]
 }
