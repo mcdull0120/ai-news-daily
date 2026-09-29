@@ -1,205 +1,136 @@
 {
-  "generatedAt": "2026-09-28T01:28:23.959558+00:00",
-  "totalSource": 160,
-  "totalFiltered": 144,
+  "generatedAt": "2026-09-29T02:32:22.773488+00:00",
+  "totalSource": 158,
+  "totalFiltered": 140,
   "totalSelected": 11,
   "sources": {
-    "aihot": 100,
+    "aihot": 98,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "cmuj2fvet0i72rohydbh98ndp",
-        "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-        "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
-        "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-        "permalink": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "publishedAt": "2026-09-26T23:55:49.000Z",
-        "discoveredAt": "2026-09-27T00:13:55.960Z",
-        "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
-        "category": "tip",
-        "score": 67,
+        "id": "orf4vhjkb0mj0mvff6dw9a03q",
+        "title": "消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra",
+        "title_en": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
+        "url": "https://www.ithome.com/1/008/090.htm",
+        "permalink": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
+        "source": "IT之家（RSS）",
+        "publishedAt": "2026-09-29T00:12:31.000Z",
+        "discoveredAt": "2026-09-29T00:13:31.271Z",
+        "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
+        "category": "industry",
+        "score": 78,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp"
+          "canonical": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "cmuj0tqch0go3rohyqv46zlhy",
-        "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-        "title_en": null,
-        "url": "https://www.ithome.com/1/007/447.htm",
-        "permalink": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-26T23:12:53.000Z",
-        "discoveredAt": "2026-09-26T23:28:42.292Z",
-        "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+        "id": "hgmzf75q1kdvl9q3y9g3nz7ry",
+        "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
+        "title_en": "How Databricks rolls out frontier models to 12,000 employees on Day 1",
+        "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+        "permalink": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+        "source": "Databricks：Blog（RSS）",
+        "publishedAt": "2026-09-28T20:11:23.000Z",
+        "discoveredAt": "2026-09-28T21:27:24.445Z",
+        "summary": "Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。",
+        "category": "tip",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "xb126e0awmyhyzh0hn39j1q9v",
+        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+        "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+        "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+        "permalink": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "publishedAt": "2026-09-28T15:41:27.000Z",
+        "discoveredAt": "2026-09-28T15:59:12.266Z",
+        "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
         "category": "industry",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
+      }
+    ],
+    "creative": [
+      {
+        "id": "qljqxvzy0bb98x5hvfbksdg0m",
+        "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+        "title_en": "Prompting Claude Opus 5.5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+        "permalink": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m",
+        "source": "Hacker News：AI 热帖",
+        "publishedAt": "2026-09-28T07:33:29.000Z",
+        "discoveredAt": "2026-09-28T09:18:38.228Z",
+        "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+        "category": "tip",
         "score": 86,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy"
+          "canonical": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m"
         },
         "interestTags": [
-          "app"
+          "creative",
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "18小时前"
       },
       {
-        "id": "cmuhdm4yz0a20ro3bo436lm8s",
-        "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
-        "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
-        "url": "https://x.com/arena/status/2103572481206538439",
-        "permalink": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
-        "source": "X：Arena (@arena)",
-        "publishedAt": "2026-09-25T19:48:56.000Z",
-        "discoveredAt": "2026-09-25T19:51:07.367Z",
-        "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
-        "category": "paper",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "cmuiltkdf0qrarov0lo96tucy",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_en": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "permalink": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
+        "id": "prg6f1kih6agr1e57t7ikzckr",
+        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
+        "url": "https://www.ithome.com/1/007/767.htm",
+        "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
         "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-26T15:44:10.000Z",
-        "discoveredAt": "2026-09-26T16:28:38.634Z",
-        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-        "category": "paper",
-        "score": 80,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "cmuh9l75q02v8ro3brr0wv9o8",
-        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-        "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-        "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-        "permalink": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "publishedAt": "2026-09-25T17:46:08.000Z",
-        "discoveredAt": "2026-09-25T17:58:28.495Z",
-        "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-        "category": "paper",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "cmueurvwl03twroyqsw3ygr4q",
-        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-        "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
-        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-23T19:17:05.000Z",
-        "discoveredAt": "2026-09-24T01:28:13.469Z",
-        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-        "category": "tip",
-        "score": 51,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmugxabb31gj8rogv0mand702",
-        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-        "url": "https://x.com/satyanadella/status/2103455884366188544",
-        "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "publishedAt": "2026-09-25T12:05:37.000Z",
-        "discoveredAt": "2026-09-25T12:14:05.199Z",
-        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "publishedAt": "2026-09-28T04:31:04.000Z",
+        "discoveredAt": "2026-09-28T05:32:49.179Z",
+        "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
         "category": "ai-products",
-        "score": 67,
+        "score": 78,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
+          "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
         },
         "interestTags": [
-          "productivity"
+          "creative",
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "22小时前"
       },
-      {
-        "id": "cmue7dm420pvmroghjxeh5rk3",
-        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-        "title_en": "How to prepare for AI-driven code modernization projects",
-        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-23T14:33:15.378Z",
-        "discoveredAt": "2026-09-23T14:33:15.378Z",
-        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
-        "category": "tip",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      }
-    ],
-    "creative": [
       {
         "id": "cmufo8rn007i8ro8wylbdcop0",
         "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
@@ -223,178 +154,237 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      },
+        "formattedTime": "4天前"
+      }
+    ],
+    "productivity": [
       {
-        "id": "cmuf9jirw05xurocspb64l7np",
-        "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-        "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-        "permalink": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
-        "source": "公众号：火山引擎",
-        "publishedAt": "2026-09-24T05:40:51.000Z",
-        "discoveredAt": "2026-09-24T08:21:38.554Z",
-        "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
-        "category": "tip",
-        "score": 67,
+        "id": "cmugxabb31gj8rogv0mand702",
+        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+        "title_en": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every tas...",
+        "url": "https://x.com/satyanadella/status/2103455884366188544",
+        "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "publishedAt": "2026-09-25T12:05:37.000Z",
+        "discoveredAt": "2026-09-25T12:14:05.199Z",
+        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+        "category": "ai-products",
+        "score": 68,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np"
+          "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "3天前"
       },
       {
-        "id": "cmudfo3yi090orogg6bl51tiq",
-        "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
-        "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
-        "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-        "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "publishedAt": "2026-09-23T01:24:44.000Z",
-        "discoveredAt": "2026-09-23T01:37:37.014Z",
-        "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
-        "category": "ai-products",
+        "id": "cmue7dm420pvmroghjxeh5rk3",
+        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+        "title_en": "How to prepare for AI-driven code modernization projects",
+        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-09-23T14:33:15.378Z",
+        "discoveredAt": "2026-09-23T14:33:15.378Z",
+        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+        "category": "tip",
         "score": 64,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
+          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
         },
         "interestTags": [
-          "creative",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5天前"
+      },
+      {
+        "id": "rss_3765667134",
+        "title": "2022 年，科技行业的创业者们推荐这 47 本书 | 创始人书单",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/371445",
+        "source": "极客公园",
+        "publishedAt": "2026-09-29T02:25:06+00:00",
+        "summary": "<p style=\"color:#999;font-size:14px;\">本文首发于 Founder Park 公众号 · 2023 年 1 月 21 日</p><p><span>农历年的最后一天，我们整理了一份书单。</span><br></p><p><span>不过是有点不一样的书单，一份完全不考虑出版时间和书籍类型，全凭这些创始人们的阅读喜好而汇总成的一份书单。</span></p><p><span>2022 年，Founder Park 一共进行了 57 场直播，采访了超过 60 位的创始人和投资人，畅聊了商业航天、量子计算、智能驾驶、合成生物、SaaS、Web3、",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "刚刚"
+      }
+    ],
+    "writing": [
+      {
+        "id": "cmueurvwl03twroyqsw3ygr4q",
+        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
+        "title_en": "We made claude​.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve p...",
+        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
+        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "publishedAt": "2026-09-23T19:17:05.000Z",
+        "discoveredAt": "2026-09-24T01:28:13.469Z",
+        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
+        "category": "tip",
+        "score": 51,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
+        },
+        "interestTags": [
           "writing"
         ],
         "techScore": -1,
         "formattedTime": "5天前"
+      },
+      {
+        "id": "rss_2464021074",
+        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/09/497624.html",
+        "source": "量子位",
+        "publishedAt": "2026-09-26T09:01:00+00:00",
+        "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+        "category": "industry",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": 1,
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "cmuj2fvet0i72rohydbh98ndp",
-      "title": "Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回",
-      "title_en": "BREAKING： AI agent incident toll has risen to tens of thousands",
-      "url": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
-      "permalink": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-09-26T23:55:49.000Z",
-      "discoveredAt": "2026-09-27T00:13:55.960Z",
-      "summary": "Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。",
-      "category": "tip",
-      "score": 67,
+      "id": "orf4vhjkb0mj0mvff6dw9a03q",
+      "title": "消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra",
+      "title_en": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
+      "url": "https://www.ithome.com/1/008/090.htm",
+      "permalink": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-29T00:12:31.000Z",
+      "discoveredAt": "2026-09-29T00:13:31.271Z",
+      "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
+      "category": "industry",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuj2fvet0i72rohydbh98ndp"
+        "canonical": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "cmuj0tqch0go3rohyqv46zlhy",
-      "title": "消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件",
-      "title_en": null,
-      "url": "https://www.ithome.com/1/007/447.htm",
-      "permalink": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-26T23:12:53.000Z",
-      "discoveredAt": "2026-09-26T23:28:42.292Z",
-      "summary": "据 Axios 报道，OpenAI、Anthropic 及安全研究人员正调查数万起模型异常行为事件，包括绕过安全护栏、逃离沙盒、劫持网站和自我提示等，多数事件发生在内部测试中且未造成现实损害。",
+      "id": "hgmzf75q1kdvl9q3y9g3nz7ry",
+      "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
+      "title_en": "How Databricks rolls out frontier models to 12,000 employees on Day 1",
+      "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
+      "permalink": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
+      "source": "Databricks：Blog（RSS）",
+      "publishedAt": "2026-09-28T20:11:23.000Z",
+      "discoveredAt": "2026-09-28T21:27:24.445Z",
+      "summary": "Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "xb126e0awmyhyzh0hn39j1q9v",
+      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+      "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
+      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+      "permalink": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-09-28T15:41:27.000Z",
+      "discoveredAt": "2026-09-28T15:59:12.266Z",
+      "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
       "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
+    },
+    {
+      "id": "qljqxvzy0bb98x5hvfbksdg0m",
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
+      "title_en": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "permalink": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-28T07:33:29.000Z",
+      "discoveredAt": "2026-09-28T09:18:38.228Z",
+      "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
+      "category": "tip",
       "score": 86,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy"
+        "canonical": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m"
       },
       "interestTags": [
-        "app"
+        "creative",
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "18小时前"
     },
     {
-      "id": "cmuiltkdf0qrarov0lo96tucy",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "title_en": "Anthropic Claude 刷新物理学世界纪录：单挑基于杨振宁理论 9 圈难题",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "permalink": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
+      "id": "prg6f1kih6agr1e57t7ikzckr",
+      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+      "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
+      "url": "https://www.ithome.com/1/007/767.htm",
+      "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
       "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-26T15:44:10.000Z",
-      "discoveredAt": "2026-09-26T16:28:38.634Z",
-      "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-      "category": "paper",
-      "score": 80,
+      "publishedAt": "2026-09-28T04:31:04.000Z",
+      "discoveredAt": "2026-09-28T05:32:49.179Z",
+      "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+      "category": "ai-products",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy"
+        "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
       },
       "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "cmuhdm4yz0a20ro3bo436lm8s",
-      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
-      "title_en": "GPT-6 Sol （Max） by @OpenAI has reshaped the Agent Arena Pareto frontier with a +7.7% net improvement…",
-      "url": "https://x.com/arena/status/2103572481206538439",
-      "permalink": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-25T19:48:56.000Z",
-      "discoveredAt": "2026-09-25T19:51:07.367Z",
-      "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
-      "category": "paper",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s"
-      },
-      "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "cmuh9l75q02v8ro3brr0wv9o8",
-      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-      "title_en": "New on the Science Blog： Yes， Claude can do Nine Loops. Theoretical physicists predict how particle…",
-      "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-      "permalink": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-25T17:46:08.000Z",
-      "discoveredAt": "2026-09-25T17:58:28.495Z",
-      "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-      "category": "paper",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "22小时前"
     },
     {
       "id": "cmugxabb31gj8rogv0mand702",
       "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-      "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "title_en": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every tas...",
       "url": "https://x.com/satyanadella/status/2103455884366188544",
       "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
       "source": "X：Satya Nadella (@satyanadella)",
@@ -402,7 +392,7 @@
       "discoveredAt": "2026-09-25T12:14:05.199Z",
       "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
       "category": "ai-products",
-      "score": 67,
+      "score": 68,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
@@ -412,7 +402,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "cmufo8rn007i8ro8wylbdcop0",
@@ -437,36 +427,12 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmuf9jirw05xurocspb64l7np",
-      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
-      "title_en": "首部上星AI长剧《后西游记》，如何走进湖南卫视黄金档",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
-      "permalink": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-09-24T05:40:51.000Z",
-      "discoveredAt": "2026-09-24T08:21:38.554Z",
-      "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuf9jirw05xurocspb64l7np"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "cmueurvwl03twroyqsw3ygr4q",
       "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-      "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
+      "title_en": "We made claude​.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve p...",
       "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
       "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
       "source": "X：Claude Devs (@ClaudeDevs)",
@@ -484,7 +450,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "cmue7dm420pvmroghjxeh5rk3",
@@ -497,7 +463,7 @@
       "discoveredAt": "2026-09-23T14:33:15.378Z",
       "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
       "category": "tip",
-      "score": 63,
+      "score": 64,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
@@ -507,31 +473,37 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "cmudfo3yi090orogg6bl51tiq",
-      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
-      "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
-      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-      "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-23T01:24:44.000Z",
-      "discoveredAt": "2026-09-23T01:37:37.014Z",
-      "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
-      },
+      "id": "rss_3765667134",
+      "title": "2022 年，科技行业的创业者们推荐这 47 本书 | 创始人书单",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/371445",
+      "source": "极客公园",
+      "publishedAt": "2026-09-29T02:25:06+00:00",
+      "summary": "<p style=\"color:#999;font-size:14px;\">本文首发于 Founder Park 公众号 · 2023 年 1 月 21 日</p><p><span>农历年的最后一天，我们整理了一份书单。</span><br></p><p><span>不过是有点不一样的书单，一份完全不考虑出版时间和书籍类型，全凭这些创始人们的阅读喜好而汇总成的一份书单。</span></p><p><span>2022 年，Founder Park 一共进行了 57 场直播，采访了超过 60 位的创始人和投资人，畅聊了商业航天、量子计算、智能驾驶、合成生物、SaaS、Web3、",
+      "category": "industry",
       "interestTags": [
-        "creative",
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "刚刚"
+    },
+    {
+      "id": "rss_2464021074",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/09/497624.html",
+      "source": "量子位",
+      "publishedAt": "2026-09-26T09:01:00+00:00",
+      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "category": "industry",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": 1,
+      "formattedTime": "2天前"
     }
   ]
 }
