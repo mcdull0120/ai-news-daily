@@ -1,86 +1,141 @@
 {
-  "generatedAt": "2026-09-29T02:32:22.773488+00:00",
-  "totalSource": 158,
-  "totalFiltered": 140,
-  "totalSelected": 11,
+  "generatedAt": "2026-09-30T01:53:55.234098+00:00",
+  "totalSource": 160,
+  "totalFiltered": 143,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 98,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "orf4vhjkb0mj0mvff6dw9a03q",
-        "title": "消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra",
-        "title_en": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
-        "url": "https://www.ithome.com/1/008/090.htm",
-        "permalink": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-29T00:12:31.000Z",
-        "discoveredAt": "2026-09-29T00:13:31.271Z",
-        "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
-        "category": "industry",
-        "score": 78,
+        "id": "lq71il0lehssgkular7zs5ybl",
+        "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
+        "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
+        "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
+        "permalink": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "discoveredAt": "2026-09-30T00:56:35.283Z",
+        "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
+        "category": "tip",
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q"
+          "canonical": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl"
         },
         "interestTags": [
-          "app"
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "vfjmts2i5gd8f3y5cerlb7h2q",
+        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+        "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+        "permalink": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "publishedAt": "2026-09-29T23:13:59.000Z",
+        "discoveredAt": "2026-09-29T23:36:23.523Z",
+        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+        "category": "ai-products",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q"
+        },
+        "interestTags": [
+          "app",
+          "writing",
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "2小时前"
       },
       {
-        "id": "hgmzf75q1kdvl9q3y9g3nz7ry",
-        "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
-        "title_en": "How Databricks rolls out frontier models to 12,000 employees on Day 1",
-        "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-        "permalink": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
-        "source": "Databricks：Blog（RSS）",
-        "publishedAt": "2026-09-28T20:11:23.000Z",
-        "discoveredAt": "2026-09-28T21:27:24.445Z",
-        "summary": "Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。",
-        "category": "tip",
-        "score": 65,
+        "id": "fp91y0m21xsgu43nl7g81uecp",
+        "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+        "title_en": "帮大家总结了一下凌晨的OpenAI 2026开发者大会。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
+        "permalink": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-09-29T21:47:43.000Z",
+        "discoveredAt": "2026-09-29T23:00:41.896Z",
+        "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
+        "category": "ai-products",
+        "score": 79,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry"
+          "canonical": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp"
         },
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "xb126e0awmyhyzh0hn39j1q9v",
-        "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-        "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
-        "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-        "permalink": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "publishedAt": "2026-09-28T15:41:27.000Z",
-        "discoveredAt": "2026-09-28T15:59:12.266Z",
-        "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
-        "category": "industry",
-        "score": 70,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "4小时前"
       }
     ],
     "creative": [
+      {
+        "id": "e4a2k70bkqzz23di75itqnegk",
+        "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
+        "title_en": "ChatGPT Space is your new home for creating and collaborating with your team and AI.",
+        "url": "https://x.com/ChatGPT/status/2104986841145602351",
+        "permalink": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "publishedAt": "2026-09-29T17:29:06.000Z",
+        "discoveredAt": "2026-09-29T17:35:13.814Z",
+        "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk"
+        },
+        "interestTags": [
+          "creative",
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "h40ygivbwihjifohdumbgpo0j",
+        "title": "Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南",
+        "title_en": "Building AI Agents: A First-Principles Guide",
+        "url": "https://www.sarvam.ai/blogs/building-ai-agents",
+        "permalink": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j",
+        "source": "Sarvam AI（网页）",
+        "publishedAt": "2026-09-29T09:00:00.000Z",
+        "discoveredAt": "2026-09-29T22:49:23.874Z",
+        "summary": "Sarvam AI 发布 25 分钟长的智能体构建指南，核心观点是智能体就是在循环中运行、能调用工具的语言模型，而技能、记忆和领域知识本质上都是在合适时机把合适文本放进上下文窗口。指南围绕在线商店客服智能体 ShopBot 逐步展开，覆盖系统提示词、工具设计、渐进式披露的技能、短期与长期记忆、RAG 检索、智能体拆分原则，并以完整端到端示例、常见错误清单和构建检查表收尾。",
+        "category": "tip",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
       {
         "id": "qljqxvzy0bb98x5hvfbksdg0m",
         "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
@@ -105,122 +160,34 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "18小时前"
-      },
-      {
-        "id": "prg6f1kih6agr1e57t7ikzckr",
-        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
-        "url": "https://www.ithome.com/1/007/767.htm",
-        "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
-        "source": "IT之家（RSS）",
-        "publishedAt": "2026-09-28T04:31:04.000Z",
-        "discoveredAt": "2026-09-28T05:32:49.179Z",
-        "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-        "category": "ai-products",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "22小时前"
-      },
-      {
-        "id": "cmufo8rn007i8ro8wylbdcop0",
-        "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-        "title_en": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-        "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-        "permalink": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
-        "source": "NVIDIA Blog（RSS）",
-        "publishedAt": "2026-09-24T14:00:50.000Z",
-        "discoveredAt": "2026-09-24T15:13:08.711Z",
-        "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
-        "category": "ai-products",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "education"
-        ],
-        "techScore": -1,
-        "formattedTime": "4天前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "cmugxabb31gj8rogv0mand702",
-        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "title_en": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every tas...",
-        "url": "https://x.com/satyanadella/status/2103455884366188544",
-        "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "publishedAt": "2026-09-25T12:05:37.000Z",
-        "discoveredAt": "2026-09-25T12:14:05.199Z",
-        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "cmue7dm420pvmroghjxeh5rk3",
-        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-        "title_en": "How to prepare for AI-driven code modernization projects",
-        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-        "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-09-23T14:33:15.378Z",
-        "discoveredAt": "2026-09-23T14:33:15.378Z",
-        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
-        "category": "tip",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_3765667134",
-        "title": "2022 年，科技行业的创业者们推荐这 47 本书 | 创始人书单",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/371445",
-        "source": "极客公园",
-        "publishedAt": "2026-09-29T02:25:06+00:00",
-        "summary": "<p style=\"color:#999;font-size:14px;\">本文首发于 Founder Park 公众号 · 2023 年 1 月 21 日</p><p><span>农历年的最后一天，我们整理了一份书单。</span><br></p><p><span>不过是有点不一样的书单，一份完全不考虑出版时间和书籍类型，全凭这些创始人们的阅读喜好而汇总成的一份书单。</span></p><p><span>2022 年，Founder Park 一共进行了 57 场直播，采访了超过 60 位的创始人和投资人，畅聊了商业航天、量子计算、智能驾驶、合成生物、SaaS、Web3、",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "刚刚"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
+      {
+        "id": "dlzadick4dbrhkdsuxkduk7ed",
+        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+        "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+        "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+        "permalink": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-09-29T17:23:22.000Z",
+        "discoveredAt": "2026-09-29T17:52:21.990Z",
+        "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+        "category": "ai-products",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed"
+        },
+        "interestTags": [
+          "writing",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
       {
         "id": "cmueurvwl03twroyqsw3ygr4q",
         "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
@@ -242,94 +209,251 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_2464021074",
-        "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+        "id": "rss_235074351",
+        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/09/497624.html",
-        "source": "量子位",
-        "publishedAt": "2026-09-26T09:01:00+00:00",
-        "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-        "category": "industry",
+        "url": "https://sspai.com/post/115153",
+        "source": "少数派",
+        "publishedAt": "2026-09-29T09:03:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
         "interestTags": [
           "writing"
         ],
-        "techScore": 1,
-        "formattedTime": "2天前"
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
+        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+        "title_en": "World Labs Is Joining AMD",
+        "url": "https://www.worldlabs.ai/blog/amd-announcement",
+        "permalink": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+        "source": "World Labs：官网",
+        "publishedAt": "2026-09-28T20:18:05.000Z",
+        "discoveredAt": "2026-09-28T21:53:21.499Z",
+        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+        "category": "industry",
+        "score": 85,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_3229253781",
+        "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+        "title_en": null,
+        "url": "http://www.geekpark.net/news/371850",
+        "source": "极客公园",
+        "publishedAt": "2026-09-29T06:53:16+00:00",
+        "summary": "<p>互联网大厂很久没有如此密集地在线下招人了。</p>\n<p>今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。</p>\n<p>速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。</p>\n<p>5000 人是什么概念？</p>\n<p>在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。</p>\n<p>但拼多多在雄安做的，并不是再建一个研发总",
+        "category": "industry",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
+      },
+      {
+        "id": "rss_2003595776",
+        "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 29 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "Tue, 29 Se"
       }
     ]
   },
   "items": [
     {
-      "id": "orf4vhjkb0mj0mvff6dw9a03q",
-      "title": "消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra",
-      "title_en": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
-      "url": "https://www.ithome.com/1/008/090.htm",
-      "permalink": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-29T00:12:31.000Z",
-      "discoveredAt": "2026-09-29T00:13:31.271Z",
-      "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
-      "category": "industry",
-      "score": 78,
+      "id": "lq71il0lehssgkular7zs5ybl",
+      "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
+      "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
+      "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
+      "permalink": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-09-30T00:56:35.283Z",
+      "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
+      "category": "tip",
+      "score": 69,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q"
+        "canonical": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl"
       },
       "interestTags": [
-        "app"
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "vfjmts2i5gd8f3y5cerlb7h2q",
+      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+      "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+      "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+      "permalink": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-29T23:13:59.000Z",
+      "discoveredAt": "2026-09-29T23:36:23.523Z",
+      "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q"
+      },
+      "interestTags": [
+        "app",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "2小时前"
     },
     {
-      "id": "hgmzf75q1kdvl9q3y9g3nz7ry",
-      "title": "Databricks 如何让 12000 名员工在模型发布首日用上新前沿模型",
-      "title_en": "How Databricks rolls out frontier models to 12,000 employees on Day 1",
-      "url": "https://www.databricks.com/blog/how-databricks-rolls-out-frontier-models-14000-employees-day-1",
-      "permalink": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-09-28T20:11:23.000Z",
-      "discoveredAt": "2026-09-28T21:27:24.445Z",
-      "summary": "Databricks 分享其让全部员工在模型发布首日即可试用新模型的内部流程，依托 Unity Gateway 做配置分发、治理与可观测性。流程分三步：立即以实验标签开放新模型、用四类按人预算控制成本、再依据内部基准、用户反馈和 OpenTelemetry 成本追踪决定推广或下线。",
-      "category": "tip",
-      "score": 65,
+      "id": "fp91y0m21xsgu43nl7g81uecp",
+      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+      "title_en": "帮大家总结了一下凌晨的OpenAI 2026开发者大会。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
+      "permalink": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-29T21:47:43.000Z",
+      "discoveredAt": "2026-09-29T23:00:41.896Z",
+      "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
+      "category": "ai-products",
+      "score": 79,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hgmzf75q1kdvl9q3y9g3nz7ry"
+        "canonical": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp"
       },
       "interestTags": [
-        "app"
+        "app",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "xb126e0awmyhyzh0hn39j1q9v",
-      "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
-      "title_en": "Our security team spent the last month trying to break SPACE, the sandbox platform that runs all of Perplexity Computer. We gave 9 models...",
-      "url": "https://x.com/AravSrinivas/status/2104597362475708781",
-      "permalink": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-09-28T15:41:27.000Z",
-      "discoveredAt": "2026-09-28T15:59:12.266Z",
-      "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
-      "category": "industry",
-      "score": 70,
+      "id": "e4a2k70bkqzz23di75itqnegk",
+      "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
+      "title_en": "ChatGPT Space is your new home for creating and collaborating with your team and AI.",
+      "url": "https://x.com/ChatGPT/status/2104986841145602351",
+      "permalink": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-09-29T17:29:06.000Z",
+      "discoveredAt": "2026-09-29T17:35:13.814Z",
+      "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
+      "category": "ai-products",
+      "score": 66,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xb126e0awmyhyzh0hn39j1q9v"
+        "canonical": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk"
       },
       "interestTags": [
-        "app"
+        "creative",
+        "writing",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "10小时前"
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "dlzadick4dbrhkdsuxkduk7ed",
+      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+      "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+      "permalink": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-29T17:23:22.000Z",
+      "discoveredAt": "2026-09-29T17:52:21.990Z",
+      "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed"
+      },
+      "interestTags": [
+        "writing",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "h40ygivbwihjifohdumbgpo0j",
+      "title": "Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南",
+      "title_en": "Building AI Agents: A First-Principles Guide",
+      "url": "https://www.sarvam.ai/blogs/building-ai-agents",
+      "permalink": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j",
+      "source": "Sarvam AI（网页）",
+      "publishedAt": "2026-09-29T09:00:00.000Z",
+      "discoveredAt": "2026-09-29T22:49:23.874Z",
+      "summary": "Sarvam AI 发布 25 分钟长的智能体构建指南，核心观点是智能体就是在循环中运行、能调用工具的语言模型，而技能、记忆和领域知识本质上都是在合适时机把合适文本放进上下文窗口。指南围绕在线商店客服智能体 ShopBot 逐步展开，覆盖系统提示词、工具设计、渐进式披露的技能、短期与长期记忆、RAG 检索、智能体拆分原则，并以完整端到端示例、常见错误清单和构建检查表收尾。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
+    {
+      "id": "ukbm1pni8gdc5ciwwuywzkhwb",
+      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
+      "title_en": "World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "permalink": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
+      "source": "World Labs：官网",
+      "publishedAt": "2026-09-28T20:18:05.000Z",
+      "discoveredAt": "2026-09-28T21:53:21.499Z",
+      "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+      "category": "industry",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "qljqxvzy0bb98x5hvfbksdg0m",
@@ -355,79 +479,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "18小时前"
-    },
-    {
-      "id": "prg6f1kih6agr1e57t7ikzckr",
-      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-      "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
-      "url": "https://www.ithome.com/1/007/767.htm",
-      "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-28T04:31:04.000Z",
-      "discoveredAt": "2026-09-28T05:32:49.179Z",
-      "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "22小时前"
-    },
-    {
-      "id": "cmugxabb31gj8rogv0mand702",
-      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-      "title_en": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every tas...",
-      "url": "https://x.com/satyanadella/status/2103455884366188544",
-      "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-09-25T12:05:37.000Z",
-      "discoveredAt": "2026-09-25T12:14:05.199Z",
-      "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "cmufo8rn007i8ro8wylbdcop0",
-      "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-      "title_en": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
-      "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-      "permalink": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-09-24T14:00:50.000Z",
-      "discoveredAt": "2026-09-24T15:13:08.711Z",
-      "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "昨天"
     },
     {
       "id": "cmueurvwl03twroyqsw3ygr4q",
@@ -450,60 +502,52 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "cmue7dm420pvmroghjxeh5rk3",
-      "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-      "title_en": "How to prepare for AI-driven code modernization projects",
-      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "permalink": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-23T14:33:15.378Z",
-      "discoveredAt": "2026-09-23T14:33:15.378Z",
-      "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+      "id": "rss_235074351",
+      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+      "title_en": null,
+      "url": "https://sspai.com/post/115153",
+      "source": "少数派",
+      "publishedAt": "2026-09-29T09:03:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue7dm420pvmroghjxeh5rk3"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_3765667134",
-      "title": "2022 年，科技行业的创业者们推荐这 47 本书 | 创始人书单",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/371445",
-      "source": "极客公园",
-      "publishedAt": "2026-09-29T02:25:06+00:00",
-      "summary": "<p style=\"color:#999;font-size:14px;\">本文首发于 Founder Park 公众号 · 2023 年 1 月 21 日</p><p><span>农历年的最后一天，我们整理了一份书单。</span><br></p><p><span>不过是有点不一样的书单，一份完全不考虑出版时间和书籍类型，全凭这些创始人们的阅读喜好而汇总成的一份书单。</span></p><p><span>2022 年，Founder Park 一共进行了 57 场直播，采访了超过 60 位的创始人和投资人，畅聊了商业航天、量子计算、智能驾驶、合成生物、SaaS、Web3、",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "刚刚"
-    },
-    {
-      "id": "rss_2464021074",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/09/497624.html",
-      "source": "量子位",
-      "publishedAt": "2026-09-26T09:01:00+00:00",
-      "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-      "category": "industry",
       "interestTags": [
         "writing"
       ],
-      "techScore": 1,
-      "formattedTime": "2天前"
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
+    {
+      "id": "rss_3229253781",
+      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
+      "title_en": null,
+      "url": "http://www.geekpark.net/news/371850",
+      "source": "极客公园",
+      "publishedAt": "2026-09-29T06:53:16+00:00",
+      "summary": "<p>互联网大厂很久没有如此密集地在线下招人了。</p>\n<p>今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。</p>\n<p>速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。</p>\n<p>5000 人是什么概念？</p>\n<p>在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。</p>\n<p>但拼多多在雄安做的，并不是再建一个研发总",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "rss_2003595776",
+      "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 29 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Tue, 29 Se"
     }
   ]
 }
