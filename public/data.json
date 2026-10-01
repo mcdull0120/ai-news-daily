@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-30T01:53:55.234098+00:00",
+  "generatedAt": "2026-10-01T01:54:31.545640+00:00",
   "totalSource": 160,
-  "totalFiltered": 143,
+  "totalFiltered": 141,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,21 +11,44 @@
   "grouped": {
     "app": [
       {
-        "id": "lq71il0lehssgkular7zs5ybl",
-        "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
-        "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
-        "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
-        "permalink": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
+        "id": "v6j23p9krwwoxqvk05d9n0bfz",
+        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+        "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
+        "permalink": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
         "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "discoveredAt": "2026-09-30T00:56:35.283Z",
-        "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "discoveredAt": "2026-10-01T01:17:38.079Z",
+        "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
         "category": "tip",
-        "score": 69,
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl"
+          "canonical": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "ska7k3allx8q9uu8yv5vzy8zw",
+        "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+        "title_en": "How to Gate Pull Requests on LLM Evals in CI",
+        "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
+        "permalink": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "discoveredAt": "2026-10-01T01:17:38.093Z",
+        "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
+        "category": "tip",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw"
         },
         "interestTags": [
           "app",
@@ -35,53 +58,28 @@
         "formattedTime": "1小时前"
       },
       {
-        "id": "vfjmts2i5gd8f3y5cerlb7h2q",
-        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-        "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-        "permalink": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "publishedAt": "2026-09-29T23:13:59.000Z",
-        "discoveredAt": "2026-09-29T23:36:23.523Z",
-        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-        "category": "ai-products",
-        "score": 70,
+        "id": "hi9uy4borcat6ams9rk5vkamo",
+        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+        "title_en": "Confidence Thresholds for Model Escalation Routing",
+        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
+        "permalink": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-10-01T00:00:00.000Z",
+        "discoveredAt": "2026-10-01T01:17:38.065Z",
+        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+        "category": "tip",
+        "score": 68,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q"
+          "canonical": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo"
         },
         "interestTags": [
           "app",
-          "writing",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "fp91y0m21xsgu43nl7g81uecp",
-        "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-        "title_en": "帮大家总结了一下凌晨的OpenAI 2026开发者大会。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
-        "permalink": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-09-29T21:47:43.000Z",
-        "discoveredAt": "2026-09-29T23:00:41.896Z",
-        "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
-        "category": "ai-products",
-        "score": 79,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "1小时前"
       }
     ],
     "creative": [
@@ -108,7 +106,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "h40ygivbwihjifohdumbgpo0j",
@@ -134,7 +132,7 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "qljqxvzy0bb98x5hvfbksdg0m",
@@ -160,7 +158,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -186,33 +184,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "cmueurvwl03twroyqsw3ygr4q",
-        "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-        "title_en": "We made claude​.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve p...",
-        "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-        "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "publishedAt": "2026-09-23T19:17:05.000Z",
-        "discoveredAt": "2026-09-24T01:28:13.469Z",
-        "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-        "category": "tip",
-        "score": 51,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_235074351",
+        "id": "rss_1165133633",
         "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
         "title_en": null,
         "url": "https://sspai.com/post/115153",
@@ -224,7 +199,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "rss_3703238518",
+        "title": "像改文字一样改语音：火山引擎全新语音内容编辑模型",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Wed, 30 SeT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "Wed, 30 Se"
       }
     ],
     "productivity": [
@@ -249,10 +239,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_3229253781",
+        "id": "rss_3017702919",
         "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
         "title_en": null,
         "url": "http://www.geekpark.net/news/371850",
@@ -264,42 +254,73 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_2003595776",
-        "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 29 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "id": "u33r5t71q9fo30jygm4iqnfm4",
+        "title": "Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流",
+        "title_en": "Automate the work that keeps coming back",
+        "url": "https://factory.ai/news/automations",
+        "permalink": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4",
+        "source": "Factory 研究 / 产品（RSS）",
+        "publishedAt": "2026-09-30T00:00:00.000Z",
+        "discoveredAt": "2026-09-30T17:04:19.340Z",
+        "summary": "Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4"
+        },
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "Tue, 29 Se"
+        "techScore": 1,
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
     {
-      "id": "lq71il0lehssgkular7zs5ybl",
-      "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
-      "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
-      "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
-      "permalink": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
+      "id": "v6j23p9krwwoxqvk05d9n0bfz",
+      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
+      "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
+      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
+      "permalink": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
       "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "discoveredAt": "2026-09-30T00:56:35.283Z",
-      "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T01:17:38.079Z",
+      "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
       "category": "tip",
-      "score": 69,
+      "score": 67,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl"
+        "canonical": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "ska7k3allx8q9uu8yv5vzy8zw",
+      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
+      "title_en": "How to Gate Pull Requests on LLM Evals in CI",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
+      "permalink": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T01:17:38.093Z",
+      "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw"
       },
       "interestTags": [
         "app",
@@ -309,53 +330,28 @@
       "formattedTime": "1小时前"
     },
     {
-      "id": "vfjmts2i5gd8f3y5cerlb7h2q",
-      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-      "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-      "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-      "permalink": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-29T23:13:59.000Z",
-      "discoveredAt": "2026-09-29T23:36:23.523Z",
-      "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
-      "category": "ai-products",
-      "score": 70,
+      "id": "hi9uy4borcat6ams9rk5vkamo",
+      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
+      "title_en": "Confidence Thresholds for Model Escalation Routing",
+      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
+      "permalink": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T01:17:38.065Z",
+      "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
+      "category": "tip",
+      "score": 68,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/vfjmts2i5gd8f3y5cerlb7h2q"
+        "canonical": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo"
       },
       "interestTags": [
         "app",
-        "writing",
-        "productivity"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "fp91y0m21xsgu43nl7g81uecp",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "title_en": "帮大家总结了一下凌晨的OpenAI 2026开发者大会。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
-      "permalink": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-29T21:47:43.000Z",
-      "discoveredAt": "2026-09-29T23:00:41.896Z",
-      "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fp91y0m21xsgu43nl7g81uecp"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "1小时前"
     },
     {
       "id": "e4a2k70bkqzz23di75itqnegk",
@@ -380,7 +376,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "dlzadick4dbrhkdsuxkduk7ed",
@@ -404,7 +400,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "h40ygivbwihjifohdumbgpo0j",
@@ -430,7 +426,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "ukbm1pni8gdc5ciwwuywzkhwb",
@@ -453,7 +449,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "qljqxvzy0bb98x5hvfbksdg0m",
@@ -479,33 +475,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "cmueurvwl03twroyqsw3ygr4q",
-      "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-      "title_en": "We made claude​.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve p...",
-      "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-      "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-23T19:17:05.000Z",
-      "discoveredAt": "2026-09-24T01:28:13.469Z",
-      "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-      "category": "tip",
-      "score": 51,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_235074351",
+      "id": "rss_1165133633",
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
       "title_en": null,
       "url": "https://sspai.com/post/115153",
@@ -517,10 +490,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_3229253781",
+      "id": "rss_3017702919",
       "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
       "title_en": null,
       "url": "http://www.geekpark.net/news/371850",
@@ -532,22 +505,45 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "rss_2003595776",
-      "title": "82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报",
+      "id": "rss_3703238518",
+      "title": "像改文字一样改语音：火山引擎全新语音内容编辑模型",
       "title_en": null,
-      "url": "https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article",
+      "url": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article",
       "source": "InfoQ中文",
-      "publishedAt": "Tue, 29 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "publishedAt": "Wed, 30 SeT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "Wed, 30 Se"
+    },
+    {
+      "id": "u33r5t71q9fo30jygm4iqnfm4",
+      "title": "Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流",
+      "title_en": "Automate the work that keeps coming back",
+      "url": "https://factory.ai/news/automations",
+      "permalink": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4",
+      "source": "Factory 研究 / 产品（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-09-30T17:04:19.340Z",
+      "summary": "Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4"
+      },
       "interestTags": [
         "productivity"
       ],
-      "techScore": -1,
-      "formattedTime": "Tue, 29 Se"
+      "techScore": 1,
+      "formattedTime": "昨天"
     }
   ]
 }
