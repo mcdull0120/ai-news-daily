@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T01:54:31.545640+00:00",
+  "generatedAt": "2026-10-09T02:51:01.807661+00:00",
   "totalSource": 160,
-  "totalFiltered": 141,
+  "totalFiltered": 153,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -11,539 +11,559 @@
   "grouped": {
     "app": [
       {
-        "id": "v6j23p9krwwoxqvk05d9n0bfz",
-        "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-        "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
-        "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
-        "permalink": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-10-01T00:00:00.000Z",
-        "discoveredAt": "2026-10-01T01:17:38.079Z",
-        "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
-        "category": "tip",
-        "score": 67,
+        "id": "f3doqdpq8n9mpmqc95jdyaxq0",
+        "title": "Tibo 宣布发布 ChatGPT",
+        "title_en": "Today, we are announcing ChatGPT.",
+        "url": "https://x.com/thsottiaux/status/2108349826727588000",
+        "permalink": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
+        "source": "X：Tibo (@thsottiaux)",
+        "publishedAt": "2026-10-09T00:12:24.000Z",
+        "discoveredAt": "2026-10-09T00:13:20.350Z",
+        "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+        "category": "ai-products",
+        "score": 94,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz"
+          "canonical": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "2小时前"
       },
       {
-        "id": "ska7k3allx8q9uu8yv5vzy8zw",
-        "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-        "title_en": "How to Gate Pull Requests on LLM Evals in CI",
-        "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
-        "permalink": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-10-01T00:00:00.000Z",
-        "discoveredAt": "2026-10-01T01:17:38.093Z",
-        "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
-        "category": "tip",
-        "score": 67,
+        "id": "b2mwouqv4jhfj70uho7s7guti",
+        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "title_en": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+        "url": "https://www.ithome.com/1/010/751.htm",
+        "permalink": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
+        "source": "IT之家·人工智能",
+        "publishedAt": "2026-10-08T23:02:44.683Z",
+        "discoveredAt": "2026-10-08T23:20:16.953Z",
+        "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+        "category": "industry",
+        "score": 78,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw"
+          "canonical": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti"
         },
         "interestTags": [
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "3小时前"
       },
       {
-        "id": "hi9uy4borcat6ams9rk5vkamo",
-        "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-        "title_en": "Confidence Thresholds for Model Escalation Routing",
-        "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
-        "permalink": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-10-01T00:00:00.000Z",
-        "discoveredAt": "2026-10-01T01:17:38.065Z",
-        "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-        "category": "tip",
-        "score": 68,
+        "id": "wf099r75jv1tzyhxa2j2o8n1p",
+        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+        "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-08T18:17:07.000Z",
+        "discoveredAt": "2026-10-08T18:31:39.721Z",
+        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+        "category": "industry",
+        "score": 81,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo"
+          "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
         },
         "interestTags": [
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "1小时前"
+        "formattedTime": "8小时前"
       }
     ],
     "creative": [
       {
-        "id": "e4a2k70bkqzz23di75itqnegk",
-        "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-        "title_en": "ChatGPT Space is your new home for creating and collaborating with your team and AI.",
-        "url": "https://x.com/ChatGPT/status/2104986841145602351",
-        "permalink": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "publishedAt": "2026-09-29T17:29:06.000Z",
-        "discoveredAt": "2026-09-29T17:35:13.814Z",
-        "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
-        "category": "ai-products",
+        "id": "rs34l7aa23mk54jutma8f7g3r",
+        "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+        "title_en": "We’re incredibly proud to continue working with @thehousefund!",
+        "url": "https://x.com/arena/status/2108310714423423254",
+        "permalink": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r",
+        "source": "X：Arena (@arena)",
+        "publishedAt": "2026-10-08T21:36:59.000Z",
+        "discoveredAt": "2026-10-08T21:49:18.549Z",
+        "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+        "category": "industry",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "xc7shuv3raxyv5xvh59ez8hjf",
+        "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+        "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+        "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+        "permalink": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf",
+        "source": "Comfy Blog",
+        "publishedAt": "2026-10-08T19:01:22.000Z",
+        "discoveredAt": "2026-10-08T19:25:37.335Z",
+        "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+        "category": "tip",
         "score": 66,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk"
-        },
-        "interestTags": [
-          "creative",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "h40ygivbwihjifohdumbgpo0j",
-        "title": "Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南",
-        "title_en": "Building AI Agents: A First-Principles Guide",
-        "url": "https://www.sarvam.ai/blogs/building-ai-agents",
-        "permalink": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j",
-        "source": "Sarvam AI（网页）",
-        "publishedAt": "2026-09-29T09:00:00.000Z",
-        "discoveredAt": "2026-09-29T22:49:23.874Z",
-        "summary": "Sarvam AI 发布 25 分钟长的智能体构建指南，核心观点是智能体就是在循环中运行、能调用工具的语言模型，而技能、记忆和领域知识本质上都是在合适时机把合适文本放进上下文窗口。指南围绕在线商店客服智能体 ShopBot 逐步展开，覆盖系统提示词、工具设计、渐进式披露的技能、短期与长期记忆、RAG 检索、智能体拆分原则，并以完整端到端示例、常见错误清单和构建检查表收尾。",
-        "category": "tip",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j"
+          "canonical": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf"
         },
         "interestTags": [
           "creative",
           "app",
-          "writing",
-          "education"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "qljqxvzy0bb98x5hvfbksdg0m",
-        "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-        "title_en": "Prompting Claude Opus 5.5",
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "permalink": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m",
-        "source": "Hacker News：AI 热帖",
-        "publishedAt": "2026-09-28T07:33:29.000Z",
-        "discoveredAt": "2026-09-28T09:18:38.228Z",
-        "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
-        "category": "tip",
-        "score": 86,
+        "id": "winsvtlfubhjfi0wnone83j5c",
+        "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
+        "title_en": "Build live dashboards and animate explainers with Claude",
+        "url": "https://claude.com/blog/dashboards-and-motion",
+        "permalink": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-10-08T00:00:00.000Z",
+        "discoveredAt": "2026-10-08T19:26:41.698Z",
+        "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
+        "category": "ai-products",
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m"
+          "canonical": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c"
         },
         "interestTags": [
           "creative",
-          "app",
-          "writing",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "dlzadick4dbrhkdsuxkduk7ed",
-        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-        "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-        "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
-        "permalink": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-09-29T17:23:22.000Z",
-        "discoveredAt": "2026-09-29T17:52:21.990Z",
-        "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
-        "category": "ai-products",
-        "score": 80,
+        "id": "qtsvk3wzyp2aab3vi62vjyold",
+        "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
+        "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
+        "url": "https://x.com/arena/status/2108269048467513429",
+        "permalink": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold",
+        "source": "X：Arena (@arena)",
+        "publishedAt": "2026-10-08T18:51:25.000Z",
+        "discoveredAt": "2026-10-08T19:14:43.868Z",
+        "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+        "category": "industry",
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed"
+          "canonical": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold"
         },
         "interestTags": [
-          "writing",
-          "productivity"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "7小时前"
       },
       {
-        "id": "rss_1165133633",
-        "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+        "id": "rss_3400263118",
+        "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
         "title_en": null,
-        "url": "https://sspai.com/post/115153",
-        "source": "少数派",
-        "publishedAt": "2026-09-29T09:03:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/10/502020.html",
+        "source": "量子位",
+        "publishedAt": "2026-10-08T10:23:53+00:00",
+        "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+        "category": "industry",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_3703238518",
-        "title": "像改文字一样改语音：火山引擎全新语音内容编辑模型",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Wed, 30 SeT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "Wed, 30 Se"
+        "formattedTime": "16小时前"
       }
     ],
     "productivity": [
       {
-        "id": "ukbm1pni8gdc5ciwwuywzkhwb",
-        "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-        "title_en": "World Labs Is Joining AMD",
-        "url": "https://www.worldlabs.ai/blog/amd-announcement",
-        "permalink": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-        "source": "World Labs：官网",
-        "publishedAt": "2026-09-28T20:18:05.000Z",
-        "discoveredAt": "2026-09-28T21:53:21.499Z",
-        "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+        "id": "pl2oa5clmf0gp3t7x3qsn71kc",
+        "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+        "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+        "permalink": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc",
+        "source": "Waymo：Blog（网页）",
+        "publishedAt": "2026-10-08T07:00:00.000Z",
+        "discoveredAt": "2026-10-08T13:22:31.463Z",
+        "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
         "category": "industry",
-        "score": 85,
+        "score": 66,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb"
+          "canonical": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc"
         },
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "19小时前"
       },
       {
-        "id": "rss_3017702919",
-        "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
-        "title_en": null,
-        "url": "http://www.geekpark.net/news/371850",
-        "source": "极客公园",
-        "publishedAt": "2026-09-29T06:53:16+00:00",
-        "summary": "<p>互联网大厂很久没有如此密集地在线下招人了。</p>\n<p>今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。</p>\n<p>速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。</p>\n<p>5000 人是什么概念？</p>\n<p>在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。</p>\n<p>但拼多多在雄安做的，并不是再建一个研发总",
-        "category": "industry",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "u33r5t71q9fo30jygm4iqnfm4",
-        "title": "Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流",
-        "title_en": "Automate the work that keeps coming back",
-        "url": "https://factory.ai/news/automations",
-        "permalink": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4",
-        "source": "Factory 研究 / 产品（RSS）",
-        "publishedAt": "2026-09-30T00:00:00.000Z",
-        "discoveredAt": "2026-09-30T17:04:19.340Z",
-        "summary": "Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。",
+        "id": "ouqidz9vopsnd1srzkmfz4zmn",
+        "title": "ChatGPT 推出 Finances 财务管理功能",
+        "title_en": "With Finances in ChatGPT, you can:",
+        "url": "https://x.com/ChatGPT/status/2106083595433791573",
+        "permalink": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "publishedAt": "2026-10-02T18:07:12.000Z",
+        "discoveredAt": "2026-10-02T18:34:23.333Z",
+        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
         "category": "ai-products",
-        "score": 64,
+        "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4"
+          "canonical": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn"
         },
         "interestTags": [
           "productivity"
         ],
-        "techScore": 1,
-        "formattedTime": "昨天"
+        "techScore": -1,
+        "formattedTime": "6天前"
+      },
+      {
+        "id": "nab0yosxdtyh7sbvoo0usb1iq",
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+        "permalink": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "publishedAt": "2026-10-02T07:23:13.000Z",
+        "discoveredAt": "2026-10-02T07:36:32.395Z",
+        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+        "category": "industry",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6天前"
+      }
+    ],
+    "education": [
+      {
+        "id": "ljyywltag6vvryw193ryz7lgd",
+        "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
+        "url": "https://x.com/GoogleAI/status/2106049984164463069",
+        "permalink": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
+        "source": "X：Google AI (@GoogleAI)",
+        "publishedAt": "2026-10-02T15:53:39.000Z",
+        "discoveredAt": "2026-10-02T16:01:14.354Z",
+        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
+        "category": "industry",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
     {
-      "id": "v6j23p9krwwoxqvk05d9n0bfz",
-      "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
-      "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
-      "url": "https://openrouter.ai/blog/insights/cost-vs-quality-tradeoff-framework-for-agent-models/",
-      "permalink": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "discoveredAt": "2026-10-01T01:17:38.079Z",
-      "summary": "OpenRouter 发布一个三步框架，用于为 Agent 任务选出以最低成本达到质量门槛的模型，而不是按排行榜排名选最高分模型。方法是先按任务设定质量门槛，再用 20 到 50 条自己的示例运行廉价、中档和前沿模型并用统一评分标准计算每质量点成本，最后选出以超过运行间分数波动的余量过线的最便宜模型。",
-      "category": "tip",
-      "score": 67,
+      "id": "f3doqdpq8n9mpmqc95jdyaxq0",
+      "title": "Tibo 宣布发布 ChatGPT",
+      "title_en": "Today, we are announcing ChatGPT.",
+      "url": "https://x.com/thsottiaux/status/2108349826727588000",
+      "permalink": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-10-09T00:12:24.000Z",
+      "discoveredAt": "2026-10-09T00:13:20.350Z",
+      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+      "category": "ai-products",
+      "score": 94,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/v6j23p9krwwoxqvk05d9n0bfz"
+        "canonical": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "2小时前"
     },
     {
-      "id": "ska7k3allx8q9uu8yv5vzy8zw",
-      "title": "OpenRouter 教程：如何在 CI 中用 LLM eval 门禁拦截 Pull Request",
-      "title_en": "How to Gate Pull Requests on LLM Evals in CI",
-      "url": "https://openrouter.ai/blog/tutorials/how-to-gate-pull-requests-on-llm-evals-in-ci/",
-      "permalink": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "discoveredAt": "2026-10-01T01:17:38.093Z",
-      "summary": "OpenRouter 发布教程，讲解如何用固定的 eval 集在 CI 中门禁 pull request，当通过率低于阈值时脚本以非零退出码阻止合并，做法与单元测试门禁一致。",
-      "category": "tip",
-      "score": 67,
+      "id": "b2mwouqv4jhfj70uho7s7guti",
+      "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+      "title_en": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+      "url": "https://www.ithome.com/1/010/751.htm",
+      "permalink": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
+      "source": "IT之家·人工智能",
+      "publishedAt": "2026-10-08T23:02:44.683Z",
+      "discoveredAt": "2026-10-08T23:20:16.953Z",
+      "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+      "category": "industry",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw"
+        "canonical": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti"
       },
       "interestTags": [
-        "app",
-        "writing"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "hi9uy4borcat6ams9rk5vkamo",
-      "title": "OpenRouter 指南：用置信度阈值实现模型分级升级路由",
-      "title_en": "Confidence Thresholds for Model Escalation Routing",
-      "url": "https://openrouter.ai/blog/insights/confidence-thresholds-for-model-escalation-routing/",
-      "permalink": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "discoveredAt": "2026-10-01T01:17:38.065Z",
-      "summary": "OpenRouter 发布教程，讲解如何让廉价模型通过结构化输出返回 0 到 1 的置信度字段，低置信度的请求再升级到更强模型。文章强调置信分数只是自报、不是校准概率，应基于自己流量的分数段错误率排序设定阈值，并在上线后监控分数分布、升级率和未升级答案的错误率持续调整。",
-      "category": "tip",
-      "score": 68,
+      "id": "rs34l7aa23mk54jutma8f7g3r",
+      "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+      "title_en": "We’re incredibly proud to continue working with @thehousefund!",
+      "url": "https://x.com/arena/status/2108310714423423254",
+      "permalink": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-08T21:36:59.000Z",
+      "discoveredAt": "2026-10-08T21:49:18.549Z",
+      "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+      "category": "industry",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hi9uy4borcat6ams9rk5vkamo"
+        "canonical": "https://aihot.news/items/rs34l7aa23mk54jutma8f7g3r"
       },
       "interestTags": [
-        "app",
-        "writing"
+        "creative",
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "1小时前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "e4a2k70bkqzz23di75itqnegk",
-      "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-      "title_en": "ChatGPT Space is your new home for creating and collaborating with your team and AI.",
-      "url": "https://x.com/ChatGPT/status/2104986841145602351",
-      "permalink": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "publishedAt": "2026-09-29T17:29:06.000Z",
-      "discoveredAt": "2026-09-29T17:35:13.814Z",
-      "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
-      "category": "ai-products",
+      "id": "xc7shuv3raxyv5xvh59ez8hjf",
+      "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+      "title_en": "How I Generated Live Video with MiniMax H3 on a Single GPU",
+      "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+      "permalink": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf",
+      "source": "Comfy Blog",
+      "publishedAt": "2026-10-08T19:01:22.000Z",
+      "discoveredAt": "2026-10-08T19:25:37.335Z",
+      "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+      "category": "tip",
       "score": 66,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk"
-      },
-      "interestTags": [
-        "creative",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "dlzadick4dbrhkdsuxkduk7ed",
-      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-      "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
-      "permalink": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-29T17:23:22.000Z",
-      "discoveredAt": "2026-09-29T17:52:21.990Z",
-      "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
-      "category": "ai-products",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed"
-      },
-      "interestTags": [
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "h40ygivbwihjifohdumbgpo0j",
-      "title": "Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南",
-      "title_en": "Building AI Agents: A First-Principles Guide",
-      "url": "https://www.sarvam.ai/blogs/building-ai-agents",
-      "permalink": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j",
-      "source": "Sarvam AI（网页）",
-      "publishedAt": "2026-09-29T09:00:00.000Z",
-      "discoveredAt": "2026-09-29T22:49:23.874Z",
-      "summary": "Sarvam AI 发布 25 分钟长的智能体构建指南，核心观点是智能体就是在循环中运行、能调用工具的语言模型，而技能、记忆和领域知识本质上都是在合适时机把合适文本放进上下文窗口。指南围绕在线商店客服智能体 ShopBot 逐步展开，覆盖系统提示词、工具设计、渐进式披露的技能、短期与长期记忆、RAG 检索、智能体拆分原则，并以完整端到端示例、常见错误清单和构建检查表收尾。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j"
+        "canonical": "https://aihot.news/items/xc7shuv3raxyv5xvh59ez8hjf"
       },
       "interestTags": [
         "creative",
         "app",
-        "writing",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "qtsvk3wzyp2aab3vi62vjyold",
+      "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
+      "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
+      "url": "https://x.com/arena/status/2108269048467513429",
+      "permalink": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-08T18:51:25.000Z",
+      "discoveredAt": "2026-10-08T19:14:43.868Z",
+      "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+      "category": "industry",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "wf099r75jv1tzyhxa2j2o8n1p",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+      "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+      "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-08T18:17:07.000Z",
+      "discoveredAt": "2026-10-08T18:31:39.721Z",
+      "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "pl2oa5clmf0gp3t7x3qsn71kc",
+      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+      "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "permalink": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc",
+      "source": "Waymo：Blog（网页）",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "discoveredAt": "2026-10-08T13:22:31.463Z",
+      "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+      "category": "industry",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "winsvtlfubhjfi0wnone83j5c",
+      "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
+      "title_en": "Build live dashboards and animate explainers with Claude",
+      "url": "https://claude.com/blog/dashboards-and-motion",
+      "permalink": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "discoveredAt": "2026-10-08T19:26:41.698Z",
+      "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "ouqidz9vopsnd1srzkmfz4zmn",
+      "title": "ChatGPT 推出 Finances 财务管理功能",
+      "title_en": "With Finances in ChatGPT, you can:",
+      "url": "https://x.com/ChatGPT/status/2106083595433791573",
+      "permalink": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-10-02T18:07:12.000Z",
+      "discoveredAt": "2026-10-02T18:34:23.333Z",
+      "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "6天前"
+    },
+    {
+      "id": "ljyywltag6vvryw193ryz7lgd",
+      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+      "title_en": "Project Suncatcher has liftoff! ☀️🚀",
+      "url": "https://x.com/GoogleAI/status/2106049984164463069",
+      "permalink": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-10-02T15:53:39.000Z",
+      "discoveredAt": "2026-10-02T16:01:14.354Z",
+      "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
+      "category": "industry",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd"
+      },
+      "interestTags": [
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "6天前"
     },
     {
-      "id": "ukbm1pni8gdc5ciwwuywzkhwb",
-      "title": "World Labs 宣布加入 AMD，李飞飞将出任 AMD 执行副总裁兼首席科学家",
-      "title_en": "World Labs Is Joining AMD",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "permalink": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb",
-      "source": "World Labs：官网",
-      "publishedAt": "2026-09-28T20:18:05.000Z",
-      "discoveredAt": "2026-09-28T21:53:21.499Z",
-      "summary": "World Labs 宣布与 AMD 签署最终协议加入 AMD，交易预计于 2026 年底前完成，需监管审批。李飞飞将出任 AMD 执行副总裁兼首席科学家，直接向 CEO Lisa Su 汇报；Justin Johnson 与 Ben Mildenhall 将继续带领 World Labs 团队组建前沿研究组织。",
+      "id": "nab0yosxdtyh7sbvoo0usb1iq",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+      "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "permalink": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-02T07:23:13.000Z",
+      "discoveredAt": "2026-10-02T07:36:32.395Z",
+      "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
       "category": "industry",
-      "score": 85,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ukbm1pni8gdc5ciwwuywzkhwb"
+        "canonical": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq"
       },
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "qljqxvzy0bb98x5hvfbksdg0m",
-      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式",
-      "title_en": "Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "permalink": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-28T07:33:29.000Z",
-      "discoveredAt": "2026-09-28T09:18:38.228Z",
-      "summary": "Anthropic 官方文档介绍针对 Claude Opus 5.5 的提示词模式，覆盖 effort 校准、无人值守智能体运行、安全拒绝、进度更新、多应用工作流、视觉输入和前端设计等场景。",
-      "category": "tip",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qljqxvzy0bb98x5hvfbksdg0m"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1165133633",
-      "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
+      "id": "rss_3400263118",
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
       "title_en": null,
-      "url": "https://sspai.com/post/115153",
-      "source": "少数派",
-      "publishedAt": "2026-09-29T09:03:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...<a href=\"https://sspai.com/post/115153\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "url": "https://www.qbitai.com/2026/10/502020.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-08T10:23:53+00:00",
+      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+      "category": "industry",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_3017702919",
-      "title": "三个月，5000 人：拼多多在这里搭起一座新业务基地",
-      "title_en": null,
-      "url": "http://www.geekpark.net/news/371850",
-      "source": "极客公园",
-      "publishedAt": "2026-09-29T06:53:16+00:00",
-      "summary": "<p>互联网大厂很久没有如此密集地在线下招人了。</p>\n<p>今年 5 月底，拼多多正式进入雄安。三个多月后，这家公司的雄安团队已经超过 5000 人。</p>\n<p>速度甚至比原来的计划更快。按照拼多多披露的信息，其雄安公司已经提前完成年度专项招聘计划，新办公楼和员工食堂也陆续投入使用。</p>\n<p>5000 人是什么概念？</p>\n<p>在今天的互联网大厂，这已经不是一个普通区域办公室的规模。尤其是在互联网公司普遍强调降本增效、控制人员扩张的背景下，一次性在一座新城市搭起数千人的团队，本身就是一个值得观察的动作。</p>\n<p>但拼多多在雄安做的，并不是再建一个研发总",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "rss_3703238518",
-      "title": "像改文字一样改语音：火山引擎全新语音内容编辑模型",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Wed, 30 SeT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/07qzHLvyNXSW1SFNV5NV?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "Wed, 30 Se"
-    },
-    {
-      "id": "u33r5t71q9fo30jygm4iqnfm4",
-      "title": "Factory Automations 正式开放：Droid 可定时或按事件自动执行工程工作流",
-      "title_en": "Automate the work that keeps coming back",
-      "url": "https://factory.ai/news/automations",
-      "permalink": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4",
-      "source": "Factory 研究 / 产品（RSS）",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "discoveredAt": "2026-09-30T17:04:19.340Z",
-      "summary": "Factory 宣布 Automations 正式向所有用户开放，用自然语言描述工作流后，Droid 可按定时或 Slack、GitHub、webhook 触发运行，支持自选模型（含 BYOK 和 Factory Router）与自选机器。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u33r5t71q9fo30jygm4iqnfm4"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "昨天"
+      "formattedTime": "16小时前"
     }
   ]
 }
