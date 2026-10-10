@@ -1,86 +1,39 @@
 {
-  "generatedAt": "2026-10-09T02:51:01.807661+00:00",
+  "generatedAt": "2026-10-10T02:11:20.581750+00:00",
   "totalSource": 160,
-  "totalFiltered": 153,
-  "totalSelected": 12,
+  "totalFiltered": 149,
+  "totalSelected": 10,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-        "title": "Tibo 宣布发布 ChatGPT",
-        "title_en": "Today, we are announcing ChatGPT.",
-        "url": "https://x.com/thsottiaux/status/2108349826727588000",
-        "permalink": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
-        "source": "X：Tibo (@thsottiaux)",
-        "publishedAt": "2026-10-09T00:12:24.000Z",
-        "discoveredAt": "2026-10-09T00:13:20.350Z",
-        "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
-        "category": "ai-products",
-        "score": 94,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "b2mwouqv4jhfj70uho7s7guti",
-        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-        "title_en": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
-        "url": "https://www.ithome.com/1/010/751.htm",
-        "permalink": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
-        "source": "IT之家·人工智能",
-        "publishedAt": "2026-10-08T23:02:44.683Z",
-        "discoveredAt": "2026-10-08T23:20:16.953Z",
-        "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
-        "category": "industry",
-        "score": 78,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3小时前"
-      },
-      {
-        "id": "wf099r75jv1tzyhxa2j2o8n1p",
-        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-        "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-10-08T18:17:07.000Z",
-        "discoveredAt": "2026-10-08T18:31:39.721Z",
-        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-        "category": "industry",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      }
-    ],
     "creative": [
+      {
+        "id": "uh0gkukluk1edn2fz8p8v3ama",
+        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+        "title_en": "Sharing a draft of Personal Agent Protocol",
+        "url": "https://sierra.ai/blog/poppy",
+        "permalink": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
+        "source": "Sierra：Blog（RSS）",
+        "publishedAt": "2026-10-09T19:56:06.000Z",
+        "discoveredAt": "2026-10-09T21:12:50.205Z",
+        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
       {
         "id": "rs34l7aa23mk54jutma8f7g3r",
         "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
@@ -103,7 +56,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -128,27 +81,74 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "app": [
       {
-        "id": "winsvtlfubhjfi0wnone83j5c",
-        "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
-        "title_en": "Build live dashboards and animate explainers with Claude",
-        "url": "https://claude.com/blog/dashboards-and-motion",
-        "permalink": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
-        "source": "Claude：Blog（网页）",
-        "publishedAt": "2026-10-08T00:00:00.000Z",
-        "discoveredAt": "2026-10-08T19:26:41.698Z",
-        "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
-        "category": "ai-products",
-        "score": 71,
+        "id": "auy2exatk0u5kr1c1ydmaajws",
+        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+        "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+        "permalink": "https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-09T17:20:34.000Z",
+        "discoveredAt": "2026-10-09T17:50:34.032Z",
+        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+        "category": "industry",
+        "score": 82,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c"
+          "canonical": "https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws"
         },
         "interestTags": [
-          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "b2mwouqv4jhfj70uho7s7guti",
+        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
+        "title_en": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
+        "url": "https://www.ithome.com/1/010/751.htm",
+        "permalink": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti",
+        "source": "IT之家·人工智能",
+        "publishedAt": "2026-10-08T23:02:44.683Z",
+        "discoveredAt": "2026-10-08T23:20:16.953Z",
+        "summary": "据金融时报报道，OpenAI 向投资者披露截至 9 月底年化营收逼近 500 亿美元，大幅低于此前外界估算的 700 亿美元，缺口约 200 亿美元。差异源于统计口径不同，Anthropic 计入 AWS 和谷歌云等合作方销售收入，而 OpenAI 剔除该部分。报道发布后美股科技股下跌，纳斯达克 100 指数收跌 1.4%，英伟达跌 2.9%，甲骨文跌 5.5%。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/b2mwouqv4jhfj70uho7s7guti"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "wf099r75jv1tzyhxa2j2o8n1p",
+        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
+        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+        "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-08T18:17:07.000Z",
+        "discoveredAt": "2026-10-08T18:31:39.721Z",
+        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
+        },
+        "interestTags": [
           "app"
         ],
         "techScore": -1,
@@ -177,22 +177,30 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "7小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_3400263118",
-        "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/10/502020.html",
-        "source": "量子位",
-        "publishedAt": "2026-10-08T10:23:53+00:00",
-        "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
-        "category": "industry",
+        "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
+        "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
+        "title_en": "The model that didn't exist, so you made it yourself",
+        "url": "https://huggingface.co/blog/building-with-ml-intern",
+        "permalink": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw",
+        "source": "Hugging Face 官方团队博客",
+        "publishedAt": "2026-10-08T00:00:00.751Z",
+        "discoveredAt": "2026-10-08T22:28:16.871Z",
+        "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw"
+        },
         "interestTags": [
           "writing"
         ],
-        "techScore": -1,
-        "formattedTime": "16小时前"
+        "techScore": 1,
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -217,104 +225,80 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "ouqidz9vopsnd1srzkmfz4zmn",
-        "title": "ChatGPT 推出 Finances 财务管理功能",
-        "title_en": "With Finances in ChatGPT, you can:",
-        "url": "https://x.com/ChatGPT/status/2106083595433791573",
-        "permalink": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "publishedAt": "2026-10-02T18:07:12.000Z",
-        "discoveredAt": "2026-10-02T18:34:23.333Z",
-        "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
-        "category": "ai-products",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "nab0yosxdtyh7sbvoo0usb1iq",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "permalink": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
+        "id": "dkmm9dhgecbuer490f0uqdi3m",
+        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+        "title_en": "Hugely revealing paper from Google.",
+        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+        "permalink": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-10-02T07:23:13.000Z",
-        "discoveredAt": "2026-10-02T07:36:32.395Z",
-        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-        "category": "industry",
-        "score": 76,
+        "publishedAt": "2026-10-03T21:52:11.000Z",
+        "discoveredAt": "2026-10-03T22:07:25.177Z",
+        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
+        "category": "paper",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq"
+          "canonical": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m"
         },
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "ljyywltag6vvryw193ryz7lgd",
-        "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-        "url": "https://x.com/GoogleAI/status/2106049984164463069",
-        "permalink": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
-        "source": "X：Google AI (@GoogleAI)",
-        "publishedAt": "2026-10-02T15:53:39.000Z",
-        "discoveredAt": "2026-10-02T16:01:14.354Z",
-        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-        "category": "industry",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": -1,
+        "techScore": 1,
         "formattedTime": "6天前"
       }
     ]
   },
   "items": [
     {
-      "id": "f3doqdpq8n9mpmqc95jdyaxq0",
-      "title": "Tibo 宣布发布 ChatGPT",
-      "title_en": "Today, we are announcing ChatGPT.",
-      "url": "https://x.com/thsottiaux/status/2108349826727588000",
-      "permalink": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-10-09T00:12:24.000Z",
-      "discoveredAt": "2026-10-09T00:13:20.350Z",
-      "summary": "Tibo 宣布 ChatGPT 发布，并给出访问地址 https://chatgpt.com/。推文本身仅含发布声明和链接，未提供更多功能或细节。",
+      "id": "uh0gkukluk1edn2fz8p8v3ama",
+      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+      "title_en": "Sharing a draft of Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/poppy",
+      "permalink": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
+      "source": "Sierra：Blog（RSS）",
+      "publishedAt": "2026-10-09T19:56:06.000Z",
+      "discoveredAt": "2026-10-09T21:12:50.205Z",
+      "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
       "category": "ai-products",
-      "score": 94,
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f3doqdpq8n9mpmqc95jdyaxq0"
+        "canonical": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "auy2exatk0u5kr1c1ydmaajws",
+      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
+      "title_en": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+      "permalink": "https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-09T17:20:34.000Z",
+      "discoveredAt": "2026-10-09T17:50:34.032Z",
+      "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/auy2exatk0u5kr1c1ydmaajws"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "8小时前"
     },
     {
       "id": "b2mwouqv4jhfj70uho7s7guti",
@@ -337,7 +321,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "3小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "rs34l7aa23mk54jutma8f7g3r",
@@ -361,7 +345,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -386,7 +370,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "qtsvk3wzyp2aab3vi62vjyold",
@@ -409,7 +393,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "7小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "wf099r75jv1tzyhxa2j2o8n1p",
@@ -432,7 +416,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "pl2oa5clmf0gp3t7x3qsn71kc",
@@ -455,115 +439,53 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "winsvtlfubhjfi0wnone83j5c",
-      "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
-      "title_en": "Build live dashboards and animate explainers with Claude",
-      "url": "https://claude.com/blog/dashboards-and-motion",
-      "permalink": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "discoveredAt": "2026-10-08T19:26:41.698Z",
-      "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/winsvtlfubhjfi0wnone83j5c"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "ouqidz9vopsnd1srzkmfz4zmn",
-      "title": "ChatGPT 推出 Finances 财务管理功能",
-      "title_en": "With Finances in ChatGPT, you can:",
-      "url": "https://x.com/ChatGPT/status/2106083595433791573",
-      "permalink": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "publishedAt": "2026-10-02T18:07:12.000Z",
-      "discoveredAt": "2026-10-02T18:34:23.333Z",
-      "summary": "ChatGPT 官方宣布推出 Finances 财务管理功能，入口为 http://chatgpt.com/finances。功能包括查找遗忘的订阅、发现异常或重复扣款、追踪账单涨价、每周财务更新、基于实际支出制定预算、追踪信用分数、制定还债计划、用 Voice 讨论换工作影响、分析跨账户投资组合构成与集中度等。",
-      "category": "ai-products",
-      "score": 71,
+      "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
+      "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
+      "title_en": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "permalink": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw",
+      "source": "Hugging Face 官方团队博客",
+      "publishedAt": "2026-10-08T00:00:00.751Z",
+      "discoveredAt": "2026-10-08T22:28:16.871Z",
+      "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。",
+      "category": "tip",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ouqidz9vopsnd1srzkmfz4zmn"
+        "canonical": "https://aihot.news/items/ylkp4aqm4r5fn7aul2l9kfmxw"
       },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "ljyywltag6vvryw193ryz7lgd",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-      "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "permalink": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-10-02T15:53:39.000Z",
-      "discoveredAt": "2026-10-02T16:01:14.354Z",
-      "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ljyywltag6vvryw193ryz7lgd"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "nab0yosxdtyh7sbvoo0usb1iq",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-      "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "permalink": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-02T07:23:13.000Z",
-      "discoveredAt": "2026-10-02T07:36:32.395Z",
-      "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/nab0yosxdtyh7sbvoo0usb1iq"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3400263118",
-      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/502020.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-08T10:23:53+00:00",
-      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
-      "category": "industry",
       "interestTags": [
         "writing"
       ],
-      "techScore": -1,
-      "formattedTime": "16小时前"
+      "techScore": 1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "dkmm9dhgecbuer490f0uqdi3m",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
+      "title_en": "Hugely revealing paper from Google.",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "permalink": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-10-03T21:52:11.000Z",
+      "discoveredAt": "2026-10-03T22:07:25.177Z",
+      "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "6天前"
     }
   ]
 }
