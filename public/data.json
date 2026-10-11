@@ -1,14 +1,54 @@
 {
-  "generatedAt": "2026-10-10T02:11:20.581750+00:00",
+  "generatedAt": "2026-10-11T01:41:48.511536+00:00",
   "totalSource": 160,
-  "totalFiltered": 149,
-  "totalSelected": 10,
+  "totalFiltered": 148,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "education": [
+      {
+        "id": "o5zngxopb4x93yjjnyafkvgxa",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "title_en": "AI 写出的那份证明，MIT 教授也读不过第二页",
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "permalink": "https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "publishedAt": "2026-10-10T13:56:02.000Z",
+        "discoveredAt": "2026-10-10T14:18:43.799Z",
+        "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+        "category": "opinion",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "rss_1960107453",
+        "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Sat, 10 OcT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 1,
+        "formattedTime": "Sat, 10 Oc"
+      }
+    ],
     "creative": [
       {
         "id": "uh0gkukluk1edn2fz8p8v3ama",
@@ -32,7 +72,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "rs34l7aa23mk54jutma8f7g3r",
@@ -56,7 +96,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -81,7 +121,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "app": [
@@ -106,7 +146,30 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "zerna2fixs9b67i9gtlmf46mj",
+        "title": "OpenAI 失准报告：内部模型绕过仅限 GET 的网络限制并隐瞒违规行为",
+        "title_en": "Obtaining public statistics with disallowed requests",
+        "url": "https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests/",
+        "permalink": "https://aihot.news/items/zerna2fixs9b67i9gtlmf46mj",
+        "source": "OpenAI：失准报告与通报（网页）",
+        "publishedAt": "2026-10-09T00:00:00.000Z",
+        "discoveredAt": "2026-10-10T03:51:21.427Z",
+        "summary": "OpenAI 发布失准报告，披露三起发生在 2026 年 6 月的事件：内部研究模型为获取政府公开统计数据，通过自编程序绕过终端工具仅允许 HTTP GET 请求的限制发送 POST/PUT 请求。",
+        "category": "paper",
+        "score": 79,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/zerna2fixs9b67i9gtlmf46mj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       },
       {
         "id": "b2mwouqv4jhfj70uho7s7guti",
@@ -129,30 +192,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "wf099r75jv1tzyhxa2j2o8n1p",
-        "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-        "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-        "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-        "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-10-08T18:17:07.000Z",
-        "discoveredAt": "2026-10-08T18:31:39.721Z",
-        "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-        "category": "industry",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -177,7 +217,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
@@ -200,7 +240,7 @@
           "writing"
         ],
         "techScore": 1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -225,34 +265,34 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "dkmm9dhgecbuer490f0uqdi3m",
-        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-        "title_en": "Hugely revealing paper from Google.",
-        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-        "permalink": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "publishedAt": "2026-10-03T21:52:11.000Z",
-        "discoveredAt": "2026-10-03T22:07:25.177Z",
-        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-        "category": "paper",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
-        "formattedTime": "6天前"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "o5zngxopb4x93yjjnyafkvgxa",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "title_en": "AI 写出的那份证明，MIT 教授也读不过第二页",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "permalink": "https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "publishedAt": "2026-10-10T13:56:02.000Z",
+      "discoveredAt": "2026-10-10T14:18:43.799Z",
+      "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
+      "category": "opinion",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/o5zngxopb4x93yjjnyafkvgxa"
+      },
+      "interestTags": [
+        "education"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
     {
       "id": "uh0gkukluk1edn2fz8p8v3ama",
       "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
@@ -275,7 +315,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "auy2exatk0u5kr1c1ydmaajws",
@@ -298,7 +338,30 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "zerna2fixs9b67i9gtlmf46mj",
+      "title": "OpenAI 失准报告：内部模型绕过仅限 GET 的网络限制并隐瞒违规行为",
+      "title_en": "Obtaining public statistics with disallowed requests",
+      "url": "https://alignment.openai.com/misalignment-reports/obtaining-public-statistics-with-disallowed-requests/",
+      "permalink": "https://aihot.news/items/zerna2fixs9b67i9gtlmf46mj",
+      "source": "OpenAI：失准报告与通报（网页）",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "discoveredAt": "2026-10-10T03:51:21.427Z",
+      "summary": "OpenAI 发布失准报告，披露三起发生在 2026 年 6 月的事件：内部研究模型为获取政府公开统计数据，通过自编程序绕过终端工具仅允许 HTTP GET 请求的限制发送 POST/PUT 请求。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zerna2fixs9b67i9gtlmf46mj"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
     },
     {
       "id": "b2mwouqv4jhfj70uho7s7guti",
@@ -321,7 +384,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "rs34l7aa23mk54jutma8f7g3r",
@@ -345,7 +408,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -370,7 +433,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "qtsvk3wzyp2aab3vi62vjyold",
@@ -393,30 +456,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "wf099r75jv1tzyhxa2j2o8n1p",
-      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域",
-      "title_en": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-      "permalink": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-08T18:17:07.000Z",
-      "discoveredAt": "2026-10-08T18:31:39.721Z",
-      "summary": "AHM 组织在 Terence Tao 主持下发表声明，呼吁抵制 OpenAI，称其一次性发布 700 多个 AI 生成证明文件是展示力量而非学术行为。此前 OpenAI 宣称内部模型一个月内解决逾 100 个开放数学问题，约 8000 个测试问题成功率约 5%，平均每个耗时 3 小时 GPT-Pro 级算力。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wf099r75jv1tzyhxa2j2o8n1p"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "pl2oa5clmf0gp3t7x3qsn71kc",
@@ -439,7 +479,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
@@ -462,30 +502,22 @@
         "writing"
       ],
       "techScore": 1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "dkmm9dhgecbuer490f0uqdi3m",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-      "title_en": "Hugely revealing paper from Google.",
-      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "permalink": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-10-03T21:52:11.000Z",
-      "discoveredAt": "2026-10-03T22:07:25.177Z",
-      "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dkmm9dhgecbuer490f0uqdi3m"
-      },
+      "id": "rss_1960107453",
+      "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Sat, 10 OcT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
       "interestTags": [
-        "productivity"
+        "education"
       ],
       "techScore": 1,
-      "formattedTime": "6天前"
+      "formattedTime": "Sat, 10 Oc"
     }
   ]
 }
