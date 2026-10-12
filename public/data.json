@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-11T01:41:48.511536+00:00",
+  "generatedAt": "2026-10-12T02:10:39.303968+00:00",
   "totalSource": 160,
-  "totalFiltered": 148,
-  "totalSelected": 11,
+  "totalFiltered": 147,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -31,10 +31,10 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_1960107453",
+        "id": "rss_459885775",
         "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
         "title_en": null,
         "url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
@@ -72,7 +72,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "rs34l7aa23mk54jutma8f7g3r",
@@ -96,7 +96,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -121,7 +121,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "app": [
@@ -146,7 +146,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "zerna2fixs9b67i9gtlmf46mj",
@@ -169,7 +169,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "b2mwouqv4jhfj70uho7s7guti",
@@ -192,7 +192,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
@@ -217,7 +217,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "rss_2093889337",
+        "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+        "title_en": null,
+        "url": "https://sspai.com/post/115568",
+        "source": "少数派",
+        "publishedAt": "2026-10-11T07:00:49+00:00",
+        "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...<a href=\"https://sspai.com/post/115568\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
       },
       {
         "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
@@ -240,7 +255,7 @@
           "writing"
         ],
         "techScore": 1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -265,7 +280,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ]
   },
@@ -291,7 +306,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "uh0gkukluk1edn2fz8p8v3ama",
@@ -315,7 +330,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "auy2exatk0u5kr1c1ydmaajws",
@@ -338,7 +353,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "zerna2fixs9b67i9gtlmf46mj",
@@ -361,7 +376,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "b2mwouqv4jhfj70uho7s7guti",
@@ -384,7 +399,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "rs34l7aa23mk54jutma8f7g3r",
@@ -408,7 +423,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "xc7shuv3raxyv5xvh59ez8hjf",
@@ -433,7 +448,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "qtsvk3wzyp2aab3vi62vjyold",
@@ -456,7 +471,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "pl2oa5clmf0gp3t7x3qsn71kc",
@@ -479,7 +494,22 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
+    },
+    {
+      "id": "rss_2093889337",
+      "title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+      "title_en": null,
+      "url": "https://sspai.com/post/115568",
+      "source": "少数派",
+      "publishedAt": "2026-10-11T07:00:49+00:00",
+      "summary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调整跑步姿势，舒适开跑正确拉伸多数人跑后会 ...<a href=\"https://sspai.com/post/115568\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
     },
     {
       "id": "ylkp4aqm4r5fn7aul2l9kfmxw",
@@ -502,10 +532,10 @@
         "writing"
       ],
       "techScore": 1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_1960107453",
+      "id": "rss_459885775",
       "title": "单次RL后训练烧掉260万美元、每步37亿Token，小米披露MiMo-V2.6“规模化强化学习”路线",
       "title_en": null,
       "url": "https://www.infoq.cn/article/gNdWoDM8ygkAjXfsLaBK?utm_source=rss&utm_medium=article",
