@@ -1,112 +1,109 @@
 {
-  "generatedAt": "2026-10-14T01:41:51.484902+00:00",
-  "totalSource": 170,
-  "totalFiltered": 153,
+  "generatedAt": "2026-10-15T01:18:08.879419+00:00",
+  "totalSource": 151,
+  "totalFiltered": 134,
   "totalSelected": 12,
   "sources": {
-    "aihot": 100,
+    "aihot": 91,
     "rss": 60,
-    "bilibili": 10
+    "bilibili": 0
   },
   "grouped": {
     "app": [
       {
-        "id": "oxaap1c1cvxi9ngybxks1gngi",
-        "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-        "title_en": "实测Gemini 4 Argon - Google这跌跌撞撞的背水一战。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-        "permalink": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-10-13T22:56:51.000Z",
-        "discoveredAt": "2026-10-13T23:42:33.548Z",
-        "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-        "category": "opinion",
-        "score": 78,
+        "id": "za03v9avbq4fpb2y5b1ql1t27",
+        "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+        "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+        "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+        "permalink": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
+        "source": "LangChain：Blog（RSS）",
+        "publishedAt": "2026-10-14T17:00:00.000Z",
+        "discoveredAt": "2026-10-14T18:00:10.700Z",
+        "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
+        "category": "tip",
+        "score": 63,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi"
+          "canonical": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27"
         },
         "interestTags": [
           "app",
-          "writing",
-          "education"
+          "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
+        "formattedTime": "8小时前"
       },
       {
-        "id": "d4oyzg3qte4pt0ywsonolctwf",
-        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-        "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
-        "url": "https://x.com/OpenRouter/status/2110044453977403412",
-        "permalink": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "publishedAt": "2026-10-13T16:26:15.000Z",
-        "discoveredAt": "2026-10-13T16:46:30.562Z",
-        "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
+        "id": "ooiqiluy56g21ir2u4phxjqu7",
+        "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+        "title_en": "From building your app to growing it: Lovable now helps you find customers",
+        "url": "https://lovable.dev/blog/introducing-growth-tools",
+        "permalink": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
+        "source": "Lovable Blog",
+        "publishedAt": "2026-10-14T12:50:00.000Z",
+        "discoveredAt": "2026-10-14T13:23:21.621Z",
+        "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
         "category": "ai-products",
-        "score": 74,
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf"
+          "canonical": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "12小时前"
       },
       {
-        "id": "kjcq4dywmvs5xijl4emac5o40",
-        "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-        "title_en": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-        "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-        "permalink": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
-        "source": "Apple：Newsroom（RSS）",
-        "publishedAt": "2026-10-13T12:59:16.617Z",
-        "discoveredAt": "2026-10-13T13:13:31.488Z",
-        "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
+        "id": "qld0z3p2gztpolbmviizsm66u",
+        "title": "xAI 发布 Grok Voice 3.0 语音模型",
+        "title_en": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
+        "url": "https://x.ai/news/grok-voice-3",
+        "permalink": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+        "source": "xAI：News（网页）",
+        "publishedAt": "2026-10-14T00:00:00.000Z",
+        "discoveredAt": "2026-10-14T18:00:12.936Z",
+        "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
         "category": "ai-products",
-        "score": 60,
+        "score": 66,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40"
+          "canonical": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u"
         },
         "interestTags": [
-          "app",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "12小时前"
+        "formattedTime": "昨天"
       }
     ],
     "creative": [
       {
         "id": "uy1d8e2pcm6sked0p57flawpq",
-        "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+        "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
         "title_en": "Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals",
         "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
         "permalink": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq",
         "source": "Comfy Blog",
         "publishedAt": "2026-10-13T19:41:39.000Z",
         "discoveredAt": "2026-10-13T20:06:37.410Z",
-        "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+        "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
         "category": "ai-products",
-        "score": 66,
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
           "canonical": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq"
         },
         "interestTags": [
-          "creative",
-          "app"
+          "creative"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "rruqd7cz78jq6l889kjp56jlz",
@@ -129,7 +126,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "uh0gkukluk1edn2fz8p8v3ama",
@@ -153,7 +150,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       }
     ],
     "writing": [
@@ -179,7 +176,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "qtsvk3wzyp2aab3vi62vjyold",
@@ -202,22 +199,22 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "rss_305825090",
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+        "id": "rss_138163511",
+        "title": "家中、这里、那里——Sonos Play 体验",
         "title_en": null,
-        "url": "https://sspai.com/post/116068",
+        "url": "https://sspai.com/post/115382",
         "source": "少数派",
-        "publishedAt": "2026-10-13T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116068\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-10-14T04:10:30+00:00",
+        "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "21小时前"
       }
     ],
     "education": [
@@ -242,7 +239,30 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
+      },
+      {
+        "id": "pqpqgxyiu4qyu86fbljd726v9",
+        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
+        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+        "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+        "source": "MIT News（RSS）",
+        "publishedAt": "2026-10-14T15:00:00.000Z",
+        "discoveredAt": "2026-10-14T15:44:41.779Z",
+        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+        "category": "paper",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
+        },
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 1,
+        "formattedTime": "10小时前"
       }
     ],
     "productivity": [
@@ -267,121 +287,103 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_3146209045",
-        "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-        "title_en": null,
-        "url": "https://sspai.com/post/115242",
-        "source": "少数派",
-        "publishedAt": "2026-10-12T07:00:00+00:00",
-        "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。<a href=\"https://sspai.com/post/115242\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "6天前"
       }
     ]
   },
   "items": [
     {
-      "id": "oxaap1c1cvxi9ngybxks1gngi",
-      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-      "title_en": "实测Gemini 4 Argon - Google这跌跌撞撞的背水一战。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-      "permalink": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-13T22:56:51.000Z",
-      "discoveredAt": "2026-10-13T23:42:33.548Z",
-      "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-      "category": "opinion",
-      "score": 78,
+      "id": "za03v9avbq4fpb2y5b1ql1t27",
+      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
+      "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+      "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+      "permalink": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-10-14T17:00:00.000Z",
+      "discoveredAt": "2026-10-14T18:00:10.700Z",
+      "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
+      "category": "tip",
+      "score": 63,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oxaap1c1cvxi9ngybxks1gngi"
+        "canonical": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27"
       },
       "interestTags": [
         "app",
-        "writing",
-        "education"
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "ooiqiluy56g21ir2u4phxjqu7",
+      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+      "title_en": "From building your app to growing it: Lovable now helps you find customers",
+      "url": "https://lovable.dev/blog/introducing-growth-tools",
+      "permalink": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
+      "source": "Lovable Blog",
+      "publishedAt": "2026-10-14T12:50:00.000Z",
+      "discoveredAt": "2026-10-14T13:23:21.621Z",
+      "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "qld0z3p2gztpolbmviizsm66u",
+      "title": "xAI 发布 Grok Voice 3.0 语音模型",
+      "title_en": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
+      "url": "https://x.ai/news/grok-voice-3",
+      "permalink": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
+      "discoveredAt": "2026-10-14T18:00:12.936Z",
+      "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "uy1d8e2pcm6sked0p57flawpq",
-      "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+      "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
       "title_en": "Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals",
       "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
       "permalink": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq",
       "source": "Comfy Blog",
       "publishedAt": "2026-10-13T19:41:39.000Z",
       "discoveredAt": "2026-10-13T20:06:37.410Z",
-      "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+      "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
       "category": "ai-products",
-      "score": 66,
+      "score": 69,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq"
       },
       "interestTags": [
-        "creative",
-        "app"
+        "creative"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "d4oyzg3qte4pt0ywsonolctwf",
-      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-      "title_en": "Gemini 4 Argon from @GoogleDeepMind is live on OpenRouter, via Google AI Studio and @googlecloud.",
-      "url": "https://x.com/OpenRouter/status/2110044453977403412",
-      "permalink": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-10-13T16:26:15.000Z",
-      "discoveredAt": "2026-10-13T16:46:30.562Z",
-      "summary": "Gemini 4 Argon 已上线 OpenRouter，可通过 Google AI Studio 和 Google Cloud 调用。该模型在 AutomationBench 拿到 51.3%、LVBench 拿到 91.7%，并以 68% 并列 CWE-bench v1 第一； introductory 定价为输入 $2/M、输出 $10/M。试用入口：https://openrouter.ai/google/gemini-4-argon",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/d4oyzg3qte4pt0ywsonolctwf"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "kjcq4dywmvs5xijl4emac5o40",
-      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-      "title_en": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "permalink": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-10-13T12:59:16.617Z",
-      "discoveredAt": "2026-10-13T13:13:31.488Z",
-      "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kjcq4dywmvs5xijl4emac5o40"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "kcwro19vl7dr5jgcjgec7mive",
@@ -405,7 +407,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "rruqd7cz78jq6l889kjp56jlz",
@@ -428,7 +430,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "o5zngxopb4x93yjjnyafkvgxa",
@@ -451,7 +453,7 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "uh0gkukluk1edn2fz8p8v3ama",
@@ -475,7 +477,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "qtsvk3wzyp2aab3vi62vjyold",
@@ -498,7 +500,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "pl2oa5clmf0gp3t7x3qsn71kc",
@@ -521,37 +523,45 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_305825090",
-      "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机热议",
+      "id": "rss_138163511",
+      "title": "家中、这里、那里——Sonos Play 体验",
       "title_en": null,
-      "url": "https://sspai.com/post/116068",
+      "url": "https://sspai.com/post/115382",
       "source": "少数派",
-      "publishedAt": "2026-10-13T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116068\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-10-14T04:10:30+00:00",
+      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...<a href=\"https://sspai.com/post/115382\" target=\"_blank\">查看全文</a>",
       "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "21小时前"
     },
     {
-      "id": "rss_3146209045",
-      "title": "iOS 27 推出全新家长控制与儿童安全功能，这些变化值得关注",
-      "title_en": null,
-      "url": "https://sspai.com/post/115242",
-      "source": "少数派",
-      "publishedAt": "2026-10-12T07:00:00+00:00",
-      "summary": "iOS 27 对家长控制和儿童账户体系进行了进一步完善，让对儿童的设备管理从过去偏重「限制监控」，逐步转向更加系统级别的「管理保护」。<a href=\"https://sspai.com/post/115242\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "id": "pqpqgxyiu4qyu86fbljd726v9",
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "title_en": "Researchers improve weather forecasts looking two to six weeks out",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+      "source": "MIT News（RSS）",
+      "publishedAt": "2026-10-14T15:00:00.000Z",
+      "discoveredAt": "2026-10-14T15:44:41.779Z",
+      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
+      },
       "interestTags": [
-        "productivity"
+        "education"
       ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "techScore": 1,
+      "formattedTime": "10小时前"
     }
   ]
 }
