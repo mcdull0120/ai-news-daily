@@ -1,156 +1,222 @@
 {
-  "generatedAt": "2026-10-15T01:18:08.879419+00:00",
-  "totalSource": 151,
-  "totalFiltered": 134,
+  "generatedAt": "2026-10-16T01:03:55.652648+00:00",
+  "totalSource": 160,
+  "totalFiltered": 143,
   "totalSelected": 12,
   "sources": {
-    "aihot": 91,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
-      {
-        "id": "za03v9avbq4fpb2y5b1ql1t27",
-        "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-        "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-        "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-        "permalink": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
-        "source": "LangChain：Blog（RSS）",
-        "publishedAt": "2026-10-14T17:00:00.000Z",
-        "discoveredAt": "2026-10-14T18:00:10.700Z",
-        "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
-        "category": "tip",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "ooiqiluy56g21ir2u4phxjqu7",
-        "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-        "title_en": "From building your app to growing it: Lovable now helps you find customers",
-        "url": "https://lovable.dev/blog/introducing-growth-tools",
-        "permalink": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
-        "source": "Lovable Blog",
-        "publishedAt": "2026-10-14T12:50:00.000Z",
-        "discoveredAt": "2026-10-14T13:23:21.621Z",
-        "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "qld0z3p2gztpolbmviizsm66u",
-        "title": "xAI 发布 Grok Voice 3.0 语音模型",
-        "title_en": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
-        "url": "https://x.ai/news/grok-voice-3",
-        "permalink": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
-        "source": "xAI：News（网页）",
-        "publishedAt": "2026-10-14T00:00:00.000Z",
-        "discoveredAt": "2026-10-14T18:00:12.936Z",
-        "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
-        "category": "ai-products",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
     "creative": [
       {
-        "id": "uy1d8e2pcm6sked0p57flawpq",
-        "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
-        "title_en": "Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals",
-        "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-        "permalink": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq",
+        "id": "ee1w5w87zh8hhwwwzqm8w65rd",
+        "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+        "title_en": "Krea 3 is now available via Partner Nodes",
+        "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
+        "permalink": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
         "source": "Comfy Blog",
-        "publishedAt": "2026-10-13T19:41:39.000Z",
-        "discoveredAt": "2026-10-13T20:06:37.410Z",
-        "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
-        "category": "ai-products",
-        "score": 69,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rruqd7cz78jq6l889kjp56jlz",
-        "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
-        "title_en": "Moondream is joining Prime Intellect",
-        "url": "https://www.primeintellect.ai/blog/moondream",
-        "permalink": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz",
-        "source": "Prime Intellect（网页）",
-        "publishedAt": "2026-10-12T16:00:00.000Z",
-        "discoveredAt": "2026-10-13T19:11:36.361Z",
-        "summary": "Prime Intellect 宣布收购 Moondream，创始人 Vik Korrapati 和 Jay Allen 加入并负责推理业务及视觉、computer use 等多模态模型工作。",
-        "category": "industry",
-        "score": 62,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "uh0gkukluk1edn2fz8p8v3ama",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "title_en": "Sharing a draft of Personal Agent Protocol",
-        "url": "https://sierra.ai/blog/poppy",
-        "permalink": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
-        "source": "Sierra：Blog（RSS）",
-        "publishedAt": "2026-10-09T19:56:06.000Z",
-        "discoveredAt": "2026-10-09T21:12:50.205Z",
-        "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+        "publishedAt": "2026-10-15T21:15:45.000Z",
+        "discoveredAt": "2026-10-15T21:45:43.935Z",
+        "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
         "category": "ai-products",
         "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama"
+          "canonical": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd"
         },
         "interestTags": [
           "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "3小时前"
+      },
+      {
+        "id": "alrar23ypkk6umkz50eirp35h",
+        "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+        "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+        "permalink": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-10-15T00:26:00.000Z",
+        "discoveredAt": "2026-10-15T02:13:11.058Z",
+        "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+        "category": "tip",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h"
+        },
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "ro5zfihp4w9597vt5vz4ihdv2",
+        "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+        "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
+        "url": "https://huggingface.co/blog/flux-3",
+        "permalink": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2",
+        "source": "Hugging Face 官方团队博客",
+        "publishedAt": "2026-10-15T00:00:00.752Z",
+        "discoveredAt": "2026-10-15T15:44:29.905Z",
+        "summary": "Hugging Face 团队介绍 FLUX.3 Image Klein 模型发布首日即可在 Diffusers 中使用，单个模型支持文生图、多参考图生图和边界框布局控制。",
+        "category": "ai-products",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "bme0mytjnlk0d2lk8hf7srzoh",
+        "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
+        "title_en": "A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.",
+        "url": "https://x.com/ChatGPT/status/2110823738531037651",
+        "permalink": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
+        "source": "X：ChatGPT (@ChatGPT)",
+        "publishedAt": "2026-10-15T20:02:51.000Z",
+        "discoveredAt": "2026-10-15T20:19:43.982Z",
+        "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
+        "category": "ai-products",
+        "score": 80,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "allv4n9g9lhfy72m1pg725apv",
+        "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+        "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+        "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+        "permalink": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-15T09:50:43.000Z",
+        "discoveredAt": "2026-10-15T10:44:28.094Z",
+        "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "15小时前"
+      },
+      {
+        "id": "rss_1896994549",
+        "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+        "title_en": null,
+        "url": "https://sspai.com/post/116182",
+        "source": "少数派",
+        "publishedAt": "2026-10-15T06:30:00+00:00",
+        "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "18小时前"
+      }
+    ],
+    "app": [
+      {
+        "id": "moaux5xk1dqk4pi3tsx8sabsj",
+        "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+        "title_en": "How Meta Built Forum With AI-Native Engineering",
+        "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+        "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
+        "source": "Meta Engineering Blog（RSS）",
+        "publishedAt": "2026-10-15T19:00:03.000Z",
+        "discoveredAt": "2026-10-15T19:32:28.194Z",
+        "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "cklrpr58z4b8ilif89c5h1vr7",
+        "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+        "title_en": "Harness「小钢炮」来了！一键上手，长难任务高效稳定交付：PilotDeck 2.0 正式开源",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+        "permalink": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "publishedAt": "2026-10-15T04:53:56.000Z",
+        "discoveredAt": "2026-10-15T05:32:54.903Z",
+        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "i0rgqwqwxspm5dl3314cc3ewt",
+        "title": "Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成",
+        "title_en": "Three layers, one repo: a tour of google/adk-recipes",
+        "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+        "permalink": "https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt",
+        "source": "Google Developers Blog（RSS）",
+        "publishedAt": "2026-10-15T00:00:00.000Z",
+        "discoveredAt": "2026-10-15T16:29:31.542Z",
+        "summary": "Google Developers Blog 介绍 google/adk-recipes 仓库，它是 google/adk-samples 的重构后继版本，以 core/、plugins/、contrib/ 三层作为 Agent Platform 各入口的单一内容来源。",
+        "category": "ai-products",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -176,33 +242,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
-        "id": "qtsvk3wzyp2aab3vi62vjyold",
-        "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-        "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
-        "url": "https://x.com/arena/status/2108269048467513429",
-        "permalink": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold",
-        "source": "X：Arena (@arena)",
-        "publishedAt": "2026-10-08T18:51:25.000Z",
-        "discoveredAt": "2026-10-08T19:14:43.868Z",
-        "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
-        "category": "industry",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      },
-      {
-        "id": "rss_138163511",
+        "id": "rss_2482704594",
         "title": "家中、这里、那里——Sonos Play 体验",
         "title_en": null,
         "url": "https://sspai.com/post/115382",
@@ -214,7 +257,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
       }
     ],
     "education": [
@@ -239,148 +282,196 @@
           "education"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
-      },
-      {
-        "id": "pqpqgxyiu4qyu86fbljd726v9",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
-        "source": "MIT News（RSS）",
-        "publishedAt": "2026-10-14T15:00:00.000Z",
-        "discoveredAt": "2026-10-14T15:44:41.779Z",
-        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-        "category": "paper",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 1,
-        "formattedTime": "10小时前"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "pl2oa5clmf0gp3t7x3qsn71kc",
-        "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
-        "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
-        "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
-        "permalink": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc",
-        "source": "Waymo：Blog（网页）",
-        "publishedAt": "2026-10-08T07:00:00.000Z",
-        "discoveredAt": "2026-10-08T13:22:31.463Z",
-        "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
-        "category": "industry",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "5天前"
       }
     ]
   },
   "items": [
     {
-      "id": "za03v9avbq4fpb2y5b1ql1t27",
-      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-      "title_en": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
-      "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-      "permalink": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-10-14T17:00:00.000Z",
-      "discoveredAt": "2026-10-14T18:00:10.700Z",
-      "summary": "LangChain 发布博客，介绍其开源 Agent 框架 Deep Agents 如何用 middleware 做上下文工程，应对长任务中的 context rot。",
-      "category": "tip",
-      "score": 63,
+      "id": "ee1w5w87zh8hhwwwzqm8w65rd",
+      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+      "title_en": "Krea 3 is now available via Partner Nodes",
+      "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
+      "permalink": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
+      "source": "Comfy Blog",
+      "publishedAt": "2026-10-15T21:15:45.000Z",
+      "discoveredAt": "2026-10-15T21:45:43.935Z",
+      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
+      "category": "ai-products",
+      "score": 65,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/za03v9avbq4fpb2y5b1ql1t27"
+        "canonical": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd"
       },
       "interestTags": [
-        "app",
-        "writing"
+        "creative",
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "3小时前"
     },
     {
-      "id": "ooiqiluy56g21ir2u4phxjqu7",
-      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-      "title_en": "From building your app to growing it: Lovable now helps you find customers",
-      "url": "https://lovable.dev/blog/introducing-growth-tools",
-      "permalink": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7",
-      "source": "Lovable Blog",
-      "publishedAt": "2026-10-14T12:50:00.000Z",
-      "discoveredAt": "2026-10-14T13:23:21.621Z",
-      "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+      "id": "bme0mytjnlk0d2lk8hf7srzoh",
+      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
+      "title_en": "A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.",
+      "url": "https://x.com/ChatGPT/status/2110823738531037651",
+      "permalink": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-10-15T20:02:51.000Z",
+      "discoveredAt": "2026-10-15T20:19:43.982Z",
+      "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
       "category": "ai-products",
-      "score": 69,
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ooiqiluy56g21ir2u4phxjqu7"
+        "canonical": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "moaux5xk1dqk4pi3tsx8sabsj",
+      "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+      "title_en": "How Meta Built Forum With AI-Native Engineering",
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
+      "source": "Meta Engineering Blog（RSS）",
+      "publishedAt": "2026-10-15T19:00:03.000Z",
+      "discoveredAt": "2026-10-15T19:32:28.194Z",
+      "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "12小时前"
+      "formattedTime": "6小时前"
     },
     {
-      "id": "qld0z3p2gztpolbmviizsm66u",
-      "title": "xAI 发布 Grok Voice 3.0 语音模型",
-      "title_en": "Oct 14, 2026 Introducing Grok Voice 3.0 The world’s most intelligent voice model. Read More",
-      "url": "https://x.ai/news/grok-voice-3",
-      "permalink": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-10-14T00:00:00.000Z",
-      "discoveredAt": "2026-10-14T18:00:12.936Z",
-      "summary": "xAI 发布 speech-to-speech 模型 Grok Voice 3.0，在 Artificial Analysis 的 Speech-to-Speech Index 以 86.9 分排名第一，时延低于一秒。",
-      "category": "ai-products",
-      "score": 66,
+      "id": "allv4n9g9lhfy72m1pg725apv",
+      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
+      "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+      "permalink": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-15T09:50:43.000Z",
+      "discoveredAt": "2026-10-15T10:44:28.094Z",
+      "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
+      "category": "industry",
+      "score": 81,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qld0z3p2gztpolbmviizsm66u"
+        "canonical": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
       },
       "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "15小时前"
+    },
+    {
+      "id": "cklrpr58z4b8ilif89c5h1vr7",
+      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+      "title_en": "Harness「小钢炮」来了！一键上手，长难任务高效稳定交付：PilotDeck 2.0 正式开源",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+      "permalink": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-10-15T04:53:56.000Z",
+      "discoveredAt": "2026-10-15T05:32:54.903Z",
+      "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
+    {
+      "id": "alrar23ypkk6umkz50eirp35h",
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "permalink": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-15T00:26:00.000Z",
+      "discoveredAt": "2026-10-15T02:13:11.058Z",
+      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/alrar23ypkk6umkz50eirp35h"
+      },
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "ro5zfihp4w9597vt5vz4ihdv2",
+      "title": "Black Forest Labs FLUX.3 Image Klein 登陆 Diffusers，支持边界框布局控制",
+      "title_en": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "permalink": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2",
+      "source": "Hugging Face 官方团队博客",
+      "publishedAt": "2026-10-15T00:00:00.752Z",
+      "discoveredAt": "2026-10-15T15:44:29.905Z",
+      "summary": "Hugging Face 团队介绍 FLUX.3 Image Klein 模型发布首日即可在 Diffusers 中使用，单个模型支持文生图、多参考图生图和边界框布局控制。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ro5zfihp4w9597vt5vz4ihdv2"
+      },
+      "interestTags": [
+        "creative",
         "app"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "uy1d8e2pcm6sked0p57flawpq",
-      "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
-      "title_en": "Nvidia VFX Nodes for Video Upscaling, Frame Generation and SDR-to-HDR, for VFX Professionals",
-      "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-      "permalink": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq",
-      "source": "Comfy Blog",
-      "publishedAt": "2026-10-13T19:41:39.000Z",
-      "discoveredAt": "2026-10-13T20:06:37.410Z",
-      "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
+      "id": "i0rgqwqwxspm5dl3314cc3ewt",
+      "title": "Google 介绍 google/adk-recipes 仓库的三层结构与 Agent Platform 集成",
+      "title_en": "Three layers, one repo: a tour of google/adk-recipes",
+      "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "permalink": "https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "discoveredAt": "2026-10-15T16:29:31.542Z",
+      "summary": "Google Developers Blog 介绍 google/adk-recipes 仓库，它是 google/adk-samples 的重构后继版本，以 core/、plugins/、contrib/ 三层作为 Agent Platform 各入口的单一内容来源。",
       "category": "ai-products",
-      "score": 69,
+      "score": 61,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uy1d8e2pcm6sked0p57flawpq"
+        "canonical": "https://aihot.news/items/i0rgqwqwxspm5dl3314cc3ewt"
       },
       "interestTags": [
-        "creative"
+        "app",
+        "writing"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -407,30 +498,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rruqd7cz78jq6l889kjp56jlz",
-      "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
-      "title_en": "Moondream is joining Prime Intellect",
-      "url": "https://www.primeintellect.ai/blog/moondream",
-      "permalink": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz",
-      "source": "Prime Intellect（网页）",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "discoveredAt": "2026-10-13T19:11:36.361Z",
-      "summary": "Prime Intellect 宣布收购 Moondream，创始人 Vik Korrapati 和 Jay Allen 加入并负责推理业务及视觉、computer use 等多模态模型工作。",
-      "category": "industry",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz"
-      },
-      "interestTags": [
-        "creative"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "o5zngxopb4x93yjjnyafkvgxa",
@@ -453,80 +521,25 @@
         "education"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
-    },
-    {
-      "id": "uh0gkukluk1edn2fz8p8v3ama",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-      "title_en": "Sharing a draft of Personal Agent Protocol",
-      "url": "https://sierra.ai/blog/poppy",
-      "permalink": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama",
-      "source": "Sierra：Blog（RSS）",
-      "publishedAt": "2026-10-09T19:56:06.000Z",
-      "discoveredAt": "2026-10-09T21:12:50.205Z",
-      "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uh0gkukluk1edn2fz8p8v3ama"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
       "formattedTime": "5天前"
     },
     {
-      "id": "qtsvk3wzyp2aab3vi62vjyold",
-      "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-      "title_en": "Grateful to have @lightspeedvp with us as we build what’s next!",
-      "url": "https://x.com/arena/status/2108269048467513429",
-      "permalink": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-10-08T18:51:25.000Z",
-      "discoveredAt": "2026-10-08T19:14:43.868Z",
-      "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
-      "category": "industry",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/qtsvk3wzyp2aab3vi62vjyold"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "pl2oa5clmf0gp3t7x3qsn71kc",
-      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
-      "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
-      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
-      "permalink": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc",
-      "source": "Waymo：Blog（网页）",
-      "publishedAt": "2026-10-08T07:00:00.000Z",
-      "discoveredAt": "2026-10-08T13:22:31.463Z",
-      "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pl2oa5clmf0gp3t7x3qsn71kc"
-      },
+      "id": "rss_1896994549",
+      "title": "学得会的快捷指令，零基础入门苹果效率魔法",
+      "title_en": null,
+      "url": "https://sspai.com/post/116182",
+      "source": "少数派",
+      "publishedAt": "2026-10-15T06:30:00+00:00",
+      "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
       "interestTags": [
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
+      "formattedTime": "18小时前"
     },
     {
-      "id": "rss_138163511",
+      "id": "rss_2482704594",
       "title": "家中、这里、那里——Sonos Play 体验",
       "title_en": null,
       "url": "https://sspai.com/post/115382",
@@ -538,30 +551,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
-    },
-    {
-      "id": "pqpqgxyiu4qyu86fbljd726v9",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-      "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
-      "source": "MIT News（RSS）",
-      "publishedAt": "2026-10-14T15:00:00.000Z",
-      "discoveredAt": "2026-10-14T15:44:41.779Z",
-      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 1,
-      "formattedTime": "10小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
