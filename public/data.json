@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-17T01:10:47.246580+00:00",
+  "generatedAt": "2026-10-18T00:44:20.061902+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
+  "totalFiltered": 145,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,30 +9,82 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "kygipgwqrajle6hctg9nqid7w",
-        "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-        "title_en": "Claude is building Claude Code.",
-        "url": "https://x.com/adocomplete/status/2111171735806767558",
-        "permalink": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w",
-        "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-        "publishedAt": "2026-10-16T19:05:40.000Z",
-        "discoveredAt": "2026-10-16T19:33:30.088Z",
-        "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-        "category": "industry",
-        "score": 67,
+        "id": "p4mq9t7wyzlxritu15i6d8dtv",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+        "source": "X：邵猛 (@shao__meng)",
+        "publishedAt": "2026-10-17T01:52:43.000Z",
+        "discoveredAt": "2026-10-17T02:22:30.235Z",
+        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+        "category": "tip",
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w"
+          "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
         },
         "interestTags": [
+          "creative",
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "22小时前"
+      },
+      {
+        "id": "kbccvteado5kgzbk5ah9yv5ip",
+        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
+        "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
+        "url": "https://x.com/Khazix0918/status/2110914404393091205",
+        "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "publishedAt": "2026-10-16T02:03:07.000Z",
+        "discoveredAt": "2026-10-16T02:17:44.421Z",
+        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
+        },
+        "interestTags": [
+          "creative",
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
+      {
+        "id": "kovelcbltjj7xf054h8mffaxo",
+        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+        "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+        "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+        "permalink": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
+        "source": "Google Research：Blog（网页）",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "discoveredAt": "2026-10-16T19:06:21.863Z",
+        "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+        "category": "paper",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
+    "app": [
       {
         "id": "j5vlb3dn14h2b4xy1hbdschyc",
         "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
@@ -55,7 +107,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "p11tj593iq5nrtiotvoxllop4",
@@ -79,7 +131,30 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "moaux5xk1dqk4pi3tsx8sabsj",
+        "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+        "title_en": "How Meta Built Forum With AI-Native Engineering",
+        "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+        "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
+        "source": "Meta Engineering Blog（RSS）",
+        "publishedAt": "2026-10-15T19:00:03.000Z",
+        "discoveredAt": "2026-10-15T19:32:28.194Z",
+        "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+        "category": "tip",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
@@ -104,7 +179,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "jc7pyt619xhznn9j28apoedto",
@@ -127,7 +202,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "f6wm1u4huahekganurrbdqyhi",
@@ -150,81 +225,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "creative": [
-      {
-        "id": "kbccvteado5kgzbk5ah9yv5ip",
-        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
-        "url": "https://x.com/Khazix0918/status/2110914404393091205",
-        "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "publishedAt": "2026-10-16T02:03:07.000Z",
-        "discoveredAt": "2026-10-16T02:17:44.421Z",
-        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-        "category": "ai-products",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "23小时前"
-      },
-      {
-        "id": "kovelcbltjj7xf054h8mffaxo",
-        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-        "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-        "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-        "permalink": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-        "source": "Google Research：Blog（网页）",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "discoveredAt": "2026-10-16T19:06:21.863Z",
-        "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-        "category": "paper",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "ee1w5w87zh8hhwwwzqm8w65rd",
-        "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-        "title_en": "Krea 3 is now available via Partner Nodes",
-        "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-        "permalink": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
-        "source": "Comfy Blog",
-        "publishedAt": "2026-10-15T21:15:45.000Z",
-        "discoveredAt": "2026-10-15T21:45:43.935Z",
-        "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
-        "category": "ai-products",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "productivity": [
@@ -249,7 +250,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "allv4n9g9lhfy72m1pg725apv",
@@ -272,10 +273,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_1898259584",
+        "id": "rss_597660863",
         "title": "学得会的快捷指令，零基础入门苹果效率魔法",
         "title_en": null,
         "url": "https://sspai.com/post/116182",
@@ -287,33 +288,35 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ]
   },
   "items": [
     {
-      "id": "kygipgwqrajle6hctg9nqid7w",
-      "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
-      "title_en": "Claude is building Claude Code.",
-      "url": "https://x.com/adocomplete/status/2111171735806767558",
-      "permalink": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w",
-      "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
-      "publishedAt": "2026-10-16T19:05:40.000Z",
-      "discoveredAt": "2026-10-16T19:33:30.088Z",
-      "summary": "Anthropic 的 ClaudeDevs 账号称 Claude 编写了约 90% 的 Claude Code 代码。6 月至 9 月间合并 PR 翻了一倍以上，回退比例下降超过 40%，团队发文介绍了为达到这一效果如何改造代码评审及采用方法，链接见 claude.dev/blog/solving-code-review-at-anthropic/。",
-      "category": "industry",
-      "score": 67,
+      "id": "p4mq9t7wyzlxritu15i6d8dtv",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-10-17T01:52:43.000Z",
+      "discoveredAt": "2026-10-17T02:22:30.235Z",
+      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+      "category": "tip",
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kygipgwqrajle6hctg9nqid7w"
+        "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
       },
       "interestTags": [
-        "app"
+        "creative",
+        "app",
+        "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "22小时前"
     },
     {
       "id": "j5vlb3dn14h2b4xy1hbdschyc",
@@ -337,7 +340,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -360,7 +363,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "p11tj593iq5nrtiotvoxllop4",
@@ -384,7 +387,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "kbccvteado5kgzbk5ah9yv5ip",
@@ -408,7 +411,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "23小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "kovelcbltjj7xf054h8mffaxo",
@@ -432,7 +435,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "jc7pyt619xhznn9j28apoedto",
@@ -455,31 +458,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "ee1w5w87zh8hhwwwzqm8w65rd",
-      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-      "title_en": "Krea 3 is now available via Partner Nodes",
-      "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-      "permalink": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd",
-      "source": "Comfy Blog",
-      "publishedAt": "2026-10-15T21:15:45.000Z",
-      "discoveredAt": "2026-10-15T21:45:43.935Z",
-      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ee1w5w87zh8hhwwwzqm8w65rd"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
@@ -502,7 +481,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "moaux5xk1dqk4pi3tsx8sabsj",
+      "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+      "title_en": "How Meta Built Forum With AI-Native Engineering",
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
+      "source": "Meta Engineering Blog（RSS）",
+      "publishedAt": "2026-10-15T19:00:03.000Z",
+      "discoveredAt": "2026-10-15T19:32:28.194Z",
+      "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2天前"
     },
     {
       "id": "f6wm1u4huahekganurrbdqyhi",
@@ -525,7 +527,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "allv4n9g9lhfy72m1pg725apv",
@@ -548,10 +550,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_1898259584",
+      "id": "rss_597660863",
       "title": "学得会的快捷指令，零基础入门苹果效率魔法",
       "title_en": null,
       "url": "https://sspai.com/post/116182",
@@ -563,7 +565,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     }
   ]
 }
