@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-18T00:44:20.061902+00:00",
+  "generatedAt": "2026-10-19T00:57:23.643579+00:00",
   "totalSource": 160,
-  "totalFiltered": 145,
+  "totalFiltered": 146,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,6 +9,150 @@
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "c7pt5mbzh5h0atlbprfzbs8o0",
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+        "permalink": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-18T13:22:26.000Z",
+        "discoveredAt": "2026-10-18T13:51:32.649Z",
+        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
+      },
+      {
+        "id": "w3vpc68lufgj57zcy1hd38a60",
+        "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+        "title_en": "What Is a Browser Agent? How It Works and When to Use One",
+        "url": "https://browser-use.com/posts/browser-agents",
+        "permalink": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+        "source": "Browser Use",
+        "publishedAt": "2026-10-18T00:00:00.000Z",
+        "discoveredAt": "2026-10-18T16:23:41.099Z",
+        "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+        "category": "tip",
+        "score": 61,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "j5vlb3dn14h2b4xy1hbdschyc",
+        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+        "title_en": "This Week in Charts: Agents Denied",
+        "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+        "permalink": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
+        "source": "a16z：News（RSS）",
+        "publishedAt": "2026-10-16T14:00:39.000Z",
+        "discoveredAt": "2026-10-16T14:35:21.778Z",
+        "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
+        "category": "opinion",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc"
+        },
+        "interestTags": [
+          "app",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      }
+    ],
+    "writing": [
+      {
+        "id": "bbr25r9mbi8zbbtmu2uiati7f",
+        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+        "permalink": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
+        "source": "The Decoder：AI News（RSS）",
+        "publishedAt": "2026-10-18T10:52:39.000Z",
+        "discoveredAt": "2026-10-18T11:49:33.588Z",
+        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+        "category": "industry",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "14小时前"
+      },
+      {
+        "id": "rq32az1hr7zpbipiyega9ehjr",
+        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "permalink": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+        "source": "NVIDIA：Newsroom（RSS）",
+        "publishedAt": "2026-10-16T12:00:00.000Z",
+        "discoveredAt": "2026-10-16T12:40:16.671Z",
+        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+        "category": "ai-products",
+        "score": 74,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "2天前"
+      },
+      {
+        "id": "jc7pyt619xhznn9j28apoedto",
+        "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
+        "title_en": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
+        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
+        "permalink": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
+        "source": "vLLM 官方博客（RSS）",
+        "publishedAt": "2026-10-16T00:00:00.000Z",
+        "discoveredAt": "2026-10-16T01:45:43.579Z",
+        "summary": "AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。",
+        "category": "tip",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      }
+    ],
     "creative": [
       {
         "id": "p4mq9t7wyzlxritu15i6d8dtv",
@@ -33,7 +177,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "22小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "kbccvteado5kgzbk5ah9yv5ip",
@@ -57,7 +201,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "kovelcbltjj7xf054h8mffaxo",
@@ -81,151 +225,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "app": [
-      {
-        "id": "j5vlb3dn14h2b4xy1hbdschyc",
-        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-        "title_en": "This Week in Charts: Agents Denied",
-        "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-        "permalink": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-        "source": "a16z：News（RSS）",
-        "publishedAt": "2026-10-16T14:00:39.000Z",
-        "discoveredAt": "2026-10-16T14:35:21.778Z",
-        "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
-        "category": "opinion",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc"
-        },
-        "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "p11tj593iq5nrtiotvoxllop4",
-        "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-        "title_en": "商务部回应《中国禁止出口限制出口技术目录》拟增列人工智能等技术：确保安全可控，鼓励开源开放、合作共享",
-        "url": "https://www.ithome.com/1/013/983.htm",
-        "permalink": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-        "source": "IT之家·人工智能",
-        "publishedAt": "2026-10-16T08:23:54.520Z",
-        "discoveredAt": "2026-10-16T08:44:14.925Z",
-        "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
-        "category": "industry",
-        "score": 83,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4"
-        },
-        "interestTags": [
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "moaux5xk1dqk4pi3tsx8sabsj",
-        "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
-        "title_en": "How Meta Built Forum With AI-Native Engineering",
-        "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-        "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
-        "source": "Meta Engineering Blog（RSS）",
-        "publishedAt": "2026-10-15T19:00:03.000Z",
-        "discoveredAt": "2026-10-15T19:32:28.194Z",
-        "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
-        "category": "tip",
-        "score": 66,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      }
-    ],
-    "writing": [
-      {
-        "id": "rq32az1hr7zpbipiyega9ehjr",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "permalink": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
-        "source": "NVIDIA：Newsroom（RSS）",
-        "publishedAt": "2026-10-16T12:00:00.000Z",
-        "discoveredAt": "2026-10-16T12:40:16.671Z",
-        "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
-        "category": "ai-products",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "jc7pyt619xhznn9j28apoedto",
-        "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
-        "title_en": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
-        "permalink": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
-        "source": "vLLM 官方博客（RSS）",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "discoveredAt": "2026-10-16T01:45:43.579Z",
-        "summary": "AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。",
-        "category": "tip",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "f6wm1u4huahekganurrbdqyhi",
-        "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
-        "title_en": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-        "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-        "permalink": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi",
-        "source": "404 Media（RSS）",
-        "publishedAt": "2026-10-15T13:25:19.000Z",
-        "discoveredAt": "2026-10-15T13:54:30.019Z",
-        "summary": "404 Media 通过自行测试发现，OpenAI 允许广告主向 ChatGPT 用户投放广告，并可基于邮箱地址、手机号或手机上的唯一标识符定向特定人群。ChatGPT 的广告定向还基于用户输入的提示词，这些提示词用户可能以为是私密的，但可能被人工审查，或被用于广告定向。ChatGPT 拥有约 10 亿月活跃用户，他们多数可能不知道自己正因广告主上传给 OpenAI 的个人数据而被精准定向。",
-        "category": "industry",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi"
-        },
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "productivity": [
@@ -250,7 +250,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "allv4n9g9lhfy72m1pg725apv",
@@ -273,26 +273,106 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "3天前"
+      }
+    ],
+    "education": [
       {
-        "id": "rss_597660863",
-        "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-        "title_en": null,
-        "url": "https://sspai.com/post/116182",
-        "source": "少数派",
-        "publishedAt": "2026-10-15T06:30:00+00:00",
-        "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "id": "pqpqgxyiu4qyu86fbljd726v9",
+        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
+        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+        "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+        "source": "MIT News（RSS）",
+        "publishedAt": "2026-10-14T15:00:00.000Z",
+        "discoveredAt": "2026-10-14T15:44:41.779Z",
+        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+        "category": "paper",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
+        },
         "interestTags": [
-          "productivity"
+          "education"
         ],
-        "techScore": -1,
-        "formattedTime": "2天前"
+        "techScore": 1,
+        "formattedTime": "4天前"
       }
     ]
   },
   "items": [
+    {
+      "id": "c7pt5mbzh5h0atlbprfzbs8o0",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+      "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "permalink": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-18T13:22:26.000Z",
+      "discoveredAt": "2026-10-18T13:51:32.649Z",
+      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "bbr25r9mbi8zbbtmu2uiati7f",
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+      "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
+      "permalink": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-10-18T10:52:39.000Z",
+      "discoveredAt": "2026-10-18T11:49:33.588Z",
+      "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "14小时前"
+    },
+    {
+      "id": "w3vpc68lufgj57zcy1hd38a60",
+      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
+      "title_en": "What Is a Browser Agent? How It Works and When to Use One",
+      "url": "https://browser-use.com/posts/browser-agents",
+      "permalink": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
+      "source": "Browser Use",
+      "publishedAt": "2026-10-18T00:00:00.000Z",
+      "discoveredAt": "2026-10-18T16:23:41.099Z",
+      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
+    },
     {
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
       "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
@@ -316,7 +396,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "22小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "j5vlb3dn14h2b4xy1hbdschyc",
@@ -340,7 +420,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -363,31 +443,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "p11tj593iq5nrtiotvoxllop4",
-      "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
-      "title_en": "商务部回应《中国禁止出口限制出口技术目录》拟增列人工智能等技术：确保安全可控，鼓励开源开放、合作共享",
-      "url": "https://www.ithome.com/1/013/983.htm",
-      "permalink": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4",
-      "source": "IT之家·人工智能",
-      "publishedAt": "2026-10-16T08:23:54.520Z",
-      "discoveredAt": "2026-10-16T08:44:14.925Z",
-      "summary": "商务部、科技部发布2026年第48号公告，就修订《中国禁止出口限制出口技术目录》公开征求意见，拟增列人工智能、生物医药、光伏共40项技术，其中禁止出口14项、限制出口26项，并对相关技术实施出口前登记的临时管理措施。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "kbccvteado5kgzbk5ah9yv5ip",
@@ -411,7 +467,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "kovelcbltjj7xf054h8mffaxo",
@@ -435,7 +491,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "jc7pyt619xhznn9j28apoedto",
@@ -458,7 +514,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
@@ -481,53 +537,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "moaux5xk1dqk4pi3tsx8sabsj",
-      "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
-      "title_en": "How Meta Built Forum With AI-Native Engineering",
-      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-      "permalink": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj",
-      "source": "Meta Engineering Blog（RSS）",
-      "publishedAt": "2026-10-15T19:00:03.000Z",
-      "discoveredAt": "2026-10-15T19:32:28.194Z",
-      "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/moaux5xk1dqk4pi3tsx8sabsj"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "f6wm1u4huahekganurrbdqyhi",
-      "title": "404 Media 实测 ChatGPT 广告如何基于提示词、手机号和邮箱定向投放",
-      "title_en": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-      "permalink": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi",
-      "source": "404 Media（RSS）",
-      "publishedAt": "2026-10-15T13:25:19.000Z",
-      "discoveredAt": "2026-10-15T13:54:30.019Z",
-      "summary": "404 Media 通过自行测试发现，OpenAI 允许广告主向 ChatGPT 用户投放广告，并可基于邮箱地址、手机号或手机上的唯一标识符定向特定人群。ChatGPT 的广告定向还基于用户输入的提示词，这些提示词用户可能以为是私密的，但可能被人工审查，或被用于广告定向。ChatGPT 拥有约 10 亿月活跃用户，他们多数可能不知道自己正因广告主上传给 OpenAI 的个人数据而被精准定向。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f6wm1u4huahekganurrbdqyhi"
-      },
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "allv4n9g9lhfy72m1pg725apv",
@@ -550,22 +560,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_597660863",
-      "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-      "title_en": null,
-      "url": "https://sspai.com/post/116182",
-      "source": "少数派",
-      "publishedAt": "2026-10-15T06:30:00+00:00",
-      "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
+      "id": "pqpqgxyiu4qyu86fbljd726v9",
+      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
+      "title_en": "Researchers improve weather forecasts looking two to six weeks out",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
+      "source": "MIT News（RSS）",
+      "publishedAt": "2026-10-14T15:00:00.000Z",
+      "discoveredAt": "2026-10-14T15:44:41.779Z",
+      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
+      },
       "interestTags": [
-        "productivity"
+        "education"
       ],
-      "techScore": -1,
-      "formattedTime": "2天前"
+      "techScore": 1,
+      "formattedTime": "4天前"
     }
   ]
 }
