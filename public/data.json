@@ -1,85 +1,159 @@
 {
-  "generatedAt": "2026-10-19T00:57:23.643579+00:00",
+  "generatedAt": "2026-10-20T01:38:37.724896+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
-  "totalSelected": 12,
+  "totalFiltered": 145,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "c7pt5mbzh5h0atlbprfzbs8o0",
-        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
-        "permalink": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-10-18T13:22:26.000Z",
-        "discoveredAt": "2026-10-18T13:51:32.649Z",
-        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "id": "awmaqqunma83599eii4g3akgw",
+        "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+        "title_en": "有人做了35万个AI，只为了反过来骗骗子。",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+        "permalink": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
+        "source": "公众号：数字生命卡兹克",
+        "publishedAt": "2026-10-20T00:26:00.000Z",
+        "discoveredAt": "2026-10-20T01:02:06.704Z",
+        "summary": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。",
         "category": "industry",
-        "score": 78,
+        "score": 75,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0"
+          "canonical": "https://aihot.news/items/awmaqqunma83599eii4g3akgw"
         },
         "interestTags": [
-          "app"
+          "creative"
         ],
         "techScore": -1,
-        "formattedTime": "11小时前"
+        "formattedTime": "1小时前"
       },
       {
-        "id": "w3vpc68lufgj57zcy1hd38a60",
-        "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
-        "title_en": "What Is a Browser Agent? How It Works and When to Use One",
-        "url": "https://browser-use.com/posts/browser-agents",
-        "permalink": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
-        "source": "Browser Use",
-        "publishedAt": "2026-10-18T00:00:00.000Z",
-        "discoveredAt": "2026-10-18T16:23:41.099Z",
-        "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
+        "id": "p4mq9t7wyzlxritu15i6d8dtv",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
+        "source": "X：邵猛 (@shao__meng)",
+        "publishedAt": "2026-10-17T01:52:43.000Z",
+        "discoveredAt": "2026-10-17T02:22:30.235Z",
+        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
         "category": "tip",
-        "score": 61,
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60"
+          "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
         },
         "interestTags": [
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "j5vlb3dn14h2b4xy1hbdschyc",
-        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-        "title_en": "This Week in Charts: Agents Denied",
-        "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-        "permalink": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-        "source": "a16z：News（RSS）",
-        "publishedAt": "2026-10-16T14:00:39.000Z",
-        "discoveredAt": "2026-10-16T14:35:21.778Z",
-        "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
-        "category": "opinion",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc"
-        },
-        "interestTags": [
+          "creative",
           "app",
           "writing"
         ],
         "techScore": -1,
         "formattedTime": "2天前"
+      },
+      {
+        "id": "kbccvteado5kgzbk5ah9yv5ip",
+        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
+        "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
+        "url": "https://x.com/Khazix0918/status/2110914404393091205",
+        "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "publishedAt": "2026-10-16T02:03:07.000Z",
+        "discoveredAt": "2026-10-16T02:17:44.421Z",
+        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
+        "category": "ai-products",
+        "score": 75,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "3天前"
+      }
+    ],
+    "app": [
+      {
+        "id": "b80bl8763pqoqq8hdio0ew6t1",
+        "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+        "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+        "permalink": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1",
+        "source": "Ars Technica：AI（RSS）",
+        "publishedAt": "2026-10-19T20:21:53.000Z",
+        "discoveredAt": "2026-10-19T21:03:32.695Z",
+        "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "hnasqdie0vmly79xyg2ehqcgb",
+        "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+        "title_en": "Mercury 3 is live on OpenRouter!",
+        "url": "https://x.com/OpenRouter/status/2112225779782398131",
+        "permalink": "https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "publishedAt": "2026-10-19T16:54:03.000Z",
+        "discoveredAt": "2026-10-19T17:11:32.903Z",
+        "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
+        "category": "ai-products",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "8小时前"
+      },
+      {
+        "id": "qh6pvehounuylklti7i0zl124",
+        "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+        "title_en": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+        "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+        "permalink": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
+        "source": "Meta Engineering Blog（RSS）",
+        "publishedAt": "2026-10-19T15:30:37.000Z",
+        "discoveredAt": "2026-10-19T15:39:33.930Z",
+        "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
+        "category": "tip",
+        "score": 70,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/qh6pvehounuylklti7i0zl124"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "10小时前"
       }
     ],
     "writing": [
@@ -104,7 +178,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "14小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -127,7 +201,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "jc7pyt619xhznn9j28apoedto",
@@ -150,82 +224,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "creative": [
-      {
-        "id": "p4mq9t7wyzlxritu15i6d8dtv",
-        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-        "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
-        "url": "https://x.com/shao__meng/status/2111274173192638932",
-        "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-        "source": "X：邵猛 (@shao__meng)",
-        "publishedAt": "2026-10-17T01:52:43.000Z",
-        "discoveredAt": "2026-10-17T02:22:30.235Z",
-        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-        "category": "tip",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "kbccvteado5kgzbk5ah9yv5ip",
-        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "title_en": "刚刚，可灵4.0深夜上线，支持30秒一镜到底，熟悉的可灵回来了。",
-        "url": "https://x.com/Khazix0918/status/2110914404393091205",
-        "permalink": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "publishedAt": "2026-10-16T02:03:07.000Z",
-        "discoveredAt": "2026-10-16T02:17:44.421Z",
-        "summary": "可灵AI凌晨正式上线视频模型 Kling 4.0，作者烧数万积分实测后认为其在大范围动态、复杂动作衔接和全能参考可控性上有扎实进步。支持最长30秒一镜到底直出，视频首尾帧改为最多10帧的多帧参考；1080P 30秒约450积分，720P 20秒的 Kling 4.0 Flash 仅120积分，作者推荐先用 Flash 打样再用正式版出片，此外10-bit 4K HDR 输出规格尚未上线。",
-        "category": "ai-products",
-        "score": 75,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "kovelcbltjj7xf054h8mffaxo",
-        "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-        "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-        "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-        "permalink": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-        "source": "Google Research：Blog（网页）",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "discoveredAt": "2026-10-16T19:06:21.863Z",
-        "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-        "category": "paper",
-        "score": 61,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo"
-        },
-        "interestTags": [
-          "creative",
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "productivity": [
@@ -250,7 +249,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "allv4n9g9lhfy72m1pg725apv",
@@ -273,58 +272,104 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
-      }
-    ],
-    "education": [
-      {
-        "id": "pqpqgxyiu4qyu86fbljd726v9",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
-        "source": "MIT News（RSS）",
-        "publishedAt": "2026-10-14T15:00:00.000Z",
-        "discoveredAt": "2026-10-14T15:44:41.779Z",
-        "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-        "category": "paper",
-        "score": 65,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
-        },
-        "interestTags": [
-          "education"
-        ],
-        "techScore": 1,
         "formattedTime": "4天前"
       }
     ]
   },
   "items": [
     {
-      "id": "c7pt5mbzh5h0atlbprfzbs8o0",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-      "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
-      "permalink": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-18T13:22:26.000Z",
-      "discoveredAt": "2026-10-18T13:51:32.649Z",
-      "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+      "id": "awmaqqunma83599eii4g3akgw",
+      "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
+      "title_en": "有人做了35万个AI，只为了反过来骗骗子。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
+      "permalink": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-10-20T00:26:00.000Z",
+      "discoveredAt": "2026-10-20T01:02:06.704Z",
+      "summary": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。",
       "category": "industry",
-      "score": 78,
+      "score": 75,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/c7pt5mbzh5h0atlbprfzbs8o0"
+        "canonical": "https://aihot.news/items/awmaqqunma83599eii4g3akgw"
+      },
+      "interestTags": [
+        "creative"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "b80bl8763pqoqq8hdio0ew6t1",
+      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+      "title_en": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "permalink": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-10-19T20:21:53.000Z",
+      "discoveredAt": "2026-10-19T21:03:32.695Z",
+      "summary": "美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b80bl8763pqoqq8hdio0ew6t1"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "5小时前"
+    },
+    {
+      "id": "hnasqdie0vmly79xyg2ehqcgb",
+      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+      "title_en": "Mercury 3 is live on OpenRouter!",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131",
+      "permalink": "https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-19T16:54:03.000Z",
+      "discoveredAt": "2026-10-19T17:11:32.903Z",
+      "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hnasqdie0vmly79xyg2ehqcgb"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "11小时前"
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "qh6pvehounuylklti7i0zl124",
+      "title": "Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性",
+      "title_en": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "permalink": "https://aihot.news/items/qh6pvehounuylklti7i0zl124",
+      "source": "Meta Engineering Blog（RSS）",
+      "publishedAt": "2026-10-19T15:30:37.000Z",
+      "discoveredAt": "2026-10-19T15:39:33.930Z",
+      "summary": "Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qh6pvehounuylklti7i0zl124"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "10小时前"
     },
     {
       "id": "bbr25r9mbi8zbbtmu2uiati7f",
@@ -344,30 +389,6 @@
         "canonical": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f"
       },
       "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "14小时前"
-    },
-    {
-      "id": "w3vpc68lufgj57zcy1hd38a60",
-      "title": "Browser Use 讲解浏览器智能体的工作原理与使用时机",
-      "title_en": "What Is a Browser Agent? How It Works and When to Use One",
-      "url": "https://browser-use.com/posts/browser-agents",
-      "permalink": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60",
-      "source": "Browser Use",
-      "publishedAt": "2026-10-18T00:00:00.000Z",
-      "discoveredAt": "2026-10-18T16:23:41.099Z",
-      "summary": "Browser Use 发布科普文章，讲解浏览器智能体由模型、harness 和浏览器三部分组成，通过观察页面、选择动作、执行并检查结果的循环完成任务，可通过 DOM、无障碍树或截图读取页面。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/w3vpc68lufgj57zcy1hd38a60"
-      },
-      "interestTags": [
-        "app",
         "writing"
       ],
       "techScore": -1,
@@ -396,30 +417,6 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "j5vlb3dn14h2b4xy1hbdschyc",
-      "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
-      "title_en": "This Week in Charts: Agents Denied",
-      "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
-      "permalink": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
-      "source": "a16z：News（RSS）",
-      "publishedAt": "2026-10-16T14:00:39.000Z",
-      "discoveredAt": "2026-10-16T14:35:21.778Z",
-      "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
-      "category": "opinion",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc"
-      },
-      "interestTags": [
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
@@ -443,7 +440,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "kbccvteado5kgzbk5ah9yv5ip",
@@ -461,30 +458,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/kbccvteado5kgzbk5ah9yv5ip"
-      },
-      "interestTags": [
-        "creative",
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "kovelcbltjj7xf054h8mffaxo",
-      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-      "title_en": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "permalink": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "discoveredAt": "2026-10-16T19:06:21.863Z",
-      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kovelcbltjj7xf054h8mffaxo"
       },
       "interestTags": [
         "creative",
@@ -514,7 +487,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
@@ -537,7 +510,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "allv4n9g9lhfy72m1pg725apv",
@@ -560,29 +533,6 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "pqpqgxyiu4qyu86fbljd726v9",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-      "title_en": "Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "permalink": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9",
-      "source": "MIT News（RSS）",
-      "publishedAt": "2026-10-14T15:00:00.000Z",
-      "discoveredAt": "2026-10-14T15:44:41.779Z",
-      "summary": "MIT研究人员团队在Nature发表论文，提出一个机器学习后处理层，通过从历史数据中学习现有预报模型的错误并修正其输出，将两周到六周范围的预报准确率翻倍。该模型在ECMWF的季节间预报竞赛中获第一名，首次在该时间范围内稳定超过气候学平均值，并显著改善洪水、寒潮等极端天气事件的预测；模型开源、低成本、可附加于任意预报模型，肯尼亚气象部门已接洽用于改进季风季预报。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pqpqgxyiu4qyu86fbljd726v9"
-      },
-      "interestTags": [
-        "education"
-      ],
-      "techScore": 1,
       "formattedTime": "4天前"
     }
   ]
