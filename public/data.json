@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-21T01:23:56.464012+00:00",
+  "generatedAt": "2026-10-22T01:21:40.114997+00:00",
   "totalSource": 160,
-  "totalFiltered": 144,
-  "totalSelected": 12,
+  "totalFiltered": 139,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -11,73 +11,74 @@
   "grouped": {
     "app": [
       {
-        "id": "ov4nfafvbhe7d8mj1uirkgsxb",
-        "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
-        "title_en": "SpaceX’s AI business is beating expectations",
-        "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-        "permalink": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-10-20T20:40:41.000Z",
-        "discoveredAt": "2026-10-20T20:49:36.038Z",
-        "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+        "id": "x002u3tp3i1xfzbmzwsnb2olw",
+        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+        "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+        "permalink": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw",
+        "source": "The Verge：AI（RSS）",
+        "publishedAt": "2026-10-21T13:57:43.000Z",
+        "discoveredAt": "2026-10-21T14:45:33.155Z",
+        "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
         "category": "industry",
-        "score": 77,
+        "score": 76,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb"
+          "canonical": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "4小时前"
+        "formattedTime": "11小时前"
       },
       {
-        "id": "zs3zvf51jl6pa35kn4npmoy7j",
-        "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
-        "title_en": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
-        "url": "https://x.com/AravSrinivas/status/2112583333825950207",
-        "permalink": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "publishedAt": "2026-10-20T16:34:51.000Z",
-        "discoveredAt": "2026-10-20T16:55:18.765Z",
-        "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
-        "category": "ai-products",
-        "score": 65,
+        "id": "btdpdvumudpoab4rls1j5ni8m",
+        "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+        "permalink": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m",
+        "source": "ChinaTalk（RSS）",
+        "publishedAt": "2026-10-21T13:43:39.000Z",
+        "discoveredAt": "2026-10-21T13:51:40.570Z",
+        "summary": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
+        "category": "industry",
+        "score": 83,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j"
+          "canonical": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m"
         },
         "interestTags": [
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "8小时前"
+        "formattedTime": "11小时前"
       },
       {
-        "id": "lh8vm7yp332xoffhqoscusss4",
-        "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
-        "title_en": "Introducing TorchTPU",
-        "url": "https://pytorch.org/blog/introducing-torchtpu/",
-        "permalink": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
-        "source": "PyTorch：Blog（RSS）",
-        "publishedAt": "2026-10-20T16:00:30.000Z",
-        "discoveredAt": "2026-10-20T16:20:18.555Z",
-        "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
-        "category": "ai-products",
-        "score": 70,
+        "id": "bm4bwid4hdnitbtz7pr6gtd0r",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+        "title_en": "OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "permalink": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-10-21T12:00:00.000Z",
+        "discoveredAt": "2026-10-21T13:03:23.939Z",
+        "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
+        "category": "industry",
+        "score": 68,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4"
+          "canonical": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r"
         },
         "interestTags": [
-          "app"
+          "app",
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "13小时前"
       }
     ],
     "creative": [
@@ -102,7 +103,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "oxl50pfymja6rgxkem3y0de9j",
@@ -125,7 +126,7 @@
           "creative"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "p4mq9t7wyzlxritu15i6d8dtv",
@@ -150,7 +151,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       }
     ],
     "writing": [
@@ -175,7 +176,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -198,7 +199,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
         "id": "jc7pyt619xhznn9j28apoedto",
@@ -221,7 +222,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       }
     ],
     "productivity": [
@@ -246,33 +247,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "allv4n9g9lhfy72m1pg725apv",
-        "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-        "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-        "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-        "permalink": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-        "source": "The Decoder：AI News（RSS）",
-        "publishedAt": "2026-10-15T09:50:43.000Z",
-        "discoveredAt": "2026-10-15T10:44:28.094Z",
-        "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
-        "category": "industry",
-        "score": 81,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "rss_1169355423",
+        "id": "rss_1279435232",
         "title": "比亚迪成为2026年APEC会议官方合作伙伴",
         "title_en": null,
         "url": "https://www.qbitai.com/2026/10/504452.html",
@@ -284,79 +262,80 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "15小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
     {
-      "id": "ov4nfafvbhe7d8mj1uirkgsxb",
-      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
-      "title_en": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "permalink": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-20T20:40:41.000Z",
-      "discoveredAt": "2026-10-20T20:49:36.038Z",
-      "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+      "id": "x002u3tp3i1xfzbmzwsnb2olw",
+      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
+      "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "permalink": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-10-21T13:57:43.000Z",
+      "discoveredAt": "2026-10-21T14:45:33.155Z",
+      "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
       "category": "industry",
-      "score": 77,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ov4nfafvbhe7d8mj1uirkgsxb"
+        "canonical": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "4小时前"
+      "formattedTime": "11小时前"
     },
     {
-      "id": "zs3zvf51jl6pa35kn4npmoy7j",
-      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
-      "title_en": "You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!",
-      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
-      "permalink": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-10-20T16:34:51.000Z",
-      "discoveredAt": "2026-10-20T16:55:18.765Z",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
-      "category": "ai-products",
-      "score": 65,
+      "id": "btdpdvumudpoab4rls1j5ni8m",
+      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
+      "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "permalink": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m",
+      "source": "ChinaTalk（RSS）",
+      "publishedAt": "2026-10-21T13:43:39.000Z",
+      "discoveredAt": "2026-10-21T13:51:40.570Z",
+      "summary": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
+      "category": "industry",
+      "score": 83,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zs3zvf51jl6pa35kn4npmoy7j"
+        "canonical": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m"
       },
       "interestTags": [
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "11小时前"
     },
     {
-      "id": "lh8vm7yp332xoffhqoscusss4",
-      "title": "Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端",
-      "title_en": "Introducing TorchTPU",
-      "url": "https://pytorch.org/blog/introducing-torchtpu/",
-      "permalink": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4",
-      "source": "PyTorch：Blog（RSS）",
-      "publishedAt": "2026-10-20T16:00:30.000Z",
-      "discoveredAt": "2026-10-20T16:20:18.555Z",
-      "summary": "Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to(\"cuda\") 改为 .to(\"tpu\")。",
-      "category": "ai-products",
-      "score": 70,
+      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "permalink": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "discoveredAt": "2026-10-21T13:03:23.939Z",
+      "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
+      "category": "industry",
+      "score": 68,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4"
+        "canonical": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r"
       },
       "interestTags": [
-        "app"
+        "app",
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "13小时前"
     },
     {
       "id": "awmaqqunma83599eii4g3akgw",
@@ -379,7 +358,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "oxl50pfymja6rgxkem3y0de9j",
@@ -402,7 +381,7 @@
         "creative"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "bbr25r9mbi8zbbtmu2uiati7f",
@@ -425,7 +404,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "p4mq9t7wyzlxritu15i6d8dtv",
@@ -450,7 +429,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
       "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -473,7 +452,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
       "id": "jc7pyt619xhznn9j28apoedto",
@@ -496,7 +475,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
       "id": "bme0mytjnlk0d2lk8hf7srzoh",
@@ -519,33 +498,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-      "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "permalink": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-15T09:50:43.000Z",
-      "discoveredAt": "2026-10-15T10:44:28.094Z",
-      "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "5天前"
-    },
-    {
-      "id": "rss_1169355423",
+      "id": "rss_1279435232",
       "title": "比亚迪成为2026年APEC会议官方合作伙伴",
       "title_en": null,
       "url": "https://www.qbitai.com/2026/10/504452.html",
@@ -557,7 +513,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "15小时前"
+      "formattedTime": "昨天"
     }
   ]
 }
