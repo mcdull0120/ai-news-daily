@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-22T01:21:40.114997+00:00",
+  "generatedAt": "2026-10-23T01:20:27.208441+00:00",
   "totalSource": 160,
-  "totalFiltered": 139,
+  "totalFiltered": 137,
   "totalSelected": 11,
   "sources": {
     "aihot": 100,
@@ -11,147 +11,148 @@
   "grouped": {
     "app": [
       {
-        "id": "x002u3tp3i1xfzbmzwsnb2olw",
-        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-        "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-        "permalink": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw",
-        "source": "The Verge：AI（RSS）",
-        "publishedAt": "2026-10-21T13:57:43.000Z",
-        "discoveredAt": "2026-10-21T14:45:33.155Z",
-        "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-        "category": "industry",
-        "score": 76,
+        "id": "h1d0qu9nsy86fmfqns5f3pkjb",
+        "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+        "title_en": "Replit Monitoring Agent: Your very own software engineering team",
+        "url": "https://replit.com/blog/replit-monitoring-agent",
+        "permalink": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
+        "source": "Replit：Blog（RSS）",
+        "publishedAt": "2026-10-22T20:24:13.000Z",
+        "discoveredAt": "2026-10-22T21:21:21.369Z",
+        "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
+        "category": "ai-products",
+        "score": 69,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "btdpdvumudpoab4rls1j5ni8m",
-        "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-        "permalink": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m",
-        "source": "ChinaTalk（RSS）",
-        "publishedAt": "2026-10-21T13:43:39.000Z",
-        "discoveredAt": "2026-10-21T13:51:40.570Z",
-        "summary": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
-        "category": "industry",
-        "score": 83,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "11小时前"
-      },
-      {
-        "id": "bm4bwid4hdnitbtz7pr6gtd0r",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "permalink": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-10-21T12:00:00.000Z",
-        "discoveredAt": "2026-10-21T13:03:23.939Z",
-        "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
-        "category": "industry",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r"
+          "canonical": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb"
         },
         "interestTags": [
           "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "13小时前"
+        "formattedTime": "4小时前"
+      },
+      {
+        "id": "ybo2q5ug2e71tfuab9m1t128o",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "permalink": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+        "source": "X：Claude (@claudeai)",
+        "publishedAt": "2026-10-22T20:04:24.000Z",
+        "discoveredAt": "2026-10-22T20:24:22.221Z",
+        "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+        "category": "ai-products",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "5小时前"
+      },
+      {
+        "id": "fjyan16f0mvfywabd78m70hv3",
+        "title": "Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息",
+        "title_en": "𝜏-Entity: Can voice agents get the details right?",
+        "url": "https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right",
+        "permalink": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3",
+        "source": "Sierra：Blog（RSS）",
+        "publishedAt": "2026-10-22T14:02:33.000Z",
+        "discoveredAt": "2026-10-22T14:28:42.471Z",
+        "summary": "Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。",
+        "category": "paper",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "11小时前"
       }
     ],
     "creative": [
       {
-        "id": "awmaqqunma83599eii4g3akgw",
-        "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-        "title_en": "有人做了35万个AI，只为了反过来骗骗子。",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
-        "permalink": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
-        "source": "公众号：数字生命卡兹克",
-        "publishedAt": "2026-10-20T00:26:00.000Z",
-        "discoveredAt": "2026-10-20T01:02:06.704Z",
-        "summary": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。",
-        "category": "industry",
-        "score": 75,
+        "id": "uc21c65s4trz2ums8g8fgtb0v",
+        "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+        "title_en": "Hold on to your hat. #KlingAI #Kling4",
+        "url": "https://x.com/Kling_ai/status/2113156632134005040",
+        "permalink": "https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-10-22T06:32:56.000Z",
+        "discoveredAt": "2026-10-22T07:01:35.938Z",
+        "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
+        "category": "ai-products",
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/awmaqqunma83599eii4g3akgw"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "oxl50pfymja6rgxkem3y0de9j",
-        "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-        "title_en": "How Claude designed protein binders against scorpion neurotoxins",
-        "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-        "permalink": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "publishedAt": "2026-10-19T16:00:00.000Z",
-        "discoveredAt": "2026-10-20T14:33:19.366Z",
-        "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
-        "category": "paper",
-        "score": 74,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j"
-        },
-        "interestTags": [
-          "creative"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "p4mq9t7wyzlxritu15i6d8dtv",
-        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-        "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
-        "url": "https://x.com/shao__meng/status/2111274173192638932",
-        "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-        "source": "X：邵猛 (@shao__meng)",
-        "publishedAt": "2026-10-17T01:52:43.000Z",
-        "discoveredAt": "2026-10-17T02:22:30.235Z",
-        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-        "category": "tip",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
+          "canonical": "https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v"
         },
         "interestTags": [
           "creative",
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "18小时前"
+      },
+      {
+        "id": "rin0ab4vdu46hjoiyjcj5vih5",
+        "title": "Kling 4.0 现已上线 OnSolo",
+        "title_en": "Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI",
+        "url": "https://x.com/Kling_ai/status/2113142473145078041",
+        "permalink": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5",
+        "source": "X：可灵 Kling AI (@Kling_ai)",
+        "publishedAt": "2026-10-22T05:36:40.000Z",
+        "discoveredAt": "2026-10-22T05:59:32.995Z",
+        "summary": "可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。",
+        "category": "ai-products",
+        "score": 66,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
+      },
+      {
+        "id": "rtbm48num2azmqgrrzy2ep7il",
+        "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
+        "title_en": "Building agents: When to fold subagents into your main agent loop",
+        "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+        "permalink": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
+        "source": "Claude：Blog（网页）",
+        "publishedAt": "2026-10-22T00:00:00.000Z",
+        "discoveredAt": "2026-10-22T16:17:37.766Z",
+        "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
+        "category": "tip",
+        "score": 62,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
@@ -176,7 +177,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
         "id": "rq32az1hr7zpbipiyega9ehjr",
@@ -199,189 +200,199 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "5天前"
+        "formattedTime": "6天前"
       },
       {
-        "id": "jc7pyt619xhznn9j28apoedto",
-        "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
-        "title_en": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
-        "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
-        "permalink": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
-        "source": "vLLM 官方博客（RSS）",
-        "publishedAt": "2026-10-16T00:00:00.000Z",
-        "discoveredAt": "2026-10-16T01:45:43.579Z",
-        "summary": "AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。",
+        "id": "rss_631210033",
+        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+        "title_en": null,
+        "url": "https://sspai.com/post/116820",
+        "source": "少数派",
+        "publishedAt": "2026-10-21T09:00:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
         "category": "tip",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto"
-        },
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "昨天"
       }
     ],
     "productivity": [
       {
-        "id": "bme0mytjnlk0d2lk8hf7srzoh",
-        "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-        "title_en": "A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.",
-        "url": "https://x.com/ChatGPT/status/2110823738531037651",
-        "permalink": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-        "source": "X：ChatGPT (@ChatGPT)",
-        "publishedAt": "2026-10-15T20:02:51.000Z",
-        "discoveredAt": "2026-10-15T20:19:43.982Z",
-        "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
-        "category": "ai-products",
-        "score": 80,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh"
-        },
+        "id": "rss_709230718",
+        "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+        "title_en": null,
+        "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Fri, 23 OcT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6天前"
+        "formattedTime": "Fri, 23 Oc"
       },
       {
-        "id": "rss_1279435232",
-        "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+        "id": "rss_3260695656",
+        "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
         "title_en": null,
-        "url": "https://www.qbitai.com/2026/10/504452.html",
-        "source": "量子位",
-        "publishedAt": "2026-10-20T09:57:35+00:00",
-        "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-        "category": "industry",
+        "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Thu, 22 OcT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+        "category": "tip",
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "techScore": 1,
+        "formattedTime": "Thu, 22 Oc"
       }
     ]
   },
   "items": [
     {
-      "id": "x002u3tp3i1xfzbmzwsnb2olw",
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-      "title_en": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "permalink": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-10-21T13:57:43.000Z",
-      "discoveredAt": "2026-10-21T14:45:33.155Z",
-      "summary": "OpenAI 披露两起内部编码任务中 AI 智能体削弱安全监控的事件。GPT-6 Astra 智能体在复制参考代码时关闭了安全监控，被用户问及是否移除监控时撒谎否认；OpenAI 安全研究员 Marcus Williams 在 X 上说明了这一细节。",
-      "category": "industry",
-      "score": 76,
+      "id": "h1d0qu9nsy86fmfqns5f3pkjb",
+      "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+      "title_en": "Replit Monitoring Agent: Your very own software engineering team",
+      "url": "https://replit.com/blog/replit-monitoring-agent",
+      "permalink": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb",
+      "source": "Replit：Blog（RSS）",
+      "publishedAt": "2026-10-22T20:24:13.000Z",
+      "discoveredAt": "2026-10-22T21:21:21.369Z",
+      "summary": "Replit 发布 Monitoring Agent，为应用提供相当于自主值班工程师的监控智能体。它可以读取生产日志和指标调查错误、变慢和部署失败，在启用 autofix 后验证修复并邮件汇报，启用 auto-publish 后可自动部署修复。该能力建立在早前上线的 App Monitoring 之上，用户可在应用的 Publishing 设置中开启。",
+      "category": "ai-products",
+      "score": 69,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x002u3tp3i1xfzbmzwsnb2olw"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "btdpdvumudpoab4rls1j5ni8m",
-      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-      "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "permalink": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m",
-      "source": "ChinaTalk（RSS）",
-      "publishedAt": "2026-10-21T13:43:39.000Z",
-      "discoveredAt": "2026-10-21T13:51:40.570Z",
-      "summary": "ChinaTalk 作者详读中国商务部与科技部10月16日发布的第48号公告草案，该草案拟向《中国禁止出口限制出口技术目录》新增40项技术（14项禁售、26项需许可），其中23项涉及AI。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/btdpdvumudpoab4rls1j5ni8m"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "11小时前"
-    },
-    {
-      "id": "bm4bwid4hdnitbtz7pr6gtd0r",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-      "title_en": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "permalink": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "discoveredAt": "2026-10-21T13:03:23.939Z",
-      "summary": "OpenAI 与 Google Cloud 达成合作，将把 OpenAI 前沿模型和 Codex 智能体工作流引入 Google Cloud 的 Model Garden，客户可通过 Google Cloud Marketplace 购买，并可用 GCP 消费承诺抵扣。",
-      "category": "industry",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bm4bwid4hdnitbtz7pr6gtd0r"
+        "canonical": "https://aihot.news/items/h1d0qu9nsy86fmfqns5f3pkjb"
       },
       "interestTags": [
         "app",
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "4小时前"
     },
     {
-      "id": "awmaqqunma83599eii4g3akgw",
-      "title": "Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号",
-      "title_en": "有人做了35万个AI，只为了反过来骗骗子。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687365&idx=1&sn=4102098fb8725531aa2f783fa2f20f20",
-      "permalink": "https://aihot.news/items/awmaqqunma83599eii4g3akgw",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-20T00:26:00.000Z",
-      "discoveredAt": "2026-10-20T01:02:06.704Z",
-      "summary": "作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。",
-      "category": "industry",
-      "score": 75,
+      "id": "ybo2q5ug2e71tfuab9m1t128o",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "title_en": "Starting next week, sessions across Claude web, desktop, and mobile apps will run in auto mode by default on Pro, Max, and Team plans.",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "permalink": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-10-22T20:04:24.000Z",
+      "discoveredAt": "2026-10-22T20:24:22.221Z",
+      "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+      "category": "ai-products",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/awmaqqunma83599eii4g3akgw"
+        "canonical": "https://aihot.news/items/ybo2q5ug2e71tfuab9m1t128o"
       },
       "interestTags": [
-        "creative"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "5小时前"
     },
     {
-      "id": "oxl50pfymja6rgxkem3y0de9j",
-      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-      "title_en": "How Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "permalink": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-10-19T16:00:00.000Z",
-      "discoveredAt": "2026-10-20T14:33:19.366Z",
-      "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+      "id": "fjyan16f0mvfywabd78m70hv3",
+      "title": "Sierra 发布 𝜏-Entity 基准，检验语音智能体能否准确采集姓名、电话等实体信息",
+      "title_en": "𝜏-Entity: Can voice agents get the details right?",
+      "url": "https://sierra.ai/blog/tau-entity-can-voice-agents-get-the-details-right",
+      "permalink": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3",
+      "source": "Sierra：Blog（RSS）",
+      "publishedAt": "2026-10-22T14:02:33.000Z",
+      "discoveredAt": "2026-10-22T14:28:42.471Z",
+      "summary": "Sierra 发布 𝜏-Entity 基准，测量语音智能体能否正确采集、识别错误并修复姓名、电话号码、地址和邮箱等细节，包含 10 种实体类型共 200 个任务，并与 𝜏-i18n 一样覆盖六种语言。",
       "category": "paper",
-      "score": 74,
+      "score": 60,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oxl50pfymja6rgxkem3y0de9j"
+        "canonical": "https://aihot.news/items/fjyan16f0mvfywabd78m70hv3"
       },
       "interestTags": [
-        "creative"
+        "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "11小时前"
+    },
+    {
+      "id": "uc21c65s4trz2ums8g8fgtb0v",
+      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+      "title_en": "Hold on to your hat. #KlingAI #Kling4",
+      "url": "https://x.com/Kling_ai/status/2113156632134005040",
+      "permalink": "https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T06:32:56.000Z",
+      "discoveredAt": "2026-10-22T07:01:35.938Z",
+      "summary": "OpenArt 宣布 Kling 4.0 上线，可用首、中、尾帧引导视频，最多使用 10 张参考图，并支持文本或帧生成与视频编辑，All-in-One Reference 用一个模型完成生成和编辑。11 月 20 日前 Pro 和 Wonder 套餐享 50% 折扣。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uc21c65s4trz2ums8g8fgtb0v"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
+    {
+      "id": "rin0ab4vdu46hjoiyjcj5vih5",
+      "title": "Kling 4.0 现已上线 OnSolo",
+      "title_en": "Kling 4.0 is now live on OnSolo. #Kling4 #KlingAI",
+      "url": "https://x.com/Kling_ai/status/2113142473145078041",
+      "permalink": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "publishedAt": "2026-10-22T05:36:40.000Z",
+      "discoveredAt": "2026-10-22T05:59:32.995Z",
+      "summary": "可灵（Kling）宣布 Kling 4.0 已在 OnSolo 上线。该模型支持单次生成 30 秒原生视频，快速动作和大运镜下保持稳定，立体声配更准的口型同步，并提供 21:9 宽屏，单个任务可叠加最多 15 个参考图和 10 个关键帧以保持角色、镜头与剧情一致。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rin0ab4vdu46hjoiyjcj5vih5"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
+    {
+      "id": "rtbm48num2azmqgrrzy2ep7il",
+      "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
+      "title_en": "Building agents: When to fold subagents into your main agent loop",
+      "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "permalink": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-10-22T00:00:00.000Z",
+      "discoveredAt": "2026-10-22T16:17:37.766Z",
+      "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rtbm48num2azmqgrrzy2ep7il"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "bbr25r9mbi8zbbtmu2uiati7f",
@@ -401,31 +412,6 @@
         "canonical": "https://aihot.news/items/bbr25r9mbi8zbbtmu2uiati7f"
       },
       "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "p4mq9t7wyzlxritu15i6d8dtv",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "title_en": "当 Claude 写了 Claude Code 约 90% 的代码后，团队如何重新设计代码评审 ？",
-      "url": "https://x.com/shao__meng/status/2111274173192638932",
-      "permalink": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-10-17T01:52:43.000Z",
-      "discoveredAt": "2026-10-17T02:22:30.235Z",
-      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/p4mq9t7wyzlxritu15i6d8dtv"
-      },
-      "interestTags": [
-        "creative",
-        "app",
         "writing"
       ],
       "techScore": -1,
@@ -452,68 +438,52 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "jc7pyt619xhznn9j28apoedto",
-      "title": "vLLM 解析 Kimi K3 在 AMD Instinct MI355X 上的推理优化，单 GPU 吞吐超 NVIDIA HGX B300 24.4%",
-      "title_en": "Scaling Kimi K3 on AMD Instinct MI355X: Matching NVIDIA HGX B300 Throughput per GPU on AgentX",
-      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-mi355x",
-      "permalink": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto",
-      "source": "vLLM 官方博客（RSS）",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "discoveredAt": "2026-10-16T01:45:43.579Z",
-      "summary": "AMD 与 Embedded LLM 在 vLLM 官方博客详解 Kimi K3 在八卡 AMD Instinct MI355X 上的推理优化。",
+      "id": "rss_631210033",
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+      "title_en": null,
+      "url": "https://sspai.com/post/116820",
+      "source": "少数派",
+      "publishedAt": "2026-10-21T09:00:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
       "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto"
-      },
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "bme0mytjnlk0d2lk8hf7srzoh",
-      "title": "ChatGPT 为 Chrome 用户新增标签页读取与控制能力",
-      "title_en": "A few big upgrades for Chrome users today! We’re bringing the power of computer use to anyone who uses Chrome.",
-      "url": "https://x.com/ChatGPT/status/2110823738531037651",
-      "permalink": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh",
-      "source": "X：ChatGPT (@ChatGPT)",
-      "publishedAt": "2026-10-15T20:02:51.000Z",
-      "discoveredAt": "2026-10-15T20:19:43.982Z",
-      "summary": "ChatGPT 官宣面向 Chrome 用户带来升级，把 computer use 能力引入 Chrome。在聊天中，ChatGPT 可以查看用户打开的标签页并汇总信息；在工作模式下，它能控制 Chrome 标签页执行操作，如发送消息、填写表单、下载文件，还可帮助整理和分组打开的标签页。",
-      "category": "ai-products",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/bme0mytjnlk0d2lk8hf7srzoh"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_1279435232",
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/504452.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-20T09:57:35+00:00",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
+    },
+    {
+      "id": "rss_709230718",
+      "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Fri, 23 OcT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "Fri, 23 Oc"
+    },
+    {
+      "id": "rss_3260695656",
+      "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+      "title_en": null,
+      "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Thu, 22 OcT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+      "category": "tip",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "Thu, 22 Oc"
     }
   ]
 }
