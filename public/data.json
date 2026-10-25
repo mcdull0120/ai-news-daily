@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T01:25:05.894716+00:00",
+  "generatedAt": "2026-10-25T00:54:58.428137+00:00",
   "totalSource": 160,
-  "totalFiltered": 135,
-  "totalSelected": 9,
+  "totalFiltered": 133,
+  "totalSelected": 10,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -31,10 +31,10 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_3239856010",
+        "id": "rss_1629022728",
         "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
         "title_en": null,
         "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
@@ -72,7 +72,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "h1d0qu9nsy86fmfqns5f3pkjb",
@@ -96,7 +96,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "ybo2q5ug2e71tfuab9m1t128o",
@@ -119,7 +119,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "creative": [
@@ -145,7 +145,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "uc21c65s4trz2ums8g8fgtb0v",
@@ -169,7 +169,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "rin0ab4vdu46hjoiyjcj5vih5",
@@ -193,12 +193,27 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_2010588951",
+        "id": "rss_1741996033",
+        "title": "在硅谷，遇见个人计算机历史",
+        "title_en": null,
+        "url": "https://sspai.com/post/116128",
+        "source": "少数派",
+        "publishedAt": "2026-10-24T08:26:02+00:00",
+        "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "16小时前"
+      },
+      {
+        "id": "rss_420247853",
         "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
         "title_en": null,
         "url": "https://sspai.com/post/116820",
@@ -210,7 +225,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ]
   },
@@ -236,7 +251,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "shi5tga503u6jcb3itberbm18",
@@ -260,7 +275,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "g9tc56izmwy49zgw5ta4ubsya",
@@ -284,7 +299,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "h1d0qu9nsy86fmfqns5f3pkjb",
@@ -308,7 +323,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "ybo2q5ug2e71tfuab9m1t128o",
@@ -331,7 +346,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "uc21c65s4trz2ums8g8fgtb0v",
@@ -355,7 +370,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "rin0ab4vdu46hjoiyjcj5vih5",
@@ -379,10 +394,25 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
-      "id": "rss_2010588951",
+      "id": "rss_1741996033",
+      "title": "在硅谷，遇见个人计算机历史",
+      "title_en": null,
+      "url": "https://sspai.com/post/116128",
+      "source": "少数派",
+      "publishedAt": "2026-10-24T08:26:02+00:00",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "16小时前"
+    },
+    {
+      "id": "rss_420247853",
       "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
       "title_en": null,
       "url": "https://sspai.com/post/116820",
@@ -394,10 +424,10 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_3239856010",
+      "id": "rss_1629022728",
       "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
       "title_en": null,
       "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
