@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T00:54:58.428137+00:00",
+  "generatedAt": "2026-10-26T01:03:07.062803+00:00",
   "totalSource": 160,
   "totalFiltered": 133,
-  "totalSelected": 10,
+  "totalSelected": 9,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -31,22 +31,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "rss_1629022728",
-        "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Fri, 23 OcT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "Fri, 23 Oc"
+        "formattedTime": "2天前"
       }
     ],
     "app": [
@@ -72,7 +57,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "h1d0qu9nsy86fmfqns5f3pkjb",
@@ -96,7 +81,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "ybo2q5ug2e71tfuab9m1t128o",
@@ -119,7 +104,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "creative": [
@@ -145,7 +130,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "uc21c65s4trz2ums8g8fgtb0v",
@@ -169,7 +154,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       },
       {
         "id": "rin0ab4vdu46hjoiyjcj5vih5",
@@ -193,12 +178,27 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "3天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_1741996033",
+        "id": "rss_240323757",
+        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+        "title_en": null,
+        "url": "https://sspai.com/post/117460",
+        "source": "少数派",
+        "publishedAt": "2026-10-25T23:36:36+00:00",
+        "summary": "<p>派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/117460\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "1小时前"
+      },
+      {
+        "id": "rss_296769420",
         "title": "在硅谷，遇见个人计算机历史",
         "title_en": null,
         "url": "https://sspai.com/post/116128",
@@ -210,22 +210,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "16小时前"
-      },
-      {
-        "id": "rss_420247853",
-        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-        "title_en": null,
-        "url": "https://sspai.com/post/116820",
-        "source": "少数派",
-        "publishedAt": "2026-10-21T09:00:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "昨天"
       }
     ]
   },
@@ -251,7 +236,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "shi5tga503u6jcb3itberbm18",
@@ -275,7 +260,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "g9tc56izmwy49zgw5ta4ubsya",
@@ -299,7 +284,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "h1d0qu9nsy86fmfqns5f3pkjb",
@@ -323,7 +308,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "ybo2q5ug2e71tfuab9m1t128o",
@@ -346,7 +331,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "uc21c65s4trz2ums8g8fgtb0v",
@@ -370,7 +355,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "rin0ab4vdu46hjoiyjcj5vih5",
@@ -394,10 +379,25 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
-      "id": "rss_1741996033",
+      "id": "rss_240323757",
+      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+      "title_en": null,
+      "url": "https://sspai.com/post/117460",
+      "source": "少数派",
+      "publishedAt": "2026-10-25T23:36:36+00:00",
+      "summary": "<p>派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/117460\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "rss_296769420",
       "title": "在硅谷，遇见个人计算机历史",
       "title_en": null,
       "url": "https://sspai.com/post/116128",
@@ -409,37 +409,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "rss_420247853",
-      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-      "title_en": null,
-      "url": "https://sspai.com/post/116820",
-      "source": "少数派",
-      "publishedAt": "2026-10-21T09:00:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "rss_1629022728",
-      "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Fri, 23 OcT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Fri, 23 Oc"
+      "formattedTime": "昨天"
     }
   ]
 }
