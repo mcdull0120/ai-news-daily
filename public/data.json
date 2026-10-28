@@ -1,87 +1,64 @@
 {
-  "generatedAt": "2026-10-27T01:53:38.531074+00:00",
-  "totalSource": 159,
-  "totalFiltered": 138,
-  "totalSelected": 11,
+  "generatedAt": "2026-10-28T02:03:57.777090+00:00",
+  "totalSource": 160,
+  "totalFiltered": 139,
+  "totalSelected": 12,
   "sources": {
-    "aihot": 99,
+    "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "cccggvocxi7vdefusohq9tmdn",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "permalink": "https://aihot.news/items/cccggvocxi7vdefusohq9tmdn",
-        "source": "X：Greg Brockman (@gdb)",
-        "publishedAt": "2026-10-26T20:21:41.000Z",
-        "discoveredAt": "2026-10-26T20:46:37.944Z",
-        "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
-        "category": "opinion",
+        "id": "t13kjmoalf8m0luymjchvrysk",
+        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+        "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
+        "url": "https://x.com/GeminiApp/status/2115171788812669225",
+        "permalink": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-10-27T20:00:27.000Z",
+        "discoveredAt": "2026-10-27T20:27:43.395Z",
+        "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+        "category": "ai-products",
+        "score": 68,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk"
+        },
+        "interestTags": [
+          "creative",
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
+      {
+        "id": "l63udrrcunv0qy04ve4s71g02",
+        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+        "title_en": "How We Built Our Design Agent",
+        "url": "https://www.langchain.com/blog/design-agent",
+        "permalink": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02",
+        "source": "LangChain：Blog（RSS）",
+        "publishedAt": "2026-10-27T16:45:00.000Z",
+        "discoveredAt": "2026-10-27T17:30:39.617Z",
+        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+        "category": "tip",
         "score": 71,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/cccggvocxi7vdefusohq9tmdn"
+          "canonical": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02"
         },
         "interestTags": [
+          "creative",
           "app",
-          "writing"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "5小时前"
+        "formattedTime": "9小时前"
       },
-      {
-        "id": "oq7hr7grajldk8bmtv95e180v",
-        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-        "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
-        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-        "permalink": "https://aihot.news/items/oq7hr7grajldk8bmtv95e180v",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "publishedAt": "2026-10-26T13:39:40.000Z",
-        "discoveredAt": "2026-10-26T14:07:23.921Z",
-        "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
-        "category": "industry",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/oq7hr7grajldk8bmtv95e180v"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "a1ntnonrqyeglwofchegsod88",
-        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-        "title_en": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
-        "url": "https://x.com/testingcatalog/status/2114696424021451174",
-        "permalink": "https://aihot.news/items/a1ntnonrqyeglwofchegsod88",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "publishedAt": "2026-10-26T12:31:31.000Z",
-        "discoveredAt": "2026-10-26T12:42:24.224Z",
-        "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
-        "category": "industry",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/a1ntnonrqyeglwofchegsod88"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "13小时前"
-      }
-    ],
-    "creative": [
       {
         "id": "tckw64et369c0brghxzwke9qe",
         "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
@@ -106,57 +83,78 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "app": [
       {
-        "id": "dgly2r4fwb6y80t3im8yqqvt1",
-        "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-        "title_en": "We tried to automate Epoch",
-        "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-        "permalink": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1",
-        "source": "Epoch AI：Gradient Updates（RSS）",
-        "publishedAt": "2026-10-26T16:33:24.000Z",
-        "discoveredAt": "2026-10-26T17:30:19.707Z",
-        "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-        "category": "paper",
-        "score": 61,
+        "id": "xhwtx8zwvvmyou5emtd3dbzbn",
+        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "title_en": "🔮 Anthropic’s S-1 in charts",
+        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+        "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
+        "source": "Azeem Azhar：Exponential View（RSS）",
+        "publishedAt": "2026-10-27T17:31:56.000Z",
+        "discoveredAt": "2026-10-27T17:57:39.625Z",
+        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
+        "category": "opinion",
+        "score": 77,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1"
+          "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
         },
         "interestTags": [
-          "creative",
-          "app",
-          "productivity"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "8小时前"
       },
       {
-        "id": "g4ad8tycgkdtkjucdyp88blxc",
-        "title": "Krea 推出面向 Adobe Premiere 的插件",
-        "title_en": "introducing Krea for Adobe Premiere.",
-        "url": "https://x.com/krea_ai/status/2114741513867395527",
-        "permalink": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc",
-        "source": "X：Krea AI (@krea_ai)",
-        "publishedAt": "2026-10-26T15:30:41.000Z",
-        "discoveredAt": "2026-10-26T15:39:23.671Z",
-        "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-        "category": "ai-products",
-        "score": 65,
+        "id": "hfqjmlynoaqxrkyeg8qtsk9ap",
+        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+        "title_en": "Databricks & the Future of the Firm",
+        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+        "permalink": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap",
+        "source": "a16z：News（RSS）",
+        "publishedAt": "2026-10-27T14:02:28.000Z",
+        "discoveredAt": "2026-10-27T14:12:39.796Z",
+        "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+        "category": "opinion",
+        "score": 64,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc"
+          "canonical": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap"
         },
         "interestTags": [
-          "creative",
-          "app",
-          "writing"
+          "app"
         ],
         "techScore": -1,
-        "formattedTime": "10小时前"
+        "formattedTime": "12小时前"
+      },
+      {
+        "id": "zbp5qzehshqnvgimabeu27cb1",
+        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+        "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "permalink": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-10-27T07:00:00.000Z",
+        "discoveredAt": "2026-10-27T17:18:41.357Z",
+        "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
+        "category": "industry",
+        "score": 60,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
       }
     ],
     "productivity": [
@@ -181,7 +179,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "21小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "ryf4bbjezfib8jx05ng0889zf",
@@ -204,27 +202,42 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "3天前"
+        "formattedTime": "4天前"
       },
       {
-        "id": "rss_1620186509",
-        "title": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
+        "id": "rss_3117083261",
+        "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
         "title_en": null,
-        "url": "https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Mon, 26 OcT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
+        "url": "https://www.qbitai.com/2026/10/505539.html",
+        "source": "量子位",
+        "publishedAt": "2026-10-26T09:46:13+00:00",
+        "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+        "category": "industry",
         "interestTags": [
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "Mon, 26 Oc"
+        "formattedTime": "昨天"
       }
     ],
     "writing": [
       {
-        "id": "rss_3951204817",
+        "id": "rss_3708433796",
+        "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+        "title_en": null,
+        "url": "https://sspai.com/post/117633",
+        "source": "少数派",
+        "publishedAt": "2026-10-27T09:02:00+00:00",
+        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
+        "category": "tip",
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "17小时前"
+      },
+      {
+        "id": "rss_7194742",
         "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
         "title_en": null,
         "url": "https://sspai.com/post/117460",
@@ -236,49 +249,143 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
-        "id": "rss_820329412",
-        "title": "在硅谷，遇见个人计算机历史",
+        "id": "rss_4008247977",
+        "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
         "title_en": null,
-        "url": "https://sspai.com/post/116128",
-        "source": "少数派",
-        "publishedAt": "2026-10-24T08:26:02+00:00",
-        "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+        "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
+        "source": "InfoQ中文",
+        "publishedAt": "Tue, 27 OcT00:00:00+00:00",
+        "summary": "<div align='right'><a href='https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
+        "formattedTime": "Tue, 27 Oc"
       }
     ]
   },
   "items": [
     {
-      "id": "cccggvocxi7vdefusohq9tmdn",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "title_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "permalink": "https://aihot.news/items/cccggvocxi7vdefusohq9tmdn",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-10-26T20:21:41.000Z",
-      "discoveredAt": "2026-10-26T20:46:37.944Z",
-      "summary": "Greg Brockman 表示 GPT-6.1 Terra 的电脑操作能力已跨过一个质变门槛，用起来比他不借助 AI 时更快。其引用的 OpenAI 介绍称 GPT-6.1 Terra 能理解屏幕内容、跨应用执行操作、自然书写，以更低价格提供快速且强大的 computer use，适合承担整个工作日的更多任务。",
+      "id": "t13kjmoalf8m0luymjchvrysk",
+      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
+      "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
+      "url": "https://x.com/GeminiApp/status/2115171788812669225",
+      "permalink": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-10-27T20:00:27.000Z",
+      "discoveredAt": "2026-10-27T20:27:43.395Z",
+      "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk"
+      },
+      "interestTags": [
+        "creative",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "xhwtx8zwvvmyou5emtd3dbzbn",
+      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+      "title_en": "🔮 Anthropic’s S-1 in charts",
+      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+      "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
+      "source": "Azeem Azhar：Exponential View（RSS）",
+      "publishedAt": "2026-10-27T17:31:56.000Z",
+      "discoveredAt": "2026-10-27T17:57:39.625Z",
+      "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
       "category": "opinion",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "8小时前"
+    },
+    {
+      "id": "l63udrrcunv0qy04ve4s71g02",
+      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+      "title_en": "How We Built Our Design Agent",
+      "url": "https://www.langchain.com/blog/design-agent",
+      "permalink": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-10-27T16:45:00.000Z",
+      "discoveredAt": "2026-10-27T17:30:39.617Z",
+      "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+      "category": "tip",
       "score": 71,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cccggvocxi7vdefusohq9tmdn"
+        "canonical": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02"
       },
       "interestTags": [
+        "creative",
         "app",
-        "writing"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5小时前"
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "hfqjmlynoaqxrkyeg8qtsk9ap",
+      "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+      "title_en": "Databricks & the Future of the Firm",
+      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "permalink": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap",
+      "source": "a16z：News（RSS）",
+      "publishedAt": "2026-10-27T14:02:28.000Z",
+      "discoveredAt": "2026-10-27T14:12:39.796Z",
+      "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
+      "category": "opinion",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "12小时前"
+    },
+    {
+      "id": "zbp5qzehshqnvgimabeu27cb1",
+      "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
+      "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "permalink": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "discoveredAt": "2026-10-27T17:18:41.357Z",
+      "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
+      "category": "industry",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
     },
     {
       "id": "tckw64et369c0brghxzwke9qe",
@@ -304,103 +411,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
-    },
-    {
-      "id": "dgly2r4fwb6y80t3im8yqqvt1",
-      "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-      "title_en": "We tried to automate Epoch",
-      "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-      "permalink": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1",
-      "source": "Epoch AI：Gradient Updates（RSS）",
-      "publishedAt": "2026-10-26T16:33:24.000Z",
-      "discoveredAt": "2026-10-26T17:30:19.707Z",
-      "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dgly2r4fwb6y80t3im8yqqvt1"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "g4ad8tycgkdtkjucdyp88blxc",
-      "title": "Krea 推出面向 Adobe Premiere 的插件",
-      "title_en": "introducing Krea for Adobe Premiere.",
-      "url": "https://x.com/krea_ai/status/2114741513867395527",
-      "permalink": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-10-26T15:30:41.000Z",
-      "discoveredAt": "2026-10-26T15:39:23.671Z",
-      "summary": "Krea 发布 Krea for Adobe Premiere，用户无需离开时间线即可完成故事板、生成视频和添加音效，现已开放试用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/g4ad8tycgkdtkjucdyp88blxc"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "10小时前"
-    },
-    {
-      "id": "oq7hr7grajldk8bmtv95e180v",
-      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-      "title_en": "If you were thinking concentrating AI behind closed doors is safe, it is time to update your priors!",
-      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-      "permalink": "https://aihot.news/items/oq7hr7grajldk8bmtv95e180v",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "publishedAt": "2026-10-26T13:39:40.000Z",
-      "discoveredAt": "2026-10-26T14:07:23.921Z",
-      "summary": "Hugging Face CEO Clément Delangue 转引《华盛顿邮报》独家报道并评论称，认为把 AI 集中在封闭大门后就是安全的想法需要更新认知。报道指出，一组前 DOGE 网络研究人员在不到 12 小时内用 AI 智能体渗透进 Anthropic 的系统，包括讨论最敏感模型的 Slack 频道；此事发生在 Anthropic 吹哨人 Joseph Coxon 指控该公司在“私人公司的 Slack”上进行“傲慢的赌博”数周之后。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/oq7hr7grajldk8bmtv95e180v"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
-    },
-    {
-      "id": "a1ntnonrqyeglwofchegsod88",
-      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-      "title_en": "ANTHROPIC 🔥: S-1 IPO filing is set for 9AM EST today as reported by Bloomberg!",
-      "url": "https://x.com/testingcatalog/status/2114696424021451174",
-      "permalink": "https://aihot.news/items/a1ntnonrqyeglwofchegsod88",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-10-26T12:31:31.000Z",
-      "discoveredAt": "2026-10-26T12:42:24.224Z",
-      "summary": "据 Bloomberg 报道，Anthropic 计划周一上午 9 点（美东时间）公开提交 S-1 IPO 申请，此次上市规模可能创纪录。公司预计最快在 11 月 9 日当周开始正式路演，并期望 IPO 规模达到或超过 SpaceX。作者还猜测 Anthropic 可能会伴随一次大模型发布。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/a1ntnonrqyeglwofchegsod88"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "13小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "o1r046h1yurwlvv536eergn57",
@@ -423,7 +434,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "21小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "ryf4bbjezfib8jx05ng0889zf",
@@ -446,10 +457,25 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "3天前"
+      "formattedTime": "4天前"
     },
     {
-      "id": "rss_3951204817",
+      "id": "rss_3708433796",
+      "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+      "title_en": null,
+      "url": "https://sspai.com/post/117633",
+      "source": "少数派",
+      "publishedAt": "2026-10-27T09:02:00+00:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
+      "category": "tip",
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "17小时前"
+    },
+    {
+      "id": "rss_7194742",
       "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
       "title_en": null,
       "url": "https://sspai.com/post/117460",
@@ -461,37 +487,37 @@
         "writing"
       ],
       "techScore": -1,
+      "formattedTime": "2天前"
+    },
+    {
+      "id": "rss_3117083261",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/505539.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-26T09:46:13+00:00",
+      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "category": "industry",
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_820329412",
-      "title": "在硅谷，遇见个人计算机历史",
+      "id": "rss_4008247977",
+      "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
       "title_en": null,
-      "url": "https://sspai.com/post/116128",
-      "source": "少数派",
-      "publishedAt": "2026-10-24T08:26:02+00:00",
-      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+      "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
+      "source": "InfoQ中文",
+      "publishedAt": "Tue, 27 OcT00:00:00+00:00",
+      "summary": "<div align='right'><a href='https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
       "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_1620186509",
-      "title": "中层技术经理要么重新学技术，要么考虑退休：前 Stripe 工程高管警告，未来三年工程管理将彻底变样",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Mon, 26 OcT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/hhxL1M65UU3Iwr4ovALT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "Mon, 26 Oc"
+      "formattedTime": "Tue, 27 Oc"
     }
   ]
 }
