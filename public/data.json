@@ -1,15 +1,111 @@
 {
-  "generatedAt": "2026-10-28T02:03:57.777090+00:00",
+  "generatedAt": "2026-10-29T02:13:59.533864+00:00",
   "totalSource": 160,
-  "totalFiltered": 139,
-  "totalSelected": 12,
+  "totalFiltered": 146,
+  "totalSelected": 11,
   "sources": {
     "aihot": 100,
     "rss": 60,
     "bilibili": 0
   },
   "grouped": {
+    "app": [
+      {
+        "id": "l928e49lwysm0ymgmhyjrkc3z",
+        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+        "title_en": "How to Extract Tables from a PDF with an LLM",
+        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+        "permalink": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-10-29T00:00:00.000Z",
+        "discoveredAt": "2026-10-29T00:33:30.586Z",
+        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+        "category": "tip",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z"
+        },
+        "interestTags": [
+          "app",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "fbxzb7x7fzbjn0dmf367ywxrm",
+        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+        "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+        "url": "https://x.com/bcherny/status/2115491259381072269",
+        "permalink": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
+        "source": "X：Boris Cherny (@bcherny)",
+        "publishedAt": "2026-10-28T17:09:54.000Z",
+        "discoveredAt": "2026-10-28T17:39:43.836Z",
+        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+        "category": "industry",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
+      {
+        "id": "xhwtx8zwvvmyou5emtd3dbzbn",
+        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
+        "title_en": "🔮 Anthropic’s S-1 in charts",
+        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+        "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
+        "source": "Azeem Azhar：Exponential View（RSS）",
+        "publishedAt": "2026-10-27T17:31:56.000Z",
+        "discoveredAt": "2026-10-27T17:57:39.625Z",
+        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
+        "category": "opinion",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
     "creative": [
+      {
+        "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
+        "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+        "title_en": "Getting started with Claude Code Mods",
+        "url": "https://x.com/addyosmani/status/2115326629488824753",
+        "permalink": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
+        "source": "X：Addy Osmani (@addyosmani)",
+        "publishedAt": "2026-10-28T06:15:43.000Z",
+        "discoveredAt": "2026-10-28T06:26:29.821Z",
+        "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb"
+        },
+        "interestTags": [
+          "creative",
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "19小时前"
+      },
       {
         "id": "t13kjmoalf8m0luymjchvrysk",
         "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
@@ -32,7 +128,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "6小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "l63udrrcunv0qy04ve4s71g02",
@@ -57,104 +153,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
-      },
-      {
-        "id": "tckw64et369c0brghxzwke9qe",
-        "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-        "title_en": "What’s new in Gamma | September–October 2026",
-        "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-        "permalink": "https://aihot.news/items/tckw64et369c0brghxzwke9qe",
-        "source": "Gamma Changelog",
-        "publishedAt": "2026-10-26T19:14:26.000Z",
-        "discoveredAt": "2026-10-26T19:23:36.332Z",
-        "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
-        "category": "ai-products",
-        "score": 63,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/tckw64et369c0brghxzwke9qe"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "writing",
-          "productivity"
-        ],
-        "techScore": -1,
         "formattedTime": "昨天"
-      }
-    ],
-    "app": [
-      {
-        "id": "xhwtx8zwvvmyou5emtd3dbzbn",
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "title_en": "🔮 Anthropic’s S-1 in charts",
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
-        "source": "Azeem Azhar：Exponential View（RSS）",
-        "publishedAt": "2026-10-27T17:31:56.000Z",
-        "discoveredAt": "2026-10-27T17:57:39.625Z",
-        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-        "category": "opinion",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "8小时前"
-      },
-      {
-        "id": "hfqjmlynoaqxrkyeg8qtsk9ap",
-        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-        "title_en": "Databricks & the Future of the Firm",
-        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-        "permalink": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap",
-        "source": "a16z：News（RSS）",
-        "publishedAt": "2026-10-27T14:02:28.000Z",
-        "discoveredAt": "2026-10-27T14:12:39.796Z",
-        "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
-        "category": "opinion",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "12小时前"
-      },
-      {
-        "id": "zbp5qzehshqnvgimabeu27cb1",
-        "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-        "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-        "permalink": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-10-27T07:00:00.000Z",
-        "discoveredAt": "2026-10-27T17:18:41.357Z",
-        "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
-        "category": "industry",
-        "score": 60,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "19小时前"
       }
     ],
     "productivity": [
@@ -179,7 +178,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "ryf4bbjezfib8jx05ng0889zf",
@@ -202,27 +201,35 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "4天前"
+        "formattedTime": "5天前"
       },
       {
-        "id": "rss_3117083261",
-        "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-        "title_en": null,
-        "url": "https://www.qbitai.com/2026/10/505539.html",
-        "source": "量子位",
-        "publishedAt": "2026-10-26T09:46:13+00:00",
-        "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+        "id": "axminfteoiwhm9xm2txq1u2ok",
+        "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
+        "title_en": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+        "permalink": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
+        "source": "Anthropic：Newsroom（网页）",
+        "publishedAt": "2026-10-26T16:00:00.000Z",
+        "discoveredAt": "2026-10-27T23:22:07.196Z",
+        "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
         "category": "industry",
+        "score": 67,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok"
+        },
         "interestTags": [
           "productivity"
         ],
-        "techScore": -1,
-        "formattedTime": "昨天"
+        "techScore": 1,
+        "formattedTime": "2天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_3708433796",
+        "id": "rss_1983851022",
         "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
         "title_en": null,
         "url": "https://sspai.com/post/117633",
@@ -234,41 +241,105 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "17小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_7194742",
-        "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-        "title_en": null,
-        "url": "https://sspai.com/post/117460",
-        "source": "少数派",
-        "publishedAt": "2026-10-25T23:36:36+00:00",
-        "summary": "<p>iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/117460\" target=\"_blank\">查看全文</a>",
-        "category": "tip",
+        "id": "neprl0bcwv1mo2pd4dk1lvpjr",
+        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+        "title_en": "The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "permalink": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "publishedAt": "2026-10-28T10:00:00.000Z",
+        "discoveredAt": "2026-10-28T18:38:21.007Z",
+        "summary": "OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。",
+        "category": "opinion",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr"
+        },
         "interestTags": [
           "writing"
         ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "rss_4008247977",
-        "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
-        "title_en": null,
-        "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
-        "source": "InfoQ中文",
-        "publishedAt": "Tue, 27 OcT00:00:00+00:00",
-        "summary": "<div align='right'><a href='https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-        "category": "tip",
-        "interestTags": [
-          "writing"
-        ],
-        "techScore": -1,
-        "formattedTime": "Tue, 27 Oc"
+        "techScore": 1,
+        "formattedTime": "16小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "l928e49lwysm0ymgmhyjrkc3z",
+      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
+      "title_en": "How to Extract Tables from a PDF with an LLM",
+      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
+      "permalink": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "discoveredAt": "2026-10-29T00:33:30.586Z",
+      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z"
+      },
+      "interestTags": [
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "fbxzb7x7fzbjn0dmf367ywxrm",
+      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+      "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
+      "url": "https://x.com/bcherny/status/2115491259381072269",
+      "permalink": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
+      "source": "X：Boris Cherny (@bcherny)",
+      "publishedAt": "2026-10-28T17:09:54.000Z",
+      "discoveredAt": "2026-10-28T17:39:43.836Z",
+      "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+      "category": "industry",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
+      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+      "title_en": "Getting started with Claude Code Mods",
+      "url": "https://x.com/addyosmani/status/2115326629488824753",
+      "permalink": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "publishedAt": "2026-10-28T06:15:43.000Z",
+      "discoveredAt": "2026-10-28T06:26:29.821Z",
+      "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tw5fe5mj6a2zyp6ica2ec3qpb"
+      },
+      "interestTags": [
+        "creative",
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "19小时前"
+    },
     {
       "id": "t13kjmoalf8m0luymjchvrysk",
       "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
@@ -291,7 +362,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "xhwtx8zwvvmyou5emtd3dbzbn",
@@ -314,7 +385,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "8小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "l63udrrcunv0qy04ve4s71g02",
@@ -336,78 +407,6 @@
       "interestTags": [
         "creative",
         "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
-    },
-    {
-      "id": "hfqjmlynoaqxrkyeg8qtsk9ap",
-      "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
-      "title_en": "Databricks & the Future of the Firm",
-      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
-      "permalink": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap",
-      "source": "a16z：News（RSS）",
-      "publishedAt": "2026-10-27T14:02:28.000Z",
-      "discoveredAt": "2026-10-27T14:12:39.796Z",
-      "summary": "a16z 的 Ben Horowitz 发文解析 Databricks 如何成为智能体时代的公司基础设施，Databricks 已达到 70 亿美元收入运行率、同比增长 80%，估值 1900 亿美元。",
-      "category": "opinion",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hfqjmlynoaqxrkyeg8qtsk9ap"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "12小时前"
-    },
-    {
-      "id": "zbp5qzehshqnvgimabeu27cb1",
-      "title": "OpenAI 扩大与 Oracle 合作，将 Oracle 应用与数据接入 ChatGPT",
-      "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "permalink": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-10-27T07:00:00.000Z",
-      "discoveredAt": "2026-10-27T17:18:41.357Z",
-      "summary": "OpenAI 宣布扩大与 Oracle 的合作，将 Oracle 应用和数据接入 ChatGPT，并用 OpenAI 模型驱动 Oracle 新产品。",
-      "category": "industry",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zbp5qzehshqnvgimabeu27cb1"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "19小时前"
-    },
-    {
-      "id": "tckw64et369c0brghxzwke9qe",
-      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-      "title_en": "What’s new in Gamma | September–October 2026",
-      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-      "permalink": "https://aihot.news/items/tckw64et369c0brghxzwke9qe",
-      "source": "Gamma Changelog",
-      "publishedAt": "2026-10-26T19:14:26.000Z",
-      "discoveredAt": "2026-10-26T19:23:36.332Z",
-      "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/tckw64et369c0brghxzwke9qe"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "writing",
         "productivity"
       ],
       "techScore": -1,
@@ -434,7 +433,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "ryf4bbjezfib8jx05ng0889zf",
@@ -457,10 +456,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "4天前"
+      "formattedTime": "5天前"
     },
     {
-      "id": "rss_3708433796",
+      "id": "rss_1983851022",
       "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
       "title_en": null,
       "url": "https://sspai.com/post/117633",
@@ -472,52 +471,53 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "17小时前"
-    },
-    {
-      "id": "rss_7194742",
-      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-      "title_en": null,
-      "url": "https://sspai.com/post/117460",
-      "source": "少数派",
-      "publishedAt": "2026-10-25T23:36:36+00:00",
-      "summary": "<p>iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/117460\" target=\"_blank\">查看全文</a>",
-      "category": "tip",
-      "interestTags": [
-        "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "2天前"
-    },
-    {
-      "id": "rss_3117083261",
-      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
-      "title_en": null,
-      "url": "https://www.qbitai.com/2026/10/505539.html",
-      "source": "量子位",
-      "publishedAt": "2026-10-26T09:46:13+00:00",
-      "summary": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
-      "category": "industry",
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
       "formattedTime": "昨天"
     },
     {
-      "id": "rss_4008247977",
-      "title": "Docker Cloud Sandboxes在笔记本和云端之间提供一致的沙箱抽象",
-      "title_en": null,
-      "url": "https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article",
-      "source": "InfoQ中文",
-      "publishedAt": "Tue, 27 OcT00:00:00+00:00",
-      "summary": "<div align='right'><a href='https://www.infoq.cn/article/gXKvW3g4KXhTTiIaJFkl?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-      "category": "tip",
+      "id": "neprl0bcwv1mo2pd4dk1lvpjr",
+      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
+      "title_en": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "permalink": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "discoveredAt": "2026-10-28T18:38:21.007Z",
+      "summary": "OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。",
+      "category": "opinion",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr"
+      },
       "interestTags": [
         "writing"
       ],
-      "techScore": -1,
-      "formattedTime": "Tue, 27 Oc"
+      "techScore": 1,
+      "formattedTime": "16小时前"
+    },
+    {
+      "id": "axminfteoiwhm9xm2txq1u2ok",
+      "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
+      "title_en": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "permalink": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "discoveredAt": "2026-10-27T23:22:07.196Z",
+      "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
+      "category": "industry",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": 1,
+      "formattedTime": "2天前"
     }
   ]
 }
