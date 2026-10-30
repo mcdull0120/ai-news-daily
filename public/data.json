@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-29T02:13:59.533864+00:00",
+  "generatedAt": "2026-10-30T02:27:28.356441+00:00",
   "totalSource": 160,
-  "totalFiltered": 146,
-  "totalSelected": 11,
+  "totalFiltered": 153,
+  "totalSelected": 12,
   "sources": {
     "aihot": 100,
     "rss": 60,
@@ -10,6 +10,52 @@
   },
   "grouped": {
     "app": [
+      {
+        "id": "gzcwy89nkjreenv5eu1qaysdi",
+        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+        "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
+        "permalink": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-10-30T00:00:00.000Z",
+        "discoveredAt": "2026-10-30T00:52:06.950Z",
+        "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "2小时前"
+      },
+      {
+        "id": "op2kjf327vilvhbxkjicxg5ec",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "permalink": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-10-29T20:08:31.000Z",
+        "discoveredAt": "2026-10-29T20:32:38.644Z",
+        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+        "category": "industry",
+        "score": 77,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "6小时前"
+      },
       {
         "id": "l928e49lwysm0ymgmhyjrkc3z",
         "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
@@ -32,56 +78,108 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "2小时前"
-      },
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
       {
-        "id": "fbxzb7x7fzbjn0dmf367ywxrm",
-        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-        "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-        "url": "https://x.com/bcherny/status/2115491259381072269",
-        "permalink": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
-        "source": "X：Boris Cherny (@bcherny)",
-        "publishedAt": "2026-10-28T17:09:54.000Z",
-        "discoveredAt": "2026-10-28T17:39:43.836Z",
-        "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-        "category": "industry",
-        "score": 67,
+        "id": "funx6p4g0gju509j6n0oyxmqu",
+        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "title_en": "Day 25/",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "permalink": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+        "source": "X：Tibo (@thsottiaux)",
+        "publishedAt": "2026-10-29T16:56:07.000Z",
+        "discoveredAt": "2026-10-29T17:05:16.299Z",
+        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+        "category": "ai-products",
+        "score": 64,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm"
+          "canonical": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu"
         },
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
         "formattedTime": "9小时前"
       },
       {
-        "id": "xhwtx8zwvvmyou5emtd3dbzbn",
-        "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-        "title_en": "🔮 Anthropic’s S-1 in charts",
-        "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-        "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
-        "source": "Azeem Azhar：Exponential View（RSS）",
-        "publishedAt": "2026-10-27T17:31:56.000Z",
-        "discoveredAt": "2026-10-27T17:57:39.625Z",
-        "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-        "category": "opinion",
-        "score": 77,
+        "id": "o1r046h1yurwlvv536eergn57",
+        "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+        "title_en": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
+        "url": "https://x.com/Khazix0918/status/2114579883527655853",
+        "permalink": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "publishedAt": "2026-10-26T04:48:25.000Z",
+        "discoveredAt": "2026-10-26T04:49:38.051Z",
+        "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+        "category": "tip",
+        "score": 67,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
+          "canonical": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
         },
         "interestTags": [
-          "app"
+          "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "3天前"
+      },
+      {
+        "id": "ryf4bbjezfib8jx05ng0889zf",
+        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+        "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
+        "url": "https://x.com/alexeheath/status/2113706585348600220",
+        "permalink": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
+        "source": "X：Alex Heath (@alexeheath)",
+        "publishedAt": "2026-10-23T18:58:15.000Z",
+        "discoveredAt": "2026-10-23T19:08:35.070Z",
+        "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
+        "category": "opinion",
+        "score": 76,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "6天前"
       }
     ],
     "creative": [
+      {
+        "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
+        "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+        "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "url": "https://x.com/GeminiApp/status/2115845164824711247",
+        "permalink": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h",
+        "source": "X：Gemini (@GeminiApp)",
+        "publishedAt": "2026-10-29T16:36:12.000Z",
+        "discoveredAt": "2026-10-29T17:06:26.615Z",
+        "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+        "category": "ai-products",
+        "score": 65,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h"
+        },
+        "interestTags": [
+          "creative",
+          "app",
+          "writing",
+          "education",
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "9小时前"
+      },
       {
         "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
         "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
@@ -104,7 +202,7 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "19小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "t13kjmoalf8m0luymjchvrysk",
@@ -128,108 +226,35 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "l63udrrcunv0qy04ve4s71g02",
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "title_en": "How We Built Our Design Agent",
-        "url": "https://www.langchain.com/blog/design-agent",
-        "permalink": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02",
-        "source": "LangChain：Blog（RSS）",
-        "publishedAt": "2026-10-27T16:45:00.000Z",
-        "discoveredAt": "2026-10-27T17:30:39.617Z",
-        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-        "category": "tip",
-        "score": 71,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02"
-        },
-        "interestTags": [
-          "creative",
-          "app",
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "o1r046h1yurwlvv536eergn57",
-        "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-        "title_en": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
-        "url": "https://x.com/Khazix0918/status/2114579883527655853",
-        "permalink": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "publishedAt": "2026-10-26T04:48:25.000Z",
-        "discoveredAt": "2026-10-26T04:49:38.051Z",
-        "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "2天前"
-      },
-      {
-        "id": "ryf4bbjezfib8jx05ng0889zf",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-        "url": "https://x.com/alexeheath/status/2113706585348600220",
-        "permalink": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-        "source": "X：Alex Heath (@alexeheath)",
-        "publishedAt": "2026-10-23T18:58:15.000Z",
-        "discoveredAt": "2026-10-23T19:08:35.070Z",
-        "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-        "category": "opinion",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "5天前"
-      },
-      {
-        "id": "axminfteoiwhm9xm2txq1u2ok",
-        "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-        "title_en": "Expanding our partnership with GSA to bring Claude to all levels of government",
-        "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-        "permalink": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
-        "source": "Anthropic：Newsroom（网页）",
-        "publishedAt": "2026-10-26T16:00:00.000Z",
-        "discoveredAt": "2026-10-27T23:22:07.196Z",
-        "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-        "category": "industry",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": 1,
         "formattedTime": "2天前"
       }
     ],
     "writing": [
       {
-        "id": "rss_1983851022",
+        "id": "m1cx9dfhpep0da323x3tk7vht",
+        "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+        "title_en": "You're probably overprompting Claude",
+        "url": "https://x.com/addyosmani/status/2115688494865465370",
+        "permalink": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+        "source": "X：Addy Osmani (@addyosmani)",
+        "publishedAt": "2026-10-29T06:13:39.000Z",
+        "discoveredAt": "2026-10-29T06:36:43.210Z",
+        "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+        "category": "tip",
+        "score": 73,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "20小时前"
+      },
+      {
+        "id": "rss_3914010058",
         "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
         "title_en": null,
         "url": "https://sspai.com/post/117633",
@@ -241,7 +266,7 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
+        "formattedTime": "2天前"
       },
       {
         "id": "neprl0bcwv1mo2pd4dk1lvpjr",
@@ -264,11 +289,130 @@
           "writing"
         ],
         "techScore": 1,
-        "formattedTime": "16小时前"
+        "formattedTime": "昨天"
       }
     ]
   },
   "items": [
+    {
+      "id": "gzcwy89nkjreenv5eu1qaysdi",
+      "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+      "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+      "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
+      "permalink": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "discoveredAt": "2026-10-30T00:52:06.950Z",
+      "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "2小时前"
+    },
+    {
+      "id": "op2kjf327vilvhbxkjicxg5ec",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+      "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "permalink": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
+      "discoveredAt": "2026-10-29T20:32:38.644Z",
+      "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "6小时前"
+    },
+    {
+      "id": "funx6p4g0gju509j6n0oyxmqu",
+      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+      "title_en": "Day 25/",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "permalink": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-10-29T16:56:07.000Z",
+      "discoveredAt": "2026-10-29T17:05:16.299Z",
+      "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu"
+      },
+      "interestTags": [
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+      "title_en": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "permalink": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-10-29T16:36:12.000Z",
+      "discoveredAt": "2026-10-29T17:06:26.615Z",
+      "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nfbnpnzdrebu4kbq6uqxhkc2h"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "writing",
+        "education",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "9小时前"
+    },
+    {
+      "id": "m1cx9dfhpep0da323x3tk7vht",
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "title_en": "You're probably overprompting Claude",
+      "url": "https://x.com/addyosmani/status/2115688494865465370",
+      "permalink": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "publishedAt": "2026-10-29T06:13:39.000Z",
+      "discoveredAt": "2026-10-29T06:36:43.210Z",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/m1cx9dfhpep0da323x3tk7vht"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "20小时前"
+    },
     {
       "id": "l928e49lwysm0ymgmhyjrkc3z",
       "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
@@ -291,30 +435,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
-    },
-    {
-      "id": "fbxzb7x7fzbjn0dmf367ywxrm",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-      "title_en": "Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...",
-      "url": "https://x.com/bcherny/status/2115491259381072269",
-      "permalink": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm",
-      "source": "X：Boris Cherny (@bcherny)",
-      "publishedAt": "2026-10-28T17:09:54.000Z",
-      "discoveredAt": "2026-10-28T17:39:43.836Z",
-      "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-      "category": "industry",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fbxzb7x7fzbjn0dmf367ywxrm"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
@@ -338,7 +459,7 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "19小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "t13kjmoalf8m0luymjchvrysk",
@@ -362,55 +483,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "xhwtx8zwvvmyou5emtd3dbzbn",
-      "title": "Azeem Azhar 图解 Anthropic S-1 财务数据",
-      "title_en": "🔮 Anthropic’s S-1 in charts",
-      "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
-      "permalink": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn",
-      "source": "Azeem Azhar：Exponential View（RSS）",
-      "publishedAt": "2026-10-27T17:31:56.000Z",
-      "discoveredAt": "2026-10-27T17:57:39.625Z",
-      "summary": "Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。",
-      "category": "opinion",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xhwtx8zwvvmyou5emtd3dbzbn"
-      },
-      "interestTags": [
-        "app"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "l63udrrcunv0qy04ve4s71g02",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-      "title_en": "How We Built Our Design Agent",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "permalink": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-10-27T16:45:00.000Z",
-      "discoveredAt": "2026-10-27T17:30:39.617Z",
-      "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l63udrrcunv0qy04ve4s71g02"
-      },
-      "interestTags": [
-        "creative",
-        "app",
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "o1r046h1yurwlvv536eergn57",
@@ -433,7 +506,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "3天前"
     },
     {
       "id": "ryf4bbjezfib8jx05ng0889zf",
@@ -456,10 +529,10 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "5天前"
+      "formattedTime": "6天前"
     },
     {
-      "id": "rss_1983851022",
+      "id": "rss_3914010058",
       "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
       "title_en": null,
       "url": "https://sspai.com/post/117633",
@@ -471,7 +544,7 @@
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
+      "formattedTime": "2天前"
     },
     {
       "id": "neprl0bcwv1mo2pd4dk1lvpjr",
@@ -494,30 +567,7 @@
         "writing"
       ],
       "techScore": 1,
-      "formattedTime": "16小时前"
-    },
-    {
-      "id": "axminfteoiwhm9xm2txq1u2ok",
-      "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-      "title_en": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "permalink": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "discoveredAt": "2026-10-27T23:22:07.196Z",
-      "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-      "category": "industry",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/axminfteoiwhm9xm2txq1u2ok"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": 1,
-      "formattedTime": "2天前"
+      "formattedTime": "昨天"
     }
   ]
 }
