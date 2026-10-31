@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-30T02:27:28.356441+00:00",
+  "generatedAt": "2026-10-31T02:07:38.007810+00:00",
   "totalSource": 160,
-  "totalFiltered": 153,
+  "totalFiltered": 149,
   "totalSelected": 12,
   "sources": {
     "aihot": 100,
@@ -9,150 +9,32 @@
     "bilibili": 0
   },
   "grouped": {
-    "app": [
+    "creative": [
       {
-        "id": "gzcwy89nkjreenv5eu1qaysdi",
-        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
-        "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
-        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
-        "permalink": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-10-30T00:00:00.000Z",
-        "discoveredAt": "2026-10-30T00:52:06.950Z",
-        "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
-        "category": "tip",
-        "score": 72,
+        "id": "akdeq33m7cpr8m7zsfgvfiz5c",
+        "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+        "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+        "permalink": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
+        "source": "Figma AI / Agent / Make",
+        "publishedAt": "2026-10-31T00:58:00.000Z",
+        "discoveredAt": "2026-10-31T00:04:48.353Z",
+        "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
+        "category": "ai-products",
+        "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi"
+          "canonical": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c"
         },
         "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "2小时前"
-      },
-      {
-        "id": "op2kjf327vilvhbxkjicxg5ec",
-        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-        "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "permalink": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
-        "source": "TechCrunch：AI（RSS）",
-        "publishedAt": "2026-10-29T20:08:31.000Z",
-        "discoveredAt": "2026-10-29T20:32:38.644Z",
-        "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
-        "category": "industry",
-        "score": 77,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec"
-        },
-        "interestTags": [
-          "app"
-        ],
-        "techScore": -1,
-        "formattedTime": "6小时前"
-      },
-      {
-        "id": "l928e49lwysm0ymgmhyjrkc3z",
-        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-        "title_en": "How to Extract Tables from a PDF with an LLM",
-        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
-        "permalink": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-        "source": "OpenRouter：Announcements（RSS）",
-        "publishedAt": "2026-10-29T00:00:00.000Z",
-        "discoveredAt": "2026-10-29T00:33:30.586Z",
-        "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-        "category": "tip",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z"
-        },
-        "interestTags": [
+          "creative",
           "app",
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      }
-    ],
-    "productivity": [
-      {
-        "id": "funx6p4g0gju509j6n0oyxmqu",
-        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
-        "title_en": "Day 25/",
-        "url": "https://x.com/thsottiaux/status/2115850175868727621",
-        "permalink": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
-        "source": "X：Tibo (@thsottiaux)",
-        "publishedAt": "2026-10-29T16:56:07.000Z",
-        "discoveredAt": "2026-10-29T17:05:16.299Z",
-        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
-        "category": "ai-products",
-        "score": 64,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "1小时前"
       },
-      {
-        "id": "o1r046h1yurwlvv536eergn57",
-        "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-        "title_en": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
-        "url": "https://x.com/Khazix0918/status/2114579883527655853",
-        "permalink": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "publishedAt": "2026-10-26T04:48:25.000Z",
-        "discoveredAt": "2026-10-26T04:49:38.051Z",
-        "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-        "category": "tip",
-        "score": 67,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "3天前"
-      },
-      {
-        "id": "ryf4bbjezfib8jx05ng0889zf",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-        "url": "https://x.com/alexeheath/status/2113706585348600220",
-        "permalink": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-        "source": "X：Alex Heath (@alexeheath)",
-        "publishedAt": "2026-10-23T18:58:15.000Z",
-        "discoveredAt": "2026-10-23T19:08:35.070Z",
-        "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-        "category": "opinion",
-        "score": 76,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf"
-        },
-        "interestTags": [
-          "productivity"
-        ],
-        "techScore": -1,
-        "formattedTime": "6天前"
-      }
-    ],
-    "creative": [
       {
         "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
         "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
@@ -178,7 +60,7 @@
           "productivity"
         ],
         "techScore": -1,
-        "formattedTime": "9小时前"
+        "formattedTime": "昨天"
       },
       {
         "id": "tw5fe5mj6a2zyp6ica2ec3qpb",
@@ -202,34 +84,33 @@
           "app"
         ],
         "techScore": -1,
-        "formattedTime": "昨天"
-      },
-      {
-        "id": "t13kjmoalf8m0luymjchvrysk",
-        "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-        "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-        "url": "https://x.com/GeminiApp/status/2115171788812669225",
-        "permalink": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
-        "source": "X：Gemini (@GeminiApp)",
-        "publishedAt": "2026-10-27T20:00:27.000Z",
-        "discoveredAt": "2026-10-27T20:27:43.395Z",
-        "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
-        "category": "ai-products",
-        "score": 68,
-        "selected": true,
-        "attribution": {
-          "source": "AIHOT",
-          "canonical": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk"
-        },
-        "interestTags": [
-          "creative",
-          "writing"
-        ],
-        "techScore": -1,
         "formattedTime": "2天前"
       }
     ],
     "writing": [
+      {
+        "id": "cms82puwtmpssdpbjmajoopr9",
+        "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+        "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
+        "url": "https://x.com/_philschmid/status/2116235686445502608",
+        "permalink": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+        "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+        "publishedAt": "2026-10-30T18:28:00.000Z",
+        "discoveredAt": "2026-10-30T18:40:36.388Z",
+        "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
+        "category": "industry",
+        "score": 69,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9"
+        },
+        "interestTags": [
+          "writing"
+        ],
+        "techScore": -1,
+        "formattedTime": "7小时前"
+      },
       {
         "id": "m1cx9dfhpep0da323x3tk7vht",
         "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
@@ -251,49 +132,235 @@
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "20小时前"
+        "formattedTime": "昨天"
       },
       {
-        "id": "rss_3914010058",
-        "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+        "id": "rss_1682458043",
+        "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
         "title_en": null,
-        "url": "https://sspai.com/post/117633",
+        "url": "https://sspai.com/prime/story/zhuanglesha-261030",
         "source": "少数派",
-        "publishedAt": "2026-10-27T09:02:00+00:00",
-        "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
+        "publishedAt": "2026-10-30T03:30:43+00:00",
+        "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-261030\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
         "category": "tip",
         "interestTags": [
           "writing"
         ],
         "techScore": -1,
-        "formattedTime": "2天前"
-      },
+        "formattedTime": "22小时前"
+      }
+    ],
+    "app": [
       {
-        "id": "neprl0bcwv1mo2pd4dk1lvpjr",
-        "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-        "title_en": "The future of the firm",
-        "url": "https://openai.com/index/the-future-of-the-firm",
-        "permalink": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "publishedAt": "2026-10-28T10:00:00.000Z",
-        "discoveredAt": "2026-10-28T18:38:21.007Z",
-        "summary": "OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。",
-        "category": "opinion",
+        "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+        "title_en": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...",
+        "url": "https://x.com/cursor_ai/status/2116074289053175808",
+        "permalink": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+        "source": "X：Cursor (@cursor_ai)",
+        "publishedAt": "2026-10-30T07:46:39.000Z",
+        "discoveredAt": "2026-10-30T08:03:17.265Z",
+        "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
+        "category": "industry",
         "score": 65,
         "selected": true,
         "attribution": {
           "source": "AIHOT",
-          "canonical": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr"
+          "canonical": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5"
         },
         "interestTags": [
+          "app",
           "writing"
         ],
-        "techScore": 1,
+        "techScore": -1,
+        "formattedTime": "18小时前"
+      },
+      {
+        "id": "gzcwy89nkjreenv5eu1qaysdi",
+        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+        "title_en": "Claude Opus vs Sonnet vs Haiku: Which Should You Use?",
+        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku/",
+        "permalink": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi",
+        "source": "OpenRouter：Announcements（RSS）",
+        "publishedAt": "2026-10-30T00:00:00.000Z",
+        "discoveredAt": "2026-10-30T00:52:06.950Z",
+        "summary": "OpenRouter 实测 Claude Opus 5.5、Sonnet 5.5 与 Haiku 5.5 三档模型，建议默认用 Sonnet 5.5，高频与子智能体任务用 Haiku 5.5，长且容错成本高的任务用 Opus 5.5。",
+        "category": "tip",
+        "score": 72,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/gzcwy89nkjreenv5eu1qaysdi"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
         "formattedTime": "昨天"
+      },
+      {
+        "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+        "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+        "title_en": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+        "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+        "permalink": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+        "source": "Cursor Blog",
+        "publishedAt": "2026-10-29T12:00:00.000Z",
+        "discoveredAt": "2026-10-30T07:49:16.758Z",
+        "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
+        "category": "industry",
+        "score": 81,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4"
+        },
+        "interestTags": [
+          "app"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "productivity": [
+      {
+        "id": "fxmexzrmo7pw52vc5j6ej17kl",
+        "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+        "title_en": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "permalink": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
+        "source": "TechCrunch：AI（RSS）",
+        "publishedAt": "2026-10-29T23:42:22.000Z",
+        "discoveredAt": "2026-10-30T00:36:05.686Z",
+        "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
+        "category": "industry",
+        "score": 78,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      },
+      {
+        "id": "funx6p4g0gju509j6n0oyxmqu",
+        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "title_en": "Day 25/",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "permalink": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu",
+        "source": "X：Tibo (@thsottiaux)",
+        "publishedAt": "2026-10-29T16:56:07.000Z",
+        "discoveredAt": "2026-10-29T17:05:16.299Z",
+        "summary": "Tibo 宣布即日起将 Pro 100/200/500 档位与 Business Premium 的所有用量上限翻倍。Pro 200 的上限不会下调，Work 与 Codex 用量保持不变；dots 的扩展用量上限继续提供，且仍与默认用量分开计算，后续还会通过更好的模型和效率改进提升实际可用量。",
+        "category": "ai-products",
+        "score": 64,
+        "selected": true,
+        "attribution": {
+          "source": "AIHOT",
+          "canonical": "https://aihot.news/items/funx6p4g0gju509j6n0oyxmqu"
+        },
+        "interestTags": [
+          "productivity"
+        ],
+        "techScore": -1,
+        "formattedTime": "昨天"
+      }
+    ],
+    "education": [
+      {
+        "id": "rss_2960444391",
+        "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+        "title_en": null,
+        "url": "https://www.qbitai.com/2026/10/506662.html",
+        "source": "量子位",
+        "publishedAt": "2026-10-30T03:48:04+00:00",
+        "summary": "让机器人成为彼此的“老师”",
+        "category": "industry",
+        "interestTags": [
+          "education"
+        ],
+        "techScore": 0,
+        "formattedTime": "22小时前"
       }
     ]
   },
   "items": [
+    {
+      "id": "akdeq33m7cpr8m7zsfgvfiz5c",
+      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+      "title_en": "The TL;DR on Figma Weave: Make your creative process repeatable",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "permalink": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c",
+      "source": "Figma AI / Agent / Make",
+      "publishedAt": "2026-10-31T00:58:00.000Z",
+      "discoveredAt": "2026-10-31T00:04:48.353Z",
+      "summary": "Figma 宣布 Figma Weave，一个面向持续产出需求的创意团队平台，并把 Weave 创作工作流与 Figma 画框连接起来。Weave 用连接的节点承载图像和视频的生成与编辑，支持分支探索、多模型对比、色彩校正、合成、裁剪、Painter 等编辑节点；工作流可打包成 Weave tool 让团队成员一键运行，社区工具发布已上线。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/akdeq33m7cpr8m7zsfgvfiz5c"
+      },
+      "interestTags": [
+        "creative",
+        "app",
+        "productivity"
+      ],
+      "techScore": -1,
+      "formattedTime": "1小时前"
+    },
+    {
+      "id": "cms82puwtmpssdpbjmajoopr9",
+      "title": "Project Suncatcher 在轨道卫星上运行 TPU，Gemma 模型首次在太空完成推理并回传回应",
+      "title_en": "This incredible. Gemma 4 became the first LLM to run in space?",
+      "url": "https://x.com/_philschmid/status/2116235686445502608",
+      "permalink": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9",
+      "source": "X：Philipp Schmid（Google DeepMind 开发者体验） (@_philschmid)",
+      "publishedAt": "2026-10-30T18:28:00.000Z",
+      "discoveredAt": "2026-10-30T18:40:36.388Z",
+      "summary": "Philipp Schmid 转引 Sundar Pichai 的消息：Google Project Suncatcher 在数周前发射原型卫星后，成功向轨道发送指令、启动 TPU、运行提示词，并在地面收到了首个完整回应（一首 haiku），作者称 Gemma 4 成为首个在太空运行的大语言模型。",
+      "category": "industry",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cms82puwtmpssdpbjmajoopr9"
+      },
+      "interestTags": [
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "7小时前"
+    },
+    {
+      "id": "iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+      "title_en": "We identified a security incident affecting a modified Claude Code VS Code extension accessed through our Cursor IDE extension marketplac...",
+      "url": "https://x.com/cursor_ai/status/2116074289053175808",
+      "permalink": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5",
+      "source": "X：Cursor (@cursor_ai)",
+      "publishedAt": "2026-10-30T07:46:39.000Z",
+      "discoveredAt": "2026-10-30T08:03:17.265Z",
+      "summary": "Cursor 发现通过其 IDE 扩展市场分发的 Claude Code VS Code 扩展被修改并植入恶意软件，最多影响 5000 用户，恶意版本并非 Anthropic 开发。Cursor 已于当日下午下线扩展市场，与相关提供方合作清除恶意软件并确认无进一步风险后重新上线，建议受影响用户参考博客说明排查，并升级到 Claude Code for VS Code 2.1.314。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/iu7xvjx1c2c5wqrpn0rwfxcb5"
+      },
+      "interestTags": [
+        "app",
+        "writing"
+      ],
+      "techScore": -1,
+      "formattedTime": "18小时前"
+    },
     {
       "id": "gzcwy89nkjreenv5eu1qaysdi",
       "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
@@ -315,30 +382,30 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "2小时前"
+      "formattedTime": "昨天"
     },
     {
-      "id": "op2kjf327vilvhbxkjicxg5ec",
-      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
-      "title_en": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "permalink": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec",
+      "id": "fxmexzrmo7pw52vc5j6ej17kl",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "title_en": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "permalink": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl",
       "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
-      "discoveredAt": "2026-10-29T20:32:38.644Z",
-      "summary": "Reddit 在 Q3 财报中宣布将转向以登录为主的体验，以保护数据免受 AI 抓取并提升广告变现。10 月搜索流量平均每周减少超 100 万次引荐，Q3 全球日活为 1.303 亿，其中美国日活降至 5070 万，同比降 2%。Q3 收入同比增长 53% 至 8.95 亿美元，净利润 2.83 亿美元；该转变将先在美国以外市场测试，暂无全球上线时间表。",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "discoveredAt": "2026-10-30T00:36:05.686Z",
+      "summary": "Amazon CEO Andy Jassy 在周四的季度财报电话会议上表示，AWS 未来五到十年内可以成为年营收万亿美元的业务，2026 年现金 capex 预计约 2200 亿美元，大部分投向 AWS，2027 年还将大幅增加。",
       "category": "industry",
-      "score": 77,
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/op2kjf327vilvhbxkjicxg5ec"
+        "canonical": "https://aihot.news/items/fxmexzrmo7pw52vc5j6ej17kl"
       },
       "interestTags": [
-        "app"
+        "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "6小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "funx6p4g0gju509j6n0oyxmqu",
@@ -361,7 +428,7 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
     },
     {
       "id": "nfbnpnzdrebu4kbq6uqxhkc2h",
@@ -388,7 +455,30 @@
         "productivity"
       ],
       "techScore": -1,
-      "formattedTime": "9小时前"
+      "formattedTime": "昨天"
+    },
+    {
+      "id": "pg7avew3q9ekdp3ydzhiuh9y4",
+      "title": "Cursor 通报 VS Code 扩展市场出现恶意 Anthropic.claude-code 2.1.313 版本",
+      "title_en": "Security notice — malicious version of Anthropic.claude-code (2.1.312 and 2.1.313) identified in the Cursor VS Code Extension Marketplace",
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "permalink": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "discoveredAt": "2026-10-30T07:49:16.758Z",
+      "summary": "Cursor 通报其 VS Code 扩展市场出现恶意修改的 Anthropic.claude-code 2.1.313 版本，非 Anthropic 官方开发，最多影响 4100 名用户。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pg7avew3q9ekdp3ydzhiuh9y4"
+      },
+      "interestTags": [
+        "app"
+      ],
+      "techScore": -1,
+      "formattedTime": "昨天"
     },
     {
       "id": "m1cx9dfhpep0da323x3tk7vht",
@@ -409,30 +499,6 @@
       },
       "interestTags": [
         "writing"
-      ],
-      "techScore": -1,
-      "formattedTime": "20小时前"
-    },
-    {
-      "id": "l928e49lwysm0ymgmhyjrkc3z",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "title_en": "How to Extract Tables from a PDF with an LLM",
-      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm/",
-      "permalink": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-10-29T00:00:00.000Z",
-      "discoveredAt": "2026-10-29T00:33:30.586Z",
-      "summary": "OpenRouter 发布教程，讲解如何把 PDF 以文件形式连同严格 JSON schema 发给能读文件的模型，让表格以带类型的行返回，括号亏损、千分位和脚注标记等清理都写进字段描述。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/l928e49lwysm0ymgmhyjrkc3z"
-      },
-      "interestTags": [
-        "app",
-        "productivity"
       ],
       "techScore": -1,
       "formattedTime": "昨天"
@@ -459,115 +525,37 @@
         "app"
       ],
       "techScore": -1,
-      "formattedTime": "昨天"
-    },
-    {
-      "id": "t13kjmoalf8m0luymjchvrysk",
-      "title": "Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成",
-      "title_en": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.",
-      "url": "https://x.com/GeminiApp/status/2115171788812669225",
-      "permalink": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-10-27T20:00:27.000Z",
-      "discoveredAt": "2026-10-27T20:27:43.395Z",
-      "summary": "Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/t13kjmoalf8m0luymjchvrysk"
-      },
-      "interestTags": [
-        "creative",
-        "writing"
-      ],
-      "techScore": -1,
       "formattedTime": "2天前"
     },
     {
-      "id": "o1r046h1yurwlvv536eergn57",
-      "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-      "title_en": "手把手教你用AI逆向现实世界，把一切改成自己喜欢的样子。",
-      "url": "https://x.com/Khazix0918/status/2114579883527655853",
-      "permalink": "https://aihot.news/items/o1r046h1yurwlvv536eergn57",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-26T04:48:25.000Z",
-      "discoveredAt": "2026-10-26T04:49:38.051Z",
-      "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/o1r046h1yurwlvv536eergn57"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "3天前"
-    },
-    {
-      "id": "ryf4bbjezfib8jx05ng0889zf",
-      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-      "title_en": "Sundar Pichai's explanation for Demis Hassabis stepping back from running DeepMind and Jeff Dean leaving Google:",
-      "url": "https://x.com/alexeheath/status/2113706585348600220",
-      "permalink": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf",
-      "source": "X：Alex Heath (@alexeheath)",
-      "publishedAt": "2026-10-23T18:58:15.000Z",
-      "discoveredAt": "2026-10-23T19:08:35.070Z",
-      "summary": "Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。",
-      "category": "opinion",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/ryf4bbjezfib8jx05ng0889zf"
-      },
-      "interestTags": [
-        "productivity"
-      ],
-      "techScore": -1,
-      "formattedTime": "6天前"
-    },
-    {
-      "id": "rss_3914010058",
-      "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+      "id": "rss_1682458043",
+      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
       "title_en": null,
-      "url": "https://sspai.com/post/117633",
+      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
       "source": "少数派",
-      "publishedAt": "2026-10-27T09:02:00+00:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
+      "publishedAt": "2026-10-30T03:30:43+00:00",
+      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-261030\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
       "category": "tip",
       "interestTags": [
         "writing"
       ],
       "techScore": -1,
-      "formattedTime": "2天前"
+      "formattedTime": "22小时前"
     },
     {
-      "id": "neprl0bcwv1mo2pd4dk1lvpjr",
-      "title": "OpenAI 员工撰文探讨 AI 进入企业组织架构的三种方式",
-      "title_en": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "permalink": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "discoveredAt": "2026-10-28T18:38:21.007Z",
-      "summary": "OpenAI 员工 Hemanth Asirvatham 和 Elliott Mokski 发表下一篇经济系列文章，探讨 AI 进入企业组织架构的三种情形：在每位员工之下形成 AI 劳动力 basement、作为同事穿插在现有组织图中、以及夹在人类之间充当协调层。",
-      "category": "opinion",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/neprl0bcwv1mo2pd4dk1lvpjr"
-      },
+      "id": "rss_2960444391",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
+      "title_en": null,
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "source": "量子位",
+      "publishedAt": "2026-10-30T03:48:04+00:00",
+      "summary": "让机器人成为彼此的“老师”",
+      "category": "industry",
       "interestTags": [
-        "writing"
+        "education"
       ],
-      "techScore": 1,
-      "formattedTime": "昨天"
+      "techScore": 0,
+      "formattedTime": "22小时前"
     }
   ]
 }
